@@ -15,11 +15,16 @@ Table of contents
 Overview of EAD to CPF
 -------------------------
 
+> there is too much detail in the overview. It should describe what the purpose, inputs, outputs, and requirements are, then move on to installation, description of components, and finally the step by step procedure.
+
 These scripts extract EAD-CPF (CPF) XML from EAD XML finding aids. A variety of local practices are supported in the incoming EAD. This process is intended to extract large numbers of files, and so it is designed as a bulk pipeline. Running small numbers of files is fairly easy, but the initial set up and configuration cannot be skipped.
 
 Required steps:
 
 0.1) symlink to session_lib.pm or copy into this dir
+
+> can this be packaged better? requiring installation of a perl module seems like setting a high barrier
+
 
 1) create file lists
 
@@ -38,6 +43,7 @@ if you ran a certain command. Our command examples use the > prompt, and the out
 is an example of the command "ls -ls lib". You should get the same (relative) output if you run these commands
 on your system.
 
+> where is the ls -ls lib example?
 
 Several parts of this data processing pipeline require Saxon extensions, and thus we use Robbie Hott's
 extended version of Saxon, and we create a symbolic link (shortcut) to Robbie Java function library:
@@ -46,6 +52,7 @@ extended version of Saxon, and we create a symbolic link (shortcut) to Robbie Ja
     > ls -ld lib
     lrwxrwxrwx 1 twl8n snac 51 May 23 12:03 lib -> /lv3/data/snac_saxon/SNAC-Saxon-Extensions/xslt/lib
 
+> where does one get the Saxon extensions? Why not just include them in the lib?
 
 Manual command overview
 -----------------------
@@ -53,7 +60,12 @@ Manual command overview
 You really must use the Perl scripts to run everything as a batch. But to illustrate what happens inside some
 of those scripts here are commands to run the anfra data (minus running geonames lookup).
 
+> what is anfra? Some might think it is a type of data...
+
+
 One tiny typo anywhere here and you'll get no results, or you'll overwrite existing results. 
+
+> if the procedure is so sensitive and prone to error, perhaps a more fault tolerant one is in order
 
     find /data/source/findingAids/anfra/ -iname "*.xml" | perl -pe '$_ =~ s/\/data\/source\/findingAids\//.\//g' > anfra_faList.txt
     ../snac_transform.sh dummy.xml createList.xsl abbreviation="anfra" >> ra.log 2>&1
