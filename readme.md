@@ -72,7 +72,7 @@ One tiny typo anywhere here and you'll get no results, or you'll overwrite exist
 > make clear that "/data/source/findingAids/anfra/" is the source of the ead files and may be at a different location on the users' system; it also seems intended to be run from createFileLists, but isnt stated or explained
 
     ../snac_transform.sh dummy.xml createList.xsl abbreviation="anfra" >> ra.log 2>&1
-> why snac_transform.sh a directory up in this example? dummy.xml does not exist; also fails due to lack of snacTransform.jar
+> why snac_transform.sh a directory up in this example? dummy.xml does not exist; also fails due to lack of snacTransform.jar; why name log "ra.log" how about createList.log?
 
 > ```
 thc4@permascowl:~/Github/snac_ead_to_cpf$ cat ra.log 
