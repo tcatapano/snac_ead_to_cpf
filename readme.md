@@ -23,7 +23,7 @@ Required steps:
 
 0.1) symlink to session_lib.pm or copy into this dir
 
-> can this be packaged better? requiring installation of a perl module seems like setting a high barrier
+> can this be packaged better? requiring installation of a perl module seems like setting a high barrier. Also what is this module and why is it necessary?
 
 
 1) create file lists
@@ -65,10 +65,20 @@ of those scripts here are commands to run the anfra data (minus running geonames
 
 One tiny typo anywhere here and you'll get no results, or you'll overwrite existing results. 
 
-> if the procedure is so sensitive and prone to error, perhaps a more fault tolerant one is in order
+> if the procedure is so sensitive and prone to error, perhaps a more fault tolerant one is in order. E.g., create a wrapper shell script?
 
     find /data/source/findingAids/anfra/ -iname "*.xml" | perl -pe '$_ =~ s/\/data\/source\/findingAids\//.\//g' > anfra_faList.txt
+    
+> make clear that "/data/source/findingAids/anfra/" is the source of the ead files and may be at a different location on the users' system; it also seems intended to be run from createFileLists, but isnt stated or explained
+
     ../snac_transform.sh dummy.xml createList.xsl abbreviation="anfra" >> ra.log 2>&1
+> why snac_transform.sh a directory up in this example? dummy.xml does not exist; also fails due to lack of snacTransform.jar
+
+> ```
+thc4@permascowl:~/Github/snac_ead_to_cpf$ cat ra.log 
+Unable to access jarfile /lv3/data/snac_saxon/snacTransform.jar
+```
+    
     snac_transform.sh createFileLists/anfra_list.xml fix_url.xsl 2> tmp.log > url_xml/anfra_url.xml &
     snac_transform.sh createFileLists/anfra_list.xml eadToCpf.xsl > logs/anfra.log 2>&1 &
     snac_transform.sh createFileLists/anfra_list.xml eadToCpf.xsl cpfOutLocation="anfra_cpf" inc_orig=0 > logs/anfra.log 2>&1 &
