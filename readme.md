@@ -112,6 +112,9 @@ by other scripts.
 
 The system expects to find the EAD finding aids in "/data/source". See variable eadPath in eadToCpf.xsl. The full path for the first EAD finding aid above is:
 
+
+> maybe it would be better to have the data /source directory be in the repo ? Show an example of how to change the variable in in stylesheet?
+
     /data/source/findingAids/aao/ccp_center_for_creative_photography/CCPAG4.xml
 
 
