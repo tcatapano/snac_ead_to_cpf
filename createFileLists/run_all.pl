@@ -12,7 +12,9 @@ exit();
 
 sub main
 {
-    my @dir_list = `find /data/source/findingAids/ -maxdepth 1 -mindepth 1 -type d`;
+    
+    my @dir_list = `find /home/thc4/working/aeon/db/ead/nnc-rb -maxdepth 1 -mindepth 1 -type d`;
+
     chomp(@dir_list);
     printf("Found %s directories\n", scalar(@dir_list));
     foreach my $dir (@dir_list)
