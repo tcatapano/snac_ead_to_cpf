@@ -25,7 +25,7 @@
 
     -->
     <xsl:variable name="cr" select="'&#x0A;'"/>
-    <xsl:param name="abbreviation" select="'nysa'"/>
+    <xsl:param name="abbreviation" select="'nnc-rb'"/>
     <xsl:variable name="groupBy" as="xs:integer">500</xsl:variable>
 
     <!-- 

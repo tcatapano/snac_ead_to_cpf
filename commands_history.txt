@@ -1,0 +1,8 @@
+ 2036  find /home/thc4/working/aeon/db/ead/nnc-rb/ -iname "*.xml" | perl -pe  '$_ =~ s/\/home\/thc4\/working\/aeon\/db\/ead\//.\//g' > nnc-rb_faList.txt &
+ 2037  less nnc-rb_faList.txt
+ 2038  ../snac_transform.sh dummy.xml createList.xsl abbreviation="nnc-rb" >> ra.log 2>&1 &
+ 2039  less ra.log 
+ 2040  less nnc-rb_list.xml 
+ 2041  cd ..
+ 2043  mkdir url_xml
+ 2045  ./snac_transform.sh createFileLists/nnc-rb_list.xml fix_url.xsl 2> tmp.log > url_xml/nnc-url.xml &
