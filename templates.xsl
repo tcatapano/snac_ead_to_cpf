@@ -35,9 +35,9 @@
         > ln -s /lv3/data/snac_saxon/SNAC-Saxon-Extensions/xslt/lib
         > ls -ld lib
         lrwxrwxrwx 1 twl8n snac 51 May 23 12:03 lib -> /lv3/data/snac_saxon/SNAC-Saxon-Extensions/xslt/lib
-    -->
+   
   <xsl:include href="lib/java-geo-lib.xsl"/>
-
+ -->
     <xsl:template name="CpfRoot">
         <xsl:param name="counts" tunnel="yes"/>
         <xsl:param name="otherData" tunnel="yes"/>
