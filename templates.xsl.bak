@@ -537,7 +537,7 @@
             In the past, utsu/ULA-mss258.xml had a leading space before the url. Add normalize-space() here in case
             any new data has a similar issue.
         -->
-        <xsl:variable name="short_name" select="replace(@fn, $source_dir, '')"/>
+        <xsl:variable name="short_name" select="replace(@fn, '/data/source/', '')"/>
         <xsl:variable name="url" select="$file2url/container/file[text() = $short_name]/@url"/>
         <xsl:attribute name="xlink:href">
             <xsl:value-of select="replace(normalize-space($url), ' ', '_')"/>

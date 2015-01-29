@@ -107,6 +107,8 @@
     <xsl:output indent="yes" method="xml"/>
     <xsl:key name="sourceCodeName" match="source" use="sourceCode"/>
 
+    <xsl:param name="source_dir" select="'/home/working/testbed/'"></xsl:param>
+
     <xsl:param name="cpfOutLocation">
         <!-- this variable is used in building the path to the were cpf records will be serialized as files. -->
         <xsl:text>cpf_extract/</xsl:text>
@@ -145,11 +147,11 @@
             This processes a single ead file.
         -->
         <xsl:variable name="eadPath">
-            <xsl:value-of select="concat('/data/source/', .)"/>
+            <xsl:value-of select="concat($source_dir, .)"/>
         </xsl:variable>
 
         <xsl:variable name="fn">
-            <xsl:value-of select="concat('/data/source/', .)"/>
+            <xsl:value-of select="concat($source_dir, .)"/>
         </xsl:variable>
 
         <xsl:message>

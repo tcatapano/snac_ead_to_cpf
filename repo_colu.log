@@ -1,0 +1,237 @@
+         date: Wed Jan 28 22:52:14 2015
+   repository: colu
+       source: source/findingAids
+      extract: extract
+       script: ./run_single_ead.pl
+          cwd: /home/thc4/working/Github/snac_ead_to_cpf
+sh: 1: svn: not found
+          svn:    check urls: disabled
+appending log: repo_colu.log
+
+# start in the EAD-to-CPF project directory
+cd ~/ead2cpf_pack
+# Create the extract directory
+# start time: Wed Jan 28 22:52:14 2015
+> mkdir extract/ead_colu
+mkdir: cannot create directory `extract/ead_colu': No such file or directory
+
+# Create a local symlink to the extract directory
+# start time: Wed Jan 28 22:52:14 2015
+> ln -s extract/ead_colu colu_cpf_final
+
+# Verify that the dest dir is empty, and didn't accidentally get any extra symlinks
+# start time: Wed Jan 28 22:52:14 2015
+> ls -l extract/ead_colu/*
+ls: cannot access extract/ead_colu/*: No such file or directory
+
+# Verify the local symlink
+# start time: Wed Jan 28 22:52:14 2015
+> ls -ld colu*
+lrwxrwxrwx 1 thc4 thc4 16 Jan 28 22:52 colu_cpf_final -> extract/ead_colu
+
+# start time: Wed Jan 28 22:52:14 2015
+> snac_transform.sh createFileLists/colu_list.xml eadToCpf.xsl cpfOutLocation=colu_cpf_final inc_orig=0 > logs/colu.log 2>&1
+
+# head of the log file, which can help document the process
+# start time: Wed Jan 28 22:52:14 2015
+> head -n 15 logs/colu.log
+sh: 1: snac_transform.sh: not found
+
+# tail of the log file (minus blank lines), which might help document the process
+# start time: Wed Jan 28 22:52:14 2015
+> grep -v '^$' logs/colu.log | tail
+sh: 1: snac_transform.sh: not found
+
+# start time: Wed Jan 28 22:52:14 2015
+> nice find colu_cpf_final/ -type f | nice parallel -X nice java -jar /usr/share/jing/bin/jing.jar /projects/socialarchive/published/shared/cpf.rng {} ::: > colu_jing.log 2> colu_jing_error.log
+find: `colu_cpf_final/': No such file or directory
+
+# Check that jing validates. File sizes should be zero.
+# start time: Wed Jan 28 22:52:14 2015
+> ls -l colu_jing*
+-rw-rw-r-- 1 thc4 thc4 42 Jan 28 22:52 colu_jing_error.log
+-rw-rw-r-- 1 thc4 thc4  0 Jan 28 22:52 colu_jing.log
+
+# Print the number of finding aid source files
+# start time: Wed Jan 28 22:52:14 2015
+> find source/findingAids/colu -type f | wc -l
+611
+
+# Count the .c01 files to make sure something isn't awry.
+# start time: Wed Jan 28 22:52:14 2015
+> find extract/ead_colu -name "*.c01.xml" | wc -l
+find: `extract/ead_colu': No such file or directory
+0
+
+# Number of CPF files with $_av should be zero. There have been bugs related to this.
+# start time: Wed Jan 28 22:52:14 2015
+> grep -rc "\$av_" colu_cpf_final/ | grep -v :0 | wc -l
+grep: colu_cpf_final/: No such file or directory
+0
+
+# Count the number of files processed in the CPF log
+# start time: Wed Jan 28 22:52:14 2015
+> grep fn: logs/colu.log| wc -l
+0
+
+# Count the error messages from the CPF extraction log
+# start time: Wed Jan 28 22:52:14 2015
+> grep -i error logs/colu.log| wc -l
+0
+
+# Show counts for each unique type of warning in the CPF log. Some are normal.
+# The rawExtract empty files will have no CPF output.
+# start time: Wed Jan 28 22:52:14 2015
+> grep -i warning logs/colu.log| sort | uniq -c
+
+# Count the number of CPF files created
+# start time: Wed Jan 28 22:52:14 2015
+> find colu_cpf_final/ -type f | wc -l
+find: `colu_cpf_final/': No such file or directory
+0
+
+# Count the number of (unique) names that are >200 chars long.
+# start time: Wed Jan 28 22:52:14 2015
+> perl -ne 'm/normalFinal: (.{200,}) type:/; if ($1) { printf("%4d: %s...\n", length($1), substr($1,0,70))}' logs/colu.log| sort -u | wc -l
+0
+
+# start time: Wed Jan 28 22:52:14 2015
+> nice ~/eac_project/find_empty_elements.pl dir=colu_cpf_final empty > colu_final_empty.log 2>&1
+
+# Check the list of unique empty elements and attributes. Some are expected.
+# start time: Wed Jan 28 22:52:14 2015
+> grep empty: colu_final_empty.log| sort | uniq -c
+
+# Count the empty urls from the finding aid url file for this repository
+# start time: Wed Jan 28 22:52:14 2015
+> grep 'url=""' url_xml/colu_url.xml| wc -l
+0
+
+# Count the non-empty urls
+# start time: Wed Jan 28 22:52:14 2015
+> grep -v 'url=""' url_xml/colu_url.xml| grep file | wc -l
+596
+
+# Count the number of file elements in the url file
+# start time: Wed Jan 28 22:52:14 2015
+> grep 'file' url_xml/colu_url.xml| wc -l
+596
+
+# Not checking for missing finding aids
+finish date: Wed Jan 28 22:52:14 2015
+
+         date: Wed Jan 28 22:53:55 2015
+   repository: colu
+       source: source/findingAids
+      extract: extract
+       script: ./run_single_ead.pl
+          cwd: /home/thc4/working/Github/snac_ead_to_cpf
+sh: 1: svn: not found
+          svn:    check urls: enabled
+appending log: repo_colu.log
+
+# start in the EAD-to-CPF project directory
+cd ~/ead2cpf_pack
+# CPF output symlink exists. Will delete and recreate: colu_cpf_final
+# start time: Wed Jan 28 22:53:55 2015
+> rm -f colu_cpf_final
+# Create the extract directory
+# start time: Wed Jan 28 22:53:55 2015
+> mkdir extract/ead_colu
+# Create a local symlink to the extract directory
+# start time: Wed Jan 28 22:53:55 2015
+> ln -s extract/ead_colu colu_cpf_final
+# Verify that the dest dir is empty, and didn't accidentally get any extra symlinks
+# start time: Wed Jan 28 22:53:55 2015
+> ls -l extract/ead_colu/*
+# Verify the local symlink
+# start time: Wed Jan 28 22:53:55 2015
+> ls -ld colu*
+# start time: Wed Jan 28 22:53:55 2015
+> snac_transform.sh createFileLists/colu_list.xml eadToCpf.xsl cpfOutLocation=colu_cpf_final inc_orig=0 > logs/colu.log 2>&1
+# head of the log file, which can help document the process
+# start time: Wed Jan 28 22:53:55 2015
+> head -n 15 logs/colu.log
+# tail of the log file (minus blank lines), which might help document the process
+# start time: Wed Jan 28 22:53:55 2015
+> grep -v '^$' logs/colu.log | tail
+# start time: Wed Jan 28 22:53:55 2015
+> nice find colu_cpf_final/ -type f | nice parallel -X nice java -jar /usr/share/jing/bin/jing.jar /projects/socialarchive/published/shared/cpf.rng {} ::: > colu_jing.log 2> colu_jing_error.log
+# Check that jing validates. File sizes should be zero.
+# start time: Wed Jan 28 22:53:55 2015
+> ls -l colu_jing*
+# Print the number of finding aid source files
+# start time: Wed Jan 28 22:53:55 2015
+> find source/findingAids/colu -type f | wc -l
+# Count the .c01 files to make sure something isn't awry.
+# start time: Wed Jan 28 22:53:55 2015
+> find extract/ead_colu -name "*.c01.xml" | wc -l
+# Number of CPF files with $_av should be zero. There have been bugs related to this.
+# start time: Wed Jan 28 22:53:55 2015
+> grep -rc "\$av_" colu_cpf_final/ | grep -v :0 | wc -l
+# Count the number of files processed in the CPF log
+# start time: Wed Jan 28 22:53:55 2015
+> grep fn: logs/colu.log| wc -l
+# Count the error messages from the CPF extraction log
+# start time: Wed Jan 28 22:53:55 2015
+> grep -i error logs/colu.log| wc -l
+# Show counts for each unique type of warning in the CPF log. Some are normal.
+# The rawExtract empty files will have no CPF output.
+# start time: Wed Jan 28 22:53:55 2015
+> grep -i warning logs/colu.log| sort | uniq -c
+# Count the number of CPF files created
+# start time: Wed Jan 28 22:53:55 2015
+> find colu_cpf_final/ -type f | wc -l
+# Count the number of (unique) names that are >200 chars long.
+# start time: Wed Jan 28 22:53:55 2015
+> perl -ne 'm/normalFinal: (.{200,}) type:/; if ($1) { printf("%4d: %s...\n", length($1), substr($1,0,70))}' logs/colu.log| sort -u | wc -l
+# start time: Wed Jan 28 22:53:55 2015
+> nice ~/eac_project/find_empty_elements.pl dir=colu_cpf_final empty > colu_final_empty.log 2>&1
+# Check the list of unique empty elements and attributes. Some are expected.
+# start time: Wed Jan 28 22:53:55 2015
+> grep empty: colu_final_empty.log| sort | uniq -c
+# Count the empty urls from the finding aid url file for this repository
+# start time: Wed Jan 28 22:53:55 2015
+> grep 'url=""' url_xml/colu_url.xml| wc -l
+# Count the non-empty urls
+# start time: Wed Jan 28 22:53:55 2015
+> grep -v 'url=""' url_xml/colu_url.xml| grep file | wc -l
+# Count the number of file elements in the url file
+# start time: Wed Jan 28 22:53:55 2015
+> grep 'file' url_xml/colu_url.xml| wc -l
+# start time: Wed Jan 28 22:53:55 2015
+> nice ~/eac_project/find_empty_elements.pl dir=colu_cpf_final url > colu_final_url.log 2>&1
+# Confirm that we have a missing test confirmed on the URL checking.
+# start time: Wed Jan 28 22:53:55 2015
+> head colu_final_url.log
+# Count the number of finding aids with missing/404 URLs
+# start time: Wed Jan 28 22:53:55 2015
+> grep missing: colu_final_url.log| wc -l
+finish date: Wed Jan 28 22:53:55 2015
+
+         date: Wed Jan 28 22:56:24 2015
+   repository: colu
+       source: source/findingAids
+      extract: extract
+       script: ./run_single_ead.pl
+          cwd: /home/thc4/working/Github/snac_ead_to_cpf
+sh: 1: svn: not found
+          svn:    check urls: enabled
+appending log: repo_colu.log
+
+# start in the EAD-to-CPF project directory
+cd ~/ead2cpf_pack
+Extract destination exists. Please delete or rename. Exiting.
+         date: Wed Jan 28 22:57:13 2015
+   repository: colu
+       source: source/findingAids
+      extract: extract
+       script: ./run_single_ead.pl
+          cwd: /home/thc4/working/Github/snac_ead_to_cpf
+sh: 1: svn: not found
+          svn:    check urls: enabled
+appending log: repo_colu.log
+
+# start in the EAD-to-CPF project directory
+cd ~/ead2cpf_pack
+Extract destination exists. Please delete or rename. Exiting.

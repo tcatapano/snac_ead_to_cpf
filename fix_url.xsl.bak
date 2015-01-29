@@ -42,8 +42,6 @@
          findingAids/afl-ufl/ufms272.xml
 
     -->
-    <xsl:param name="source_dir" select="'source/'"/>
-    
     <xsl:variable name="ufl" select="document('ufl_e2u.xml')"/>
 
     <!-- 
@@ -92,10 +90,10 @@
             <xsl:value-of select="."/>
         </xsl:variable>
         <xsl:variable name="eadPath">
-            <xsl:value-of select="concat($source_dir, .)"/>
+            <xsl:value-of select="concat('/data/source/', .)"/>
         </xsl:variable>
         <xsl:variable name="fn">
-            <xsl:value-of select="concat($source_dir, .)"/>
+            <xsl:value-of select="concat('/data/source/', .)"/>
         </xsl:variable>
         <xsl:message>
             <xsl:text>fn: </xsl:text>
