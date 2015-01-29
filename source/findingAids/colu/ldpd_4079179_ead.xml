@@ -1,0 +1,2873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079157_ead//EN" mainagencycode="nnc-rb">ldpd_4079157_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Nicolai Berezowski Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-01-20">2010-01-21</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+               </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Berezowsky, Nicolai, 1900-1953</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="William Evarts Benjamin Papers">Nicolai Berezowski Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1817/1940" type="inclusive">1817-1940</unitdate>
+         <physdesc><extent encodinganalog="300">14 linear ft (ca. 4,000 items in 26 boxes &amp; 4 volumes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079157</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Publisher, collector.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, documents, financial records, photographs, drawings, engravings, and printed materials of Benjamin. The personal and business papers concern Benjamin's publishing and bookselling company, his numerous benefactions, the disposal of his collections, and many printed catalogs for his company, 1883-1940. The two major correspondents are the business and financial records for the printing, binding, and extensive promotion through a network of agents of Stedman's A LIBRARY OF AMERICAN LITERATURE FROM THE EARLIEST SETTLEMENT TO THE PRESENT TIME; new ed. (New York, W.E. Benjamin, 1894). There are also letters, manuscripts, documents, and drawings of English literary figures collected by Benjamin. Among these are six letters of George Eliot, 47 letters and six manuscripts of John Ruskin, and three letters and one manuscript of Joseph Mallord Turner, with four letters relating to the artist. In addition there ten drawings and watercolors by Ruskin. </p>
+         <p>Also, 37 letters and one manuscript were removed from Benjamin's copy of Robert Langton's THE CHILDHOOD AND YOUTH OF CHARLES DICKENS and cataloged for this collection. One letter from Langton and 32 from others were addressed to Charles Roach Smith, a well-known antiquary of London. Several letters are concerned with numismatics (including two from John Stuart, Earl of Darnley, one each from William Henry Ashe, baron Heytesbury, and Chase Spence), but most of these letters relate to Charles Dickens: three letters from his son, Sir Henry Fielding Dickens, six from Henry Gardiner Adams, of the Mechanics' Institute of Chatham and Rochester, one each from Frederick William Fairholt, and Charles Stewart Montgomerie Lockhart, manuscript notes by John Gough Nichols, a letter from John Bowen Rowlands, one each from W.J. Taylor and Joseph Cotton Wigram, Bishop of Rochester, two from Humphrey Wood of the Mechanics' Institute, and of particular interest the two letters from Sampson Seaton, whose father was a friend of the father of the famous novelist. Many of these letters were written at the time of Dickens' death from people living in the area of Rochester and Chatham, his early childhood homes.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 5 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged Correspondence</item>
+               <item>Series II: Subject Files</item>
+               <item>Series III: Photographs</item>
+               <item>Series IV: Clippings</item>
+               <item>Series V: Scores</item>
+            </list>
+         </p>
+      </arrangement>
+            <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Mechanics' Institute of Chatham and Rochester.</corpname>
+         <persname encodinganalog="600">Phelps, Charles Henry.</persname>
+         <persname encodinganalog="600">Stedman, Edmund Clarence, 1833-1908.</persname>
+         <persname encodinganalog="600">Eliot, George, 1819-1880.</persname>
+         <persname encodinganalog="600">Ruskin, John, 1819-1900.</persname>
+         <persname encodinganalog="600">Turner, J. M. W. (Joseph Mallord William), 1775-1851.</persname>
+         <persname encodinganalog="600">Langton, Robert.</persname>
+         <persname encodinganalog="600">Smith, Charles Roach, 1807-1890.</persname>
+         <persname encodinganalog="600">Darnley, John Stuart,--Earl of.</persname>
+         <persname encodinganalog="600">Ashe, William Henry.</persname>
+         <persname encodinganalog="600">Heytesbury,--Baron.</persname>
+         <persname encodinganalog="600">Spence, Chase.</persname>
+         <persname encodinganalog="600">Dickens, Charles, 1812-1870.</persname>
+         <persname encodinganalog="600">Dickens, Henry Fielding,--Sir.</persname>
+         <persname encodinganalog="600">Adams, Henry Gardiner.</persname>
+         <persname encodinganalog="600">Fairholt, F. W. (Frederick William), 1814-1866.</persname>
+         <persname encodinganalog="600">Lockhart, C. S. M. (Charles Stewart Montgomerie)</persname>
+         <persname encodinganalog="600">Nichols, John Gough.</persname>
+         <persname encodinganalog="600">Rowlands, John Bowen.</persname>
+         <persname encodinganalog="600">Taylor, W. J.</persname>
+         <persname encodinganalog="600">Wigram, Joseph Cotton.</persname>
+         <persname encodinganalog="600">Wood, Humphrey.</persname>
+         <persname encodinganalog="600">Seaton, Sampson.</persname>
+         <subject encodinganalog="650">Publishers and publishing--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Booksellers and bookselling--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Authors, English.</subject>
+         <subject encodinganalog="650">Numismatics.</subject>
+         <genreform encodinganalog="655" source="ftamc">Paintings.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Engravings.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Drawings.</genreform>
+            </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located on-site.</p>
+      </accessrestrict>
+            <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1943 M-43 Cartwright, Beatrice Benjamin and Henry Rogers Benjamin Gift</p>
+      </acqinfo>
+      <altformavail encodinganalog="530">
+         <head>Alternate Formats</head>
+         <p>Royal Cortissoz and John Ruskin letters are on microfilm.</p>
+      </altformavail>
+      <custodhist encodinganalog="561">
+         <p>Gift of Beatrice Benjamin Cartwright &amp; Henry Rogers Benjamin, 1943.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known);Nicolai Berezowsky papers ; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 04/04/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Abravanel, Maurice , <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Adler, F. Charles , <unitdate>1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Allgemeiner Deutscher Musikverein , <unitdate>1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>American Academy in Rome , <unitdate>1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>American Composers' Alliance , <unitdate>1940-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>American Library in Paris , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>American Music Center , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>American Music Rental Library , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>American Musicological Society , <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Ames, Elizabeth , <unitdate>1932-1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Anderson, Dwight , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Anderson, Phyllis , <unitdate>1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Andrews, Beth (Mrs. C.) , <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Antognini, Cirillo , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Antik, Anna , <unitdate>1940-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Antonini, Alfredo , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Appel, Richard G.  <unitdate>1931-1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Associated Music Publishers , <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Autori, Franco , <unitdate>1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Aylesworth, Merlin Hall , <unitdate>1933</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Babin, Victor , <unitdate>194l</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Baden-Baden Generalmusikdirektor , <unitdate>1928</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bailly, Louis , <unitdate>1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bakaleinikoff, Vladimir , <unitdate>n.d. </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Balaban, Emanuel , <unitdate>1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Baltimore Symphony Orchestra , <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Barbirolli, John , <unitdate>1938-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Barrére, Georges , <unitdate>1932-1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Barzin, Leon , <unitdate>1932-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bastow, Robert D.  <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bean, Betty Randolph , <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bechert, Paul , <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Beebe, Carolyn , <unitdate>1926</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bender, Albert M.  <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Berezowsky, Alice (Mrs. Nicolai T.) , <unitdate>n.d. and 1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Berezowsky, Judith (Mrs. Nicolai) , <unitdate>1951-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Berezowsky, Nicolai  Letters to Berezowsky, 1932-1936; Fan mail to Berezowsky, 1936-1948, <unitdate>1922-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bierman, William , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Birchard, C. C. &amp; Co.   <unitdate>1935-1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bohemians, The , <unitdate>1927</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Boosey &amp; Hawkes , <unitdate>1948-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Borowski, Feli , <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Boston Symphony Orchestra , <unitdate>1931-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bottenhein, Salomon , <unitdate>1928</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Boulanger, Nadia , <unitdate>1930</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bowdoin College , <unitdate>1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Brunswick, Mark , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Burgin, Richard , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Burkat, Leonard , <unitdate>1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Byman, Barnett , <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Campione, A. Peter.  1949</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Canavan, M. J.  <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Carlton, Joseph R.  <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Carter, Elliott , <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Chapman, R. E.  <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Casella, Alfredo , <unitdate>1929</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Cheney, Gwen , <unitdate>1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Chester, J &amp; W., Ltd , <unitdate>1930</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Clarke, Stanley , <unitdate>1935-1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Cleghorn, James , <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Cleveland Public Library , <unitdate>1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Clifton, Chalmers , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Cohen, Charles , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Columbia University , <unitdate>1952-1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Committee on International Echange of Persons , <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Composers-Authors Guild , <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Cone, Edward T.  <unitdate>1941-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Coolidge, Elizabeth Sprague , <unitdate>1927-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Copeland, H. W.  <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Copland, Aaron , <unitdate>n.d. and 1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Corcoran, James B.  <unitdate>1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Cowell, Henry , <unitdate>1933-1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Creston, Paul , <unitdate>1936-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Cuvelier, Marcel , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Daniel, Ange , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>de Filippi, Amedeo , <unitdate>1935-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Deming, Howard F.  <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Denver Symphony Orchestra , <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Deutscher Tonsetzer , <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Deter, Graham C.  <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Diamond, David , <unitdate>1935-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Dickinson, Thomas H.  <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Dickson, John , <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Dobrowny, Issay , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Donovan, Richard , <unitdate>1937-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Downes, Olin , <unitdate>1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Duke, John , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Dukelsky, Vladimir , <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Edward MacDowell Association , <unitdate>1951-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Ehrich, Edward Price , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Elkan, Henri , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Engel, Carl , <unitdate>1926-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Engel, Lehman , <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Engles, George , <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Etler, Alvin , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Ewen, David , <unitdate>1934-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Ezerman., Sophia (Mrs. D. Hendrick) , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Farrar, F. N.  <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Fassett, James H.  <unitdate>1946-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Faulkner, Maurice , <unitdate>1939-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Fiedler, Arthur , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Finney, Ross Lee , <unitdate>1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Fiorillo, Dante , <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Fitelberg, Jerzy , <unitdate>1937-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Flesch, Carl , <unitdate>1929-1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Fletcher, Stanley , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Frankenstein, Alfred V.  <unitdate>1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Freiberg, Stella H. (Mrs. J. Walter) , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Friedenberg, Muriel , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Frosch, Aaron R.  <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gabrilowitsch, Ossip , <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Galay Music Corporation , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gannon, Theo F.  <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gantzoff, Feodor , <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gatti, Guido M.  <unitdate>1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gèraldy, Paul (?) , <unitdate>1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gerzenstein, Tatiana Smirnov de , <unitdate>1932 - 1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gladstone, T. E.  <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Glanville-Hicks, Peggy , <unitdate>n.d</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Goldman, Richard Franco , <unitdate>1943-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Goldmark, Rubin , <unitdate>1928-1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Goldofsky, Boris , <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Golschmann, Vladimir , <unitdate>1936-1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Goosens, Eugene , <unitdate>1930-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gordon, Jacques , <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gorton, Ronald W.  <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Grant, Margaret , <unitdate>1941-1052</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Grechaninov, Aleander , <unitdate>1927 - 1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Groner, Powell , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gruenberg, Louis , <unitdate>1927-1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Guggenheim Foundation , <unitdate>1950-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Haensel &amp; Jones , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hageman, Eleanore (Mrs. Richard) , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hageman, Richard , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hale, Philip , <unitdate>1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hallowell, Margaret B.  <unitdate>n.d. </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hanson, Howard , <unitdate>1939-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Harrington , <unitdate>1933?</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Harris, Roy , <unitdate>1937-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Harrison, Guy Fraser , <unitdate>1951-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Haymanns Verlag (Carl) , <unitdate>1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Heineman, Marianne F , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Heinsheimer, Hans , <unitdate>1938-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Heinsheimer, Norbert , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Herbert, Walter , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hershberger, John , <unitdate>1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Heyward, Dorothy , <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hijman, Julius , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hill, Edward Burlingame , <unitdate>1936-1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hoade, Martin , <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Holden, Sally Hay , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Holtzscheiter, Ina , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Howe, Mary , <unitdate>1937-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hudson, H. Lewis , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hughes, Langston , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hutcheson, Ernest , <unitdate>1929-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Independent Music Publishers , <unitdate>1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>International Society for Contemporary Music , <unitdate>1941-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Ippòlito, Carmèla , <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Iturbi, Josè <unitdate>1935 - 1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Jacobi, Frederick , <unitdate>1939-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>James, Philip , <unitdate>1940-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Johnson, Thor , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Jonckeere, M.  <unitdate>1931-1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Josten, Werner , <unitdate>1937-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Judd, George E.  <unitdate>1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Judson, Arthur , <unitdate>1929-1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Judson Concert Management , <unitdate>1934-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Juilliard Musical Foundation , <unitdate>1926</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Juilliard School of Music , <unitdate>1933-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Katz, Alfred , <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kay, Lisan , <unitdate>1937-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kaycoff, Evelyn , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Keats, Sheila , <unitdate>1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Keeney, Wendell , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kelberine, Alearder , <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kerr, Harrison , <unitdate>1940-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Keysser, Friedrich , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kindler, Hans , <unitdate>1936-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kirkpatrick, Ralph , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kohn, Walter T.  <unitdate>1928</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kolar, Victor , <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Konratev, Nicolai , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kostelanetz, André  <unitdate>1941-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Koussevitsky, Natalia , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Koussevitsky, Olga , <unitdate>1931-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Koussevitsky, Serge , <unitdate>1932-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Krasner, Louis , <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kroll, William , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kurenko, Maria , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kurzmann, Theo and Rita , <unitdate>1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Laberge, Bernard , <unitdate>1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Laidlaw, Robert , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Landers, Arthur , <unitdate>1950-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lange, Hans , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Langton, Stephen , <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>La Prade, Ernest , <unitdate>1936-1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Laurent, Mme. Henri , <unitdate>1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>League of Composers , <unitdate>1947-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lederman, Minna , <unitdate>1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lessard, John , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lewis, Barbara , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lichstein, Arthur , <unitdate>1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lipner, J.  <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lippincott Co.  <unitdate>1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lopatnikoff, Nikolai , <unitdate>1926-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Lopatnikoff, Nora , <unitdate>1933-1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Lopatnikoff, Sally , <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Louchheim, Catherine (Mrs. Walter Clinton) , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Louchheim, Walter Clinton , <unitdate>1940-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Lourié, Arthur , <unitdate>1941 - 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Lowman, Lawrence W.  <unitdate>1931-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>McDonald, Harl , <unitdate>1940-1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>MacDowell, Marion (Mrs. Edward) , <unitdate>1951-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>McFarland, Frances , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>McGavack, Thomas H.  <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>McGill, Wallace R.  <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Mahler, Fritz , <unitdate>1940-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Maier, Guy , <unitdate>1936-1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Maikoff, A.  <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Malcolm, Scott , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Marks Music Corp.  <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Marquis Publishing Co.  <unitdate>1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Mayer, Corinne , <unitdate>1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Mazzeo, Rosario , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Mengelberg, Willem , <unitdate>1928-1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Merovitch, Aleander , <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Meyer, Abe , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Mills, E. C.  <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Mills Music Publishers , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Miquelle, Renée , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Mitropolous, Dimitri , <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Moldavan, Nicolas , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Moore, Douglas , <unitdate>1940-1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Moore, Emily , <unitdate>1923-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Morris, Harold , <unitdate>1934-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Morris, Willavene , <unitdate>1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Moscow First Symphony Ensemble , <unitdate>1930</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Music Guild (Chicago) , <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Naginski, Charles , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>National Orchestral Association , 1942</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>National Society of Music and Art , <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Nelson, Boris Erich , <unitdate>1947-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Newman, Jacob Kieferman , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Newman, Mae Pollak , <unitdate>1929</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Newman, Melvin S.  <unitdate>1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Newman, Saunders &amp; Co., Inc.  <unitdate>1930</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>New York Public Library , <unitdate>1931-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Nissim, Rudolf , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Nordoff, Paul , <unitdate>1937-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>O'Connell, Charles , <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Onnou, Alphonse , <unitdate>1917</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Ormandy, Eugene , <unitdate>1932-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Ornstein, Leo , <unitdate>1933-1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Ortega, Ricardo , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Ouglitzky, Paul Pecheniha , <unitdate>1944-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Paitchadze, G.  <unitdate>1931-1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Pasternak, L.  <unitdate>1931-1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Pattison, Lee , <unitdate>1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Pavlova, Nina Grigorevna , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Persichetti, Vincent , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Pettis, Ashley , <unitdate>1935-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Peyser, Herbert F.  <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Philadelphia Free Library , <unitdate>1937-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Philips, Edna , <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Piatigorsky, Gregor , <unitdate>1927-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Polah, Andre , <unitdate>1936-1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Polk, Rudolph , <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Pollak, Robert , <unitdate>1928-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Pons, Lily , <unitdate>1947-1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Pravosudovich, Natalie , <unitdate>1931-1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Putterman, David J.  <unitdate>1945-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rabinovich, Yasha I.  <unitdate>1931-1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Raichle, Frank G , <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Random House , <unitdate>1951-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Reichamusikkamer , <unitdate>n.d</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Reiner, Fritz , <unitdate>1931-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Reis, Claire R.  <unitdate>1931-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rhodes, Willard , <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Riegger, Wallingford , <unitdate>1937-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Robbins Music Corp.  <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Robinson, Geroid T.  <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rodzinski., Artur , <unitdate>1932-1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rogers, Bernard , <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Root, L. Carroll , <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rosen, Lucie Bigelow , <unitdate>1936-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rosen, Walter T.  <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rosenbach, A. S. W.  <unitdate>1933</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rosenbaum, Samuel R.  <unitdate>1943-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Ross, S. L.  <unitdate>1922</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rubstein, Ariel , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Rukeyser, Muriel , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Sakouta, Vitaly , <unitdate>1935-1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Salvation Army , <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Salzedo, Carlos , <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>San Francisco Symphony Orchestra , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Schirmer Music Publishers , <unitdate>1927</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Schloss, Oscar , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Schneider, Mischa , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Schulhof, Andrew , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Schuman, William , <unitdate>1938-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Schuster, Joseph , <unitdate>1934-1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Schwartz, Paul E , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Schwieger, Hans , <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Scott, Joan (Mrs. Paul) , <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Seebachs, Julius F.  <unitdate>1935-1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Seligman, Selig , <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Sessions, Roger , <unitdate>1934-1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Sevitzky, Fabien , <unitdate>1951-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Shively, Barbara Frist , <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Shoobe, Lou , <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Siegmeister, Elie , <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Sigma Alpha Iota , <unitdate>1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Siloti, Aleander , <unitdate>1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Skavenna, Aleander , <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Slonimskii, Nicolas , <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Smallens, Aleander , <unitdate>1933</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Smith, Carleton Sprague , <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Smith, David Stanley , <unitdate>1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Smith, Moses , <unitdate>1940-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Speller, R. E. B.  <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Spivacke, Harold , <unitdate>1937-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Sproul, Harold , <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stadium Concerts, Inc.  <unitdate>1925</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stagma , <unitdate>1934-1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stassévitch, Paul , <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stegmann, G. F.  <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Steinberg, William , <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stern, I. A.  <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stewart, Reginald , <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stock, Frederick , <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stoessel, Albert , <unitdate>1932-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stokowski, Leopold , <unitdate>1931-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stokowski, Olga Samaroff , <unitdate>1929-1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stringfield, Lamar , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Stroock, Sol M.  <unitdate>1933</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Strunk, Oliver , <unitdate>1936-1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Szigeti, Joseph , <unitdate>1930</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Taylor, Davidson , <unitdate>1936-1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Taylor, Deems , <unitdate>1945-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Taylor, Harold , <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Tcherepnin, Aleander , <unitdate>1930-1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Thalheimer, Elsa , <unitdate>1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Thompson, Randall , <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Thompson, Stuart M.  <unitdate>1930-1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Thomson., Virgil , <unitdate>1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Tillotson, Frederick , <unitdate>1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Tipton, W. S.  <unitdate>1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Tolstoy, Aleandra , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Tyler, A. Ranger , <unitdate>1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Ullman, Richard H.  <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Van Loon, Hendrik Willem , <unitdate>1926</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Van Praag, Maurice , <unitdate>1926</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Vogel, A.  <unitdate>1946-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>VyruBoxv, A.  <unitdate>1929-1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Wallenstein, Alfred , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Walter, Bruno , <unitdate>1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Waters, Edward N.  <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Waman, Franz , <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Weaner, Mawell , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Weiss, Adolph , <unitdate>1941-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Weissberger, L. Arnold , <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Weissel, William L.  <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Werner, Jules , <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Wertz, Guy W.  <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Western Union Telegraph Company , <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Whittail, Mrs. Matthew John , <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Wicker, Frances G.  <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Willson, Meredith , <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Winston, Elizabeth , <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Woempner, Henry , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Wolfsohn Musical Bureau , <unitdate>1926</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Wood, Audrey , <unitdate>1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Worms, Alice , <unitdate>n.d. </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Worms, Margaret B.  <unitdate>1928</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Yaddo Music Festival , <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Zimmerman, Dr. Louis , <unitdate>1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Zirato, Bruno , <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">164</container>
+                        <unittitle>Letters in chronological order , <unitdate>1926-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series II: Subject Files</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">165</container>
+                        <unittitle>Address Lists; American Composers' Alliance; American Committee for Democracy and Intellectual Freedom; American Society of Composers Authors and Publishers; Biographical; Birchard and Company royalty statement , <unitdate>1923-1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">1-4</container>
+                        <unittitle>File 1);  
+CBS and NBC Broadcasts (1926-1944); 
+File 2); 
+Contracts (1923-1940); 
+Coolidge Spring Quartet itineraries; 
+File 3) ; 
+Koussevitzky; Kurenko, Maria; League of Composers (1940-1951); Notes; Pollak, Robert; Royalties, receipts; 
+File 4) ;  
+Societies; Sprague-Coleman; Steinway; WPA/Federal Music Project (1936-1938); Worms, Margaret; Yaddo Music Festival, <unitdate>1923-1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series III: Photographs</unittitle>
+                </did>
+                <scopecontent><p>Includes professional photographs of Berezowsky with violin and snapshots of the Coolidge Quartet trip to Honolulu in 1939.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">5-6</container>
+                        <unittitle>File 5) 21 photographs and 1 pencil drawing of Nicolai Berezowsky; 
+File 6) 68 photographs of Berezowsky, family and friends, <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series IV: Clippings</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">7-8</container>
+                        <unittitle>Clippings on performances and works, <unitdate>1937-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series V: Scores</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1215-1</container>
+                        <container type="Folder" label="Folder">1-10</container>
+                        <unittitle>Suite for flute, oboe, etc., op. 11;  Symphony #1, op. 12, 1931; Quartet, op. 16;  Sinfonietta, op. 17; Symphony #2, op. 18, 1934; Sextet #2, op. 20 ; Quintet #2, op. 22; String quartet with orchestra, op. 23</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1215-2</container>
+                        <container type="Folder" label="Folder">1-10</container>
+                        <unittitle>Brass Suite IV, op. 24, 1942; Sextet concerto for string orchestra, op. 26; Symphony #4, op. 27, 1943; Bowdoin Hymn, June 1944; Concerto, op. 31, 1944; Babar the Elephant, op. 40, 1953; Unidentified scores, <unitdate>1942-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+
+
+
+      
+      </dsc>
+   </archdesc>
+</ead>

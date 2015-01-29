@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078649_ead//EN" mainagencycode="nnc-rb">ldpd_4078649_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Morris Albert Copeland
+               Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-04-30">2012-04-30</date>
+            <item>Xml document instance created by Alison Rhonemus.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Copeland, Morris Albert, 1895-</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Morris Albert Copeland Papers">Morris Albert
+            Copeland Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1912/1984" type="inclusive">1912-1984.</unitdate>
+         <physdesc><extent encodinganalog="300">ca. 2,500 items (16 boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0280</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078649</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains correspondence, manuscripts, notes, documents,
+            photographs, and printed materials of Copeland</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Economist, professor of economics at Cornell University,
+            visiting professor at Columbia University during 1954. Copeland developed the idea of
+            Flow-of-funds Accounts, was an expert on the coordination of government statistics, and
+            was the author of numerous books and journal articles.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, notes, documents, photographs, and printed materials of
+            Copeland, including his recent correspondence and subject files, and the manuscripts and
+            printed copies of his articles and papers.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         
+         <p>This collection is arranged in five series: <list type="marked">
+               <item>Series I: Correspondence</item>
+               <item>Series II: Subject File</item>
+               <item>Series III: Manuscripts</item>
+               <item>Series IV: Printed Materials</item>
+               <item>Series V: 1984 Gift</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University--Faculty.</corpname>
+         <corpname encodinganalog="610">Cornell University--Faculty.</corpname>
+         <subject encodinganalog="650">Economics--Study and teaching.</subject>
+         <subject encodinganalog="650">Economics--Research.</subject>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Economists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 2-16. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1983 M-83 Copeland, Morris Albert Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Morris Albert Copeland Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Surveyed 05/08/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Correspondence</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Cataloged correspondence</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>John Maurice Clark</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Paul Howard Douglas</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Irving Fisher</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Milton Friedman</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>John Maynard Keynes</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Alexander Meiklejohn</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Frances Perkins</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Edwin Robert Anderson Seligman</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Frank William Taussig</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Uncataloged correspondence</unittitle>
+                    </did>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle><unitdate type="inclusive">1927-1977</unitdate> 
+                     </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle><unitdate type="inclusive">1977-1983</unitdate> 
+                     </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Subject File</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>American Economic Association, <unitdate>1957</unitdate> meeting</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Amherst College - Alumni, <unitdate type="inclusive">1967-1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Banco Central de Venezuela, <unitdate type="inclusive">1975-1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>The Brookings Institution (The Robert Brookings Graduate School), <unitdate type="inclusive">1924-1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>The Central Statistical Board (Washington), <unitdate type="inclusive">1933-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>"Concerning the origin of a money economy." by M.A.C., correspondence, 1971-7</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Copeland, Morris Albert</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Biographical, <unitdate type="inclusive">1968-1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Class record books, <unitdate type="inclusive">1966-1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Medicare, <unitdate type="inclusive">1971-1982</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Personal</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Photographs, appointments, certificates, <unitdate type="inclusive">1915-1966</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Cosmos Club (.Washington), <unitdate type="inclusive">1976-1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Davenport, Herbert Joseph, <unitdate type="inclusive">1929-1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Dooley, Peter C , <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Douglas, Paul Howard - A.E.A. paper, <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>East-West Conferences, <unitdate type="inclusive">1955-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Employment - job vacancies, <unitdate type="inclusive">1966-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Fabricant, Solomon - paper, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Fordham University contract, <unitdate type="inclusive">1965-1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Garvy, George - paper</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Gibbs, Julian Howard, <unitdate type="inclusive">1979-1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Guggenheim Fellowship, <unitdate>1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Heckscher Grant - Cornell University, <unitdate type="inclusive">1926-1927</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Income Conference (Conference on Research in Income and Wealth), <unitdate type="inclusive">1970-1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Lissner, Will, <unitdate type="inclusive">1971-1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>The Macmillan Company, <unitdate type="inclusive">1964-1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Meiklejohn, Alexander - Experimental College, <unitdate type="inclusive">1923-1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Memorials, <unitdate type="inclusive">1948-1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Millar, James Robert, <unitdate type="inclusive">1965-1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6-7</container>
+                        <unittitle><title render="italic">Moneyflows</title> (Flow of funds), <unitdate type="inclusive">1947-1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Oyis, D.S., <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Reed, Louis Schultz, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Salkever, Louis Romov, <unitdate type="inclusive">1967-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Schultz, Theodore William - paper, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>U.N. - Wholesale prices</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Uselding, Paul, 1979-1980	</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Vantage Press, Inc., <unitdate type="inclusive">1979-1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Venice Sands, Venice, Florida, <unitdate type="inclusive">1973-1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series III: Manuscripts</unittitle>
+                </did>
+                <c level="file">
+                    <did><unittitle>by M.A. Copeland</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>Ph.D. thesis:<title render="italic">Some phases of institutional value theory, </title>University of Chicago, <unitdate>1921</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">9-10</container>
+                            <unittitle>Articles &amp; papers, <unitdate type="inclusive">1917-1980</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <unittitle>Notes on various subjects</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series IV: Printed Materials</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">12-13</container>
+                        <unittitle>Articles &amp; pamphlets by M.A. Copeland, <unitdate type="inclusive">1919-1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Miscellaneous printed, <unitdate type="inclusive">1912-1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series V: <unitdate>1984</unitdate> Gift</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Amherst College &amp; the Copeland Colloquium at Amherst</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Awards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Copeland personal memorabilia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Correspondence, <unitdate type="inclusive">1912-1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Manuscripts</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Photographs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Printed materials</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Smythe, Dallas W.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Spanish vocabulary</unittitle>
+                    </did>
+                </c>
+            </c>  
+      </dsc>
+   </archdesc>
+</ead>

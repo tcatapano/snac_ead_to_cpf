@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078923_ead//EN" mainagencycode="nnc-rb">ldpd_4078923_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Herbert E. Huncke Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2010-03-11">March 11, 2010 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2010-03-11">March 11, 2010 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-03-11">2010-03-11</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Huncke, Herbert.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Herbert E. Huncke Papers">Herbert E. Huncke
+            Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1946/1971" type="inclusive">1946-1973.</unitdate>
+         <physdesc><extent encodinganalog="300">2 linear ft. (3 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0635</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078923</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is in English. </language>
+         </langmaterial>
+         <abstract>Writer, counter-culture figure and associate of Beat Generation writers such as
+            Allen Ginsberg, Peter Orlovksy, and Jack Kerouac. </abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Herbert Huncke was born in Greenfield, Massachusetts in 1915,
+            but moved as a young boy to Detroit and then Chicago where his father owned H.S. Huncke,
+            a company that distributed machine parts. </p>
+         <p><!-- BIOGHIST REQUIRED -->Though Huncke grew up in a comfortable middle class household
+            (a history he recounts in some of his pieces of writing, most notably "Love" and "Song
+            of the Self"), his family life was not particularly smooth and he often ran away from
+            home. When he was 17 he went to New York for the first time and, after a few years
+            drifting around the country working odd jobs, he relocated to the city more-or-less
+            permanently in 1939. </p>
+         <p><!-- BIOGHIST REQUIRED -->Over the next several years, Huncke, a junkie, drug-dealer,
+            hustler, and small time thief, became deeply involved in the street scene that had
+            emerged around Times Square. Though he left New York for a time during World War II to
+            serve as a merchant marine, his return to the city meant a return to drugs and the
+            demimonde of 42nd Street. It was as a bisexual Times Square hustler that Huncke drew
+            Alfred Kinsey's interest and in his capacity as petty thief and mover of stolen goods
+            that Huncke first became affiliated with the William S. Burroughs. In 1945 Burroughs
+            approached Huncke's roommate about selling a shotgun and a cache of morphine syrettes.
+            Though initially Huncke was deeply suspicious of the clean-cut Burroughs, the two became
+            close friends and Huncke was adopted into Burroughs's group of young friends, including
+            Jack Kerouac and Allen Ginsberg. </p>
+         <p><!-- BIOGHIST REQUIRED -->Huncke, with his history of prostitution, drug-use, and other
+            criminal activity became a sort of talisman of authenticity for the young writers. They
+            adopted his hipster street lingo--Huncke reputedly coined the term "beat," and his
+            drug-fueled lifestyle and used him as an urban hipster muse (Huncke appears as a
+            character in many of Kerouac's works, as well as Burroughs's <title render="italic">Junky,</title> and is mentioned in Ginsberg's "Howl."). </p>
+         <p><!-- BIOGHIST REQUIRED -->In the 1940s Huncke began to write more seriously himself,
+            composing many of the stories and journal entries that he would later publish. In 1947
+            he briefly moved to the Texas farm where Burroughs and his wife Jean Vollmer were
+            growing marijuana. He returned to New York where, in 1949, he was arrested for theft and
+            did a stint in Sing Sing. He was released in 1954, but ran afoul of the law again the
+            next year and landed back in prison, where he remained until 1959. </p>
+         <p><!-- BIOGHIST REQUIRED -->Upon his return to New York he reconnected with his beat
+            friends, living for a time in the same building as Allen Ginsberg and Peter Orlovsky
+            (with whom Huncke had a brief affair). He moved around New York's Lower East Side for
+            most of the rest of his life. He met Louis Cartwright in the 1970s and Cartwright became
+            Huncke's lover and primary caretaker for most of the remainder of Huncke's life. Huncke
+            enrolled in a methadone program in an attempt to kick his heroin habit, but the program
+            was never fully successful. </p>
+         <p><!-- BIOGHIST REQUIRED -->Though he began his writing in the 1940s, he found it very
+            difficult to write in prison, so did very little writing during the 1950s. He gained
+            some popularity giving live reading in New York City, but was not published until 1965
+            when Diane DiPrima's Poets Press published excerpts from his journal. His story
+            "Alvarez" was published in <title render="italic">Playboy</title> in 1968 and he had
+            small editions of his work released through small presses with <title render="italic">Elsie John and Joey Martinez</title> released in 1979 and <title render="italic">The
+               Evening Sun Turned Crimson</title> in 1980. His autobiography <title render="italic">Guilty of Everything: The Autobiography of Herbert Huncke</title> was released in
+            1990 and a posthumous collection of his work, <title render="italic">The Herbert Huncke
+               Reader</title> was published in 1997. </p>
+         <p><!-- BIOGHIST REQUIRED -->Herbert Huncke died in 1996 at the age of 81.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This collection contains correspondence, journal entries, manuscript writings, and
+            miscellaneous notes.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in II series: <list type="marked">
+               <item>I. Correspondence, 1946-1973</item>
+               <item>II. Writings, 1948-1971</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Ginsberg, Allen, 1926-1997.</persname>
+         <persname encodinganalog="600">Huncke, Herbert.</persname>
+         <persname encodinganalog="600">Orlovsky, Peter, 1933-</persname>
+         <geogname encodinganalog="651">Nepal--Description and travel.</geogname>
+         <subject encodinganalog="650">Beat generation.</subject>
+         <subject encodinganalog="650">Drugs.</subject>
+         <subject encodinganalog="650">Narcotics.</subject>
+         <subject encodinganalog="650">Drug abuse.</subject>
+         <subject encodinganalog="650">Prisoners.</subject>
+         <subject encodinganalog="650">Poets, American--20th century.</subject>
+         <genreform encodinganalog="655" source="aat">Diaries.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located on-site. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>M-59 Purchase</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Herbert Huncke papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 07/--/89 Christina Hilton Fenn </p>
+         <p>Papers processed 10/--/2009 Carrie Hintz </p>
+         <p>Finding aid written 11/--/2009 Carrie Hintz</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The responsibility to secure
+            copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence, <unitdate type="inclusive">1946-1973</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>Series I consists of correspondence sent to and written by Herbert Huncke. The
+                  correspondence, much composed while Huncke was in jail, documents his varied
+                  relationships with his friends and cohorts, as well as shedding some insight onto
+                  his writings.</p>
+               <p>The correspondence is arranged alphabetically by composer of the item, and
+                  chronologically within each writer.</p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle>Ginsberg, Allen to Herbert Huncke</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">1 to 15</container>
+                     <unittitle><unitdate type="inclusive">1966 September-December</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(15 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">16 to 19</container>
+                     <unittitle><unitdate type="inclusive">1968 March-June</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(4 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">21 to 22</container>
+                     <unittitle><unitdate>1974</unitdate> July- August</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">20</container>
+                  <unittitle>Ginsberg, A to Louis Cartwright, <unitdate>1970 February
+                     10</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Huncke, Herbert</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">21</container>
+                     <unittitle>to Peter Orlovsky, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">22</container>
+                     <unittitle>to Louis Cartwright, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>to Allen Ginsberg</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">23 to 27</container>
+                        <unittitle>Circa <unitdate>1946</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(5 Folders)</extent>
+                        </physdesc>
+                     </did>
+                     <scopecontent><p>(with carbons)</p>
+                     </scopecontent>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">28</container>
+                        <unittitle><unitdate>1947 March 26</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">29</container>
+                        <unittitle>Circa <unitdate>1959</unitdate>
+                                </unittitle>
+                     </did>
+                     <scopecontent><p>(with handwritten manuscript)</p>
+                     </scopecontent>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>to Peter Orlovsky</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">30 to 31</container>
+                        <unittitle>Circa <unitdate>1960</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">32</container>
+                     <unittitle>to Allen Gisnberg and Peter Orlovsky, <unitdate>1960 August
+                           15</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">33</container>
+                     <unittitle>to Eila Kokkinen, <unitdate>1961</unitdate> June-
+                        December</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">34</container>
+                     <unittitle>to Elise Cowen, <unitdate>1960 June 7</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">35</container>
+                     <unittitle>to Howard Schuklman, <unitdate>1961 June 16</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">36</container>
+                     <unittitle>to Howard Schulman and Elizabeth Sutherland, <unitdate>1961 June
+                           24</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">37 to 40</container>
+                     <unittitle>to Janine Pommey, <unitdate>1962</unitdate> June- August</unittitle>
+                     <physdesc><extent>(4 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">41</container>
+                     <unittitle>To Eila Kokkinen, <unitdate>1962</unitdate> March- July</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">42 to 43</container>
+                     <unittitle>To Eila Kokkinen, <unitdate type="inclusive">1964
+                           February-June</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">44 to 47</container>
+                     <unittitle>To Noah Goldenberg, <unitdate>1964 February</unitdate> –
+                        April</unittitle>
+                     <physdesc><extent>(4 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">48</container>
+                     <unittitle>To Eila Kokkinen, <unitdate>1966 October 13</unitdate> and December
+                        2</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">49</container>
+                     <unittitle>To Gary, <unitdate>1968 August 3</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">50</container>
+                     <unittitle>To The Ministry of Foreign Affairs [of Nepal], <unitdate>1971 April
+                           4</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">51</container>
+                     <unittitle>To Linda, <unitdate>1971 April 5</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">52</container>
+                     <unittitle>To Eila Kokkinen, <unitdate>1971 May 30</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">53 to 55</container>
+                     <unittitle>To Louis Cartwright, <unitdate type="inclusive">1973
+                           April-July</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">56</container>
+                  <unittitle>Orlovsky, Peter to Herbert Huncke, [1960]</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">57 to 64</container>
+                  <unittitle>Pommy, Janine to Herbert Huncke, <unitdate>1970 March 24</unitdate> and
+                        <unitdate>Undated</unitdate> (8 letters)</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Writings, <unitdate type="inclusive">1948-1971</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>Series II is comprised of Herbert Huncke's writings, including manuscripts,
+                  notebooks, and journals. Many of the notebooks include both fragments of published
+                  and unpublished manuscripts as well as general notes and daily observations. </p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle><unitdate>1948</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>"Philosophizing"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>"Song of the Self"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>"A Story- New York"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle> [Thoughts About Writing]</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle> [The Urge to Write]</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">6 to 7</container>
+                     <unittitle>Untitled Manuscripts</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+                  <scopecontent><p>(includes "Alone," "Suicide," and "A Fix")</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1949</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>"Dear Dad Letter"</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1959</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Criticism of a Poem (II)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>"Cuba"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>"Dancing in Prison"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>"Good Talker"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>"Love"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>"A New Orleans Scene"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>"Poem"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>"Spencer’s Pad"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>"Miscellaneous and Untitled Manuscripts"</unittitle>
+                  </did>
+                  <scopecontent><p>(including "Arrested" and "Youth")</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate type="inclusive">1959-1960</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">18</container>
+                     <unittitle>Notebook and Diary Excerpts</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1960</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>"Ed Leary"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">20</container>
+                     <unittitle>"A Sea Voyage-- and Junk"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">21</container>
+                     <unittitle>"Strangers"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">22</container>
+                     <unittitle>Untitled Manuscripts</unittitle>
+                  </did>
+                  <scopecontent><p>(small notebook)</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1961</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">23 to 25</container>
+                     <unittitle>Huncke's Journal</unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">26</container>
+                     <unittitle>Notebook</unittitle>
+                  </did>
+                  <scopecontent><p>(includes draft of "The Magician")</p>
+                  </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">27</container>
+                     <unittitle>Notes en Route to Lexington, <unitdate>July 10,
+                        1961</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">28</container>
+                     <unittitle>Untitled Manuscript</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1962</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">29</container>
+                     <unittitle>"The Party"</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1963</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">30 to 32</container>
+                     <unittitle>Notebooks</unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1963</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">1 to 2</container>
+                     <unittitle>Notebooks</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+                  <scopecontent><p>(contains drafts of "Beware of Fallen Angels")</p>
+                  </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">3 to 5</container>
+                     <unittitle>Notebooks, <unitdate type="inclusive">1963-1966</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1964</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">6 to 12</container>
+                     <unittitle>Notebooks</unittitle>
+                     <physdesc><extent>(7 Folders)</extent>
+                     </physdesc>
+                  </did>
+                  <scopecontent><p>(include drafts of "In the Park" and "Russian Blackie")</p>
+                  </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>"Ponderosa Pines</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>"Untitled Manuscript"</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1965</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">1 to 3</container>
+                     <unittitle>Notebooks</unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+                  <scopecontent><p>(includes draft of "Cat and his Girl")</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>1971</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Notebooks</unittitle>
+                  </did>
+                  <scopecontent><p>(these document Huncke's trip to Nepal)</p>
+                  </scopecontent>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>Undated</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>"Alvarez"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>"A Beginning of a Portrait"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>"Detroit Redhead"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>"Faery Tale"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>"Funny Notes"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>"Johnie I"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>"Johnie II"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Journal-- typescript excerpts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">13 to 16</container>
+                     <unittitle>Notebooks</unittitle>
+                     <physdesc><extent>(4 Folders)</extent>
+                     </physdesc>
+                  </did>
+                  <scopecontent><p>(includes drafts of "New York Notes")</p>
+                  </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>Notes</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Folder" label="Folder">18 to 21</container>
+                     <unittitle>Miscellaneous and Untitled Manuscripts</unittitle>
+                     <physdesc><extent>(5 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

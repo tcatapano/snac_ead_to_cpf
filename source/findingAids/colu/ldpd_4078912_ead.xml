@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078912_ead//EN" mainagencycode="nnc-rb">ldpd_4078912_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Alfred Edward Housman Correspondence</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-07-07">July 7, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-07-07">July 7, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-07-07">2009-07-07</date>
+            <item>File created.</item>
+            </change>
+         <change><date normal="2012-01-23">2012-01-23</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Housman, A. E. (Alfred Edward), 1859-1936,</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Alfred Edward Housman Correspondence">Alfred Edward Housman Correspondence</unittitle>
+         <unitdate encodinganalog="245$f" normal="1922/1958" type="inclusive">1922-1958.</unitdate>
+         <physdesc><extent encodinganalog="300">157 items (2 boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078912</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->English poet, classical Latin scholar. A.E. Housman's brother was Laurence Housman (1865-1959), a poet and playwright.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence by and relating to Housman and to his brother, Laurence Housman. Nearly all of the letters were written to Cyril Clemens, who was working on a proposed biography of A.E. Housman. The collection includes six letters from A.E. Housman and an important group of 94 letters from Laurence Housman, which contain comments on his brother's life and activities, religious beliefs, reading, and manuscripts. There are 45 letters from relatives and persons closely related to A.E. Housman, among them his sisters, Clemence Housman and Katharine E. Symons, his publisher, Grant Richards, and his associates at Oxford University, James T. Nance and Alfred W. Pollard. Also included in the collection are twelve manuscripts, the most noteworthy of which are two signed poems by Laurence Housman and a 4-line verse in Lord Dunsany's holograph entitled "A. E. Housman."</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">University of Oxford.</corpname>
+         <persname encodinganalog="600">Housman, Laurence, 1865-1959.</persname>
+         <persname encodinganalog="600">Clemens, Cyril, 1902-</persname>
+         <persname encodinganalog="600">Housman, Clemence.</persname>
+         <persname encodinganalog="600">Symons, Katharine E.</persname>
+         <persname encodinganalog="600">Richards, Grant, 1911-1963.</persname>
+         <persname encodinganalog="600">Nance, James T.</persname>
+         <persname encodinganalog="600">Pollard, Alfred W. (Alfred William), 1859-1944.</persname>
+         <persname encodinganalog="600">Dunsany, Edward John Moreton Drax Plunkett, Baron, 1878-1957.</persname>
+         <geogname encodinganalog="651">England--Religious life and customs.</geogname>
+         <subject encodinganalog="650">Families--England.</subject>
+         <subject encodinganalog="650">Dramatists, English.</subject>
+         <subject encodinganalog="650">Literature publishing--England.</subject>
+         <subject encodinganalog="650">English literature--20th century.</subject>
+         <subject encodinganalog="650">Publishers and publishing--England.</subject>
+         <subject encodinganalog="650">Scholarly publishing.</subject>
+         <genreform encodinganalog="655" source="ftamc">Poems.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Poets, English.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Poets, English.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Classicists.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1963 M-63 Melville, Ward Gift in memory of Frederick Coykendall</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>[Collection Name]. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 07/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Correspondence</unittitle>
+                </did>
+                <c level="subseries">
+                    <did><unittitle>Subseries I.1: A. Letters of A. E. Housman (6)</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>6 letters from A.E.H. to Cyril. Clemens, 1927-34</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="subseries">
+                    <did><unittitle>Subseries I.2: B. Letters of Laurence Housman (94)</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>94 letters from L.H , mostly to Cyril Clemens, but including a few to others, 1922-58</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="subseries">
+                    <did><unittitle>Subseries I.3: C. Other letters (45)</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>3 letters, E.H. Blakeney to Cyril Clemens, <unitdate>1937</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>1 letter, L.P. Brown to Cyril Clemens, <unitdate>1937</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>1 letter, R. Gleadowe to [Cyril Clemens?), <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>1 letter,W.H. Hamilton to Cyril. Clemens, <unitdate>1936</unitdate> (postcard)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>1 letter, E.S.P. Haynes to Cyril Clemens, <unitdate>1937</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>1 letter, Robert Hillyer to Cyril Clemens, <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>1 letter, E. O. Hoppe to Cyril Clemens, <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>2 letters, Clemence Housman (sister of A. E. H.) to Cyril Clemens, <unitdate>1936</unitdate> and <unitdate>1943</unitdate> (letter is a postcard)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>1 letter, Anita Loos to Cyril. Clemens, no date [December 7, 19361)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>1 letter, Leonard Mackall. to Cyril Clemens, <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>6 letters, J. T. Nance to Cyril Clemens, 1936-37</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>1 letter, Henry W. Nevinson to Cyril Clemens, <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>1 letter, A. W. Pollard to Cyril Clemens, <unitdate>1937</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>1 letter, A. L. (?) Poole to Cyril Clemens, <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>7 letters, Grant Richards to A. E. Housman, <unitdate type="inclusive">1898-1904</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>2 letters, Grant Richards to Cyril Clemens, 1936+1942</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>1 letter, J. C. Squire to Cyril. Clemens, <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>9 letters, Katharine E. Symons (Sister of A. E. HI.) to Cyril Clemens, 1936-42 (including 3 postcards)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>3 letters, Percy Withers to Cyril. Clemens, 1936-37</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Other Materials</unittitle>
+                </did>
+                <c level="subseries">
+                    <did><unittitle>Subseries II.1: D. Manuscripts (12)</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Clemens, Cyril.."Death"' (chapter of projected biogr. of A. E. H.) With corrections and notes by Katharine E. Symons--see correspondence)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Clemens, Cyril. "Oxford" (chapter of projected biography of A. E. H.) With corrections by J. T. Nance and attached notes by Katharine E. Symons-see correspondence).</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Dunsany, Lord. "A. E. Housman". 4 line verse.. author's holograph.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Housman, A. E. [List of numbers (pages?, copies?)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Housman, Laurence. Galley proof, with author's ms. Corrections, signed</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Housman, Laurence. List of books</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Housman, Laurence. Tear-sheet of auction catalog, with L.D's notes, Signed</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Housman, Laurence."The Mote and Beam" 12.line poem,. Signed</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Housman, Laurence.  "The Shropshire Lad". Year and After, signed</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Housman, Laurence.  "There is no Death" 12 line poem, signed</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Rothenstein, Sir William. [excerpt] From Men and Memories. Handwriting of Percy Withers?</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Whicher" George Meason. "An Interview with Housman". Signed by author</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="subseries">
+                    <did><unittitle>Subseries II.2: E. Miscellaneous (4 primary pieces)</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Photograph" A. E. Housman in Laurence Housman’s rose garden</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Photograph, A. E. Housman’s grave and plaque</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Printed piece: Percy Withers" "A.. E. Housman"" July" <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Printed piece: Katharine Symons ''More Memories of A.E.H.", <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>General: 4 items, mainly sent to Cyril Clemens by Laurence Housman</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Clippings and Folders, various</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c> 
+   
+      
+   
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079146_ead//EN" mainagencycode="nnc-rb">ldpd_4079146_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Park Benjamin Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-07-07">July 7, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-07-07">July 7, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-07-07">2009-07-07</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2012-10-09">2012-10-09</date>
+            <item>XML document instance created by Catherine C. Ricciardi</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Benjamin, Park, 1809-1864.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Park Benjamin Papers">Park Benjamin
+            Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1645/1925" type="inclusive">1645-1925.</unitdate>
+         <physdesc><extent encodinganalog="300">9.24 linear ft (in 22 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079146</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts of poems, and manuscripts of lectures by Benjamin. The
+            correspondence consists of original letters of Benjamin, typescript and photostatic
+            copies of Benjamin letters in other libraries, and letters to Benjamin from some of his
+            literary contemporaries including Paul Hamilton Hayne, Willis Gaylord Clark, John
+            Lothrop Motley, and Fitz-Greene Halleck. Many of the letters relate to Park Benjamin's
+            lecture tours. There are other family letters and many documents relating to the
+            Benjamin family,and two letterbooks of John Lothrop Motley. Also, a large amount of
+            genealogical material of the Benjamin family, and its related families from the 16th
+            century to the present day. There are also financial records, monographs, clippings, and
+            photographs.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected materials cataloged; remainder arranged. Box 1-4: Cataloged correspondence; Box
+            5-6: Cataloged manuscripts &amp; documents; Box 7-8: Poems; Box 9: Lectures; Box
+            10-11: Genealogical materials; Box 12: Demerara accounts; Box 13: Photographs &amp;
+            sheet music; Box 13-15: Printed materials; Box 16: Benjamin family items; Box 17-22:
+            Merle Hoover notes.</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Adams, John Quincy, 1787-1848.</persname>
+         <persname encodinganalog="600">Argyll, George Douglas Campbell, Duke of,
+            1823-1900.</persname>
+         <persname encodinganalog="600">Arthur, T. S. (Timothy Shay), 1809-1885.</persname>
+         <persname encodinganalog="600">Banks, Nathaniel Prentiss, 1816-1894.</persname>
+         <persname encodinganalog="600">Barnard, Henry, 1811-1900.</persname>
+         <persname encodinganalog="600">Beeton, Samuel Orchart, 1831-1877.</persname>
+         <persname encodinganalog="600">Benjamin, John, 1598-1645.</persname>
+         <persname encodinganalog="600">Benjamin, Park, 1849-1922.</persname>
+         <persname encodinganalog="600">Benjamin family.</persname>
+         <persname encodinganalog="600">Berington, Joseph, 1746-1827.</persname>
+         <persname encodinganalog="600">Bright, John, 1811-1889.</persname>
+         <persname encodinganalog="600">Brooks, N. C. (Nathan Covington), 1809-1898.</persname>
+         <persname encodinganalog="600">Caruso, Enrico, 1873-1921.</persname>
+         <persname encodinganalog="600">Chester, Joseph Lemuel, 1821-1882.</persname>
+         <persname encodinganalog="600">Child, Lydia Maria, 1802-1880.</persname>
+         <persname encodinganalog="600">Clark, Lewis Gaylord, 1808-1873.</persname>
+         <persname encodinganalog="600">Clark, Willis Gaylord, 1808-1841.</persname>
+         <persname encodinganalog="600">Clemens, Olivia Langdon, 1845-1904.</persname>
+         <persname encodinganalog="600">Twain, Mark, 1835-1910.</persname>
+         <persname encodinganalog="600">Cooke, John Esten, 1830-1886.</persname>
+         <persname encodinganalog="600">Curtis, George William, 1824-1892.</persname>
+         <persname encodinganalog="600">Dix, John Ross, 1800?-1885.</persname>
+         <persname encodinganalog="600">Everett, Edward, 1794-1865.</persname>
+         <persname encodinganalog="600">Ferris, Morris Patterson, Mrs., 1855-1932.</persname>
+         <persname encodinganalog="600">Forster, W. E. (William Edward), 1818-1886.</persname>
+         <persname encodinganalog="600">Foster, Lafayette S. (Lafayette Sabine),
+            1806-1880.</persname>
+         <persname encodinganalog="600">Gramont, Antoine Alfred Agénor de, Duc de Gramont &amp;
+            de Guiche, 1819-1880.</persname>
+         <persname encodinganalog="600">Greeley, Horace, 1811-1872.</persname>
+         <persname encodinganalog="600">Greenwood, Grace, 1823-1904.</persname>
+         <persname encodinganalog="600">Grinnell, Moses Hicks, 1803-1877.</persname>
+         <persname encodinganalog="600">Griswold, Rufus W. (Rufus Wilmot), 1815-1857.</persname>
+         <persname encodinganalog="600">Guizot, M. (François), 1787-1874.</persname>
+         <persname encodinganalog="600">Hale, Edward Everett, 1822-1909.</persname>
+         <persname encodinganalog="600">Hale, Sarah Josepha Buell, 1788-1879.</persname>
+         <persname encodinganalog="600">Halleck, Fitz-Greene, 1790-1867.</persname>
+         <persname encodinganalog="600">Harris, Joel Chandler, 1848-1908.</persname>
+         <persname encodinganalog="600">Hayne, Paul Hamilton, 1830-1886.</persname>
+         <persname encodinganalog="600">Henry, Joseph, 1797-1878.</persname>
+         <persname encodinganalog="600">Herbert, Henry William, 1807-1879.</persname>
+         <persname encodinganalog="600">Hildreth, Richard, 1807-1885.</persname>
+         <persname encodinganalog="600">Hillard, George Stillman, 1808-1879.</persname>
+         <persname encodinganalog="600">Holmes, Oliver Wendell, 1809-1894.</persname>
+         <persname encodinganalog="600">Jefferson, Thomas, 1743-1826.</persname>
+         <persname encodinganalog="600">Judson, Emily C. (Emily Chubbuck), 1817-1854.</persname>
+         <persname encodinganalog="600">Kennedy, John Pendleton, 1795-1870.</persname>
+         <persname encodinganalog="600">Knowles, James Sheridan, 1784-1862.</persname>
+         <persname encodinganalog="600">Körner, Gustav Philipp, 1809-1896.</persname>
+         <persname encodinganalog="600">Lanman, James, 1767-1841.</persname>
+         <persname encodinganalog="600">Lincoln, Abraham, 1809-1865.</persname>
+         <persname encodinganalog="600">Lossing, Benson John, 1813-1891.</persname>
+         <persname encodinganalog="600">Lytton, Edward Robert Bulwer Lytton, Earl of,
+            1831-1891.</persname>
+         <persname encodinganalog="600">Madison, James, 1751-1836.</persname>
+         <persname encodinganalog="600">Marsh, George Perkins, 1801-1882.</persname>
+         <persname encodinganalog="600">Mitchill, Samuel L. (Samuel Latham), 1784-1831.</persname>
+         <persname encodinganalog="600">Morris, George Pope, 1802-1864.</persname>
+         <persname encodinganalog="600">Motley, John Lothrop, 1814-1877.</persname>
+         <persname encodinganalog="600">Motley, Thomas.</persname>
+         <persname encodinganalog="600">Neal, John, 1793-1876.</persname>
+         <persname encodinganalog="600">Otis, George A. (George Alexander), 1830-1881.</persname>
+         <persname encodinganalog="600">Park, Moses, 1738-1828.</persname>
+         <persname encodinganalog="600">Poe, Edgar Allan, 1809-1849.</persname>
+         <persname encodinganalog="600">Quincy, Josiah, 1802-1882.</persname>
+         <persname encodinganalog="600">Randall, Samuel, 1778-1864.</persname>
+         <persname encodinganalog="600">Raymond, Henry J. (Henry Jarvis), 1820-1869.</persname>
+         <persname encodinganalog="600">Routledge, George, 1812-1888.</persname>
+         <persname encodinganalog="600">Sargent, Epes, 1813-1880.</persname>
+         <persname encodinganalog="600">Savage, James, 1784-1873.</persname>
+         <persname encodinganalog="600">Savage, William, 1779-1851.</persname>
+         <persname encodinganalog="600">Senior, Nassau William, 1790-1864.</persname>
+         <persname encodinganalog="600">Seward, William Henry, 1801-1872.</persname>
+         <persname encodinganalog="600">Sheridan, Mary Motley.</persname>
+         <persname encodinganalog="600">Sherwood, M. E. W. (Mary Elizabeth Wilson),
+            1826-1903.</persname>
+         <persname encodinganalog="600">Sigourney, L. H. (Lydia Howard), 1791-1865.</persname>
+         <persname encodinganalog="600">Sparks, Jared, 1789-1866.</persname>
+         <persname encodinganalog="600">Spencer, John C. (John Canfield), 1788-1855.</persname>
+         <persname encodinganalog="600">Stanton, Edwin McMasters, 1814-1889.</persname>
+         <persname encodinganalog="600">Stedman, Edmund Clarence, 1833-1908.</persname>
+         <persname encodinganalog="600">Stephens, Ann S. (Ann Sophia), 1810-1886.</persname>
+         <persname encodinganalog="600">Studley, S. C.,--Mrs.</persname>
+         <persname encodinganalog="600">Stuyvesant, Peter, 1592-1672.</persname>
+         <persname encodinganalog="600">Sumner, Charles, 1811-1874.</persname>
+         <persname encodinganalog="600">Sutherland, Harriet Elizabeth Georgiana Howard
+            Leveson-Gower, Duchess of, 1808-1868.</persname>
+         <persname encodinganalog="600">Trumbull, Jonathan, 1844-1919.</persname>
+         <persname encodinganalog="600">Verplanck, Gulian C. (Gulian Crommelin),
+            1786-1870.</persname>
+         <persname encodinganalog="600">Warner, Charles Dudley, 1829-1900.</persname>
+         <persname encodinganalog="600">Washington, George, 1732-1799.</persname>
+         <persname encodinganalog="600">Welles, Gideon, 1802-1878.</persname>
+         <persname encodinganalog="600">Willis, Nathaniel Parker, 1806-1867.</persname>
+         <persname encodinganalog="600">Whipple, Edwin Percy, 1819-1886.</persname>
+         <persname encodinganalog="600">Wright, Frances, 1795-1852.</persname>
+         <geogname encodinganalog="651">Demerara.</geogname>
+         <geogname encodinganalog="651">Norwich (Conn.)</geogname>
+         <geogname encodinganalog="651">United States--History--Civil War, 1861-1865--Foreign public
+            opinion, Austrian.</geogname>
+         <geogname encodinganalog="651">United States--History--Civil War, 1861-1865--Foreign public
+            opinion, British.</geogname>
+         <subject encodinganalog="650">African Americans--History--19th century.</subject>
+         <subject encodinganalog="650">American literature--19th century.</subject>
+         <subject encodinganalog="650">Diplomatic and consular service, American--19th
+            century.</subject>
+         <subject encodinganalog="650">Plantations--Guyana--19th century.</subject>
+         <subject encodinganalog="650">Publishers and publishing--19th century.</subject>
+         <genreform encodinganalog="655" source="aat">Account books.</genreform>
+         <genreform encodinganalog="655" source="aat">Accounts.</genreform>
+         <genreform encodinganalog="655" source="aat">Advertising.</genreform>
+         <genreform encodinganalog="655" source="aat">Albums.</genreform>
+         <genreform encodinganalog="655" source="aat">Bank drafts.</genreform>
+         <genreform encodinganalog="655" source="aat">Bills of sale.</genreform>
+         <genreform encodinganalog="655" source="aat">Biographies.</genreform>
+         <genreform encodinganalog="655" source="aat">Bonds.</genreform>
+         <genreform encodinganalog="655" source="aat">Certificates.</genreform>
+         <genreform encodinganalog="655" source="aat">Commissions.</genreform>
+         <genreform encodinganalog="655" source="aat">Deeds.</genreform>
+         <genreform encodinganalog="655" source="aat">Diaries.</genreform>
+         <genreform encodinganalog="655" source="aat">Drawings.</genreform>
+         <genreform encodinganalog="655" source="aat">Essays.</genreform>
+         <genreform encodinganalog="655" source="aat">Estate inventories.</genreform>
+         <genreform encodinganalog="655" source="aat">Financial records.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Genealogies.</genreform>
+         <genreform encodinganalog="655" source="aat">Indentures.</genreform>
+         <genreform encodinganalog="655" source="lctgm">Ink drawings.</genreform>
+         <genreform encodinganalog="655" source="aat">Inventories.</genreform>
+         <genreform encodinganalog="655" source="aat">Invoices.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Lectures.</genreform>
+         <genreform encodinganalog="655" source="aat">Letterbooks.</genreform>
+         <genreform encodinganalog="655" source="aat">Lists.</genreform>
+         <genreform encodinganalog="655" source="aat">Mortgages.</genreform>
+         <genreform encodinganalog="655" source="aat">Notebooks.</genreform>
+         <genreform encodinganalog="655" source="aat">Notes.</genreform>
+         <genreform encodinganalog="655" source="aat">Payrolls.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Poems.</genreform>
+         <genreform encodinganalog="655" source="aat">Portraits.</genreform>
+         <genreform encodinganalog="655" source="aat">Powers of attorney.</genreform>
+         <genreform encodinganalog="655" source="aat">Receipts.</genreform>
+         <genreform encodinganalog="655" source="aat">Resolutions.</genreform>
+         <genreform encodinganalog="655" source="aat">Scores.</genreform>
+         <genreform encodinganalog="655" source="aat">Scrapbooks.</genreform>
+         <genreform encodinganalog="655" source="aat">Sketches.</genreform>
+         <genreform encodinganalog="655" source="aat">Stock certificates.</genreform>
+         <genreform encodinganalog="655" source="aat">Tickets.</genreform>
+         <genreform encodinganalog="655" source="aat">Wills.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors, American--19th
+            century.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Diplomats.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Historians.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Journalists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Plantation owners.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Poets.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Slaveholders.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>The following boxes are located off-site: 7-22. You will need to request this material
+            from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to
+            use the collection in the Rare Book and Manuscript Library reading room. This collection
+            is located on-site.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>03/--/1937 M37-03 Benjamin, W. E. Gift </p>
+         <p>01/26/1994 M-94-01-26 Letterbook of J.L. Motley 5285B (NYState) Purchase </p>
+         <p>05/20/1994 M-94-05-20 A. Lincoln letter Pratt, Dallas Bequest</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of William E. Benjamin, 1937; added to by gifts from his family. </p>
+         <p>Bequest of Dallas Pratt, 1994.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Benjamin Park papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 04/04/1989 Christina Hilton Fenn </p>
+         <p>Letterbook of J.L. Motley Cataloged 04/04/1994 HR </p>
+         <p>A. Lincoln letter Cataloged 12/04/1996 HR</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <otherfindaid encodinganalog="555">
+         <p>Finding aid available in repository and online. </p>
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Cataloged Materials</unittitle>
+            </did>
+            <c level="subseries">
+               <did><unittitle>Subseries I.1: Cataloged Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Adams, John Quincy</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Albouy, James H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Aldrich, James</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Arthur, Timothy Shay</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Barnard, Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Benjamin, A.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Benjamin, Benjamin Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Benjamin, George H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Benjamin, Mary Brower Western</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Benjamin, Park</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">1</container>
+                        <unittitle>Through <unitdate type="inclusive">1842</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">2</container>
+                        <unittitle><unitdate type="inclusive">1843-1853</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <unittitle><unitdate type="inclusive">1854-1864</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>Benjamin, Walter Romeyn</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>Benjamin, William Christopher</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>Benjamin, William Evarts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>Berington, Joseph</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>Blount, John P.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Bowe, O.A.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Braggins, Mary Ann</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Brooks, N.C.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Burbeck, Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Caruso, Enrico</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Child, Lydia Maria</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Clark, Lewis Gaylord</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Clark, Willis Gaylord</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Clemens, Olivia Langdon</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Clemens, Samuel Langhorne</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Cooke, John Esten</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Croswell, William</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Curtis, George William</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>D'Arusmont, Frances Wright</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Davenport, F. Gladys</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Dix, J. R.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Emmott, Mary Gertrude Lees</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Everett, Edward</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Ferris, Mary L.D.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Foster, Lafayette S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Goddard, Calvin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Greeley, Horace</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Griswold, Rufus Wilmot</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Hale, Edward Everett</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Hale, Sara Josepha</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Halleck, Fitz-Greene</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Harcourt, Elizabeth Motley Ives</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Hayne, Paul Hamilton</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Henry, Joseph</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Herbert, Henry William</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Hillard, George Stillman</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Holmes, Oliver Wendell</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Ingersoill, R.J.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Jefferson, Thomas</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Judson, Emily C. "Fanny Forester"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Kennedy, John P.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Knowles, James Sheridan</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Lanman, James</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Lanman, Mary Judith Gall Benjamin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Lincoln, Abraham</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Lippincott, Sara Hame (Grace Greenwood)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Lossing, Benson J.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Madison, James</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Marsh, George P.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>MildMay, Herbert St. John-</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>MildMay, Susan Motley St. John (Mrs. Herbert)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Mitchill, Samuel Latham</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Morris, George P.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Motley, John Lothrop</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Motley, Mary Elizabeth Benjamin (Mrs. John Lothrop)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Neal, John</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Poe, Edgar Allan</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Raymond, Henry J.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Roberts, Dwight</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Romaine, Benj amin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Romaine, Samuel B.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Romaine, Thomas</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Romeyn, Joanna B.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Russell, Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Sargent, Epes</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Sargent, John O.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Savage, James</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Savage, William</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Sheridan, Mary Motley (Mrs. Algernon Brinsley)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Sigourney, Lydia Howard Huntley (Mrs. Charles)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Sparks, Jared</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Spencer, John C.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Stackpole, Joseph Lewis</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Stephens, Ann S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Strong, Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Studley, Sarah C.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Tappan, Francis W.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Tasistro, L. Fitzgerald</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Treat, Lilian Benjamin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Trumbull, Jonathan</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Verplanck, Gulian C.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Washington, George</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Whipple, E. P.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Willia, Nathaniel Parker</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Willis, Nathaniel</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Witter, John</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Yates, Francis</unittitle>
+                  </did>
+               </c>
+            </c>
+
+
+            <c level="subseries">
+               <did><unittitle>Suberies I.2: Cataloged Manuscripts and Documents</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, Aaron</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, Benjamin Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, Charles</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, David</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, George</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, John (1598-1645)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, John (1682-1716)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, John (1714-1787)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, Joseph</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, Park (1770-1824)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, Park (1809-1864)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, Park (1849-1922)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, Phebe Larrabee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Benjamin, William Evarts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Braggins, Mary Ann</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Brower, Everardus</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Brower, John</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Caruso, Enrico</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Clemens, Samuel Langhorne</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Cunningham, James</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>De Joust, Edward</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Harcourt, Elizabeth Motley Ives</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Harris, Joel Chandler</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Landry, Thomas</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Lanman, Mary Judith Gall Benjamin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Loux, James B.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Motley, John Lothrop</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><unittitle>Letterbook, <unitdate type="inclusive">1847-1857</unitdate>
+                        </unittitle>
+                     </did>
+                     <scopecontent><p>(Boston. 1 vol., 38pp. Copies of 18 letters, addressed to persons named
+                           below.)</p>
+                     </scopecontent>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>George Atkinson (3)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Park Benjamin, <unitdate type="inclusive">1809-1864</unitdate>
+                              (4)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>John Chapman, <unitdate type="inclusive">1822-1894</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Joseph Green Cogswell, <unitdate type="inclusive">1786-1871</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Frederic Prentice (3)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>George Routledge, <unitdate type="inclusive">1812-1888</unitdate> (2)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>John Osborne Sargent, <unitdate type="inclusive">1811-1891</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Henry Strong (3)</unittitle>
+                        </did>
+                     </c>
+                  </c>
+                  <c level="file">
+                     <did><unittitle>Letterbook, <unitdate type="inclusive">1861-1865</unitdate>
+                        </unittitle>
+                     </did>
+                     <scopecontent><p>(London and Vienna. 1 vol., 269pp. Secretatrial copies of 38 letters to
+                           the persons named below.)</p>
+                     </scopecontent>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>George Douglas Campbell, 8th Duke of Argyll, <unitdate type="inclusive">1823-1900</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Nathaniel Prentiss Banks, <unitdate type="inclusive">1816-1894</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Samuel Orchart Beeton, <unitdate type="inclusive">1831-1877</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>John Bright, <unitdate type="inclusive">1811-1889</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Joseph Lemuel Chester, <unitdate type="inclusive">1821-1882</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>William Edward Forster, <unitdate type="inclusive">1818-1886</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Antoine Alfred Agenor, Duc de Gramont &amp; de Guiche,
+                                 <unitdate type="inclusive">1819-1880</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>William Gray</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Moses Hicks Grinnell, <unitdate type="inclusive">1803-1877</unitdate> (2)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Francois Pierre Guillaume Guizot, <unitdate type="inclusive">1787-1874</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Gustav Philipp Körner, <unitdate type="inclusive">1809-1896</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>__ Lengel</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Edward Robert Bulwer Lytton, 1st Earl of Lytton, <unitdate type="inclusive">1831-1891</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Major Mansfeldt</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Thomas Motley, Jr. (8)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>James Shepherd Pike, <unitdate type="inclusive">1811-1882</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Publishers of Biographical Dictionaries</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Messrs Routledge, Warre &amp; Routledge</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Nassau William Senior, <unitdate type="inclusive">1790-1864</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>William Henry Seward, <unitdate type="inclusive">1801-1872</unitdate> (4)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>William Sharwood</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Mary Elizabeth Wilson Sherwood (Mrs. John), <unitdate type="inclusive">1826-1903</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Edwin McMasters Stanton, <unitdate type="inclusive">1814-1869</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Charles Sumner, <unitdate type="inclusive">1811-1874</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>Harriet Elizabeth Georgiana Howard Leveson-Gower, Duchess of
+                              Sutherland, <unitdate type="inclusive">1806-1868</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="box" label="Box">6</container>
+                           <unittitle>John L. Tucker</unittitle>
+                        </did>
+                     </c>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Motley, Thomas and Edward</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Neal, John</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Otis, George Alexander</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Park, Jonathan</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Park, Moses</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Peck, Benjamin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Pierce family</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Quincy, Josiah</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Randall, Samuel</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Romaine, Benjamin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Sargent, Epes</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Savage, James</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Sigourney, Lydia Howard Huntley</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Stedman, Edmund Clarence</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Stuyvesant, Petrus</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Warner, Charles Dudley</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Washington, George</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Washington College Parthenon</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Welles, Gideon</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Western, Henry Membrey</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Western, Thomas</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Uncataloged Papers</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Poems</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7-8</container>
+                  <unittitle>Lectures</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Genealogical Materials </unittitle>
+               </did>
+               <scopecontent><p>(Collected by W.E. Benjamin, with notes by Merle Hoover)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10-11</container>
+                  <unittitle>Demerara Accounts </unittitle>
+               </did>
+               <scopecontent><p>(Financial records of the Benjamin properties in British Guiana)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Photographs</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Sheet Music with lyrics by P. Benjamin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Printed Materials</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13-15</container>
+                  <unittitle>Benjamin Family </unittitle>
+               </did>
+               <scopecontent><p>(Items related to Park Benjamin, Jr., Gladys Benjamin Goddard, Dorothy Benjamin
+                     Caruso, and Enrico Caruso. Gift of the Estate of Gladys Benjamin Goddard,
+                     1976)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Merle Hoover</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">17-21</container>
+                     <unittitle>Merle Hoover Notes</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">22</container>
+                     <unittitle>Merle Hoover Biography--Notes</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

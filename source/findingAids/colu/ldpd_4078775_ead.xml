@@ -1,0 +1,3807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078775_ead//EN" mainagencycode="nnc-rb">ldpd_4078775_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Charles S. Ascher Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+            </change>
+            <change><date normal="2011-11-14">2011-11-
+               15</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Ascher, Charles S. (Charles Stern), 1899-1980.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Charles S. Ascher Papers">Charles S. Ascher Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1926/1979" type="inclusive">1926-1979.</unitdate>
+         <physdesc><extent encodinganalog="300">68 linear ft (ca. 95,000 items in 159 boxes &amp; 11 rolls).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078775</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Professor of political science at Brooklyn College from 1949 to his retirement in 1966. (Columbia A.B., 1920; LL.B., 1921). He was also secretary and general counsel of the City Housing Corporation, builder of the experimental developments Sunnyside (Queens, N.Y.) and Radburn (New Jersey); served as founding executive secretary of the Public Administration Clearing House in Chicago; regional director of the National Housing Agency from 1942-1947; and executive officer for programs at UNESCO.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, memoranda, manuscripts, documents, photographs, printed material, and memorabilia of Ascher. Also, his notes and diary/datebooks, as well as typescripts for many of his reports, articles, and reviews. Among the major correspondents are Roger Nash Baldwin, Mary Steichen Calderone, Julian Huxley, Margaret Mead, Jo Mielziner, Lewis Mumford, Alva Myrdal, Edwin Herbert Samuel (2nd Viscount Samuel), Percy E. Sutton, and Constantine D. Tsatsos.</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Brooklyn College.--Faculty.</corpname>
+         <corpname encodinganalog="610">City Housing Corporation.</corpname>
+         <corpname encodinganalog="610">Public Administration Clearing House.</corpname>
+         <corpname encodinganalog="610">United States.--National Housing Agency.</corpname>
+         <corpname encodinganalog="610">American Society of Public Administration.</corpname>
+         <corpname encodinganalog="610">Citizens Housing and Planning Council (New York, N.Y.)</corpname>
+         <corpname encodinganalog="610">International Institute of Administrative Sciences.</corpname>
+         <corpname encodinganalog="610">International Union of Local Authorities.</corpname>
+         <corpname encodinganalog="610">Unesco.</corpname>
+         <persname encodinganalog="600">Baldwin, Roger N. (Roger Nash), 1884-1981.</persname>
+         <persname encodinganalog="600">Calderone, Mary Steichen, 1904-1998.</persname>
+         <persname encodinganalog="600">Huxley, Julian, 1887-1975.</persname>
+         <persname encodinganalog="600">Mead, Margaret, 1901-1978.</persname>
+         <persname encodinganalog="600">Mielziner, Jo, 1901-1976.</persname>
+         <persname encodinganalog="600">Mumford, Lewis, 1895-1990.</persname>
+         <persname encodinganalog="600">Myrdal, Alva, 1902-1986.</persname>
+         <persname encodinganalog="600">Samuel, Edward Herbert.</persname>
+         <persname encodinganalog="600">Sutton, Percy E.</persname>
+         <persname encodinganalog="600">Tsatsos, Kōnstantinos, 1899-1987.</persname>
+         <geogname encodinganalog="651">Sunnyside (New York, N.Y.)</geogname>
+         <geogname encodinganalog="651">Radburn (N.J.)</geogname>
+         <subject encodinganalog="650">Political science.</subject>
+         <subject encodinganalog="650">City planning--New York (State)--New York.</subject>
+         <subject encodinganalog="650">City planning--New Jersey.</subject>
+         <subject encodinganalog="650">Housing--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Housing development--New York (State)--New York.</subject>
+         <genreform encodinganalog="655" source="ftamc">Diaries.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <occupation encodinganalog="656" source="ftamc">College teachers.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1980 M80 Estate of Charles S. Ascher Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of the estate of Charles S. Ascher, 1980.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Charles S. Ascher Papers. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Surveyed 03/27/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <accessrestrict><p>Boxes 3-163 are located off-site. You will need to request this material at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+        </accessrestrict>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish materials must be obtained in writing from the Librarian for Rare Books and Manuscripts.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Catalogued correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Baldwin, Roger Nash</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Bing, Rudolf</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Brooks, Gladys (Mrs. Van Wyck)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Bunche, Ralph J.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Calderone, Mary Steichen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Celler, Emanuel</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Chase, Stuart</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Delano, Frederic A.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Deutsch, Babette</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Douglas, Paul H.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Frank, Jerome New</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Freud, Anna</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Fuller, R. Buckminster</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Galbraith, John Kenneth</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Gardner, John W.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Greene, Jerome D.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Gropius, Walter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Heckscher, August</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Huebsch, Ben</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Huxley, Julian</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Isaacs, Stanley M.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Lamont, Corliss</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Lerner, Max</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Lindsay, John Vliet</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Lodge, Henry Cabot</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Jackson, Barbara Ward (Lady)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Javits, Jacob K.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Jessup, Philip C.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Johnson, Alvin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Keating, Kenneth B.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Kenyon, Dorothy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Keppel, Frederick P.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Knopf, Alfred A.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Maclnnes, Helen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>McCormick, Anne O'Hare</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Mead, Margaret</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Medina, Harold R.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Meiklejohn, Alexander</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Merriam, Charles E.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Mielziner, Jo</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Moses, Robert</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Mumford, Lewis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Myrdal, Alva</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Myrdal, Gunnar</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Nevins, Allan</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Reinhardt, Ad</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Riesman, David</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Rogers, Lindsay</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Samuel, 2nd Viscount</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Samuel, Edwin Herbert</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Schlesinger, Arthur M., Jr.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Seligman, Eustace</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Sparkman, John</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Stone, Harlan F.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Strand, Paul</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Sulzberger, Arthur Hays</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Sutton, Percy E.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Thant, U</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Tsatsos, Constantine D.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Wagner, Robert F., Jr.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Waldheim, Kurt</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Catalogued manuscripts</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Ascher, Charles Stern</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Huxley, Julian</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>Samuel, Edwin Herbert Samuel, 2nd Viscount</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1-2</container>
+                        <unittitle>General Correspondence and Subject File</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>A (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Acheson Statement</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Adirondack Mountain Club</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Anthropos (Vassiliou)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Annals</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Ascher, Charles S.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Congratulatory telegrams to</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Correspondence, Outgoing, <unitdate type="inclusive">1931-1932</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Charles S.- Correspondence, Outgoing miscellaneous</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Financial accounts</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Ascher, Helen - estate</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Ascher, Joan - wedding</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Ascher Family - New York</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>B (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>B (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>B (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Brickner, R., M.D.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Brownlow, Louis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Brownlow Festschrift</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Brownlow Fund</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>C (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>C (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Canada (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Canaux, J.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Cancer Fund</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Caro, Robert – The Power Broker (Robert Moses)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>City University of New York - Bunche Institute</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>City University of New York - Professional Staff and Pension</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Columbia University (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Columbia University - Oral History - correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>D (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>E (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>E (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Emmerich, H. and J.</unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Ethical Culture Society</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>F (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>F (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Ford Foundation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Fourmen Management Corporation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Fulbright Fellowships</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>G (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>G (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Gaus, John</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Government Printing Office, U.S.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>H (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Haan</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Harvard University</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Hodson Fund</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Housing and Urban Development, U.S. Department (HUD)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>I (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Illinois Bar</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Informatics</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Ipsophone</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Israel</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>J (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>K (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>K (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Kitimat</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Kubie</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>L (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>L (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>LaGuardia, Fiorello (material about)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Lambda Alpha</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Land Economics</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Lasker</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Lasker Trust</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Loessner</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>M (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>M (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Macy Foundation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Mumford, Lewis (related material)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Muzzey, E.J.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>N (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Nassau County</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>National Conference on Urban Planning Education</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>National Trust for Historic Preservation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>New York City (general.) See Also Boxes 67-77, 125-126, 132-133</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>New York City:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Charter Revision</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle><unitdate>1840</unitdate> Report</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Landmarks</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Mayor and Neighborhood Government</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Teachers Retirement System</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Westsider</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>New York State</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>New York State Department of Health</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>New York Times</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>O (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Olmsted, Frederick Law (related material)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>"Orchids" (i.e., honors, tributes)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Ombudsman</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>P (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>P (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Phi Beta Kappa</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Pittsburgh, University of</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Public Administration Service</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Public Interest Groups</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Public Works, International</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Q (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>R (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Radburn</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Regional Science Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Root, Li</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>S (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>S (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>State-County-City Service Center</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Steinig, Leon</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Stern Estate</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Stotzka, H. (Vienna)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Sunnyside</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Syracuse University</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>T (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Tachau, M.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Thoreau, H.D. - Map of Eagleswood</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>U (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>V (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>W (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>W (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Wood, Elizabeth</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>X-Y-Z (general)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Unidentified</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series III: Manuscripts, Documents and Course Material</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Ascher, Charles S.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <unittitle>Administration of Publicly Aided Housing, <unitdate>1971</unitdate> (Related material)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><unittitle>Private Covenants in Urban Redevelopment (Urban Redevelopment Study, 1950)</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">32</container>
+                                <unittitle>manuscript</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">32</container>
+                                <unittitle>preliminary draft (mimeograph)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">32</container>
+                                <unittitle>correspondence and related material</unittitle>
+                            </did>
+                        </c>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <unittitle>Oral History (Columbia University.) See Also Box 9</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">34</container>
+                            <unittitle>Articles Reviews and Speeches (includes reprints) - <unitdate type="inclusive">1926-1942</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Articles Reviews and Speeches (includes reprints) - <unitdate type="inclusive">1943-1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Articles Reviews and Speeches (includes reprints) - <unitdate type="inclusive">1956-1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Articles and speeches, Miscellaneous</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Book Reviews, Miscellaneous</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Book Reviews and Letters to Editors, Miscellaneous</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Notes - Address and Invitation Lists</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Notes - Miscellaneous</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Note Cards</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>Note Cards</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">40–43</container>
+                            <unittitle>Diary/Datebooks, <unitdate type="inclusive">1932-1979</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Manuscripts by others:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><unittitle>Brownlow, Louis:</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">44</container>
+                                <unittitle>Autobiography (partial)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">44</container>
+                                <unittitle>Diary (partial)</unittitle>
+                            </did>
+                        </c>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Miscellaneous</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Documents</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Course Materials - Brooklyn College - Political Science 1, 25</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>Course Materials - Brooklyn College - Political Science 25 30</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Course Materials - Brooklyn College - Political Science 30</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>Course Materials - Brooklyn College - Political Science 30.5</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>Course Materials - Brooklyn College - Political Science 31.5</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50–51</container>
+                        <unittitle>Course Materials - Brooklyn College - Political Science 31.5</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Course Materials - Brooklyn College - Political Science 32, 70.5, U752</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Course Materials - Brooklyn College - Urbanism/Urban Studies</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Course Materials - Brooklyn College - Urbanism/Urban Studies</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle>Course Materials - Brooklyn College - Urbanism/Urban Studies</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle>Course Materials - Brooklyn College - Conservation 77</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle>Course Materials - Brooklyn College - Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Course Materials - Brooklyn College - Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Course Materials - Chicago, University of</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Course Materials - City University of New York - Urbanism</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Course Materials - Columbia University Seminars</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Course Materials - Nova University (Tallahassee)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Course Materials - Nova University</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Course Materials - Pratt Institute</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Course Materials - Reading Lists, miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Organizations:</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle>A (miscellaneous)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle>Afro-Asian Organization for Economic Cooperation (AFRASEC)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle>American Committee for International Municipal Cooperation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle>American Consortium for International Public Administration</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>American Friends Service Committee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>American Institute of Architects</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>American Institute of Planners (AIP) - General</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>American Institute of Planners (AIP) - AIP/ASPO International Committee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>American Institute of Planners - New York Chapter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>American Institute of Planners (AIP) - Scope and Purpose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>American Political Science Association (APSA)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>American Public Health Association (APHA) - General</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>American Public Health Association (APHA) - Code Enforcement</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>American Public Health Association - Housing Legislation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>American Public Health Association - Rural Housing</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>American Public Works Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>American Society of Public Administration (ASPA) - General, <unitdate type="inclusive">1952-1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>American Society of Public Administration (ASPA) - General, <unitdate type="inclusive">1970-1979</unitdate>  mixed years</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>American Society of Public Administration (ASPA) - Academy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>ASPA:</unittitle>
+                    </did>
+               <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle>Comparative Administration</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle>Conferences, <unitdate type="inclusive">1946-1974</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle>Council</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle>Elections</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle>Finance</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>ASPA:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">64</container>
+                            <unittitle>History</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">64</container>
+                            <unittitle>International</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">64</container>
+                            <unittitle>International Day, <unitdate>1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">64</container>
+                            <unittitle>Moscow Meeting</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">64</container>
+                            <unittitle>New York Chapter</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle>ASPA:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">65</container>
+                            <unittitle>President</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">65</container>
+                            <unittitle>Program Public Administration Review</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">65</container>
+                            <unittitle>Reports</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">65</container>
+                            <unittitle>Research - Committees - History</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">65</container>
+                            <unittitle>Section on International and Comparative Administration (SICA) American</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle>Society of Planning Officials (ASPO) - General, <unitdate type="inclusive">1966-1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle>ASPO :</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">66</container>
+                            <unittitle>General, <unitdate type="inclusive">1975-1979</unitdate>  mixed years</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">66</container>
+                            <unittitle>Reports</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">66</container>
+                            <unittitle>Ways &amp; Means Committee</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle>Asia Foundation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle>Association of Collegiate Schools of Planning</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">67</container>
+                        <unittitle>Building Research Advisory Board (BRAB)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">67</container>
+                        <unittitle>Centre Africain de Formation. . .(CAFRAD)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">67</container>
+                        <unittitle>Citizens' Housing and Planning Council of New York (CHPC) – General, <unitdate type="inclusive">1949-1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">68</container>
+                        <unittitle>CHPC - General - mixed years</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">68</container>
+                        <unittitle>CHPC - Board</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>CHPC:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>Committee on the City Planning Commission</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>Emergency Committee on Low Rent Housing</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>Enforcement</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>Executive Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>News and Reviews</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>President</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>Progress</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>Recreation</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>Relocation Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">69</container>
+                            <unittitle>Special Reports</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">70</container>
+                        <unittitle>Citizens Union - General</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">70</container>
+                        <unittitle>Citizens Union - CHPC - Community Boards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">70</container>
+                        <unittitle>Citizens Union - City Managers Committee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">70</container>
+                        <unittitle>City Club</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">70</container>
+                        <unittitle>City Housing Corporation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">71</container>
+                        <unittitle>College-Federal Agency Council</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">71</container>
+                        <unittitle>College of Europe (Bruges)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">71</container>
+                        <unittitle>Committee for Nonprofessional Collegiate Schools of Planning</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">71</container>
+                        <unittitle>Community Planning Board 7,NewYork City (CBP 7) -Minutes and General Files, <unitdate type="inclusive">1951-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>CPB 7:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">72</container>
+                            <unittitle>Minutes and General Files, <unitdate type="inclusive">1970-1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">72</container>
+                            <unittitle>Aging</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">72</container>
+                            <unittitle>Alexanders</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">72</container>
+                            <unittitle>Borough President, Manhattan</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>Building Code</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>Capital Budget</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>Census Data</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>Chairman and Executive Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>City Planning Commission</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>Committees</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>Community Development Program</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>Education</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>Environment</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">74</container>
+                            <unittitle>Health, Education and Welfare</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">74</container>
+                            <unittitle>Housing</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">74</container>
+                            <unittitle>Housing and Urban Development</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Housing Code</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Landmarks</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Long-Range Planning</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Master Plan</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Members</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Mid-West Side Planning/Action Coalition</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Neighborhood Agencies</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Neighborhood Government</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>New School Symposium</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Noise Abatement</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Nominating Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>O'Connor Bill</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">75</container>
+                            <unittitle>Open House</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">76</container>
+                            <unittitle>Parks, Recreation and Culture</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">76</container>
+                            <unittitle>Publicity</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">76</container>
+                            <unittitle>Sidewalk Cafes</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">76</container>
+                            <unittitle>Single Room Occupancy Hotels (SROs)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">76</container>
+                            <unittitle>Steering Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">76</container>
+                            <unittitle>Streets and Traffic</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>CPB7:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">77</container>
+                            <unittitle>Traffic and Transportation</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">77</container>
+                            <unittitle>Transportation and Environment</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">77</container>
+                            <unittitle>Waterfront</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">77</container>
+                            <unittitle>West side Highway</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>Conference on Science, Philosophy and Religion</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>Conseil International du Batiment(CIB)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>Conseil International de 1'Organisation Scientifique Coriginally Comite International. . .3 (CIOS)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>CIOS</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">79</container>
+                        <unittitle>Council on Foreign Relations</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">79</container>
+                        <unittitle>Eastern Regional Organisation for Planning and Housing (also called East Asia Regional)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Eastern Regional Organization for Public Administration (EROPA)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Escuela Superior de Administracion Publica America Central (ESAPAC).</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>European Research Institute for Regional and Urban Planning (ERIRUP)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Federacion Interamericana de Institutiones de Credito. . . (FINICAM)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Federation Internationale de Géomètres (FIG)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Federation of West Side Block Associations, New York City</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Health, Education and Welfare, U.S. Department of (HEW)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Housing and Home Finance Agency</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Housing and Urban Development, U.S. Department of (HUD)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>I (miscellaneous)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Indian Institute of Public Administration</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Institute of Public Administration (IPA) - General</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Institute of Public Administration (IPA) - Business</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>IPA - Program</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>IPA - Receptions</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>IPA - Reports</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>Interamerican Development Bank</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>Interamerican Planning Society. SEE: Sociedad. . . (SIAP)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>International Academy of Comparative Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>International Assembly of Non-Governmental Organizations Concerned with the Environment (INASEN)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>International Association for Housing Science</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>International Association of Comparative Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>International Association of Legal Science</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>International Association Town Planning</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>International Centre for Land Policy Studies</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>International Centre for Local Credit [also called International Information Centre. . .] (ICLC)]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">84</container>
+                        <unittitle>ICLC</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">84</container>
+                        <unittitle>International City Managers Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">84</container>
+                        <unittitle>International Council of Monuments and Sites (ICOMOS)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">84</container>
+                        <unittitle>International Federation for Housing and Planning Also called International Federation for Housing and Town Planning!] (IFHP) – General</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>IFHP:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">85</container>
+                            <unittitle>Bureau ( -1975)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">86</container>
+                            <unittitle>Bureau (1976-)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">86</container>
+                            <unittitle>Congresses, <unitdate type="inclusive">1952-1958</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">87</container>
+                            <unittitle>Congresses, I960-I962</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">87</container>
+                            <unittitle>Congresses, <unitdate type="inclusive">1964-1975</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">87</container>
+                            <unittitle>Congresses, <unitdate type="inclusive">1976-1977</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">87</container>
+                            <unittitle>Council, <unitdate type="inclusive">1946-1973</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">87</container>
+                            <unittitle>Finance</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">90</container>
+                            <unittitle>Golden Jubilee, Arnhem, <unitdate>1963</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">90</container>
+                            <unittitle>Goulbenkian Foundation</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">90</container>
+                            <unittitle>Headquarters –General and <unitdate type="inclusive">1955-1972</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">91</container>
+                            <unittitle>Historic Sites</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">91</container>
+                            <unittitle>International Labour Office Classification</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">91</container>
+                            <unittitle>Miller, J. Marshall</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">91</container>
+                            <unittitle>New Delhi Regional Conference</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">91</container>
+                            <unittitle>New Towns</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">91</container>
+                            <unittitle>North American Regional Section</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>Philadelphia AIA Film</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>President</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>Professional Planners</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>Program</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>Promotional Leaflet</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>Regional Planning</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>Rent and Income</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>Seminars</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>Sociology and Urban Planning</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>Traffic</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">92</container>
+                            <unittitle>United Nations</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">93</container>
+                        <unittitle>IFHP:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">93</container>
+                            <unittitle>United Nations</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">93</container>
+                            <unittitle>U.S. Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">93</container>
+                            <unittitle>Urban Renewal</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">93</container>
+                        <unittitle>International Federation of Landscape Architects (IFLA)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">93</container>
+                        <unittitle>International Federation of Pedestrians</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">93</container>
+                        <unittitle>International Institute for Educational Planning (IIEP)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">94</container>
+                        <unittitle>International Institute of Administrative Sciences (IIAS)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">94</container>
+                        <unittitle>General correspondence and Miscellaneous items, <unitdate type="inclusive">1950-1970</unitdate> and n.d</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>IIAS:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">95</container>
+                            <unittitle>Administrative Practices Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">95</container>
+                            <unittitle>Administrative Procedure Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">95</container>
+                            <unittitle>Colloquium - San Remo, <unitdate>1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">95</container>
+                            <unittitle>Comparative Administration Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">96</container>
+                            <unittitle>Comparative Cases Committee (CCC)- 1959­1964</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">97</container>
+                            <unittitle>CCC - <unitdate type="inclusive">1962-1974</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">97</container>
+                            <unittitle>CCC-H (Housing) - Belgium</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">97</container>
+                            <unittitle>CCC-H (Housing) - Finland</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">97</container>
+                            <unittitle>CCC-H (Housing) - France</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">98</container>
+                            <unittitle>IIAS - CCC-H:</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Germany</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Hungary</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Ireland</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Latin America</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Poland</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Portugal</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Spain</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Sweden</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Turkey</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>United Kingdom</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>United States</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">98</container>
+                                <unittitle>Yugoslavia</unittitle>
+                            </did>
+                        </c>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">99</container>
+                            <unittitle>Congresses, <unitdate type="inclusive">1953-1968</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">100</container>
+                            <unittitle>Congresses, <unitdate type="inclusive">1971-1977</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">100</container>
+                            <unittitle>Contracts Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">101</container>
+                            <unittitle>Council</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">101</container>
+                            <unittitle>Ethical Standards</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">101</container>
+                            <unittitle>Executive Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">102</container>
+                            <unittitle>Finance Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">102</container>
+                            <unittitle>Ford Foundation</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">102</container>
+                            <unittitle>Headquarters</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">102</container>
+                            <unittitle>Housing Procedure</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">102</container>
+                            <unittitle>Informatique</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">102</container>
+                            <unittitle>International Sections</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">103</container>
+                            <unittitle>Meetings and Round tables, Miscellaneous</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">103</container>
+                            <unittitle>Non-Governmental Organizations</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">103</container>
+                            <unittitle>Periodicals</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">103</container>
+                            <unittitle>Planning and Forecasting Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">103</container>
+                            <unittitle>President</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">103</container>
+                            <unittitle>Progress in Public Administration (journal)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">104</container>
+                            <unittitle>Promotional Brochure</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">104</container>
+                            <unittitle>Publications Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">104</container>
+                            <unittitle>Reorganization, <unitdate>1973</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">104</container>
+                            <unittitle>Report by Charles S. Ascher: "Public Provision of Housing. . ." <unitdate type="inclusive">1970-1971</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">104</container>
+                            <unittitle>Review of Activities</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">105</container>
+                            <unittitle>Roundtables, <unitdate type="inclusive">1954-1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">106</container>
+                            <unittitle>Schools and Institutes</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">106</container>
+                            <unittitle>Scientific Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">106</container>
+                            <unittitle>Stassen, Jacques - Study</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">107</container>
+                            <unittitle>Statutes</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">107</container>
+                            <unittitle>Survey: American Report</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">107</container>
+                            <unittitle>Training Institutes</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">107</container>
+                            <unittitle>United Nations</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">108</container>
+                            <unittitle>United Nations</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">108</container>
+                            <unittitle>UNESCO</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">108</container>
+                            <unittitle>U.S. Consortium</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">109</container>
+                            <unittitle>U.S. Contribution</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">109</container>
+                            <unittitle>Civil U.S. Section, <unitdate type="inclusive">1947-1968</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">110</container>
+                        <unittitle>IIAS:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">110</container>
+                            <unittitle>U.S. Section, <unitdate type="inclusive">1969-1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">110</container>
+                            <unittitle>Water Pollution</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">110</container>
+                            <unittitle>World Health Organization International Legal Center International Organization of Supreme Audit Institutions (INTOSAI)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>International Political Science Association (IPSA)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>International Public Personnel Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>International Society of City and Regional Planners</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>International Studies Association (ISA)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>International Union of Architects</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>International Union of Local Authorities (IULA) - General, <unitdate type="inclusive">1949-1954</unitdate> and  <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>IULA:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">112</container>
+                            <unittitle>General, <unitdate type="inclusive">1955-1977</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">112</container>
+                            <unittitle>Africa/Asia</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">112</container>
+                            <unittitle>Citizen Participation</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">112</container>
+                            <unittitle>Computers</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">112</container>
+                            <unittitle>Congresses, <unitdate>1947, </unitdate>
+                                <unitdate>1959</unitdate> 196l</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">113</container>
+                            <unittitle>Congresses, <unitdate type="inclusive">1963-1977</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">113</container>
+                            <unittitle>Council</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">114</container>
+                            <unittitle>Environment</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">114</container>
+                            <unittitle>Executive Committee, <unitdate type="inclusive">1956-1967</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">115</container>
+                            <unittitle>Executive Committee, <unitdate type="inclusive">1971-1977</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">115</container>
+                            <unittitle>Ford Foundation</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">115</container>
+                            <unittitle>Headquarters</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">115</container>
+                            <unittitle>Municipal Social Work</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">116</container>
+                            <unittitle>National Association</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">116</container>
+                            <unittitle>Stockholm Conference, <unitdate>1967</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">116</container>
+                            <unittitle>Technical Assistance</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">116</container>
+                            <unittitle>Town Twinning</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">116</container>
+                            <unittitle>Training Courses</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">117</container>
+                            <unittitle>U.K. Section</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">117</container>
+                            <unittitle>U.N. - ECOSOC</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">117</container>
+                            <unittitle>U.N. - Human Rights</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">117</container>
+                            <unittitle>U.N. - Municipal Finance</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">117</container>
+                            <unittitle>U.N. - S.O.A (Bureau of Social Affairs)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">117</container>
+                            <unittitle>UNESCO</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">118</container>
+                        <unittitle>IULA:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">118</container>
+                            <unittitle>UNICEF</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">118</container>
+                            <unittitle>World Health Organizations</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">118</container>
+                        <unittitle>Interparliamentary Union</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">118</container>
+                        <unittitle>Interuniversity Case Program</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">118</container>
+                        <unittitle>Metropolitan Committee on Planning (METCOP)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">119</container>
+                        <unittitle>Rational Academy of Public Administration (NAPA) - General</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">119</container>
+                        <unittitle>Rational Academy of Public Administration (NAPA) - Business</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle>NAPA:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">120</container>
+                            <unittitle>Environment</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">120</container>
+                            <unittitle>International</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">120</container>
+                            <unittitle>Members</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle>NAPA:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">121</container>
+                            <unittitle>Newsletter</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">121</container>
+                            <unittitle>Le Substantive</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">121</container>
+                            <unittitle>Watergate</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>National Association of Housing and Redevelopment Officials (originally National Association of Housing Officials] (NAHRO):</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">121</container>
+                            <unittitle>General</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">121</container>
+                            <unittitle>Ascher, Charles S. - Speech to NAHO, <unitdate>1935</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">121</container>
+                            <unittitle>Hale - Housing Stock Study</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">121</container>
+                            <unittitle>International Committee Documents;, <unitdate>1960, </unitdate>
+                                <unitdate>1943</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle>NAHRO - International Committee - Documents, <unitdate type="inclusive">1963-1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle>NAHRO - International Committee - New, <unitdate type="inclusive">1975-1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle>NAHRO - International Committee - Meetings (numbered, 27-32)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>NAHRO - International Committee - Meetings (numbered, 33-41)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>NAHRO - International Committee - Meetings (numbered, 14</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>NAHRO - International Committee - Members</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>NAHRO - Joint Committee of Housing and Health</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>NAHRO - New York Metropolitan Chapter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>National Association of School of Public Affairs and Administration (NASPAA) 1970-75</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>NASPAA, <unitdate type="inclusive">1975-1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>National Capital Park and Planning Commission</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>National Housing Agency</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>National Management Council</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>National Planning Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>National Resources Planning Board</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>National Trust for Historic Preservation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>New York City - Civil Service Commission</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">126</container>
+                        <unittitle>New York City - Convention and Visitors Bureau (American Congress on Inter­national Meetings)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>York City:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">126</container>
+                            <unittitle>Health Institute</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">126</container>
+                            <unittitle>Mayor’s Committee for Better Housing</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">126</container>
+                            <unittitle>Tokyo - Sister City</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">126</container>
+                            <unittitle>Volunteers</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">126</container>
+                        <unittitle>New York State - Health Department</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">126</container>
+                        <unittitle>Non-Governmental Organizations [U.N.] (NGOs) - General, <unitdate type="inclusive">1948-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>NGOs:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">127</container>
+                            <unittitle>General, <unitdate type="inclusive">1953-1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">128</container>
+                            <unittitle>General, <unitdate type="inclusive">1960-1979</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">128</container>
+                            <unittitle>Bureau, <unitdate type="inclusive">1953-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">129</container>
+                            <unittitle>Bureau, <unitdate type="inclusive">1960-1973</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">129</container>
+                            <unittitle>Conferences, General, <unitdate type="inclusive">1960-1966</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">130</container>
+                            <unittitle>Conferences, General, <unitdate type="inclusive">1969-1972</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">130</container>
+                            <unittitle>Development Committee</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">130</container>
+                            <unittitle>ECOSOC - General</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">130</container>
+                            <unittitle>ECOSOC - Review of NGOs</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">130</container>
+                            <unittitle>Human Environment</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">131</container>
+                            <unittitle>Human Rights</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">131</container>
+                            <unittitle>Lists of NGOs</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">131</container>
+                            <unittitle>Review of Status, <unitdate type="inclusive">1965-1968</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">131</container>
+                            <unittitle>U Thant Lunch</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">131</container>
+                            <unittitle>Working Group on Science and Technology</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">132</container>
+                        <unittitle>Organization of American States/Pan American Union</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">132</container>
+                        <unittitle>Pacific-Asian Conference of Municipalities (PACOM)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">132</container>
+                        <unittitle>Park-Hudson Urban Renewal Citizens’ Committee - General, <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">132</container>
+                        <unittitle>Park-Hudson Urban Renewal Citizens’ Committee - Association of Neighborhood Councils</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">132</container>
+                        <unittitle>Park-Hudson Urban Renewal Citizens’ Committee - Background</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">133</container>
+                        <unittitle>Park-Hudson Urban Renewal Citizens’ Committee:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">133</container>
+                            <unittitle>Correspondence</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">133</container>
+                            <unittitle>Funds</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">133</container>
+                            <unittitle>Housing and Redevelopment Boar</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">133</container>
+                            <unittitle>Meetings</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">133</container>
+                            <unittitle>Staff</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">133</container>
+                            <unittitle>Statements</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">133</container>
+                            <unittitle>West Side Story</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">133</container>
+                        <unittitle>Pre-School Association of the West Side</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">133</container>
+                        <unittitle>Public Administration Clearing House (PACH) – General, <unitdate type="inclusive">1931-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>PACH:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">134</container>
+                            <unittitle>Annual Reports, <unitdate type="inclusive">1949-1954</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">134</container>
+                            <unittitle>Dinner, U.N., <unitdate>1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">134</container>
+                            <unittitle>Dinner Talk, <unitdate>1951</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">134</container>
+                            <unittitle>Financial</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">134</container>
+                            <unittitle>International Program</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">134</container>
+                            <unittitle>Reception, <unitdate>1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">134</container>
+                            <unittitle>Round-ups</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">135</container>
+                        <unittitle>Regional Plan Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">135</container>
+                        <unittitle>Royal Institute of Public Administration</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">135</container>
+                        <unittitle>Snag Club</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">135</container>
+                        <unittitle>Social Science Research Council (SSRC) - General, <unitdate>1937</unitdate> 19U8-1971</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">135</container>
+                        <unittitle>Social Science Research Council (SSRC) - Correspondence, <unitdate type="inclusive">1935-1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">136</container>
+                        <unittitle>SSRC - Correspondence,</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">136</container>
+                        <unittitle>SSRC - Committee on Housing Research</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">136</container>
+                        <unittitle>SSRC - Committee on Public Administration (see also SSRC Correspondence)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">136</container>
+                        <unittitle>Sociedad Interamericana de Planificacion (SIAP) - <unitdate type="inclusive">1958-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">137</container>
+                        <unittitle>SIAP – <unitdate type="inclusive">1961-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">138</container>
+                        <unittitle>SIAP - <unitdate type="inclusive">1971-1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">138</container>
+                        <unittitle>Society for International Development (SID)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">138</container>
+                        <unittitle>State, U.S. Department of (Foreign Service)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">138</container>
+                        <unittitle>Stycker's Bay Neighborhood Council</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">138</container>
+                        <unittitle>Tennessee Valley Authority (TVA)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">138</container>
+                        <unittitle>Town and Country Planning Association (U.K.)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">138</container>
+                        <unittitle>Twentieth Congressional District, N.Y. - Conferences</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">139</container>
+                        <unittitle>Union of International Associations (UIA)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>United Nations (UN):</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">139</container>
+                            <unittitle>General Correspondence and miscellaneous items</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">139</container>
+                            <unittitle>Africa</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">139</container>
+                            <unittitle>Asia</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">139</container>
+                            <unittitle>Children's Fund (UNICEF)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">139</container>
+                            <unittitle>Conference on Science and Technology for Development (UNCSTJJD</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>UN:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">140</container>
+                            <unittitle>Development Program</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">140</container>
+                            <unittitle>ESCAP</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">140</container>
+                            <unittitle>Economic and Social Council (ECOSOC)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">140</container>
+                            <unittitle>Economic Rights and Duties of States</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><unittitle>Environmental Program (UNEP):</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">140</container>
+                                <unittitle>Governing Council</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">140</container>
+                                <unittitle>North American NGO Council</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">140</container>
+                                <unittitle>Stockholm, <unitdate>1972</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">141</container>
+                            <unittitle>Habitat</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">141</container>
+                            <unittitle>Housing, Building and Planning Centre, 1961f-1975</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">141</container>
+                            <unittitle>Human Rights</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">142</container>
+                            <unittitle>Institute for Training and Research (UNITAR)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">142</container>
+                            <unittitle>International Women’s Year</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">142</container>
+                            <unittitle>International Year of the Child</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">142</container>
+                            <unittitle>Meetings, Seminars and Symposia, <unitdate type="inclusive">1966-1979</unitdate> and miscellaneous</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">142</container>
+                            <unittitle>New Towns - Delhi Conference, <unitdate>1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">143</container>
+                            <unittitle>New Towns - Moscow Conference,</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">143</container>
+                            <unittitle>New Towns - London Conference, <unitdate>1973</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">144</container>
+                            <unittitle>Office of Public Information</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">144</container>
+                            <unittitle>Public Administration Division - General</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">144</container>
+                            <unittitle>Public Administration Division - Evaluation</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">144</container>
+                            <unittitle>Public Administration Division - Experts, <unitdate type="inclusive">1970-1971</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">145</container>
+                            <unittitle>Public Administration Division - Experts, <unitdate>1975</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">145</container>
+                            <unittitle>Research Institute for Social Development</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">145</container>
+                            <unittitle>World Population Year, <unitdate>1974</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">145</container>
+                            <unittitle>World University</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>UNESCO:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">145</container>
+                            <unittitle>General Correspondence and Notes</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">145</container>
+                            <unittitle>Ascher, Charles S.- job</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">146</container>
+                            <unittitle>Budget</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">146</container>
+                            <unittitle>Conference Techniques, <unitdate type="inclusive">1948-1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">147</container>
+                            <unittitle>Conference Techniques, <unitdate type="inclusive">1950-1951</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">147</container>
+                            <unittitle>Constitution</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">147</container>
+                            <unittitle>Documents, Miscellaneous, 1945-197O</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">147</container>
+                            <unittitle>Ebenstein Correspondence</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">147</container>
+                            <unittitle>Executive Board</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">147</container>
+                            <unittitle>Financial</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">148</container>
+                            <unittitle>General Conferences, <unitdate type="inclusive">1946-1948</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">148</container>
+                            <unittitle>History</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">148</container>
+                            <unittitle>Mercury (UNESCO Staff Publication)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">149</container>
+                            <unittitle>Programme, <unitdate type="inclusive">1947-1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>Programme-making, <unitdate type="inclusive">1948-1952</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>Social Sciences</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>Survey Article</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>Association of the USA</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>U.S.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>National Commission for UNESCO</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>U.S.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>Department of State</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>Urbanization</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">150</container>
+                            <unittitle>Printed and miscellaneous material</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15l</container>
+                        <unittitle>United States - Civil Service Commission</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15l</container>
+                        <unittitle>Federal Executive Seminars</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15l</container>
+                        <unittitle>Senate</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15l</container>
+                        <unittitle>United Towns Organization</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15l</container>
+                        <unittitle>West Side Chamber of Commerce</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15l</container>
+                        <unittitle>White House Conference on Balanced National Growth and Economic Development</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15l</container>
+                        <unittitle>World Environment and Resources Council</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15l</container>
+                        <unittitle>World Federation for Mental Health (WFMH) - General, 19U7-I955</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">152</container>
+                        <unittitle>World Federation for Mental Health:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">152</container>
+                            <unittitle>General, <unitdate type="inclusive">1968-1979</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">152</container>
+                            <unittitle>Ascher, Helen - Fund</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">152</container>
+                            <unittitle>Caribbean Federation of Mental Health</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">152</container>
+                            <unittitle>Carnegie Endowment for International Peace Seminar</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">152</container>
+                        <unittitle>World Health Organization (WHO) - General, 19U6-1979</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>WHO:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Coordination</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Decentralization</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Director General - memos</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Directors’ Committee minutes</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>ECOSOC</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Financial</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Interviews</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Notes, Study</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Smith, R.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Survey Article</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">153</container>
+                            <unittitle>Technical Discussions</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">154</container>
+                            <unittitle>Training</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">154</container>
+                            <unittitle>U.S.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">154</container>
+                        <unittitle>World Peace Foundation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">154</container>
+                        <unittitle>Miscellaneous Organizations - Conferences</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series IV: Travel (includes photographs)</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">154</container>
+                        <unittitle>General, <unitdate type="inclusive">1947-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">155</container>
+                        <unittitle>General, <unitdate type="inclusive">1953-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">156</container>
+                        <unittitle>General, 1960-I962</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">157</container>
+                        <unittitle>General, <unitdate type="inclusive">1963-1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">157</container>
+                        <unittitle>Itineraries</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">157</container>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">158</container>
+                        <unittitle>Asia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">158</container>
+                        <unittitle>Brazil</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">158</container>
+                        <unittitle>Caribbean</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">158</container>
+                        <unittitle>Europe, <unitdate type="inclusive">1951-1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">159</container>
+                        <unittitle>Europe, <unitdate type="inclusive">1958-1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">159</container>
+                        <unittitle>Switzerland</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">160</container>
+                        <unittitle>Miscellaneous Items</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">160</container>
+                        <unittitle>Awards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">160</container>
+                        <unittitle>Photos</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">160</container>
+                        <unittitle>Printed - Clippings</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">160</container>
+                        <unittitle>Printed - Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">161</container>
+                        <unittitle>Inscribed books</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series V: Oversize</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">162</container>
+                        <unittitle>1 volume - clippings</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">163</container>
+                        <unittitle>1 volume - Gateway National Recreation Area Study</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">163</container>
+                        <unittitle>Posters, Maps and Plans (rolls) - 11 (shelved at end of collection)</unittitle>
+                    </did>
+                </c>
+            </c> 
+
+      </dsc>
+   </archdesc>
+</ead>

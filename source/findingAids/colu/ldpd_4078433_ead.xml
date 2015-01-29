@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078433_ead//EN" mainagencycode="nnc-rb">ldpd_4078433_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the I. Cyrus Gordon - Abraham Lincoln Collection</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+            </change>
+         <change><date normal="2012-02-13">2012-02-
+            13</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Gordon, I. Cyrus, 1901-1980, collector.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="I. Cyrus Gordon - Abraham Lincoln Collection">I. Cyrus Gordon - Abraham Lincoln Collection,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1846/1980" type="inclusive">1846-1980.</unitdate>
+         <physdesc><extent encodinganalog="300">ca. 350 items (7 boxes, l map case drawer &amp; 7 unboxed items).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078433</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Israel Cyrus Gordon (Columbia A.B., 1924; LLB, 1926), a lawyer, was an avid collector of Lincolniana.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Letters, documents, memorabilia, printed material, prints, medals and sculpture relating to Lincoln and the Civil War period. Included are a letter from Edward Everett, a Philip Henry Sheridan autograph, a document by W. H. Herndon, Linclon's law partner, 19th century leters and documents and 20th century clippings, pictures, etc. of or about Lincoln. The collection features a John Rogers sculpture, "The Council of War," several busts of Lincoln and other two and three dimensional works of art.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected items cataloged; remainder arranged by subject and genre.</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Lincoln, Abraham, 1809-1865.</persname>
+         <persname encodinganalog="600">Lincoln, Abraham, 1809-1865.--Portraits, caricatures, etc.</persname>
+         <geogname encodinganalog="651">United States--History--Civil War, 1860-1865.</geogname>
+         <genreform encodinganalog="655" source="ftamc.">Photoprints</genreform>
+         <genreform encodinganalog="655" source="lcsh.">Sculpture</genreform>
+         <genreform encodinganalog="655" source="ftamc.">Prints</genreform>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>07/07/86 M-86-07-07 Papers and artwork Gordon, Donald J. and Ross, Susan Gordon Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Donald J. Gordon and Susan Gordon Ross, 1986.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>I. Cyrus Gordon - Abraham Lincoln Collection. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers and artwork Processed 11/--/86 JR</p>
+      </processinfo>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged correspondence</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Everett, Edward</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Sheridan, Philip Henry</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Cataloged Documents</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Herndon, William Henry</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series III: Cataloged Photograph</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lincoln, Abraham</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series IV: Arranged Correspondence</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>19c.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>19c. - Ackerman family</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>19c. - Lincoln -facsimiles</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>20c. - Sterrett, J.E.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>20c. - Correspondence about Gordon's collection</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series V: Arranged Manuscripts</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Gordon -Lists of Lincolnians</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Gordon - Research on 14 <unitdate>March 1860</unitdate>  Lincoln letter to James Babcock</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series VI: Arranged Documents</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Civil War discharges</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Civil War money</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Gordon - Personal documents</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lincoln - Facsimile documents</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Slave deed - Louisiana, 4 <unitdate>October 1859</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series VI: Memorabilia</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Stamps -Lincoln &amp; Civil War memorial</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series VII: Printed Material</unittitle>
+                </did>
+                <c level="file">
+                    <did><unittitle>Ephemera:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>19c.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>19c. facsimile</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>20c.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Lincoln:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Clippings</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Exhibition catalogs</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Misc.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Pictures</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lincolniana</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rogers, John, <unitdate type="inclusive">1829-1904</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Gordon card files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Lincoln Index</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Topical Index</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3 (Flat Box) </container>
+                        <unittitle>Documents:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3 (Flat Box)</container>
+                            <unittitle>Ackerman family deeds and cemetery deeds</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3 (Flat Box)</container>
+                            <unittitle>Gordon -Personal documents</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Printed material:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3 (Flat Box)</container>
+                            <unittitle>Linen tea towel</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3 (Flat Box)</container>
+                            <unittitle>Misc.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3 (Flat Box)</container>
+                            <unittitle>Reprints &amp; facsimiles</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Prints:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3 (Flat Box)</container>
+                            <unittitle>Holcomh &amp; Davis, "Abraham Lincoln, President of the United States", [1860]</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3 (Flat Box)</container>
+                            <unittitle>Lez, Felix, "Lincoln",  <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3 (Flat Box)</container>
+                            <unittitle>Volk, Douglas, [Abraham Lincoln], c1922</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Oversized Materials</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Mapcase">13-06-05</container>
+                        <unittitle>Cataloged:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Mapcase">13-06-05</container>
+                            <unittitle>Currier &amp; Ives, "The Assassination of President Lincoln", New York, c1865</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Mapcase">13-06-05</container>
+                            <unittitle>-----. "The Deathbed of the Martyr President Abraham Lincoln". [New York], c1865</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Mapcase">13-06-05</container>
+                            <unittitle>-----, "Surrender of General Lee, At Appomattox Court House, Va., April 9th 1865".  NY, c1865.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Uncataloged:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Mapcase">13-06-05</container>
+                            <unittitle>Kurz &amp; Allison, "The Fort Pillow Massacre", Chicago, c1892</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Artwork</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Volk, Leonard Wells:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Casts of Lincoln's hands</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Cast of Lincoln's death mask</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Two reproductions of Lincoln Memorial statue</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Metal images of Lincoln:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Round penny portrait</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Oval plaque made for the Republican Club of the City of New York, 1910.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Reproduction of Springfield, Ill. memorial</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Facsimile Lincoln medals</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Miscellaneous. Medals:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Bicentennial (1)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Civil War (2)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Sir Thomas Raffles (1)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7 (Flat Box) </container>
+                        <unittitle>Seven medals with Lincoln's profile, in a frame</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7 (Flat Box)</container>
+                        <unittitle>Three 20c. Silhouettes on celluloid</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Cataloged artwork:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label=""> </container>
+                            <unittitle>Rogers. John "The Council of War". <unitdate>1868</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Arranged artwork:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label=""> </container>
+                            <unittitle>Berks, Robert "Lincoln of the Gettysburg Address". sculpture of</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label=""> </container>
+                            <unittitle>Lincoln's head. Alvastone reproduction of bronze original at the Lincoln, Museum, Washington, D.C.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label=""> </container>
+                            <unittitle>Lincoln's head in Alvastone reproduction</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label=""> </container>
+                            <unittitle>Lincoln bust in plaster</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label=""> </container>
+                            <unittitle>Plaque for Gordon's 70th birthday with 70 Lincoln head pennies</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label=""> </container>
+                            <unittitle>Plaque with Lincoln's profile</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label=""> </container>
+                            <unittitle>Plaque of Lincoln Memorial in bas-relief</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c> 
+
+      </dsc>
+   </archdesc>
+</ead>

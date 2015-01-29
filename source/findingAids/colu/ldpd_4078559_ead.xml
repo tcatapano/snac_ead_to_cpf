@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078559_ead//EN" mainagencycode="nnc-rb">ldpd_4078559_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the William Henry Carpenter Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-03-27">2012-03-27</date>
+            <item> xml document instance created by Alison Rhonemus.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Carpenter, William H. (William Henry),
+            1853-1936.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="William Henry Carpenter Papers">William Henry
+            Carpenter Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1906/1926" type="inclusive">1906-1926.</unitdate>
+         <physdesc><extent encodinganalog="300">2.5 linear ft (ca. 1,500 items in 5 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0198</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078559</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains correspondence, 1906-1926, of William Henry Carpenter,
+            Professor of Germanic Languages and Literature, Provost of Columbia
+         University.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Professor of Germanic Languages and Literature, Provost of
+            Columbia University, 1912-1926.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Office files divided into two sections: 1) correspondence (cataloged) with people well
+            known in literary and educational fields; 2) correspondence (not cataloged) with
+            Columbia University administrators and faculty members dealing with a variety of
+            University affairs; correspondence with officials of other institutions of higher
+            learning, learned societies, and the Association of American Universities.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected materials cataloged; remainder arranged. This collection is arranged in two
+            series: <list type="marked">
+               <item>Series I: Cataloged Correspondence</item>
+               <item>Series II: Uncataloged Correspondence</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Association of American Universities.</corpname>
+         <corpname encodinganalog="610">Columbia University--Administration.</corpname>
+         <corpname encodinganalog="610">Columbia University--Faculty.</corpname>
+         <subject encodinganalog="650">Education.</subject>
+         <subject encodinganalog="650">German language--Study and teaching.</subject>
+         <subject encodinganalog="650">Universities and colleges--United States.</subject>
+         <occupation encodinganalog="656" source="lcsh">College administrators.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 3-5. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>M-59</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); William Henry Carpenter Papers; Box
+            and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 04/12/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+
+      <dsc><c level="series">
+            <did><unittitle>Series I: Cataloged Correspondence</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>A - G</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Abbott, Ernest Hamlin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Adams, Edward Dean</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Alte, Viscount d'</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Angell, James Rowland</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Babcock, Kendric Charles</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Baldwin, Charles Sears</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Beach, Charles Fisk</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Beers, Lucius Hart</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Bell, Edward Hamilton</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Bernsdorff, Johann-Heinrich von, Count</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Boas, Franz</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Binyon, Laurence</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Brown, Elmer Ellsworth</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Butler, Nicholas Murray</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Carpenter, John Tilney</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Carpenter, Rhys</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Carpenter, William Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Carpenter, William Morgan</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Clark, John Bates</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Clark, John Bates and others</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Claxton, Philander Priestley</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Cole, George Watson</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Coudert, Frederic Rene</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Cross, Wilbur L.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Cunliffe, John William</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Cunliffe-Owen, (Philip) Frederick</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Davis, Charles Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Dittler, Herbert</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Dodge, Marcellus Hartley</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Downer, Charles Alfred</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Downing, Augustus S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Dunning, William Archibald</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Egan, Maurice Francis</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Fess, Simeon D.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Fife, Robert Herndon</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Finley, John H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Flexner, Abraham</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Francke, Kuno</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>French, Daniel Chester</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Furst, Clyde</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Gallinger, Jacob H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Gildersleeve, Virginia Crocheron</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Goebel, Julius</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Gosse, Edmund William</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>H - Z</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Hamlin, Talbot Faulkner</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Harris, Frank</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Hart, Albert Bushnell</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Haskell, Henry S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Hotchkiss, Thomas W.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Johnson, Robert Underwood</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Kennerley, Mitchell</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Kent, Henry W.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Korff, Sergius A., Baron</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Kunz, George Frederick</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Leach, Henry Goddard</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Lee, Frederick S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Leon, Maurice</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Lindsay, Samuel McCune</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Lipton, Sir Thomas Johnstone</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Loudon, Jonkheer John</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Lowell, Abbott Lawrence</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Mason, Daniel Gregory</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Matthews, Brander</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Meyer, Annie Nathan (Mrs. Alfred)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Moore, Ernest C.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Moore, John Bassett</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Morgenthau, Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Ochs, Adolph S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Osborn, Henry Fairfield</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Penniman, Josiah H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Pine, John Buckley</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Pritchett, Henry Smith</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Putnam, George Haven</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Reisinger, Curt H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Robinson, Edward</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Rudd, William P.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Seligman, Edwin Robert Anderson</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Shotwell, James T.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Smith, David Eugene</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Smith, Munroe</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Smith, Munroe and others</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Sothern, Edward Hugh</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Stokes, Anson Phelps</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Swift, Samuel</unittitle>
+                  </did>
+               </c>
+
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Thayer, Stephen Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Thorndike, Ashley H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Trent, William P.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Van Pelt, John Vredenburg</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Van Zile, Edward S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Villard, Oswald Garrison</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>White, Horatio Stevens</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Williams, Talcott</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Uncataloged Correspondence</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>A</unittitle>
+               </did>
+            </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Announcements</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Approved list of Colleges</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Architecture</unittitle>
+                  </did>
+               </c>
+            <c level="file">
+               <did><unittitle>Association of American Universities</unittitle>
+                  <container type="Box" label="Box">5</container>
+               </did>
+            </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Association of Colleges in the State of New York</unittitle>
+                  </did>
+               </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>B</unittitle>
+               </did>
+            </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Board of Religious Education in the Diocese of New York</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Bookstore</unittitle>
+                  </did>
+               </c>
+           
+            <c level="file">
+               <did><unittitle>C</unittitle>
+                  <container type="Box" label="Box">3</container>
+               </did>
+            </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Carpenter (family correspondence)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Century Association</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Certificates for Medals and Prizes</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Certificates, Professional</unittitle>
+                  </did>
+               </c>
+     
+            <c level="file">
+               <did><unittitle>D</unittitle>
+                  <container type="Box" label="Box">3</container>
+               </did>
+                 </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Danielson, C. S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Danton, G. H.</unittitle>
+                  </did>
+               </c>
+          
+            <c level="file">
+               <did><unittitle>E</unittitle>
+                  <container type="Box" label="Box">3</container>
+               </did>
+                 </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Educational Reviews</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Egbert, James Chidester</unittitle>
+                  </did>
+               </c>
+          
+            <c level="file">
+               <did><unittitle>F</unittitle>
+                  <container type="Box" label="Box">3</container>
+               </did>
+            </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Fackenthal, Frank D.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Foreign Study, Handbook of</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>France</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>French Institute</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Furst, Clyde</unittitle>
+                  </did>
+               </c>
+          
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>G</unittitle>
+               </did>
+                      </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Germanistic Society</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Goetze, Frederick A.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Graves, Frank Pierrepont</unittitle>
+                  </did>
+               </c>
+     
+            <c level="file">
+               <did><unittitle>H</unittitle>
+                  <container type="Box" label="Box">4</container>
+               </did>
+                     </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Hawkes, Herbert Edwin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Hayden, Philip M.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Highway Engineering</unittitle>
+                  </did>
+               </c>
+      
+            <c level="file">
+               <did><unittitle>I</unittitle>
+                  <container type="Box" label="Box">4</container>
+               </did>
+                 </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Institute of International Education</unittitle>
+                  </did>
+               </c>
+          
+            <c level="file">
+               <did><unittitle>J</unittitle>
+                  <container type="Box" label="Box">4</container>
+               </did>
+                    </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Joint Committee on Graduate Instruction</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Jones,. Adam Leroy</unittitle>
+                  </did>
+               </c>
+       
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>K</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>L</unittitle>
+                  <container type="Box" label="Box">4</container>
+               </did>
+                   </c>   
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Leuschner, A. O.</unittitle>
+                  </did>
+               </c>
+     
+            <c level="file">
+               <did><unittitle>M</unittitle>
+                  <container type="Box" label="Box">4</container>
+               </did>
+            </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Medical School</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Military Service</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Morgan, O. S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Music, Department of</unittitle>
+                  </did>
+               </c>
+    
+            <c level="file">
+               <did><unittitle>N</unittitle>
+                  <container type="Box" label="Box">4</container>
+               </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>National Training School - Y.W.C.A.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Norris, Henry Lee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Nurses, Committee on Professional Training of</unittitle>
+                  </did>
+               </c>
+            
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>O</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>P</unittitle>
+                  <container type="Box" label="Box">4</container>
+               </did>
+                 </c>
+               <c level="file">
+                  <did><unittitle>Pharmacy, School of</unittitle>
+                     <container type="Box" label="Box">4</container>
+                  </did>
+               </c>
+          
+            <c level="file">
+               <did><unittitle>R</unittitle>
+                  <container type="Box" label="Box">4</container>
+               </did>
+                </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Reform Club Library</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Registrar</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Rhees, Rush</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Rice Institute</unittitle>
+                  </did>
+               </c>
+           
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle>S</unittitle>
+               </did>
+                     </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Sato, S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Smith, Edgar Fahs</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>South Africa</unittitle>
+                  </did>
+               </c>
+      
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle>T</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>U</unittitle>
+                  <container type="Box" label="Box">5</container>
+               </did>
+                        </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>University Undergraduates</unittitle>
+                  </did>
+               </c>
+   
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle>V</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle>W</unittitle>                  
+               </did>
+                       </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>White, Sarah Parker</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Women Graduate School</unittitle>
+                  </did>
+               </c>
+                
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Miscellaneous correspondence, 1910-1911</unittitle>
+                  </did>
+               </c>
+          
+            </c>
+      </dsc>
+   </archdesc>
+</ead>

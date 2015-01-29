@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078458_ead//EN" mainagencycode="nnc-rb">ldpd_4078458_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Stephen Haweis Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-11">2010-02-11</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Haweis, Stephen.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Papers,">Stephen Haweis Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1860/1969" type="inclusive">1860-1969</unitdate>
+         <physdesc><extent encodinganalog="300">5 linear ft. (ca. 1,300 items in 15 boxes &amp; 4 oversize folders)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University,<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078458</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Stephen Haweis (1878-1969), youngest son of the Reverend Hugh Reginald and Mary Eliza Haweis, a socially prominent couple in late Victorian London who entertained at their house in Cheyne Walk (previously owned by Dante Gabrielle Rossetti). Stephen studied art in Paris with Alphonse Mucha and Eugene Carrière. After becoming interested in photography, Stephen met Rodin and subsequently photographed many of the sculptor's pieces. In 1903 he married the poet Mina Loy (they were divorced in 1917). After losing much of his inheritance in the stock market crash of 1929, Stephen moved to the West Indian island of Dominica, where he studied and painted tropical fish, wrote for local newspapers, and worked on a variety of writing projects till his death.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, documents, photographs, artwork, objects, and printed material. Included among the list of 37 cataloged correspondents are: Vera Brittain, Edward Gordon Craig, Clarence Darrow, Havelock Ellis, Augustus John, Emmeline Pankhurst, Edward Steichen, Gertrude Stein, Algernon Charles Swinburne, Sybil Thorndike, Alec Waugh, and H. G. Wells. The cataloged manuscripts include a poem by Witter Bynner entitled "Hay Wagon." There is a large selection of Stephen's writings (poetry, novels, plays, articles, biographies, memoirs) including drafts of a proposed biography of his father, a bound volume of his own memoirs, numerous notebooks, and "Mount Joy," a description of life on Dominica. His photographs and paintings are well represented, with 6 albums of photographs and 2 boxes &amp; 1 folder of approximately 200 paintings and sketches. The printed material includes works by Stephen, his father and his mother.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 2 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged Series</item>
+               <item>Series II: Arranged Series</item>
+            </list>
+         </p>
+      </arrangement>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Cataloged correspondence, manuscripts, photographs, and artwork (Box 1); Arranged correspondence (Box 2); Arranged manuscripts (Boxes 3-10); Arranged documents, photographs, and objects (Box 11); Printed materials (Boxes 12 &amp; 13); Artwork by Stephen Haweis (Box 14 &amp; 15 &amp; oversize folders)</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Brittain, Vera, 1893-1970.</persname>
+         <persname encodinganalog="600">Bynner, Witter, 1881-1968.</persname>
+         <persname encodinganalog="600">Craig, Edward Gordon, 1872-1966.</persname>
+         <persname encodinganalog="600">Darrow, Clarence, 1857-1938.</persname>
+         <persname encodinganalog="600">Ellis, Havelock, 1859-1939.</persname>
+         <persname encodinganalog="600">John, Augustus, 1878-1961.</persname>
+         <persname encodinganalog="600">Pankhurst, Emmeline, 1858-1928.</persname>
+         <persname encodinganalog="600">Steichen, Edward, 1879-1973.</persname>
+         <persname encodinganalog="600">Stein, Gertrude, 1874-1946.</persname>
+         <persname encodinganalog="600">Swinburne, Algernon Charles, 1837-1909.</persname>
+         <persname encodinganalog="600">Thorndike, Sybil, Dame, 1882-1976.</persname>
+         <persname encodinganalog="600">Waugh, Alec, 1898-1981.</persname>
+         <persname encodinganalog="600">Wells, H. G. (Herbert George), 1866-1946.</persname>
+         <subject encodinganalog="650">Painters--England--Dominica--20th century.</subject>
+         <genreform encodinganalog="655" source="aat">Albums.</genreform>
+         <genreform encodinganalog="655" source="aat">Articles.</genreform>
+         <genreform encodinganalog="655" source="aat">Biographies.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Diaries.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Memoirs.</genreform>
+         <genreform encodinganalog="655" source="aat">Microfilms.</genreform>
+         <genreform encodinganalog="655" source="aat">Notebooks.</genreform>
+         <genreform encodinganalog="655" source="aat">Novels.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Paintings.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="aat">Plays.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Poems.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Sketches</genreform>
+         <occupation encodinganalog="656" source="lcsh">Artists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Authors, English.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Journalists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Painters</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located on-site.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>07/20/1988 M-88-07-20 Roosevelt, Mrs. Philip J Gift of the Estate </p>
+         <p>09/--/1994 94-09 Microfilm of memoir, 8 p. Added </p>
+         <p>08/--/1994 M-94-8 5 oil paintings Roosevelt, Mrs John Gift</p>
+      </acqinfo>
+      <altformavail encodinganalog="530">
+         <head>Alternate Formats</head>
+         <p>Haweis' memoirs (28 p. bound volume) are on microfilm.</p>
+      </altformavail>
+      <custodhist encodinganalog="561">
+         <p>Gift of the Estate of Mrs. Philip J. Roosevelt, 1988. </p>
+         <p>Gift of Mrs. John Roosevelt, 1994.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Stephen Haweis Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Processed 12/19/1988 PL </p>
+         <p>Microfilm of memoir, 8 p. Processed 10/04/1994 HR </p>
+         <p>5 oil paintings Processed 02/21/1996 HR</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Series</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries I.1: Correspondence</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Barnes, Sir Kenneth Ralph, 1878- </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Beebe, William </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Brittain, Vera, 1893-1970 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Carlton, John Dudley, 1908- </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Caroe, William Douglas, 1857-1938 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Craig, Edward Gordon, 1872 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Darrow, Clarence, 1875-1938 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Ellis, Alexander John </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Ellis, Havelock </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Galton, Francis, 1822-1911 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Geddes, Sir Patrick </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Gogh-Bonger, Johanna van, 1862-1925 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Haweis, Hugh Reginald, 1838-1901 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Hawkins, Edwards Comerford </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Hind, Charles Lewis, 1862-1927 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Hitchens, Ivon </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Hodge, W. H. (Walter Henricks), 1912- </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Huxley, Elspeth Joscelin, 1907 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>John, Augustus Edwin </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Johnston, Sir Reginald Fleming, 1874-1938 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Kelly, Sir Gerald Festus, 1879-1972 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Konody, P. G. </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Lavery, John, 1856-1941 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Le Braz, Anatole </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Mann, William M. </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Pankhurst, Emmeline, 1858-1928 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Sandwich, George Charles Montagu, 9th Earl of, 1874- </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Sanger, Margaret, 1879-1966 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Seifriz, William 1888- </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Somerset, Lady Isabella Caroline, 1851-1921 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Steichen, Edward </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Stein, Gertrude </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Swinburne, Algernon Charles </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Taylor, Fred, 1875-1963 </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Thorndike, Sybil </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Waugh, Alec, 1898- </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Wells, Herbert George, 1866-1946 </unittitle>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries I.2: Manuscripts</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Bynner, Witter, 1881-1968 </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Warner, Charles, 1846-1909 </unittitle>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries I.3: Photographs and Art</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Craig, Edwrad Gordon, 1872- </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Joy, Thomas Musgrave, 1812-1866 </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series II: Arranged Series</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries II.1: Correspondence</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Chipman, Renee </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Haweis, Lionel </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Haweis, Mary Eliza </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Haweis, Stephen </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Paynter, Thomas </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Roosevelt, John E. </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Torrey, Margaret E. </unittitle>
+                        </did>
+                    </c>
+      
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>A-Z</unittitle>
+                            <physdesc>(21  folders)</physdesc>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.2: Manuscripts </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Haweis, Hugh Reginald. Ink presses</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Haweis, Hugh Reginald Notes</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Haweis, Lionel Story of Deed of Gift</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Haweis, Mary Eliza Chaucer Calendar</unittitle>
+                        </did>
+                        <scopecontent><p>On Microfilm: MN# 2001-3108-1</p>
+                        </scopecontent>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Haweis, Mary Eliza Diary</unittitle>
+                        </did>
+                        <scopecontent><p>On Microfilm: MN#2001-3108-1</p>
+                        </scopecontent>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Haweis, Mary Eliza Fragments</unittitle>
+                        </did>
+                        <scopecontent><p>On Microfilm: MN#2001-3108-1</p>
+                        </scopecontent>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Haweis, Stephen Address book</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Haweis, Stephen Memoir</unittitle>
+                            <physdesc>(1  volume, 3  folders.)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Haweis, Stephen Notes for his Will</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <unittitle>Mss Fragments</unittitle>
+                            <physdesc>(2  folders)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <unittitle>Howe, Bea List of people painted by Thomas Musgrave Joy</unittitle>
+                        </did>
+                        <scopecontent><p>[With article.]</p>
+                        </scopecontent>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <unittitle>Paynter, Thomas [Paynter] family pedigree</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <unittitle>Roosevelt, Mrs. John Story of the Stephen Haweis materials</unittitle>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.3: Fiction </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Short stories</unittitle>
+                            <physdesc>(4 folders)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Albut and the Old Man</unittitle>
+                            <physdesc>(2 folders)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>The Archer of Living Eden</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>From Kalymnos He Came</unittitle>
+                        </did>
+                        <scopecontent><p>[Box 5]</p>
+                        </scopecontent>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>A Great Lady</unittitle>
+                            <physdesc>(2 folders)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Love Letters to Dead Ladies</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Roseau in Dominica</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>The Satyr</unittitle>
+                            <physdesc>(2  folders)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>The Scented East</unittitle>
+                            <physdesc>(2  folders)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>The Secret Island</unittitle>
+                        </did>
+                        <scopecontent><p>[Box 6]</p>
+                        </scopecontent>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>That Foolish Game</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Treasure Trove</unittitle>
+                            <physdesc>(3  folders)</physdesc>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.4: Non-fiction</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Bimonadism</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>The Daphne Affair</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>David Without Devotion</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Death and All That</unittitle>
+                            <physdesc>(3 volumes )</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Ezra Did It</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Freedom on Quick Sand</unittitle>
+                            <physdesc>(2 volumes )</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>The Future and Imagination</unittitle>
+                        </did>
+                        <scopecontent><p>[Box 7]</p>
+                        </scopecontent>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>Men and Women and Mortality and Morality</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>Mount Joy</unittitle>
+                            <physdesc>(5  folders)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>The Natural Way to Draw</unittitle>
+                        </did>
+                        <scopecontent><p>[Box 8]</p>
+                        </scopecontent>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>Spoilt Child: the Story of Hugh Reginald Haweis</unittitle>
+                            <physdesc>(2  folders)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>The Thirteenth Disciple</unittitle>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.5: Notebooks</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>Notebooks,   <unitdate>1946-48</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>Notebooks,   <unitdate> ca. l948</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>Notebooks,   <unitdate> ca. 1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>Notebooks,   <unitdate>ca. 1950-67</unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent><p>[Box 9]</p>
+                        </scopecontent>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Notebooks,   <unitdate> ca. 1952-65</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Notebooks,   <unitdate>ca. 1963</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Notebooks,   <unitdate> ca. 1964</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Notebooks,   <unitdate> ca. 1967</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Notebooks,   <unitdate>ca. 1967-69</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Notebooks,   <unitdate>ca. 1968 </unitdate>
+                            </unittitle>
+                            <physdesc>(3  folders)</physdesc>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.6: Plays </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Because I love You</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Clockwise</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>A House Set in Disorder</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Pegs</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>They Hated Their Parents</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>The Three Hairs</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>[Untitled]</unittitle>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.7: Poems</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <unittitle>Miscellaneous poems by Stephen Haweis</unittitle>
+                            <physdesc>(6  folders)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <unittitle>Poetry notebooks</unittitle>
+                            <physdesc>(13  volumes)</physdesc>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.8: Documents</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <unittitle>Haweis, Stephen Patent for a musical instrument</unittitle>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <unittitle> Mrs. Stephens Statement by re Hugh Reginald Haweis</unittitle>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.9: Photographs</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <unittitle>Photograph albums</unittitle>
+                            <physdesc>(6  volumes)</physdesc>
+                        </did>
+                    </c>
+         
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <unittitle>Photographs (loose)</unittitle>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.10: Objects </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <unittitle>Joy ,Thomas William Musgrave. Shell and hair</unittitle>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.11: Printed Materials </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">12 &amp; 13</container>
+                            <unittitle>Books by Stephen, his father, and his mother; exhibition; exhibition catalogs; clippings; and The Arbiter of Elegance by Bea Howe, the biography of his mother</unittitle>
+                        </did>
+                    </c>
+                </c>
+      
+            <c level="subseries">
+                    <did><unittitle>Subseries II.12: Artwork </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Flatbox">301</container>
+                            <unittitle>Haweis, Stephen Various pieces of original art (With an 11 page inventory by Margaret E Torrey)</unittitle>
+                            <physdesc>(ca. 200 items )</physdesc>
+                        </did>
+                        <scopecontent><p>[Oversize boxes shelved with collection]</p>
+                        </scopecontent>
+                    </c>
+                </c>
+            </c>
+   
+      </dsc>
+   </archdesc>
+</ead>

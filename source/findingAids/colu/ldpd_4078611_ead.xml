@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078611_ead//EN" mainagencycode="nnc-rb">ldpd_4078611_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Donald Lemen Clark Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-04-03">2012-04-03</date>
+            <item>xml document instance created by Alison Rhonemus.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Clark, Donald Lemen, 1888-1966.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Donald Lemen Clark Papers">Donald Lemen Clark
+            Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1927/1956" type="inclusive">1927-1956.</unitdate>
+         <physdesc><extent encodinganalog="300">7.5 linear ft. (89 items in 16 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0230</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078611</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains correspondence, manuscripts, memorabilia, and printed
+            materials, 1927-1956, of Donald Lemen Clark, Professor of English Literature.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Professor English Literature at Columbia University (Columbia
+            University Ph.D., 1920)</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Letters, manuscripts, memorabilia, and printed materials including letters from a number
+            of well-known authors, three typescript manuscripts, working copies of books in Clark's
+            library, and numerous copies of books inscribed to Clark.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected Materials cataloged; remainder arranged. This collection is arranged in three
+            series: <list type="marked">
+                    <item>Series I: Cataloged and Arranged Material </item>
+               <item>Series II: Books - Working Copies</item>
+               <item>Series III: Inscribed Books</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University--Faculty.</corpname>
+         <persname encodinganalog="600">Ertz, Susan.</persname>
+         <persname encodinganalog="600">Glasgow, Ellen Anderson Gholson, 1873-1945.</persname>
+         <persname encodinganalog="600">Hanford, James Holly, 1882-</persname>
+         <persname encodinganalog="600">Hull, Helen R. (Helen Rose), 1888-1971.</persname>
+         <persname encodinganalog="600">Loggins, Vernon, 1893-</persname>
+         <persname encodinganalog="600">Milton, John, 1608-1674.</persname>
+         <persname encodinganalog="600">Owens, William.</persname>
+         <persname encodinganalog="600">Parry, Albert, 1901-1992.</persname>
+         <persname encodinganalog="600">Paul, Louis, 1901-</persname>
+         <persname encodinganalog="600">Richardson, Dorothy M. (Dorothy Miller),
+            1873-1957.</persname>
+         <persname encodinganalog="600">Robinson, Mabel Louise, 1882?-1972.</persname>
+         <persname encodinganalog="600">Stribling, T. S. (Thomas Sigismund), 1881-1965.</persname>
+         <persname encodinganalog="600">Van Doren, Mark, 1894-1972.</persname>
+         <persname encodinganalog="600">Van Vechten, Carl, 1880-1964.</persname>
+         <subject encodinganalog="650">Education, Ancient.</subject>
+         <subject encodinganalog="650">English literature--Study and teaching.</subject>
+         <subject encodinganalog="650">Rhetoric, Ancient.</subject>
+         <genreform encodinganalog="655" source="aat">Autograph albums.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Autographs.</genreform>
+         <genreform encodinganalog="655" source="aat">Manuscripts.</genreform>
+         <genreform encodinganalog="655" source="aat">Notes.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Textbooks.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Scholars.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1949 M-49 Clark, Donald L. Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Donald L. Clark, 1949 &amp; 1957.</p>
+      </custodhist>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 2-16. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Donald Lemen Clark Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Surveyed 05/04/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged and Arranged Material</unittitle>
+                </did>
+                <c level="file">
+                    <did><unittitle>Cataloged Correspondence:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Ertz, Susan</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Glasgow, Ellen</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Hanford, [James] Holly</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Paul, Louis</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Richardson, Dorothy M.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Smith, Alexander Brent</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Stribling, T.S.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>[Van Doren] Mark</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Van Vechten, Carl</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Miscellaneous</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Cataloged Manuscripts:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Clark, Donald L. <title render="italic">Milton at St. Paul's School</title>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Clark, Donald L<title render="italic">. Notes removed from Parry. Albert. Garrets and Pretenders.</title>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Uncataloged Manuscripts:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Clark, Donald L. <title render="italic">Rhetoric in Greco-Roman Education</title>.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Books - Working Copies</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Milton, <title render="italic">Paradise Regained, </title>
+                            <title render="italic">The Minor Poems, </title>and <title render="italic">Samson Agonistes</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle><title render="italic">The Chapbook, </title> no.22: "Poetry in Prose: 3 essays by T.S. Eliot, Frederic Manning, Richard Aldington."</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle><title render="italic">Modern English Readings, </title>D. Clark &amp; Loomis, eds.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Webb, Clemens C.I., <title render="italic">Ioannis Sareberiensis Episcopi Carnotensis Metalogicon</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle><title render="italic">The Imitation of Buddha, </title>compiled by Ernest Bowden</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Richards, William C, <title render="italic">Harry's Vacation</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Walton, Isaak, <title render="italic">The Complete Angler</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Milton, <title render="italic">Prose Selections</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Eliot, T.S., <title render="italic">For Lancelot Andrews</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Eliot, T.S., <title render="italic">Collected Poems</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Eliot, T.S., <title render="italic">Murder in the Cathedral</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Eliot, T.S., <title render="italic">After Strange Gods</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Eliot, T.S., <title render="italic">The Use of Poetry</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Clark, Donald, <title render="italic">Rhetoric in Greco-Roman Education</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Eggleston, Edward, <title render="italic">The Hoosier School Master</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Aldington, Richard, <title render="italic">A Wreath for San Gemignano</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle><title render="italic">Thinking, Speaking, and Writing, </title>Knickerbocker, Clark, and Veit, eds.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hadas, Moses, <title render="italic">A History of Latin Literature</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Milton Criticism, </title> James Thorpe, ed.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Shakespeare, <title render="italic">Sonnets</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">The Student's Milton</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Wells, Carolyn, <title render="italic">Folly for the Wise</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Eliot, T.S.,  <title render="italic">John Dryden</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Milton, <title render="italic">Poems</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Milton's Poetical Works</title>
+                        </unittitle>
+                    </did>
+                </c>
+            
+            
+            
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Preceptes de Rhetorique</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Hanford, James H., <title render="italic">A Milton Handbook</title>
+                        </unittitle>
+                    </did>
+                </c>
+          
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Eggleston, Edward, <title render="italic">The End of the World</title>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle><title render="italic">Magazine Article Readings,</title> Brennecke and Clark, eds.</unittitle>
+                    </did>
+                </c>
+             <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Aristotle, <title render="italic">Poetics, </title> trans. Butcher</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle><title render="italic">Newman's Essay on Aristotle's Poetics</title>
+                        </unittitle>
+                    </did>
+                </c>
+               <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Clark, Donald, <title render="italic">John Milton at St. Paul's School</title>
+                        </unittitle>
+                    </did>
+                </c>
+             <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Poe, Edgar Allan, <title render="italic">Al Aaraaf</title>
+                        </unittitle>
+                    </did>
+                </c>
+             <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Milton, <title render="italic">Areopagitica</title>
+                        </unittitle>
+                    </did>
+                </c>
+             <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Eliot, T.S., <title render="italic">Poems 1909-1925 </title>
+                        </unittitle>
+                    </did>
+                </c>
+             <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Aristotle, <title render="italic">Rhetorica, de Rhetorica ad Alexandrum, de Poetica</title>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series III: Inscribed Books</unittitle>
+                </did>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Family Bible; Autograph album</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>William Owens</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Mark Van Doren</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Paul Louis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9-11</container>
+                        <unittitle>Helen Hull</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Vernon Loggins</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Mabel Robinson</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Thomas Kennedy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Andre Gide</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Don M. Wolfe</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Edmond Faral</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Dorothy Brewster</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Frank S. Caprio</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Rosemond Tuve</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Ernest Brennecke Jr.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Geoffrey Wagner</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>E.M.W. Tillyard</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Louis M. Hacker</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>John R. Humphreys</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Caroline Gordon</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Allen Tate</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>J.R. Humphreys</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>George N. Conklin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Leonie Adams</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Basil Willey</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Dorothy McCleary</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Alden Hatch</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>John Selby</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Rosemond Tuve</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Dorothy Brewster</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Angus Burrell</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Marchette Chute</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Raymond Weaver</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Joseph Wood Krutch</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Henrietta Mason</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Godfrey Davies</unittitle>
+                    </did>
+                </c>
+            </c>
+      </dsc>
+   </archdesc>
+</ead>

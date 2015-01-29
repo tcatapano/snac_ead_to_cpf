@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://appdev.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078744_ead//EN" mainagencycode="nnc-rb">ldpd_4078744_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Ernestine Evans Papers,
+               1890-1968</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2011-03-18">March 18, 2011 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2011-03-18">March 18, 2011 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2011-03-18">2011-03-18</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Evans, Ernestine, 1889-1967.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Ernestine Evans papers, 1890-1968">Ernestine
+            Evans Papers, 1890-1968</unittitle>
+         <unitdate encodinganalog="245$f" normal="1930/1965" type="inclusive"/>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1930-1967].</unitdate>
+         <physdesc><extent encodinganalog="300">13 linear ft. (28 boxes, 24 document boxes, 2 oversized
+               boxes, 2 index card boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0405</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078744</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is in English. </language>
+         </langmaterial>
+         <abstract>Contained in this collection are documents related to the life and career of
+            Ernestine Evans, a journalist, critic and literary agent active in the
+            early-to-mid-twentieth century. Personal and professional correspondence and a wide
+            variety of literary manuscripts, likely accumulated during her long career as a literary
+            agent, constitute the bulk of this collection. In addition, the collection includes
+            photographs, drawings and other visual material. Also represented in this collection are
+            clippings of Evans' and other journalists' work; printed material, both periodicals and
+            books; personal documents (including address books, contact lists and journals),
+            financial documents and medical documents. </abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Ernestine Evans was a prolific female journalist, author,
+            editor and literary agent active in the early-to-mid twentieth century. </p>
+         <p><!-- BIOGHIST REQUIRED -->Evans was born in Omaha, Nebraska in 1889. The first of two
+            children born to Arthur and Allie Evans (her brother, Ward, was born in 1893). Looking
+            back on her childhood, she would later write that her family rarely lived in the same
+            dwelling for more than a year at a time. Evans' father, a lawyer, had difficulty finding
+            steady work, and her mother was seriously ill for much of Evans' early life; she died
+            when Evans was 16 years old. </p>
+         <p><!-- BIOGHIST REQUIRED -->Evans matriculated at the University of Chicago around 1908,
+            where she undertook a Bachelor of Philosophy degree, specializing in English and
+            Economics and taking a journalism course led by the sociologist George Edgar Vincent. </p>
+         <p><!-- BIOGHIST REQUIRED -->It was also during her college years that Evans's career as a
+            journalist began in earnest. During the latter two years of her degree, Evans served as
+            Assistant to the Editor of the university's <title render="italic">Astrophysical
+               Journal,</title> and her boss, also the University of Chicago's Dean of Science,
+            Henry Gordon Gale, gave her an uncommon degree of freedom with this post: in addition to
+            extensive fact-checking and other quotidian duties, Evans was often given the
+            opportunity to write articles for the <title render="italic">Journal</title> under
+            Gale's name. </p>
+         <p><!-- BIOGHIST REQUIRED -->Upon graduating in 1912, Evans found a job at the <title render="italic">Chicago Inter Ocean,</title> a daily newspaper aimed at an elite
+            readership. Initially Evans was charged with writing articles for the paper's Sunday
+            features pages, but she was soon promoted and became the assistant to the <title render="italic">Inter Ocean's</title> political editor. With this position, she
+            covered the suffrage movement, and traveled to Washington on assignment. Evans' time at
+            the <title render="italic">Inter Ocean</title> was cut short, however: the newspaper
+            folded not long after she joined its ranks. With this job lost, Evans found a job as
+            assistant editor at the <title render="italic">New York Press,</title> a daily penny
+            paper with a reputation for "yellow" journalism. Evans remained at this job for about a
+            year. </p>
+         <p><!-- BIOGHIST REQUIRED -->Evans was offered an assignment for <title render="italic">The
+               Independent,</title> a weekly journal based in Boston, which would require her to
+            travel to Eastern Europe to cover prohibition in Russia. Evans was not offered any
+            travel money for the assignment, but she had some leftover pay from previous writing
+            jobs, and so she set off for Russia. The article that she wrote was rejected by Russian
+            censors, and it was never published. Still, Evans' travels in Europe in pursuit of "the
+            story" seem to have stuck with her, and she began to travel to Europe quite regularly,
+            working as a freelance foreign correspondent for publications that included the <title render="italic">New York Tribune,</title>
+            <title render="italic">The Nation</title> and <title render="italic">Asia
+               Magazine.</title> She would later write of her experiences reporting from Moscow
+            during the Russian Revolution as gunfire was exchanged outside her hotel window. </p>
+         <p><!-- BIOGHIST REQUIRED -->Evans also involved herself with women's suffrage. In the
+            years preceding and following the United States' decision to grant women the vote in
+            1920, Evans wrote for <title render="italic">The Suffragist,</title> an organ of the
+            National Woman's Party, which later changed its name to Equal Rights. She also reported
+            on the suffrage movement in Britain for the <title render="italic">Philadelphia Public
+               Ledger.</title>
+         </p>
+         <p><!-- BIOGHIST REQUIRED -->After the end of World War I, Evans returned to the United
+            States, where she found work as features editor of the <title render="italic">Christian
+               Science Monitor.</title> Her responsibilities included buying eleven columns per day,
+            as well as many illustrations, for the paper. Through the mid-1920s she continued to
+            work as a freelance journalist, and wrote articles for <title render="italic">The
+               Nation,</title>
+            <title render="italic">Century Magazine,</title> the <title render="italic">Virginia
+               Quarterly,</title> the <title render="italic">Manchester Guardian,</title> and
+            others; she also served as Paris correspondent for Reynolds News Agency. Moreover,
+            during these years she produced the children's book review supplement for <title render="italic">The New Republic,</title> which contained articles and reviews by
+            Bertrand Russell, Charles A. Beard, Genevieve Taggard, Babette Deutsch, and Lewis
+            Mumford, among others, including Evans. </p>
+         <p><!-- BIOGHIST REQUIRED -->During these years Evans also worked at the Whitney Studio
+            Club, a meeting place--founded by Gertrude Vanderbilt Whitney--for artists living in
+            Greenwich Village. There, Evans learned about painting and becoming involved in the
+            neighborhood's growing art scene. Through her connections at the Whitney Studio Club,
+            Evans was hired as an assistant editor at Coward-McCann, a publishing company whose
+            start-up had also been funded by Whitney. The first book she brought to the firm was a
+            children's title, Wanda Gag's <title render="italic">Millions of Cats,</title> a
+            spectacular success which, having sold millions of copies since its publication, is
+            still in print today. </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1929, Evans authored a book of her own: <title render="italic">Frescoes of Diego Rivera,</title> a large-format publication that
+            featured the work of the Mexican artist. Evans, who had previously traveled to Mexico as
+            a reporter for the <title render="italic">New York Times,</title> and had written of the
+            working-class appeal of Rivera's work, was responsible for every aspect of the book from
+            start to finish; on its publication, it was the first English-language book on Rivera,
+            and has been cited as a key document in Rivera's rise to popularity in the
+            English-speaking world. </p>
+         <p><!-- BIOGHIST REQUIRED -->Evans left Coward-McCann in 1930, taking a job with
+            Lippincott, another publishing house. Evans' Lippincott career, like her previous
+            position, allowed her to travel extensively to scout new books. She also oversaw
+            Lippincott's children's publications. </p>
+         <p><!-- BIOGHIST REQUIRED -->With the rise of the Great Depression, Evans moved to
+            Washington, and went to work for Rexford Tugwell, the head of the Resettlement
+            Administration (RA), an initiative established in 1935, as part of the New Deal, to ease
+            the effects of the Depression on Americans by relocating struggling families to planned
+            communities. Evans pushed for Tugwell to hire the little-known photographer Walker Evans
+            (no relation to Ernestine), who she had previously worked with in her publishing career,
+            to document the RA's accomplishments, believing that both the abject poverty many
+            Americans were enduring, and the government's efforts to allay it, would be best
+            illustrated by photographs. Evans also hired several additional photographers, including
+            Ben Shahn, to undertake similar documentary work for the RA; virtually all of them would
+            go on to enjoy great success as photographers for <title render="italic">Life</title>
+            magazine and/or Magnum photo agency. Ernestine Evans was, in addition, responsible for
+            proposing the Works Progress Administration Guides, a series of guidebooks to regions of
+            the United States that were part of the Federal Writers' Project. The project employed
+            hundreds of unemployed writers and researchers, and many of the guides are still in
+            print today. </p>
+         <p><!-- BIOGHIST REQUIRED -->As the Great Depression ended, Evans returned to her previous
+            occupations of freelance journalist, literary agent, and world traveler. She went to
+            London as a book scout, worked as a researcher for <title render="italic">Fortune</title> magazine, and reported on Finland for a "March of Time" newsreel
+            about the country. As World War II began, she returned to the United States. She again
+            went to work for the government in 1943, securing a job with the Office of War
+            Information (OWI). With this position, Evans assisted in efforts to engineer America's
+            image for domestic and foreign audiences. With the large, internationally dispersed
+            network of friends and colleagues that Evans had accumulated, she continued to learn
+            about foreign cultures through her correspondence with friends situated in other places. </p>
+         <p><!-- BIOGHIST REQUIRED -->From about 1944 until the early 1950s, Evans worked as a book
+            reviewer for the <title render="italic">New York Herald Tribune's</title> weekly
+            supplement, but as she grew older fewer writing jobs opened up for her. </p>
+         <p><!-- BIOGHIST REQUIRED -->Evans died in 1967.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This collection contains material related to the life of Ernestine Evans and others in
+            her broad network of friends and colleagues. Correspondence, both personal and
+            professional, and literary manuscripts, constitute the bulk of the collection. The
+            majority of the letters date from the 1940s onward; Evans' early correspondence is not a
+            part of this collection. The collection contains dozens of literary manuscripts; most of
+            these probably belong to authors for whom Evans served as literary agent. Evans' own
+            written work is also available here in the form of clippings and other printed material.
+            Moreover, the collection contains a considerable number of personal documents that offer
+            insight into the practicalities of Evans' life, including notebooks, contact lists,
+            passports, medical documents and financial records. Copious photographs on a range of
+            subjects, as well as a variety of mostly unattributed life-drawings and paintings,
+            constitute the considerable array of visual material that this collection also
+            contains.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in four series:<list type="marked">
+               <item>Series I. Correspondence, 1912, 1926-1968, Undated</item>
+               <item>Series II. Writings, 1922-1962, Undated</item>
+               <item>Series III. Personal, 1907-1968, Undated</item>
+               <item>Series IV. Visual Material, 1890s-1963, Undated</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Evans, Ernestine, 1889-1967.</persname>
+         <persname encodinganalog="600">Flaherty, Frances Hubbard.</persname>
+         <persname encodinganalog="600">Flaherty, Robert Joseph, 1884-1951.</persname>
+         <persname encodinganalog="600">Forbes-Robertson, Diana.</persname>
+         <subject encodinganalog="650">Journalism--United States.</subject>
+         <subject encodinganalog="650">Journalists--Correspondence.</subject>
+         <subject encodinganalog="650">Women and journalism.</subject>
+         <subject encodinganalog="650">Women authors, American.</subject>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Women journalists.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1968 M-68 Flaherty, Frances Hubbard Gift </p>
+         <p>1995 Ross G. Harrison, III Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Frances Hubbard Flaherty, 1968. </p>
+         <p>Gift of Ross G. Harrison, III, 1995</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Ernestine Evans Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 06/--/1989 Christina Hilton Fenn </p>
+         <p>Collection Processed 2009 Annie Rudd, Columbia University Graduate School of Journalism
+            2013 </p>
+         <p>Finding aid Written 05/--/2009 Annie Rudd, Columbia University Graduate School of
+            Journalism 2013</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <relatedmaterial encodinganalog="544">
+         <head>Related Material</head>
+         <p><extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/archival/collections/ldpd_4079827/index.html">Joseph Barnes Papers, 1907-1970, 1923-1970</extref> Columbia University, Rare Book
+            &amp; Manuscript Library </p>
+         <p><extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/archival/collections/ldpd_4078991/index.html">Hubert Renfro Knickerbocker Paper, 1914-1950</extref> Columbia University, Rare Book
+            &amp; Manuscript Library</p>
+      </relatedmaterial>
+
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence, <unitdate>1912, </unitdate>
+                        <unitdate type="inclusive">1926-1968, </unitdate>
+                        <unitdate>Undated</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains Evans' personal and professional correspondence, and it includes letters both incoming and outgoing. The majority of these letters dates to the 1940s and 1950s; this archive does not contain Evans' early correspondence. Evans' most voluminous correspondence was with Jessie Heckman Hirschl, a lifelong friend whom she met during her undergraduate studies. Other friends and colleagues that are well represented here include: Evans' close friend Frances H. Flaherty, wife of the documentary filmmaker Robert Flaherty. (Evans collaborated with Robert Flaherty on several occasions.); Gertrude Emerson Sen, an expert on Asia, who lived in India and was, like Evans, a member of the Society of Women Geographers; Margaret Barrington (“Topsy”), a writer who lived in Ireland; Helga Greene, a prominent London literary agent; and Karl A. Bickel and Carleton Beals, two writers for whom she served as literary agent. Evans' correspondence also includes letters to and from luminaries that include Walker Evans, Jean Renoir, Cornell Capa and Katherine Anne Porter. </p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1 to 12</container>
+                  <unittitle>Incoming, <unitdate>1912</unitdate>
+                     <unitdate type="inclusive">1930s-1949</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(13 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">1 to 11</container>
+                  <unittitle>Incoming, <unitdate type="inclusive">1950-1959</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(11 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">1 to 5</container>
+                  <unittitle>Incoming, <unitdate>1960s</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(5 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">6 to 11</container>
+                  <unittitle>Incoming, <unitdate>Undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(6 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">1 to 2</container>
+                  <unittitle>Incoming, <unitdate>Undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">3 to 8</container>
+                  <unittitle>Outgoing, circa <unitdate type="inclusive">1930s-1967</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(6 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">1 to 5</container>
+                  <unittitle>Outgoing, circa <unitdate type="inclusive">1930s-1967</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(5 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Outgoing, <unitdate type="inclusive">1941-1945,
+                        </unitdate>
+                            <unitdate>Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Outgoing, <unitdate>1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">8 to 13</container>
+                  <unittitle>Outgoing--Flaherty, Robert and Frances, circa <unitdate type="inclusive">1940-1950</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(6 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>Outgoing, <unitdate type="inclusive">1960-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">15 to 16</container>
+                  <unittitle>Others, <unitdate type="inclusive">1932-1958,
+                        </unitdate>
+                            <unitdate>Undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">1 to 2</container>
+                  <unittitle>Others, <unitdate type="inclusive">1932-1958,
+                        </unitdate>
+                            <unitdate>Undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">3 to 4</container>
+                  <unittitle>Regarding Evans, <unitdate type="inclusive">1955-1967,
+                        </unitdate>
+                            <unitdate>Undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Fragments, <unitdate type="inclusive">1941-1965,
+                        </unitdate>
+                            <unitdate>Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Alphabetical and previously catalogued</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Allen, Evelyn, <unitdate>1953,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Anderson, Eleanor and Sherwood, <unitdate type="inclusive">1946-1957, </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Barrington, Margaret “Topsy,” <unitdate type="inclusive">1941-1952,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Bickel, Karl, <unitdate type="inclusive">1941-1954,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Bliven-Sheean, <unitdate type="inclusive">1941-1945</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Capa, Cornell, <unitdate>Undated</unitdate> (includes reminiscences
+                        of Robert Capa)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Evans, Walker, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Flaherty, Robert, Frances and family,
+                        <unitdate>1938</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Flaherty, Robert, Frances and family, <unitdate type="inclusive">1937-1951, </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Graham, Eleanor, <unitdate type="inclusive">1940-1958,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Greene, Helga, <unitdate type="inclusive">1953-1965,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">4 to 11</container>
+                     <unittitle>Hirschl, Jessie [Heckman], <unitdate type="inclusive">1938-1968,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(8 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Johnstone, Ken, <unitdate type="inclusive">1959-1961,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>MacLeish, Archibald, <unitdate>1940,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Plomer, William, <unitdate type="inclusive">1943-1958</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle> [Porter,] Katherine Anne, <unitdate type="inclusive">1944-1951,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Schaffner, John to Mr. and Mrs. Richard Edes Harrison,
+                           <unitdate>1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">5 to 6</container>
+                     <unittitle>Sen, Gertrude--Mrs. Basiswar, <unitdate type="inclusive">1926-1965,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle> [Treat Bergeret,] Ida, <unitdate type="inclusive">1947-1958,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">8 to 10</container>
+                     <unittitle>General, <unitdate type="inclusive">1941-1958,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Writings, <unitdate type="inclusive">1922-1962,
+                     </unitdate>
+                        <unitdate>Undated</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>Included in this series are manuscripts, drafts, published work and notes by Evans and others; many of the writers whose work appears here were probably Evans' clients during her time as a literary agent. Various manuscripts of Evans' written work are available, including several drafts of an article about Nina Khrushcheva that she wrote during Khrushcheva and her husband's visit to America in 1959, drafts of book reviews, articles for the Office of War Information and various other writings. </p>
+               <p>Manuscripts and drafts by other authors include work by Carlton Beals, Martha Bensley Bruère, Clinch Calkins, Elizabeth Ellis, Thomas Hibben, Anabel Hughes, Paula Holladay, Ellen Nelson, James W. Osgood, Ken Sato, Felizia Seyd, Janet Stevenson, Harriet Teague, Beatrice Washburn, Annabel Williams-Ellis, and Corwin Willson, among others. </p>
+               <p>Memoranda, transcripts, newspaper and magazine clippings (of Evans' work and others'), and full periodicals and books are also represented. </p>
+                </scopecontent>
+            <c level="file">
+               <did><unittitle>By Evans</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">11 to 12</container>
+                     <unittitle>General, <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Book Reviews, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Finland--for <title render="italic">Esso Magazine,
+                           </title>
+                                <unitdate>1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>Nina Khrushcheva, <unitdate>1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle> “Looking East from Moscow”--for <title render="italic">Asia</title>
+                        magazine, <unitdate>1922</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle> “The Man at the Corner Table,” manuscript,
+                           <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">18</container>
+                     <unittitle> “A New Name in Lights: Gertrud Scholtz-Klink,” circa
+                           <unitdate>1936</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Office of War Information, <unitdate>1943</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle> “The War of Ideas”--for the <title render="italic">Herald Tribune,
+                           </title>
+                                <unitdate>1943</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Writings on World Religion, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Box" label="Box">4-5</container>
+                     <unittitle>Untitled manuscript, Undated, chapters 1-11 (2 Folders)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>By others</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Authorship Unknown</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Children’s Fables, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Children’s Literature, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>"Conversion of Exigency,"
+                           <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle><title render="italic">Germany, </title>
+                           <unitdate>Undated</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>History of Grace Abbott and U.S. Children’s Bureau,
+                              <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Irish-American History, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Korea, circa <unitdate>1950s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Poetry, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">The Seventh Continent, </title>
+                           <unitdate>Undated</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Tilly, </title>
+                           <unitdate>Undated</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Vegetables, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Wedding Trip, </title>
+                           <unitdate>Undated</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">6 to 7</container>
+                        <unittitle><title render="italic">Who Is Growing Older? Everybody!, </title>
+                           <unitdate>Undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">8 to 9</container>
+                        <unittitle>General--Manuscripts, <unitdate>Undated</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>General--Fragments, <unitdate>Undated</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(1 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">1 to 9</container>
+                        <unittitle>General--Fragments, <unitdate>Undated</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(9 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Augur, Helen--various, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Beals, Carlton-- <title render="italic">Flower of France,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Beals, Carolyn Kennedy-- <title render="italic">The Trial Begins,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Boehm, Carson-- <title render="italic">Oceanography,
+                           </title>
+                                <unitdate>1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Boyd, Madeleine-- <title render="italic">Claude Monet,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">6 to 7</container>
+                     <unittitle>Bruère, Martha Bensley and Robert Bruère-- <title render="italic">The Triumph of Felicity Brail: An American Parable, </title>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+              
+            
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Calkins, Clinch-- <title render="italic">State Occasion,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">9 to 10</container>
+                     <unittitle>Craton, Anne Washington--untitled,
+                        <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Ellis, Elizabeth-- <title render="italic">The Fatal Diet,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Grierson, John-- <title render="italic">Propaganda and Education,
+                           </title>
+                                <unitdate>1943</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Hibben, Thomas-- <title render="italic">Rammed Earth Construction,
+                           </title>
+                                <unitdate>1940,
+                        </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Holladay, Paula-- <title render="italic">Call Me Hagar,
+                           </title>
+                                <unitdate>Undated</unitdate> (incomplete)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Holladay, Paula--“Prolegomena” to “The Journey Homeward,”
+                           <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">6 to 7</container>
+                     <unittitle>Holladay, Paula--various, <unitdate>Undated</unitdate> (2
+                        Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Holmes, Winifred--poetry--“The Red Sea Dolphins,”
+                           <unitdate>1945</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Hughes, Anabel--Poetry--Drafts and Notes,
+                           <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Jarecka, Louise--Journal, circa
+                        <unitdate>1931</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Leland, Marine-- French Canada, <unitdate type="inclusive">1944-1945</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Lovett, Robert Morss--“The Outside Children – The Virgins,”
+                           <unitdate>1942</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Momoko, Ishii--“Merry Dolls, Quiet Dolls,”
+                           <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Morrison, Stanley-- <title render="italic">The Bibliography of
+                           Newspapers and the Writing of History,
+                        </title>
+                                <unitdate>1954</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Nelson, Ellen-- <title render="italic">Dodo the Duck,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Osgood, James W.-- <title render="italic">A Constructive Program for
+                           Conservatives, </title>
+                                <unitdate>Undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Sato, Ken-- <title render="italic">The Yellow Jap Dogs,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Sen, Gertrude-- <title render="italic">Testing Ground in NEFA,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">2 to 3</container>
+                     <unittitle>Seyd, Felizia-- <title render="italic">Alexander I of Russia,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Shapley, Olive--untitled manuscript, <unitdate type="inclusive">1949-1950</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Stevenson, Jane-- <title render="italic">Kate: A Play,
+                           </title>
+                                <unitdate>1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Teague, Harriet-- <title render="italic">Richard Mill: In Memoriam,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Thompson, Dorothy--“Editorial for Ladies’ Home Journal,”
+                           <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Tikhonov, Nikolai-- <title render="italic">Tales of Leningrad,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Treat, Ida--Manuscripts, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Turner, Roger-- <title render="italic">If I must go down to the sea
+                           again, </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Uht, John-- <title render="italic">Four Tigers, Four Trees and Mabu,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Washburn, Beatrice--Short Pieces,
+                        <unitdate>1939</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Washburn, Beatrice-- <title render="italic">Sketches of
+                           Mexico</title>-- <title render="italic">Manchester Guardian,
+                           </title>
+                                <unitdate>1940</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Williams-Ellis, Annabel-- <title render="italic">Human Nature Study
+                           for Schools, </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">2 to 4</container>
+                     <unittitle>Willson, Corwin-- <title render="italic">Merrily We Roll,
+                           </title>
+                                <unitdate>1962</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Woodward, Anne-- <title render="italic">Paddy Corrigan Stories,
+                           </title>
+                                <unitdate>1954</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Wuolijoki, Hella-- <title render="italic">Women of Property,
+                           </title>
+                                <unitdate>1937</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Children’s Book Manuscripts</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Barrington, Margaret, <unitdate>1946,
+                              </unitdate>
+                                    <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Jarecka, Louise, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>General, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">1 to 6</container>
+                     <unittitle>Various Authors, A-Y, <unitdate>Undated</unitdate> (6
+                        Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Project files--Greeting Cards,
+                        <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Project files--General, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Memos and Press Releases</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><title render="italic">BBC Fortnightly Newsletter, </title>
+                        <unitdate>1942</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>British Information Services, <unitdate>1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>George Eastman House, <unitdate>1949,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle><title render="italic">Journal of the American Medical Association, </title>
+                        <unitdate type="inclusive">1943-1944</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle><title render="italic">Lend Lease: Miss Rankin’s Amendment, </title>
+                        <unitdate>1941</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Magnum Photo, <unitdate type="inclusive">1955-1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Palmer, Frederick, <unitdate>1945</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Penguin Books, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Post Office Department, <unitdate type="inclusive">1946-1958</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><title render="italic">UNESCO World Review, </title>
+                        <unitdate>1949</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>General, <unitdate type="inclusive">1944-1957,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Notes</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Biographical, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Women Journalists, <unitdate>1945</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">9 to 10</container>
+                     <unittitle>General, <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Printed Material</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Books</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>General, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Cockade Portfolio, V. I. Lenin,
+                           <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Ellen Browning Scripps, <unitdate>1936</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Encyclopedia Britannica--Picture Books,
+                              <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>From Learning to Earning, The Welsh,
+                           <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Children and Their Books, edited by Evans,
+                              <unitdate>1926</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Collection by Evans, circa <unitdate type="inclusive">1928-1940</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Lasten Kesä, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Clippings</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Eleanor Anderson, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Manchester Guardian, </title>
+                           <unitdate>1948</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Newspaper Articles by Evans, <unitdate type="inclusive">1945-1953, </unitdate>
+                                    <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Magazine Articles by Evans, circa <unitdate type="inclusive">1920s-1949</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Reviews by Evans, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>General, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Pamphlets</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Alfred University, <unitdate type="inclusive">1942-1943</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Children’s Literature, <unitdate type="inclusive">1939-1960</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Lamont, Corliss--“The Myth of Soviet Aggression,” “Challenge to
+                           McCarthy,” <unitdate type="inclusive">1953-1954</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Medical, <unitdate>1947,
+                           </unitdate>
+                                    <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Scottish independence, <unitdate type="inclusive">1944-1946</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>United States Children’s Bureau, <unitdate type="inclusive">1937-1962</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Periodicals</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle><title render="italic">Fair Winds</title> magazine, <unitdate type="inclusive">1937-1939</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Trade Magazines: Advertising Typographers Association of America,
+                           Schlumberger, Standard Oil, <unitdate type="inclusive">1952-1957</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>General, <unitdate type="inclusive">1941-1958</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Transcripts</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle> “Woman’s Hour,” <unitdate>1949</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Library of Congress Hearings, <unitdate>1954</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>The Hollywood Story,” <unitdate>1948</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <container type="Folder" label="Folder">5 to 6</container>
+                  <unittitle>Proposals, <unitdate>Undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Subject Files</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Film, <unitdate type="inclusive">1944-1948,
+                           </unitdate>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Finland, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Missionaries of Batanga, Phillipines,
+                        <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Office of War Information, <unitdate type="inclusive">1938-1944</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Personal, <unitdate type="inclusive">1907-1968,
+                     </unitdate>
+                        <unitdate>Undated</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>Personal documents relating to Evans' life, including mementos and ephemera, address books and journals, medical and financial documents, and government-issued documents, such as passports can be found in this series.  Also included in this series are documents relating to Evans' old age care, funeral, and memorial services. There is also a small collection of documents related to three other parties: real estate and financial documents regarding the Hirschl family, as well as personal documents belonging to Louise F. Lee and Colin Landin.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Autobiographical Writings and Guggenheim Fellowship Application,
+                        <unitdate>Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">12 to 13</container>
+                  <unittitle>Ephemera and Mementos, <unitdate type="inclusive">1941-1962,
+                        </unitdate>
+                            <unitdate>Undated</unitdate> (2 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">1 to 23</container>
+                  <unittitle>Address Books, <unitdate>Undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(23 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Address book, <unitdate>Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Journal, <unitdate>Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Postcards, <unitdate>Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">4 to 8</container>
+                  <unittitle>Postcards to Evans, <unitdate type="inclusive">1907-1966,
+                        </unitdate>
+                            <unitdate>Undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(5 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Contacts, <unitdate type="inclusive">1965-1966,
+                        </unitdate>
+                            <unitdate>Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Contacts--UN Telephone Directory, <unitdate>1945</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Financial</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Banking, <unitdate type="inclusive">1941-1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Leases, <unitdate type="inclusive">1946-1961</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>General, <unitdate type="inclusive">1941-1967</unitdate>
+                        <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Flaherty Films, <unitdate type="inclusive">1946-1965</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Medical documents, <unitdate type="inclusive">1953-1965,
+                        </unitdate>
+                            <unitdate>Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Passports, <unitdate type="inclusive">1949-1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Funeral and Memorial Service for Evans, <unitdate type="inclusive">1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Others</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Flaherty, Robert--Memorial Documents, <unitdate type="inclusive">1948-1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Hirschl, Jessie [Heckman]--financial documents, <unitdate type="inclusive">1892-1965</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">6 to 9</container>
+                     <unittitle>Landin, Colin--Correspondence, <unitdate type="inclusive">1950-1954,
+                           </unitdate>
+                                <unitdate>Undated</unitdate> (4 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Landin, Colin--General, <unitdate type="inclusive">1951-1956</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Lee, Louise, <unitdate type="inclusive">1945-1956</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Weil, Elsie--Journal, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IV: Visual material, <unitdate type="inclusive">1890s-1963,
+                     </unitdate>
+                        <unitdate>Undated</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains a wide array of photographs, prints, drawings and watercolor paintings. Among the large collection of photographs are a small number of images of Evans; images of schoolchildren by the renowned photographer Gordon Parks; images and manuscripts from the Magnum News Service; photographs and picture postcards from many countries around the world, including Russia, Mongolia, India and Mexico; and film stills from documentaries by Evans' friend and colleague, Robert Flaherty. </p>
+               <p>Other visual material includes unattributed life-drawings as well as drawings and paintings by children, perhaps dating to Evans' time at the Whitney Studio Club; large-format illustrated maps and posters; illustrations and page proofs, likely from books that Evans commissioned and edited while working as a literary agent; and a smattering of additional material. </p>
+                </scopecontent>
+            <c level="file">
+               <did><unittitle>Photographs</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Ernestine Evans, <unitdate type="inclusive">1890s-1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Astor Place Riots and Rammed Earth Construction,
+                           <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Robert Flaherty documentary film stills,
+                           <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>India and Africa, various, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Magnum News Service Photographs: Algeria, Space Exploration, Moscow,
+                        Iraq, <unitdate>1963</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Parks, Gordon--Students of P.S. 186 in Harlem,
+                           <unitdate>1945</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>India--News Stock Images, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Individuals, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Mexico, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle> “Moscow Strikes Back,” <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Miller, Lee--Unidentified Sitter,
+                        <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Southeast Asia, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>U.S.S.R., <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">10 to 14</container>
+                     <unittitle>General, <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(5 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <container type="Folder" label="Folder">1 to 11</container>
+                     <unittitle>India, <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(11 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <container type="Folder" label="Folder">12 to 23</container>
+                     <unittitle>General, <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(12 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Visual Material--Oversize</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Drawings--Hewes, Alanson--Life-Drawings,
+                           <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Illustrations and Page Proofs--Jones, Lombard
+                        C.--Papermaking Cartoons, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Illustrations and Page Proofs--Kimball, Marie-- <title render="italic">The Martha Washington Cookbook,
+                           </title>
+                                <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <container type="Folder" label="Folder">4 to 5</container>
+                     <unittitle>Paintings--Watercolor Landscapes by Children,
+                           <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Photographs, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Posters--British Information Services,
+                        <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Relief Prints, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Reproductions, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <container type="Folder" label="Folder">10 to 11</container>
+                     <unittitle>General visual material, unattributed,
+                        <unitdate>Undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Visual Material--General</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Book Art, <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Cartoon Cells--“Rumpus,” <unitdate>Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Data Visualizations--Scott Air Force Base, circa
+                           <unitdate>1945</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Drawings</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">28</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Children’s, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">28</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Craig, John, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">28</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Hewes, Alanson, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">28</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Pen, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">28</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Pencil and Charcoal, <unitdate>Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                    </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">28</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>General, <unitdate>Undated</unitdate>
+                            </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">28</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Illustrations--Japanese, <unitdate>Undated</unitdate>
+                            </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><unittitle>Illustrations and Page Proofs</unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">11</container>
+                           <unittitle>Hewes, Alanson, <unitdate>Undated</unitdate>
+                                </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">12</container>
+                           <unittitle>Lee, Charles--An Almanac of Reading,
+                              <unitdate>1940</unitdate>
+                                </unittitle>
+                        </did>
+                     </c>
+
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">13</container>
+                           <unittitle>Nautical Motifs-Mexican children,
+                              <unitdate>Undated</unitdate>
+                                </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">14</container>
+                           <unittitle>Scherf, Margaret--The Case of the Kippered Corpse,
+                                 <unitdate>Undated</unitdate>
+                                </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">15</container>
+                           <unittitle>Various, <unitdate>Undated</unitdate>
+                                </unittitle>
+                        </did>
+                     </c>
+               </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">16</container>
+                           <unittitle>Paintings--Watercolor,
+                              <unitdate>Undated</unitdate>
+                            </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">17</container>
+                           <unittitle>Paintings--Other, <unitdate>Undated</unitdate>
+                            </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">18</container>
+                           <unittitle>Posters--British Empire, Cuba, U.S. Office of
+                              Emergency Management, <unitdate>Undated</unitdate>
+                            </unittitle>
+                        </did>
+                     </c>
+                     
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">19</container>
+                           <unittitle>Relief Prints, <unitdate>Undated</unitdate>
+                            </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">20 to 21</container>
+                           <unittitle>Reproductions, <unitdate>Undated</unitdate>
+                            </unittitle>
+                           <physdesc><extent/>(2 folders)</physdesc>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                           <container type="Folder" label="Folder">22</container>
+                           <unittitle>General, <unitdate>Undated</unitdate>
+                            </unittitle>
+                        </did>
+                     </c>
+                  </c>
+               </c>
+            
+         
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,3522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079103_ead//EN" mainagencycode="nnc-rb">ldpd_4079103_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Peter Wellington Alexander Papers,</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+                    Manuscript Library; machine readable finding aid created by Columbia University
+                    Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+                    University Libraries</publisher>
+                <date encodinganalog="Date" normal="2009-03-25">March 25, 2009 </date>
+                <address><addressline>6th Fl. East</addressline>
+                    <addressline>535 West 114th St.</addressline>
+                    <addressline>New York, NY 10027</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT
+                conversion <date normal="2009-03-25">March 25, 2009 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2009-03-25">2009-03-25</date>
+                <item>File created.</item>
+            </change>
+            <change><date normal="2009-05-04">2009-05-04</date>
+                <item>xml document instance created by Carrie Hintz</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Alexander, Peter Wellington, 1825-1886.</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="Papers,">Peter Wellington Alexander Papers,</unittitle>
+            <unitdate encodinganalog="245$f" normal="1855/1863" type="inclusive">1855-1863,</unitdate>
+            <physdesc><extent encodinganalog="300">10 linear feet (18 document boxes and 12 flat boxes).</extent>
+                <extent>16 reels of microfilm (8 positive reels-2 copies of reels 1-3 &amp;
+                    5-7); 8 master negative reels).</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+                </corpname>
+                <address><addressline>New York, New York 10027.</addressline>
+                </address>
+            </repository>
+            <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0016</unitid>
+            <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079103</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng">In English</language>
+            </langmaterial>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>History</head>
+            <p><!-- BIOGHIST REQUIRED -->Colonel Peter Wellington Alexander, Confederate States of
+                America, Georgia-born editor and Civil War correspondent.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>The collection consists of over four hundred letters to Alexander, as well as miscellaneous letters and telegrams; business and military documents; and copybooks and letter books; and complete and partial newspapers and clippings from the various Southern newspapers with which he was affiliated, in particular <title render="italic">The Savannah Republican</title> and the <title render="italic">Advertiser and Register</title> of Mobile, which carried Alexander's dispatches.</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>Collection is arranged into 5 series:
+            <list type="marked">
+                    <item>Cataloged Correspondence</item>
+               <item>Arranged Series<list type="marked">
+                     <item>Correspondence</item>
+                     <item>Telegrams</item>
+                     <item>Manuscripts &amp; Documents</item>
+                     <item>Copybooks, Letterbooks, etc.</item>
+                     <item>Miscellaneous Documents</item>
+                     <item>Orders</item>
+                     <item>Reports</item>
+                  </list>
+                    </item>
+               <item>Southern United States Newspspers</item>
+               <item>Printed Documents &amp; Books</item>
+               <item>Addition (1976)</item>
+                </list>
+            </p>
+            </arrangement>
+        <controlaccess><head>Subjects</head>
+            <corpname encodinganalog="610">Confederate States of America.--Army.</corpname>
+            <geogname encodinganalog="651">United States--History--Civil War, 1861-1865--Personal
+                narratives.</geogname>
+            <occupation encodinganalog="656" source="lcsh">Journalists.</occupation>
+            <occupation encodinganalog="656" source="lcsh">Editors.</occupation>
+        </controlaccess>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>Microfilm</p>
+        </acqinfo>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known); Peter Wellignton Alexander Papers,
+                1855-1863; Box and Folder; Rare Book and Manuscript Library, Columbia University
+                Library.</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Collection, processed by MAry Boone Bowling, December, 1974</p>
+   
+            <p>Microfilm Entered 05/14/1992 HR</p>
+        </processinfo>
+        <otherfindaid encodinganalog="555">
+            <p>Guide to the materials on microfilm, 1 volume, in repository.</p>
+        </otherfindaid>
+        <relatedmaterial><head>Selected Related Material</head>
+            <p><extref xlink:type="simple" xlink:href="http://www.ozarkscivilwar.org/">Community &amp; Conflict: The Impact of the Civil War in the Ozarks</extref> 
+         </p>
+            <p>This online exhibition includes a large amount of dogitized material from the Columbia University Collection</p>
+        </relatedmaterial>
+        <dsc><c level="series">
+                <did><unittitle>Cataloged Correspondence</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, A[lmerine] M.</persname>To
+                            [Thomas C. Hindman]<geogname>Camp on the White River</geogname>
+                            <unitdate>23 Oct. 1862</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[On microfilm reels 90-2021 and 91-2089]</p>
+                        </note>
+                    </did>
+                </c>
+
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, A[lmerine] M.</persname>To
+                            R. C. Newton. <geogname>[n.p.]</geogname>
+                            <unitdate>23 Oct. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 2p.</extent>
+                        </physdesc>
+                        <note><p>[On microfilm reels 90-2021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, George D.</persname>To
+                            Thomas C. Hindman. <geogname>Little Rock, Ark.</geogname>
+                            <unitdate>15 Nov. 1862 and [n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 a.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[On microfilm reels 90-2021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, George D.</persname>To R.C.
+                            Newton. <geogname>Post Arkadelphia, Ark.</geogname>
+                            <unitdate>10 March 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 5 p.</extent>
+                        </physdesc>
+                        <note><p>[On microfilm reels 90-1021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, George S. (Alexanders'
+                            son)</persname>To Theresa Shorter Alexander. <geogname>[near Columbua,
+                                GA]</geogname>
+                            <unitdate>1877.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander Peter
+                            Wellington</persname>To [?]. <geogname>Near Chattanooga</geogname>
+                            <unitdate>4 Oct. 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname> Business and professional correspondence.
+                                <geogname>[v.p.]</geogname>
+                            <unitdate>3 Aug. 1866-21 July 1886.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>4 a.l.s., 1 p.l.s., with 5 encl.</extent>
+                        </physdesc>
+                        <note><p>[Not on microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To Mrs. Alexander. <geogname>Columbus and Atlanta</geogname>
+                            <unitdate>27 March 1870-[13 Dec.] 1876.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>4 a.l.s., 25 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To W.A. Little. <geogname>Atlanta, GA, </geogname>
+                            <unitdate>1 Jan 1874.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Page from copybook. <lb/>Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>Letters to Peter Wellington Alexander from various
+                            people. <geogname>[v.p.]</geogname>
+                            <unitdate>10 Feb. 1876-2 Jan. 1884.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>Letters from various persons. <geogname>Marietta
+                                and Macon, </geogname>
+                            <unitdate>23 June 1876 -14 March 1881.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>3 a.l.s., 1 p.c., 9 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To Mrs. Alexander. <geogname>Marietta and Atlanta, </geogname>
+                            <unitdate>3 Jan. -2 Feb. 1977,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 a.l.s., 15 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>    
+                <c level="file">                    
+               <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To Mrs. Alexander. <geogname>Atlanta and Marietta, </geogname>
+                            <unitdate>31 March -29 Dec. 1877.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>4 a.l.s., 16 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To Mrs. Alexander. <geogname>Marietta, </geogname>
+                            <unitdate>7 Sept. 1878 -21 March 1879.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 a.l.s., 17 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To Mrs. Alexander. <geogname>Marietta and Atlanta, </geogname>
+                            <unitdate>9 July 1880 -24 March [1881],</unitdate>
+                        </unittitle>
+                        <physdesc><extent>4 a.l.s., 11 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To Mrs. Alexander. <geogname>Marietta and Macon, </geogname>
+                            <unitdate>1 April 1881 -5 June 1884.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>4 a.l.s., 12 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To his daughter, Sallie, and his neice [Lizzie?].
+                                <geogname>Marietta and Atlanta</geogname>
+                            <unitdate>16 Feb. 1877 -27 March 1881.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>4 a.l.s., 12 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To Joseph Emerson Brown (1821-1894).
+                                <geogname>Macon, Ga.</geogname>
+                            <unitdate>25 Jan. 1884.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 1 p. (draft).</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Peter
+                            Wellington</persname>To James Milton Smith (1823-1890).
+                                <geogname>Marietta, Ga.</geogname>
+                            <unitdate>20 April 1886.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 5 p. (copy).</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Sallie S. (Alexanders'
+                                daughter)</persname>To Peter Wellington Alexander. <geogname>[near
+                                Columbua, GA]</geogname>
+                            <unitdate>9 -20 Dec. 1876.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 a.l.s., 3 p.; encl.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington)</persname>Letters to Mrs. Alexander in sympathy on the
+                            death of her husband. <geogname>[v.p.]</geogname>
+                            <unitdate>22 Sept-12 Nov. 1886. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>25 a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington)</persname>Letters to Mrs. Alexander from friends.
+                                <geogname>Columbus, Ga., and Hardaway, Ala.</geogname>
+                            <unitdate>3 April 1862-24 Oct. 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>3 a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington)</persname>To Mr. Lurman. <geogname>Columbus, Ga.</geogname>
+                            <unitdate>30 May 1861.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 8 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington)</persname>To Mrs. Alexander from various persons.
+                                <geogname>[v.p.]</geogname>
+                            <unitdate>28 Aug. [1870] -29 March 1887.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>3 a.l.s., 10 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington)</persname>To Mrs. Alexander from family.
+                                <geogname>[v.p.]</geogname>
+                            <unitdate>21 Feb. 1871 -[ca. 9 Aug. 1918]. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 a.l.s., 21 p.; ms. 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington)</persname>To Peter Wellington Alexander.
+                                <geogname>[v.p.]</geogname>
+                            <unitdate>11 March [1874] -13 Dec. 1876.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>6 a.l.s., 26 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington)</persname>To Peter Wellington Alexander.
+                                <geogname>[Columbus, GA]</geogname>
+                            <unitdate>1 Feb. 1877 -15 Feb. 1879.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>8 a.l.s., 34 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington)</persname>To Mrs. Alexander from her family.
+                                <geogname>[v.p.]</geogname>
+                            <unitdate>24 Aug. 1881-13 Oct 1886.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington)</persname>To Sallie S. Alexander. <geogname>Columbus, GA</geogname>
+                            <unitdate>10 May 1890. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 9 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Beauregard, Pierre Gustave
+                            Toutant</persname>To Peter Wellington Alexander. <geogname>New Orleans,
+                                LA</geogname>
+                            <unitdate>6 Nov 1886. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 94-2007-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Beauregard, Pierre Gustave
+                            Toutant</persname>To Col. Alexander. <geogname>New Orleans, LA</geogname>
+                            <unitdate>2 May 1886. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 2 p. (copy)</extent>
+                        </physdesc>
+                        <note><p>[Encl. with above. <lb/>Microfilm Reel 94-2007-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Beckwith, John Watrous</persname>To
+                            [Peter Wellington Alexander]. <geogname>Augusta, Ga.</geogname>
+                            <unitdate>11 Dec. 1874.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Beckwith, John Watrous</persname>To
+                            Peter Wellington Alexander. <geogname>New York</geogname>
+                            <unitdate>25 May 1875,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Benham, Calhoun</persname>To Peter
+                            Wellington Alexander. <geogname>Tunnel Hill, Ga.</geogname>
+                            <unitdate>21 Dec 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent> a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Encl, 14 a.p.: biographical sketch of Patrick Ronayne
+                                Cleburn.<lb/>Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Blunt, James Gilpatrick</persname>To
+                            Thomas C. Hindman. <geogname>In the field</geogname>
+                            <unitdate>8 Dec. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 a.l.s., 2 p. </extent>
+                        </physdesc>
+                        <note><p>[On exchanging prisioners after the Battle of Prairie Grove.
+                                <lb/>Microfilm 90-2021 and91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Blunt, James Gilpatrick</persname>To
+                            Thomas C. Hindman. <geogname>Rays Mill, Ark.</geogname>
+                            <unitdate>17 Dec. 1862</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm 90-2021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Boudinot, Elias Cornelius</persname>
+                            To [Thomas C. Hindman]. <geogname>Camp on Grand River, C.N. [Okla.]</geogname>
+                            <unitdate>16 June 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm 11568.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Boudinot, Elias Cornelius</persname>To
+                            [Thomas C. Hindman]. <geogname>Cane Hill, Ark.</geogname>
+                            <unitdate>7 Dec. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm 11568.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Bragg, Braxton</persname>To Jefferson
+                            David. <geogname>Missionary Ridge, Tenn.</geogname>
+                            <unitdate>16 Nov. 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>ms.l., 3 p. (copy)</extent>
+                        </physdesc>
+                        <note><p>[Enclosed with Robias Gibson Richardson's letter of 8 Nov. 1864.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Bragg, Braxton</persname>To Peter
+                            Wellington Alexander. <geogname>Near Lowndesboro, Ala.</geogname>
+                            <unitdate>10 Dec. 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Bragg, Braxton</persname>To [?]
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>21 Feb. 1866,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Brown, Joseph Emerson</persname>To
+                            Peter Wellington Alexander. <geogname>Washington</geogname>
+                            <unitdate>17 Jan. -28 Feb. 1884.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1 t.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Bullock, Rufus B.</persname>To Peter
+                            Wellington Alexander. <geogname>Atlanta</geogname>
+                            <unitdate>2 Jan. 1884. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Burbridge, John Q.</persname>To R. C.
+                            Newton. <geogname>[v.p.]</geogname>
+                            <unitdate>2-29 Oct. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>3 a.l.s., 5 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Burbridge, John Q.</persname>To Thomas
+                            C. Hindman. <geogname>Yellville, Ark. </geogname>
+                            <unitdate>10 Nov. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Burbridge, John Q.</persname>To R. C.
+                            Newton. <geogname>Camp Near Wild Haus, Mo. </geogname>
+                            <unitdate>28-30 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>3 a.l.s., 5 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Carroll, Charles A.</persname>To
+                            Thomas C. Hindman. <geogname>Fort Smith, Ark</geogname>
+                            <unitdate>19 July -12 Aug. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 a.l.s., 3 ms.l.s., 12 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Carroll, Charles A.</persname>To
+                            Thomas C. Hindman. <geogname>Camp Mt. Comfort, Arks and [v.p.]</geogname>
+                            <unitdate>27 Aug. -1 Nov. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>9 a.l.s., 9 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Carroll, Charles A.</persname>To Col.
+                            R. C. Newton. <geogname>[v.p.]</geogname>
+                            <unitdate>8 Aug. -2 Nov.1862</unitdate>
+                        </unittitle>
+                        <physdesc><extent>3 a.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Carroll, Charles A.</persname>To Col.
+                            M. L. Young. <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.].</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 1p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Clark, John Bullock</persname>To
+                            Thomas C. Hindman. <geogname>Richmond, VA</geogname>
+                            <unitdate>12 Aug. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Clark, John Bullock</persname>To
+                            Thomas C. Hindman. <geogname>Fort Smith, Ark. </geogname>
+                            <unitdate>18 Nov. -21 Dec.1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 a.l.s., 7 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Cooper, Douglas H.</persname>To
+                            various persons. <geogname>Fort Davis and Scullyville, [Okla.]</geogname>
+                            <unitdate>28 July -24 Dec. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>6 a.l.s., 6 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Cooper, Douglas H.</persname>To Thomas
+                            C. Hindman. <geogname>Fort Davis, etc.</geogname>
+                            <unitdate>29 July -24 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>8 a.l.s., 12 p., 1 a.p. encl.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Cooper, Douglas H.</persname>To Thomas
+                            C. Hindman. <geogname>Scullyville</geogname>
+                            <unitdate>2 -19 Dec.1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>6 a.l.s., 8 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Cooper, Douglas H.</persname>To Col.
+                            R. C. Newton. <geogname>Scullyville, etc.</geogname>
+                            <unitdate>28 Oct. -19 Dec.1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>12 a.l.s., 18 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Cooper, Douglas H.</persname>To John
+                            Selden Roane. <geogname>Scullyville</geogname>
+                            <unitdate>14 Nov. -26 Dec.1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>6 a.l.s., 7 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Curtis, Samuel Ryan</persname>To
+                            Thomas C. Hindman. <geogname>St. Louis</geogname>
+                            <unitdate>10 Oct. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>ms.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 90-2021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Davis, Jefferson</persname>To [?].
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.],</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Dawson, William Crosby</persname>To
+                            Peter Wellington Alexander. <geogname>Greensboro, GA</geogname>
+                            <unitdate>20 Sept. 1855. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 90-2021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Dunnington, John W.</persname>To
+                            Thomas C. Hindman. <geogname>Little Rock, Ark.</geogname>
+                            <unitdate>21 June 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 5 p.</extent>
+                        </physdesc>
+                        <note><p>[Encl sketch of St. Charles on the White River (setting of the Battle
+                                of St Charles, whichis described in this letter). <lb/>Microfilm
+                                Reel 90-2021 and 91-2089:]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Dunnington, John W.</persname>To
+                            Charles A. Nelson. <geogname>Little Rock, Ark.</geogname>
+                            <unitdate>3 Sept. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>ms.l.s., 1 p. (copy).</extent>
+                        </physdesc>
+                        <note><p>[With covering a.n.s. from Charles C. Green to Gen. J. P. Wilson.
+                                <lb/>Microfilm Reel90-2021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Egan, James S.</persname>To Peter
+                            Wellington Alexander. <geogname>New Orleans</geogname>
+                            <unitdate>11 Dec. 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 2p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Fagan, James Fleming</persname>To Col.
+                            R. C. Newton et al. <geogname>[v.p.]</geogname>
+                            <unitdate>27 Nov. -28 Dec. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 a.l.s., 6 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Folsom, Peter</persname>To Thomas C.
+                            Hindman and Douglas H. Cooper. <geogname>Scullyville [Okla.]</geogname>
+                            <unitdate>10 July -20 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent> 3 a.l.s., 2 ms.l., 13 p.; with 1 encl.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 90-2021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Frost, Daniel Marsh</persname>To Col.
+                            R. C. Newton. <geogname>Hq. 3rd Div., Trans. Miss. Army</geogname>
+                            <unitdate>22 Nov. -30 Dec.1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>10 a.l.s., 1 ms.l.s., 19 p.; with encl.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">1</container>
+                        <unittitle label="contents">
+                            <persname>Gwin, William McKendree</persname>To
+                            William McKendree Gwinn, Jr. <geogname>New York</geogname>
+                            <unitdate>5 July 1876.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Introducing Peter Wellington Alexander. <lb/>Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Hardee, William Joseph</persname>To
+                            Peter Wellington Alexander. <geogname>Hermitage, Ala.</geogname>
+                            <unitdate>11 Jan. 1866.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Harris, Samuel Smith</persname>To
+                            Peter Wellington Alexander. <geogname>New Orleans</geogname>
+                            <unitdate>24 Nov. 1874.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Hayes, Major and Q. M. W.
+                            H.</persname>To Col. R. C. Newton et al. <geogname>Fort Smith, Ark.</geogname>
+                            <unitdate>25 Oct. -23 Dec. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 a.l.s., 6 ms.l.s., 14 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 90-2021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Herron, Francis Jay</persname>To
+                            Thomas C. Hindman. <geogname>In the field [Prairie Grove, Ark.]</geogname>
+                            <unitdate>8 Dec. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 90-2021 and 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Hill, Benjamin Harvey</persname>To
+                            Peter Wellington Alexander. <geogname>Washington</geogname>
+                            <unitdate>26 Jan. 1876.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Hill, Daniel Harvey</persname>To
+                            Generals Cooper, Johnston, and Marshall. <geogname>Chattanooga, Tenn.</geogname>
+                            <unitdate>6 -22 Aug. 1863 and [n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 a.n.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Hindman, Thomas
+                            Carmichael</persname>To various persons. <geogname>Little Rock, Ark.,
+                                etc.</geogname>
+                            <unitdate>14 -17 Jan. 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent> 1 a.l.s. (draft); 1 a.l.; 1 ms.l.s.l 4 ms.l., 8 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Holmes, Theophilus Hunter</persname>To
+                            Thomas C. Hindman. <geogname>Little Rock, Ark.</geogname>
+                            <unitdate>18 Aug. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Holmes, Theophilus Hunter</persname>To
+                            Col. R. C. Newton. <geogname>Camp on Horsehead, Ark.</geogname>
+                            <unitdate>6 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 2p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Holmes, Theophilus Hunter</persname>To
+                            Thomas C. Hindman. <geogname>Little Rock, Ark.</geogname>
+                            <unitdate>27 Aug. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Holmes, Theophilus Hunter</persname>To
+                            Thomas C. Hindman. <geogname>Little Rock, Ark.</geogname>
+                            <unitdate>4 Sept.1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Hunter, R. W.</persname>To [Peter
+                            Wellington Alexander]. <geogname>[Near Cedar Creek, VA]</geogname>
+                            <unitdate>27 Oct. 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Envelope encl with postage stamp of the Confederate States of
+                                America. <lb/>Not onMicrofilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Jackson, Henry Rootes</persname>To
+                            [Peter Wellington Alexander]. <geogname>Savannah, GA</geogname>
+                            <unitdate>23 March1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Jenkins, Charles Jones</persname>To
+                            Joseph Ganahl. <geogname>Bedford Springs and Newport, VA</geogname>
+                            <unitdate>6 -23 Sept. 1880. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Johnston, Joseph
+                            Eggleston</persname>To Peter Wellington Alexander. <geogname>Abingdon,
+                                VA</geogname>
+                            <unitdate>17 Oct. 1865. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Jones, B. F.</persname>To Braxton
+                            Gragg. <geogname>Mobile, Ala.</geogname>
+                            <unitdate>10 Oct 1864. </unitdate>
+                        </unittitle>
+                        <physdesc><extent> 1 a.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">&gt;2</container>
+                        <unittitle label="contents">
+                            <persname>Lanigan, Thomas</persname>To Col. R.
+                            C. Newton. <geogname>Fort Smith, Ark.</geogname>
+                            <unitdate>1 Oct. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Lanigan, Thomas</persname>To Major N.
+                            S. Hill. <geogname>Camp near Fort Smith</geogname>
+                            <unitdate>27 Nov. 1863. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Lawton, Alexander Robert</persname>To
+                            Peter Wellington Alexander. <geogname>Savannah, GA</geogname>
+                            <unitdate>19 July 1866. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 17 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Lawton, Alexander Robert</persname>To
+                            [Peter Wellington Alexander]. <geogname>Savannah, GA</geogname>
+                            <unitdate>9 Oct. 1866. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Lawton, Alexander Robert</persname>To
+                            John Cabell Breckinridge. <geogname>Richmond, VA</geogname>
+                            <unitdate>10 March 1865. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 ms.l.s., 9 p. (copy) </extent>
+                        </physdesc>
+                        <note><p>[Enclosed with above. <lb/>Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Lee, Robert Edward</persname>To Peter
+                            Wellington Alexander. <geogname>Lexington, VA</geogname>
+                            <unitdate>11 Oct. 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 2 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 94-2007-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Lee, Robert Edward</persname>To
+                            Theophilus Hunter Holmes. <geogname>Richmond, VA</geogname>
+                            <unitdate>12 Sept. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>Telegram, 2p.</extent>
+                        </physdesc>
+                        <note><p>[Forwarded to Gen. Holmes by S. Cooper. <lb/>Microfilm Reel
+                            91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Leslie, R.</persname>To Peter
+                            Wellington Alexander. <geogname>Troup Factory [La Grange], GA</geogname>
+                            <unitdate>13 Jan. 1866.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 3p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Longstreet, James</persname>To Peter
+                            Wellington Alexander. <geogname>Gainesville, GA</geogname>
+                            <unitdate>26 Nov. 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 2p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>McLaws, Lafayette</persname>To Peter
+                            Wellington Alexander. <geogname>Augusta, GA</geogname>
+                            <unitdate>5 Dec. 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>McRae, Duncan Kirkland</persname>To
+                            Col. R. C. Newton. <geogname>Camp on Mulberry Mt., Ark.</geogname>
+                            <unitdate>21 Oct. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>McRae, Duncan Kirkland</persname>To
+                            [Col. R. C. Newton?] <geogname>Little Rock, Ark.</geogname>
+                            <unitdate>17 Feb. 1863. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 5p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>McDonald, Emmett</persname>To Thomas
+                            C. Hindman, et al. <geogname>Pinesville, Mo. and [v.p.]</geogname>
+                            <unitdate>1 Sept. -24 Dec. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent> 9 a.l.s., 21 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Marmaduke, John
+                            Sappington</persname>To Thomas C. Hindman et al. <geogname>[v.p.]</geogname>
+                            <unitdate>5 Nov. -1 Dec. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 a.l.s., 15 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Marmaduke, John
+                            Sappington</persname>To Col. R. C. Newton. <geogname>[v.p.]</geogname>
+                            <unitdate>23 -29 Oct. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>11 a.l.s., 7 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Marmaduke, John
+                            Sappington</persname>To Col. R. C. Newton. <geogname>Van Buren, Ark.</geogname>
+                            <unitdate>1 -7 Nov.1862</unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 a.l.s., 3 ms.l., 16 p.; with encl.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Marmaduke, John
+                            Sappington</persname>To Col. R. C. Newton. <geogname>[v.p.]</geogname>
+                            <unitdate>17 -28 Nov.1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>10 a.l.s., 16 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Marmaduke, John
+                            Sappington</persname>To Col. R. C. Newton. <geogname>[v.p.]</geogname>
+                            <unitdate>2 -24 Dec.1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent> 6 a.l.s., 2 ms.l.s. 13 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Marmaduke, John
+                            Sappington</persname>To [?]. <geogname>[n.p.]</geogname>
+                            <unitdate>20 Dec. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Mayers, Capt. A. G.</persname>To
+                            Douglas H. Cooper and Gen. N. B. Pearce. <geogname>Fort Washita [Okla.]</geogname>
+                            <unitdate>1 Sept. -1 Dec. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>6 a.l.s., 12 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Mayers, Capt. A. G.</persname>To
+                            Thomas C. Hindman. <geogname>Fort Washita [Okla.]</geogname>
+                            <unitdate>1 Sept. -3 Dec. 1862</unitdate>
+                        </unittitle>
+                        <physdesc><extent>10 a.l.s., 16 p.; with 6 encl., 9 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Newton, Col. R. C.</persname>To
+                            [various persons]. <geogname>[v.p.]</geogname>
+                            <unitdate>4 Sept. -18 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 a.l.s., 10 p.; with 2 encl.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Parsons, Musby Monroe</persname>To
+                            Thomas C. Hindman. <geogname>Yellville, Ark. and [v.p.]</geogname>
+                            <unitdate>27 Sept. -25 Oct.1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 a.l.s., 1 ms.l.s., 18 p..</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Parsons, Musby Monroe</persname>To
+                            Thomas C. Hindman. <geogname>[v.p.]</geogname>
+                            <unitdate>27 Sept. -25 Oct.1862</unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 a.l.s., 1 ms.l.s., 18 p..</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Parsons, Musby Monroe</persname>To
+                            Thomas C. Hindman. <geogname>[v.p.]</geogname>
+                            <unitdate>29 Oct. 9 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 a.l.s., 9 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Parsons, Musby Monroe</persname>To
+                            [various persons]. <geogname>[v.p.]</geogname>
+                            <unitdate>15 Oct. 1862 -21 Feb. 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 a.l.s., 4 ms.l.s., 10 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Pearce, Nicholas Bartlett</persname>To
+                            [various persons]. <geogname>Fort Smith, Ark.</geogname>
+                            <unitdate>1 July -9 Sept. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent> 5 a.l.s., 13 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Pike, Albert</persname>To Thomas C.
+                            Hindman. <geogname>Fort. McCulloch [Okla.]</geogname>
+                            <unitdate>8 June 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent> ms.l., 15 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Raines, James S.</persname>To [various
+                            persons]. <geogname>[v.p.]</geogname>
+                            <unitdate>17 Aug. -20 Oct. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 a.l.s., 11p.; encl. 3 ms.p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>[Randolph, George Wythe]</persname>To
+                            General H. E. McCulloch. <geogname>Richmond</geogname>
+                            <unitdate>25 Aug. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 ms.l., 2, 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Variant copies of the same letter not in the author's hand.
+                                <lb/>Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Richardson, C. B.</persname>To Braxton
+                            Bragg. <geogname>New York</geogname>
+                            <unitdate>23 Oct. 1865. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 4 p.;</extent>
+                        </physdesc>
+                        <note><p>[A.n.s. by General Bragg on page 4. <lb/>Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Richardson, Robias Gibson</persname>To
+                            Peter Wellington Alexander. <geogname>Wilmington [N.C.]</geogname>
+                            <unitdate>8 Nov. 1964.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Richardson, Robias Gibson</persname>To
+                            Peter Wellington Alexander. <geogname>Wilmington [N.C.]</geogname>
+                            <unitdate>8 Nov. 1964. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Roan, John Selden</persname>To Thomas
+                            C Hindman. <geogname>Pine Bluff and Fort Smith, Ark.</geogname>
+                            <unitdate>26 June -13 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 3 ms.l.s., 4 ms.l., 15 p.; encl. 2 a.p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Roan, John Selden</persname>To Col. R.
+                            C. Newton. <geogname>Fort Smith, Ark.</geogname>
+                            <unitdate>1 -30 Nov. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>4 a.l.s., 8 ms.l.s., 14 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Sherman, William T.</persname>To [?].
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Shorter, James Hargraves</persname>To
+                            [Peter Wellington Alexander] <geogname>New York</geogname>
+                            <unitdate>5 Oct. 1874.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 8 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Shorter, James Hargraves</persname>To
+                            Peter Wellington Alexander. <geogname>New York</geogname>
+                            <unitdate>9 Dec. 1876.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Shorter, James Hargraves</persname>To
+                            Theresa Shorter Alexander. <geogname>New York</geogname>
+                            <unitdate>23 -[26] Sept. 1886.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 a.l.s.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Shoup, Francis Asbury</persname>To
+                            Col. R. C. Newton and Thomas C. Hindman. <geogname>[v.p.]</geogname>
+                            <unitdate>5 Nov. -14 Dec. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>2 a.l.s., 6 ms.l.s., 1 ms.l., 9 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11568-2.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Smith, James Milton</persname>To Peter
+                            Wellington Alexander. <geogname>Columbus, GA</geogname>
+                            <unitdate>27 June 1879.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Sparks, James H.</persname>To Thomas
+                            C. Hindman and Col. R. C. Newton. <geogname>Fort Smith, Ark.</geogname>
+                            <unitdate>16 Sept. -11 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>8 a.l.s., 11 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Sparks, James H.</persname>To Thomas
+                            C. Hindman. <geogname>Fort Smith, Ark.</geogname>
+                            <unitdate>19 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1 p. </extent>
+                        </physdesc>
+                        <note><p>[Encl. a printed notice on the conscript law. <lb/>Microfilm Reel
+                                91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Standish, Austin, M.</persname>To Col.
+                            R. C. Newton. <geogname>[v.p.]</geogname>
+                            <unitdate>25 Oct. -17 Nov. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 a.l.s., 10 p.; with 3 encl. </extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Stanford, F. A.</persname>To Theresa
+                            S. Alexander. <geogname>McMinnville, Tenn.</geogname>
+                            <unitdate>1 May 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[With 2 Confererate stamps.Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">                    
+               <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Stephens, Alexander
+                            Hamilton</persname>To Peter Wellington Alexander.
+                                <geogname>Crawfordville, GA</geogname>
+                            <unitdate>29 Sept. 1855. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Totten, Joseph Gilbert</persname>To
+                            Thomas C. Hindman. <geogname>Springfield, MO</geogname>
+                            <unitdate>17 Sept. 1862. </unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 ms.l.s., 4 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">3</container>
+                        <unittitle label="contents">
+                            <persname>Walker</persname>To William H. Seward.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.].</unitdate>
+                        </unittitle>
+                        <physdesc><extent>a.l.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Watie, Stand</persname>To Douglas H.
+                            Cooper and Thomas C. Hindman. <geogname>[v.p.]</geogname>
+                            <unitdate>28 June -25 Dec. 1862 and [n.d.].</unitdate>
+                        </unittitle>
+                        <physdesc><extent>4 a.l.s., 9 p.; 1 encl.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Wilson, Major and A. A. Inspector Gen.
+                                J. P.</persname>To [various persons]. <geogname>[v.p.]</geogname>
+                            <unitdate>5 July 1862 -8 Feb. 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 a.l.s., 2 ms.l., 10 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2089.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Wilson, Major </persname>To Peter
+                            Wellington Alexander. <geogname>Memphis, Tenn.</geogname>
+                            <unitdate>10 Nov. 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 6 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="box" label="Box">2</container>
+                        <unittitle label="contents">
+                            <persname>Wood, Fernando</persname>To Peter
+                            Wellington Alexander. <geogname>Washington</geogname>
+                            <unitdate>27 Jan. 1875.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 a.l.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Arranged Series</unittitle>
+                </did>
+
+                <c level="subseries">
+                    <did><unittitle>Correspondence</unittitle>
+                    </did>
+                
+                <c level="file">
+                    <did><container type="box" label="Box">13</container>
+                        <unittitle label="contents">Correspondence, primarily of the commands of
+                            Generals Hindman and Holmes. <lb/>Letters From: <lb/>General Hindman
+                            <lb/>R. C. Newton <lb/>Charles W. Adams <lb/>Charles A. Carroll
+                            <lb/>John T. Coffee <lb/>John H. Crump <lb/>Fred Lear <lb/>M. M. McBride
+                            <lb/>D. Prodidence <lb/>William Queensbury, et al. <lb/>Letters To:
+                            <lb/>General Hindman <lb/>General Holmes <lb/>R. C. Newton <lb/>Douglas
+                            H. Cooper <lb/>John H. Crump <lb/>Daniel Marsh Frost <lb/>John
+                            Sappington Marmaduke <lb/>Musby Monroe Parsons <lb/>James S. Rains
+                            <lb/>J.P. Wilson, et al. <geogname>[v.p.]</geogname>
+                            <unitdate>3 Jan. 1862 -Aug. 1863.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>185 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 90-2021.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">13</container>
+                        <unittitle label="contents">Miscellaneous family correspondence. [v.p.]
+                                <unitdate>1862-1906.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>One folder.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Telegrams</unittitle>
+                    </did>
+             
+                <c level="file">
+                    <did><container type="box" label="Box">5 to 6</container>
+                        <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                            Army.</corpname>Telegrams. [v.p.] <unitdate>June -Dec. 1862</unitdate>
+                            </unittitle>
+                        <physdesc><extent>1,144 telegrams.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reels 90-2022, 2023, 2024.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">6</container>
+                        <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                            Army.</corpname>Telegrams. [v.p.] <unitdate>Aug. 1863.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>64 telegrams.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reels 90-2022, 2023, 2024.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">6</container>
+                        <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                            Army.</corpname>Telegrams between Gens. Hindman and Holmes[v.p.]
+                                <unitdate>Dec. 1, 12, 1862.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>110 telegrams.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reels 90-2022, 2023, 2024.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">6</container>
+                        <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                            Army</corpname>Undated telegrams[v.p.] <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                        <physdesc><extent>22 telegrams; 15 incomplete</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reels 90-2022, 2023, 2024.]</p>
+                        </note>
+                    </did>
+                </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Manuscripts &amp; Documents</unittitle>
+                    </did>
+               
+                <c level="file">
+                    <did><container type="box" label="Box">12</container>
+                        <unittitle label="contents">
+                                <persname>Alexander, Peter
+                            Wellington</persname>Miscellaneous business papers. <geogname>Atlanta</geogname>
+                            <unitdate>1 Oct. 1871 -17 Dec. 1886.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>22 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">3</container>
+                        <unittitle label="contents">
+                                <persname>Alexander, Peter
+                            Wellington</persname>The state of the Confederate cause.
+                                <geogname>Macon, GA</geogname>
+                            <unitdate>17 May 1865.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>a.ms., 6 p.</extent>
+                        </physdesc>
+                        <note><p>[The events of the previous year and how they have brought on the
+                                catastrophe which hasovertaken the Confederate cause. <lb/>Not on
+                                Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">3</container>
+                        <unittitle label="contents">
+                                <persname>Alexander, Peter
+                            Wellington</persname>Diaries. <geogname>Marietta, GA</geogname>
+                            <unitdate>9 March 1880 -23 Sept. 1886,</unitdate>
+                            </unittitle>
+                        <physdesc><extent>a.ms., 7 volumes (4 vols.s.). </extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">3</container>
+                        <unittitle label="contents">
+                                <persname>Alexander, Peter
+                            Wellington</persname>Last will and testament, copy; with related letter
+                            from his lawyer, George Gantt. <geogname>Marietta, GA</geogname>
+                            <unitdate>6 Oct. 1886.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>ms.d., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">3</container>
+                        <unittitle label="contents">
+                                <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington Alexander)</persname>Biographical sketch of Col.
+                            Alexander. <geogname>[n.p.]</geogname>
+                            <unitdate>[ca. 1910]. </unitdate>
+                            </unittitle>
+                        <physdesc><extent>a.ms., 3 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">12</container>
+                        <unittitle label="contents">
+                                <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington Alexander)</persname>Scrapbook. <geogname>Columbus, GA</geogname>
+                            <unitdate>March 1859.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>a.ms., 6 p.</extent>
+                        </physdesc>
+                        <note><p>[Newspaper clippings. The first page of the clippings that follows
+                                the pictures (mostly offamous people) has articles from the
+                                Montgomery Daily Advertiser of 1858 and [n.d.],signed by George H.
+                                Shorter as editor. The last, large proup of clippings is of the
+                                CivilWar. <lb/>Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">3</container>
+                        <unittitle label="contents">
+                                <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington Alexander)</persname>Scrapbook of newspaper clippings.
+                            Includes columns about Col. Alexander and Bishop Beckwith, and others in
+                            the family. <geogname>[Augusta, GA]</geogname>
+                            <unitdate>[Sept. 1866 -Nov. 1893?].</unitdate>
+                            </unittitle>
+                        <physdesc><extent>12 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">12</container>
+                        <unittitle label="contents">
+                                <persname>Alexander, Theresa Shorter (Mrs. Peter
+                                Wellington Alexander)</persname>Miscellaneous business papers,
+                            including a letter from J. T. Estell on Texas property. <geogname>[v.p.]</geogname>
+                            <unitdate>1 June 1871 -28 Feb. 1893.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>4 ms.d.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">12</container>
+                        <unittitle label="contents">
+                                <persname>Ferrat, John B.</persname>Letterbook.
+                                <geogname>Norfolk and Richmond, VA</geogname>
+                            <unitdate>9 May 1862 -1 July 1863.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>a.ms.s., 39 p.</extent>
+                        </physdesc>
+                        <note><p>["Captured from the Yankees at the Battle of Sharpsburg Md. Sept.
+                                17th 1862." in whichPrivate Ferrat has written. <lb/>Not on
+                                Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">3</container>
+                        <unittitle label="contents">
+                                <persname>Fillmore,
+                            Millard</persname>[Untitled]. <geogname>[n.p.] </geogname>
+                            <unitdate>10 July 1852,</unitdate>
+                            </unittitle>
+                        <physdesc><extent>ms.d.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">12</container>
+                        <unittitle label="contents">
+                                <persname>Van Dorn, Earl</persname>Document
+                            granting authority to Col. James R. Shaler to raise a Regiment of
+                            Partizan Rangers for service in Missouri. <geogname>Camp Ingraham, Miss.</geogname>
+                            <unitdate>3 June 1862.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>a.d.s., 1 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">12</container>
+                        <unittitle label="contents">
+                                <persname>Wayne, Henry L.</persname>Special
+                            Order No. 126: Proceedings of a Court of Inquiry into imputations
+                            against Col. Cary W. Stiles. <geogname>Milledgeville, GA</geogname>
+                            <unitdate>19 Sept. 1864.</unitdate>
+                            </unittitle>
+                        <physdesc><extent>t.d.s., 1 p.; 9 ms.p. encl.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">3</container>
+                        <unittitle label="contents">
+                                <persname>Alexander, Peter Wellington and
+                            wife.</persname>Photographs. <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                        <physdesc><extent> </extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Copybooks, Letterbooks etc</unittitle>
+                    </did>
+                    <scopecontent><p>Gift of Mrs. Robert P. Hamilton.</p>
+                    </scopecontent>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">7</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Department of Alabama and West Florida.</corpname>Copybook
+                                of General and Special Orders. <geogname>Mobile, etc.</geogname>
+                                <unitdate>14 Oct. 1861 -15 Aug. 1862.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.vol., 410 p.; 1, 50, 90 p.</extent>
+                            </physdesc>
+                            <note><p>[Orders by Generals Beauregard; Bragg; Samuel Cooper; Albert
+                                    Sidney Johnston; JonesMitchell Withers; et al. <lb/>Microfilm
+                                    Reel 94-2007-2.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">7</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Departments of Alexandria, the Potomac, and
+                                Mississippi</corpname>Copybook of Letters and
+                                    Orders<geogname>Manassus and Fairfax, VA and Jackson, Tenn.</geogname>
+                                <unitdate>2 June 1861 -29 April 1862</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.vol., 452 p.</extent>
+                            </physdesc>
+                            <note><p>[Copy of important public letters and orders of General
+                                    Beauregard's command.<lb/>Microfilm Reel 94-2007-2.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">7</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Department of Mississippi</corpname>Copybook of
+                                    Telegrams<geogname>[v.p.]</geogname>
+                                <unitdate>18 Feb. -11 Aug. 1862</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.vol., 202 p.</extent>
+                            </physdesc>
+                            <note><p>[Copy of important public telegrams of General Beauregard's
+                                    command. <lb/>Microfilm Reel94-2007-2.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">7</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Department of Mississippi</corpname>Copybook of Letters
+                                and Orders<geogname>Corinth and Tupelo, Miss., and Chattanooga,
+                                    Tenn.</geogname>
+                                <unitdate>29 April -6 Sept. 1862</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.vol., 208 p.</extent>
+                            </physdesc>
+                            <note><p>[Copy of letters, Special and General Orders of General
+                                    Beauregard's command.<lb/>Microfilm Reel 94-2007-2.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">8</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department</corpname>Abstracts of
+                                Orders, Letters, etc., sent out<geogname>[Little Rock, Ark.?]</geogname>
+                                <unitdate>12 June -19 Sept. 1862</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.d., 103 p., 3 p.</extent>
+                            </physdesc>
+                            <note><p>[Abstract of military records in General Hindman's command.
+                                    <lb/>Microfilm Reel 91-2089.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">8</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department</corpname>Abstracts of
+                                Military Papers<geogname>Fort Smith, Ark., etc.</geogname>
+                                <unitdate>31 Oct. 1862 -8 Jan. 1863</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.d., 123 double spread pages</extent>
+                            </physdesc>
+                            <note><p>[Abstract of papers received in the A. A. Gen's Office in General
+                                    Hindman's command; withreference to endorsements in Register A.
+                                    <lb/>Microfilm Reel 91-2089.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">8</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Copybook of
+                                General Orders. <geogname>Little Rock, Ark., etc.</geogname>
+                                <unitdate>31 May -30 Dec. 1862.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.d., 65 p.; printed orders inserted.</extent>
+                            </physdesc>
+                            <note><p>[Copybook of General Orders from General Hindman's command.
+                                    <lb/>Microfilm Reel 91-2089.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">8</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Copybook of
+                                Special Orders. <geogname>Little Rock, Ark., etc.</geogname>
+                                <unitdate>1 June -18 Dec. 1862.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.d., 38, 80 p.</extent>
+                            </physdesc>
+                            <note><p>[Copybook of Special Orders from General Hindman's command.
+                                    <lb/>Microfilm Reel 11566.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">8</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Copybook of
+                                Special Orders. <geogname>Little Rock, Ark.</geogname>
+                                <unitdate>11 June -19 Aug. 1862.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.d., 147 p.</extent>
+                            </physdesc>
+                            <note><p>[Copybook of Special Orders from General Hindman's and Holmes's
+                                    command. <lb/>Printedorders inserted. <lb/>Microfilm Reel
+                                    91-2089.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">8</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Register of
+                                Orders, Letters, and Abstracts. <geogname>Little Rock, Ark.</geogname>
+                                <unitdate>19 Sept. 1862 -3 March. 1863.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.d., 29, 63, 46, 2 p.</extent>
+                            </physdesc>
+                            <note><p>[Register of orders, letters, abstracts receipts of orders, and
+                                    an outline of Organizationof the First Corps of the
+                                    Trans-Mississippi Army in General Hindman's
+                                    command.<lb/>Microfilm Reel 11566.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">8</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Register of
+                                Endorsements. <geogname>Fort Smith, Ark.</geogname>
+                                <unitdate>5 Nov. 1862 -8 Jan. 1863.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.d., 74 p. double spread pages.</extent>
+                            </physdesc>
+                            <note><p>[Register of endorsements sent from the A.A. General's Office, in
+                                    General Hindman'scommand. <lb/>Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">8</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Register of
+                                Endorsements. <geogname>[Little Rock, Ark.]</geogname>
+                                <unitdate>5 Jan. -19 Feb. 1863.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.d., 71 p. double spread pages.</extent>
+                            </physdesc>
+                            <note><p>[Register of endorsements sent from the A.A. General's Office, in
+                                    General Hindman'scommand. <lb/>Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">9</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Copybook of
+                                Letters. <geogname>Little Rock, Ark.</geogname>
+                                <unitdate>1 June -12 Dec. 1862.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.vol., 420 p. </extent>
+                            </physdesc>
+                            <note><p>[From General Hindman's command, et al. <lb/>Microfilm Reel
+                                    11566.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">9</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Copybook of
+                                Letters and Orders. <geogname>Clarkesville, Ark.</geogname>
+                                <unitdate>2 Jan. -14 March 1863.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.vol., 148 p. </extent>
+                            </physdesc>
+                            <note><p>[From General Hindman's command, et al. <lb/>Microfilm Reel
+                                    90-2021.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">9</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Copybook of Orders
+                                and Letters. <geogname>Little Rock, Ark.</geogname>
+                                <unitdate>11 June -30 Dec. 1862.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.vol., 201 p. </extent>
+                            </physdesc>
+                            <note><p>[From General Hindman's command, et al. A 20 page description of
+                                    the Cane Hill and PrairieGrove campaigns are at the end of the
+                                    volume. <lb/>Microfilm Reel 90-2021.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">9</container>
+                            <unittitle label="contents">
+                                <corpname>Confederate States of America.
+                                    Army. Trans-Mississippi Department.</corpname>Copybook of
+                                Telegrams. <geogname>Little Rock, Ark.</geogname>
+                                <unitdate>2 June -9 Oct. 1862.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>ms.vol., 321 p. (4 p. insert)</extent>
+                            </physdesc>
+                            <note><p>[Copybook of telegraphic dispatches Memphis and Little Rock Line,
+                                    from General Hindman, etal. <lb/>Microfilm Reel 91-2090.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">4</container>
+                            <unittitle label="contents">
+                                <persname>Alexander, Peter
+                                Wellington</persname>Notes on civil engineering from lectures at
+                                Franklin College. <geogname>Athens, GA</geogname>
+                                <unitdate>13 May 1844.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>a.ms., 108 p.</extent>
+                            </physdesc>
+                            <note><p>[Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">4</container>
+                            <unittitle label="contents">
+                                <persname>Alexander, Peter
+                                Wellington</persname>Letterbook. <geogname>Macon, GA</geogname>
+                                <unitdate>20 Oct. -11 Nov. [1865?]</unitdate>
+                            </unittitle>
+                            <physdesc><extent>a.vol., 24 p., 1 p.</extent>
+                            </physdesc>
+                            <note><p>[Editorial letters on Reconstruction. <lb/>Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">4</container>
+                            <unittitle label="contents">
+                                <persname>Alexander, Peter
+                                Wellington</persname>Letterbook. <geogname>Atlanta, GA</geogname>
+                                <unitdate>15 Feb. -22 Nov. 1875.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>a.vol., 184 a.l.s., 236 p. (copies).</extent>
+                            </physdesc>
+                            <note><p>[Onionskin copybook. <lb/>Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">4</container>
+                            <unittitle label="contents">
+                                <persname>Alexander, Peter
+                                Wellington</persname>Letterbook. <geogname>Atlanta and Marietta, GA</geogname>
+                                <unitdate>4 Dec. 1875 -14 Nov. 1879.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>a.vol., 499 p.</extent>
+                            </physdesc>
+                            <note><p>[Letterpress book of P. W. Alexander's law office. <lb/>Not on
+                                    Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">18</container>
+                            <unittitle label="contents">
+                                <corpname>Smith &amp;
+                                Alexander.</corpname>Account book. <geogname>Columbus, GA</geogname>
+                                <unitdate>28 Aug. 1869 -1 March 1887.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>a.vol., 2, 45 p.</extent>
+                            </physdesc>
+                            <note><p>[Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">18</container>
+                            <unittitle label="contents">
+                                <corpname>Smith &amp;
+                                Alexander</corpname>Letterbook. <geogname>Columbus, GA</geogname>
+                                <unitdate>20 Aug. 1867 -31 Oct. 1868.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>a.vol., 473 p.</extent>
+                            </physdesc>
+                            <note><p>[Letterpress book of the law office of Jamse Milton Smith
+                                    (1823-1890) and P. W. Alexander.<lb/>Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">18</container>
+                            <unittitle label="contents">
+                                <corpname>Smith &amp;
+                                Alexander</corpname>Letterbook. <geogname>Columbus and Atlanta GA</geogname>
+                                <unitdate>6 Feb. 1871 -1 Dec. 1872.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>a.vol., 480 p.</extent>
+                            </physdesc>
+                            <note><p>[Letterpress book. <lb/>Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">12</container>
+                            <unittitle label="contents">
+                                <persname>Ferrat, John
+                                B.</persname>Letterbook. <geogname>Norfolk and Richmond, VA</geogname>
+                                <unitdate>9 May 1862 -1 July 1863.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>a.vol., 39 p.</extent>
+                            </physdesc>
+                            <note><p>["Captured from the Yankees at the Battle of Sharpsburg, MD Sept.
+                                    17th 1862." <lb/>Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+
+                    <c level="file">
+                        <did><container type="box" label="Box">12</container>
+                            <unittitle label="contents">
+                                <persname>Shorter,
+                                Theresa</persname>Scrapbook. <geogname>Columbus, GA</geogname>
+                                <unitdate>March 1859.</unitdate>
+                            </unittitle>
+                            <physdesc><extent>39 p. of illus, 1 ms. poem.</extent>
+                            </physdesc>
+                            <note><p>[1, 5, 55 p. of newspapers clippings. <lb/>"Captured from the
+                                    Yankees at the Battle of Sharpsburg, MD Sept. 17th 1862."
+                                    <lb/>Not on Microfilm.]</p>
+                            </note>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Miscellaneous Documents</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>"Cavalry tactics: single
+                            rank formation." <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc><extent>27 p.</extent>
+                        </physdesc>
+                        <note><p>[Draft for the printer. <lb/>Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Charges against various
+                            officers and enlisted men. <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc><extent>15 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Court-martial proceedings.
+                                <geogname>Camp Rector</geogname>
+                            <unitdate>15 Aug. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>27 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Court-martial papers.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>14 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Indian affairs (letters,
+                            reports). <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc><extent>16 p.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Leave of absence requests
+                            and grants. <geogname>[n.p.]</geogname>
+                            <unitdate>1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>6 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Resignations.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>19 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Transfer of change of
+                            service requests. <geogname>[n.p.]</geogname>
+                            <unitdate>1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Various documents:
+                            contracts, medical reports, etc. <geogname>[n.p.]</geogname>
+                            <unitdate>1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>20 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="subseries">
+                    <did><unittitle>Orders</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname>General Holmes</persname>General
+                            Orders. <geogname>[n.p.]</geogname>
+                            <unitdate>1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>7 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2090.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>General Orders from
+                            various Generals. <geogname>[n.p.]</geogname>
+                            <unitdate>1862 -1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>15 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname>General
+                            Hindman</persname>Miscellaneous Orders and Circulars. Subsistence,
+                            receipts, etc. <geogname>[n.p.]</geogname>
+                            <unitdate>1861 -1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>27 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2090.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Miscellaneous Orders and
+                            Circulars. Subsistence, receipts, etc. from various Generals.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>1861 -1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent> </extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Special Orders from
+                            various Generals. <geogname>[n.p.]</geogname>
+                            <unitdate>1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>12 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2090.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <corpname>General Hindman</corpname>Special
+                            Orders. <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc><extent>11 p.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2090.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <corpname>General Hindman</corpname>Special
+                            Orders. <geogname>[n.p.]</geogname>
+                            <unitdate>Jan. 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>28 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2090.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Special Orders from
+                            various Generals. <geogname>[n.p.]</geogname>
+                            <unitdate>Aug. 19, 1863 -Dec. 13, 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname>General Johnston</persname>Special
+                            Orders. <geogname>[n.p.]</geogname>
+                            <unitdate>Jan. &amp; Feb. 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>38 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname>General Johnston</persname>Special
+                            Orders. <geogname>[n.p.]</geogname>
+                            <unitdate>March1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>42 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">14</container>
+                        <unittitle label="contents">
+                            <persname>General Johnston</persname>Special
+                            Orders. <geogname>[n.p.]</geogname>
+                            <unitdate>April -Nov. 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>39 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="subseries">
+                    <did><unittitle>Reports</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Field Reports.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>27 Nov. 1862 -31 July 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>8 pieces.</extent>
+                        </physdesc>
+                        <note><p>[From Generals Anderson, Brown, Clayton, Cooper, and Hallonquist.
+                                <lb/>Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname>General Hindman</persname>Field
+                            Report. <geogname>[n.p.]</geogname>
+                            <unitdate>22 Jan. 1863 -29 April 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>10 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2090.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname>General Hood</persname>Field Reports.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>1 March 1862 -10 July 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>11 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname>General Stevenson</persname>Field
+                            Reports. <geogname>[n.p.]</geogname>
+                            <unitdate>23 May -21 July 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>10 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname>General Stewart</persname>Field
+                            Reports. <geogname>[n.p.]</geogname>
+                            <unitdate>9 March -27 June 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>10 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname>General Parsons</persname>Reports -
+                            deserters. <geogname>[n.p.]</geogname>
+                            <unitdate>21 Feb. 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>6 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm ]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - deserters (from
+                            various officers). <geogname>[n.p.]</geogname>
+                            <unitdate>5 Nov. 1862 -28 Feb. 1863,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>15 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - medical.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>27 June 1862 -24 April 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>21 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - prisoners.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>20 June 1862 -18 Sept. 1863,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>19 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - supplies.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>14 Nov. 1861 -8 Aug. 1863.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>18 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - transportation.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>28 Feb. 1862 -31 Jan. 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>9 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-1090.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - transportation.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>28 Feb. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>17 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-1090.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - troops.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>12 April -19 Oct. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>17 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11566.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - troops.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>27 Aug. -3 Sept. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>6 pieces.</extent>
+                        </physdesc>
+                        <note><p>[With accompanying report. <lb/>Microfilm Reel 11566.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - troops.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>24 -30 Oct. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>5 pieces.</extent>
+                        </physdesc>
+                        <note><p>[With accompanying report. <lb/>Microfilm Reel 11566.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - troops.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>20 Oct. -28 Dec. 1862,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>17 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11566.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">17</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Reports - troops.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>28 June -31 July 1862 and [n.d.],</unitdate>
+                        </unittitle>
+                        <physdesc><extent>11 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 11566.]</p>
+                        </note>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Southern United States Newspapers</unittitle>
+                </did>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Advertiser and
+                            Register.</corpname>Issues. <geogname>Mobile, Ala., </geogname>
+                            <unitdate>7 June 1863,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>167 whole issues, front issues and second copies.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm <lb/>Also known as Mobile Daily Advertiser and
+                                Register.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Mobile Daily Advertiser and
+                            Register.</corpname>Issues. <geogname>Mobile, Ala., </geogname>
+                            <unitdate>1 July 1863 -1 June 1864,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>109 front pages.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Mobile Register and
+                            Advertiser.</corpname>Issues. <geogname>Mobile, Ala., </geogname>
+                            <unitdate>1 Aug. 1862 -31 May 1863,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>9 whole issues and front pages.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>The Army Argus and
+                            Crisis.</corpname>Issues. <geogname>Mobile, Ala., </geogname>
+                            <unitdate>1 July -27 Aug. 1864,</unitdate>
+                        </unittitle>
+                        <physdesc><extent>8 whole and incomplete issues.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Daily Dispatch.</corpname>Issues.
+                                <geogname>Richmond, VA, </geogname>
+                            <unitdate>14 Nov. 1861 -11 Feb. 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>27 whole issues and front pages.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Daily Morning News.</corpname>Issues.
+                                <geogname>Savannah, GA, </geogname>
+                            <unitdate>15 Oct. 1862 -31 May 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>18 front pages.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Georgia Messinger.</corpname>Issues.
+                                <geogname>Macon, GA, </geogname>
+                            <unitdate>5 March 1835 -11 July 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>107 whole issues and duplicates.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Mobile Daily
+                            Tribune.</corpname>Issues. <geogname>Mobile, Ala., </geogname>
+                            <unitdate>31 May 1863 -11 July 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>17 whole issues and front pages.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Mobile Evening News.</corpname>Issues
+                                <geogname>Mobile, Ala., </geogname>
+                            <unitdate>2 Oct. 1862 -15 March 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>33 front pages.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Mobile Evening
+                            Telegraph.</corpname>Issues. <geogname>Mobile, Ala., </geogname>
+                            <unitdate>19 June 1863 -6 March 1865.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>8 front pages.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>The Savannah
+                            Republican.</corpname>Issues. <geogname>Savannah, Ga., </geogname>
+                            <unitdate>8 July 1861 -21 Nov. 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>723 whole issues, front pages, and second copies.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <corpname>Southern
+                            Confederacy.</corpname>Issues. <geogname>Atlanta, Ga.</geogname>
+                            <unitdate>6 March 1861 -25 Sept. 1862.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>46 whole issues and front pages.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Flat Box">3-14</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Newspapers (various).
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>20 June 1840 -1 Oct. 1864.</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 folder, 14 pieces.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">15</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Newspaper clippings from
+                            southern newspapers about the Civil War: various battles and campaigns,
+                            speeches and proclamations, war casualties, etc. <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.].</unitdate>
+                        </unittitle>
+                        <physdesc><extent>1 box, ca. 700 items.</extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Addition (1976)</unittitle>
+                </did>
+
+                <c level="file">
+                    <did><container type="box" label="Box">11</container>
+                        <unittitle label="contents">Family correspondence <lb/>Miscellaneous
+                            manuscripts <lb/>Miscellaneous financial and legan documents.
+                                <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.].</unitdate>
+                        </unittitle>
+                        <physdesc><extent> </extent>
+                        </physdesc>
+                        <note><p>[Shelved after newspapers. ]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">10</container>
+                        <unittitle label="contents">
+                            <corpname>Confederate States of America.
+                                Trans-Mississippi Department.</corpname>Papers from the command of
+                            General T. C. Hindman. <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.].</unitdate>
+                        </unittitle>
+                        <physdesc><extent> </extent>
+                        </physdesc>
+                        <note><p>[Microfilm Reel 91-2090.]</p>
+                        </note>
+                    </did>
+                </c>
+
+                <c level="file">
+                    <did><container type="box" label="Box">10</container>
+                        <unittitle label="contents">
+                            <persname> </persname>Photographs <lb/>Printed
+                            Material <lb/>Index to the "Selected Cataloged Correspondence" microfilm
+                            by Michael E. Banasik. <geogname>[n.p.]</geogname>
+                            <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc><extent> </extent>
+                        </physdesc>
+                        <note><p>[Not on Microfilm.]</p>
+                        </note>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+
+    </archdesc>
+</ead>

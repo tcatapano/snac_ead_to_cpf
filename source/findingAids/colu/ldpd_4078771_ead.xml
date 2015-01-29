@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://appdev.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078771_ead//EN" mainagencycode="nnc-rb">ldpd_4078771_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Barbara Newhall Follett Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2011-06-01">June 1, 2011 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2011-06-01">June 1, 2011 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2011-06-01">2011-06-01</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2011-06-01">2011-06-01</date>
+            <item>XML document instance created by Catherine C. Ricciardi</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Follett, Barbara Newhall, 1914-1966</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Barbara Newhall Follett Papers,">Barbara
+            Newhall Follett Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1919/1939" type="inclusive">1919-1966</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1919-1939]</unitdate>
+         <physdesc><extent encodinganalog="300">2.73 linear feet (6.5 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0439</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078771</unitid>
+         <langmaterial encodinganalog="546">
+            <language> Material is in English. </language>
+         </langmaterial>
+         <abstract>Barbara Newhall Follett’s papers consist primarily of personal letters,
+            manuscripts of published and unpublished books, short stories, essays, and poems, book
+            reviews, newspaper clippings, photographs, and notes written by her mother, Helen
+            Follett.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Barbara Newhall Follett was born on March 4, 1914. Her parents
+            were Wilson Follett, an English professor and a writer, and Helen Thomas Follett, also a
+            writer. Barbara was homeschooled by her mother, who believed that children should learn
+            at their own pace. At the age of five, Barbara started to use the typewriter and learned
+            how to make new words and form sentences. She also began to write letters to relatives
+            and friends. </p>
+         <p><!-- BIOGHIST REQUIRED -->During her childhood years, she wrote numerous short stories,
+            essays, and poems about nature. Barbara had a vivid imagination and created a
+            make-believe world called Farksolia, in which she also developed its language and
+            vocabulary. </p>
+         <p><!-- BIOGHIST REQUIRED -->Her first book, <title render="italic">House Without Windows,</title> was published in 1927,
+            when she was thirteen years old. It was critically acclaimed and she wrote another book,
+           <title render="italic"> The Voyage of the Norman D,</title> that was published the following year, She was hailed as a
+            "child genius" and "a child prodigy author" by newspapers around the country. She made
+            the headlines again when she and her mother went on a long sailing voyage to the
+            Caribbean and the South Seas Islands during the late 1920s. They co-authored a book
+            about their trip together and it was published in 1932 as <title render="italic">Magic Portholes.</title> 
+         </p>
+         <p><!-- BIOGHIST REQUIRED -->After her father left the family in 1928, Ms. Follett and her
+            mother had to find a way of bringing in steady income between their writing assignments.
+            Starting at sixteen years of age, she worked as a typist in New York City while living
+            with her mother. From her late teens to her early twenties, she traveled extensively in
+            the U.S. and Europe with her boyfriend and then husband, Nickerson Rogers. </p>
+         <p><!-- BIOGHIST REQUIRED -->On December 7, 1939, after an argument with her husband,
+            Barbara Follett left their apartment with only a few dollars. She was never seen or
+            heard from again. She was twenty-five years old.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Barbara Follett's papers primarily consist of personal letters, manuscripts of published
+            and unpublished works, photographs, newspaper clippings, and research materials relating
+            to her autobiography that was published in 1965. </p>
+         <p>The correspondence was originally processed by year and the current arrangement reflects
+            this order. Select letters were also catalogued and arranged by special friends of Ms.
+            Follett.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+             <p>This collection is arranged in five series: <list type="simple">
+               <item>Series I: Correspondence, 1919-1952</item>
+               <item>Series II: Published Materials, 1927-1968 </item>
+               <item>Series III: Unpublished Materials, 1919-1934</item>
+               <item>Series IV: Childhood Materials, 1922-1925 </item>
+               <item>Series V: Barbara's Autobiography, 1960-1966</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Follett, Barbara Newhall 1914-1939</persname>
+         <persname encodinganalog="600">Follet, Helen Thomas</persname>
+         <persname encodinganalog="600">Follett, Wilson, 1887-1963</persname>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located on-site.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Follett, Helen Thomas Bequest 1970 M-70</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Barbara Newhall Follett papers; Box
+            and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 06/--/89 Christina Hilton Fenn </p>
+         <p>Papers processed by Marilyn Chin (Queens College, 2011) </p>
+         <p>Finding aid written by Marilyn Chin (Queens College, 2011) May 2011</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts/University
+            Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+            publish that which it physically owns; the responsibility to secure copyright permission
+            rests with the patron.</p>
+      </userestrict>
+      <relatedmaterial><head>Selected Related Material-- at Columbia</head>
+         <p><extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead//nnc-rb/ldpd_4078772">Helen
+               Thomas Follett Papers, </extref> Rare Book &amp; Manuscript Library. </p>
+      </relatedmaterial>
+      <otherfindaid encodinganalog="555">
+         <p>Finding aid in repository; folder level control.</p>
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence, <unitdate type="inclusive">1919-1952</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series consists primarily of personal letters from Barbara Follett to Mr.
+                  Oberg; Alice Dyer Russell, a very close friend; and to her mother, Helen Follett.
+               </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1 to 11</container>
+                  <unittitle>Letters from Barbara Follett to Relatives and Friends, <unitdate type="inclusive">1919-1939</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(11 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Letters to Barbara Follett, <unitdate type="inclusive">1918-1935</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Letters from Mr. Oberg to Barbara Follett, <unitdate type="inclusive">1919-1932</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>Letters from George Bryan to Barbara Follett, <unitdate type="inclusive">1926-1928</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">15</container>
+                  <unittitle>Letters from de la Mare, Walter, <unitdate type="inclusive">1925-1927</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle><unitdate>January 6, 1925</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>January 6, 1926</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>March 21, 1927</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">16</container>
+                  <unittitle>Letters from Farjeon, Harry, <unitdate>1927</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle><unitdate>May 9, 1927</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>July, 31, <unitdate>1927</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">17</container>
+                  <unittitle>Letter from Hall, Norman, <unitdate>1928</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle><unitdate>August 27, 1928</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>                  
+                  <container type="Folder" label="Folder">18</container>
+                  <unittitle>Letters from Knopf, Blanche (Mrs. Alfred),
+                  <unitdate>1926</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle><unitdate>April 14, 1926</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>November 18, 1927</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">19</container>
+                  <unittitle>Letter from Mencken, Henry Louis,
+                  <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">20</container>
+                  <unittitle>Letter from Perkins, Frances, <unitdate>June 20,
+                  1934</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">21</container>
+                  <unittitle>Letters regarding Barbara’s Disappearance, <unitdate type="inclusive">1949-1952</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">22</container>
+                  <unittitle>Letters from Barbara Follett, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Published Materials, <unitdate type="inclusive">1927-1933</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>In this series, the papers are published manuscripts in various versions. The
+                  titles are: <title render="italic">House Without Windows;</title> I<title render="italic">n Defense of Butterflies;</title> and <title render="italic">The Voyage of the Norman D.</title>
+                    </p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle>House Without Windows, <unitdate>1927</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Manuscript with Corrections, <unitdate>1927</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Galley Proofs, <unitdate>1927</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Book Reviews, <unitdate type="inclusive">1927-1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle> "I’ve Got to Go to Sea Again" Article, Young Wings
+                  Magazine,  <unitdate>June 1932</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>In Defense of Butterflies, <unitdate>1933</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Manuscript, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder " label="Folder">6</container>
+                     <unittitle>Printed article in The Horn Book Magazine, <unitdate>February
+                        1933</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Sail of Gold Book Review, <unitdate>1927</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>The Voyage of Norman D., <unitdate type="inclusive">1927-1928</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Original Manuscript, <unitdate>1927</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Manuscript with edits, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">10 to 11</container>
+                     <unittitle>Author’s Proofs, <unitdate>1928</unitdate> (2
+                     Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Book Reviews, <unitdate>1928</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Unpublished Materials, <unitdate type="inclusive">1919-1934</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains unpublished manuscripts of books, short stories, essays, and
+                  poems.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>Lost Island, <unitdate type="inclusive">1932-1934</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">1 to 2</container>
+                     <unittitle>Manuscript, Chapters I - XVIII, <unitdate>1934</unitdate> (2
+                        Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Manuscript Carbon Copy, Chapters I - XVI,
+                     <unitdate>1932</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Short Draft of Manuscript, 103 pages,
+                     <unitdate>1932</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Travel Without a Donkey Manuscript,
+                  <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Short Stories and Essays, <unitdate type="inclusive">1919-1920s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Short Stories (Early Years), <unitdate type="inclusive">1921-1923</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">2 to 4</container>
+                  <unittitle>Short Stories, <unitdate>undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Poems and Prose, <unitdate type="inclusive">1919-1927</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Christmas Poem and Song, <unitdate type="inclusive">1924-1925</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Photocopies of Barbara’s Writings,
+                  <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Descriptions of European Trip, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IV: Childhood Materials, <unitdate type="inclusive">1922-1925</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>These files contain materials related to Barbara’s education at home, notes and
+                  history of Farksoo, a make-believe land; butterfly drawings; and numerous notes
+                  about Barbara’s interest in nature from her mother.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>History of Farksolia, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Notes about Farksolia, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Farksoo Language and Vocabulary,undated</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Home Schooling including Diary, <unitdate type="inclusive">1920-1924</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Notes about Barbara’s Love for Nature, circa
+                  <unitdate>1920s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Wilson Follett Articles On a Child Author,
+                  <unitdate>1919</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Arts &amp; Crafts, circa <unitdate type="inclusive">1919-1920s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Butterfly Illustrations by Mr. Oberg Specified by Barbara,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series V: Barbara’s Autobiography, <unitdate type="inclusive">1919-1966</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>In this series, there is correspondence between Helen Follett and the writer, Mr.
+                  McCurdy, a professor of psychology; research materials about Barbara’s life;
+                  photographs, and copies of her writings.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Correspondence between Helen Follett and Mr. McCurdy, <unitdate type="inclusive">1960-1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Autobiography Manuscript, <unitdate type="inclusive">1961-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Timeline and Notes of Barbara’s Letters and Writings, <unitdate type="inclusive">1919-1939</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Legal Records (House Without Windows Contract and Legal Divorce
+                     Papers), <unitdate type="inclusive">1926-1944</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Photographs, <unitdate type="inclusive">1920-1929</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>A Copy of the Book, Barbara: The Unconscious Autobiography of a Child
+                     Genius, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Book Reviews, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Nickerson Rogers Papers, <unitdate type="inclusive">1949-1958</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Copies of Newspaper Clippings, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

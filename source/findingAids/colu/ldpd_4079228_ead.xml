@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079228_ead//EN" mainagencycode="nnc-rb">ldpd_4079228_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Karl Polanyi Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-09-12">September 12, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-09-12">September 12, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-09-12">2009-09-12</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2009-10-02">2009-10-02</date>
+            <item>xml document instance created by Carolyn Smith</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Polanyi, Karl.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Karl Polanyi Papers">Karl Polanyi Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1944/1964" type="inclusive">1937-1963</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1947-1963].</unitdate>
+         <physdesc><extent encodinganalog="300">5.88 linear feet. ( 15 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1012</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079228</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>The bulk of the papers of Hungarian economic sociologist Karl Polanyi (1886-1964)
+            originate from Polanyi’s time as an adjunct and emeritus professor at Columbia
+            University (1947-1963) and include manuscripts written during that time, professional
+            correspondence, Ford Foundation and faculty seminar memorandum, research notes and
+            files, and lectures. </abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Born in Vienna on 21 October, 1886, Karl Polanyi was the son
+            of a Hungarian engineer and entrepreneur, Michael Pollacsek, and a Russian mother,
+            Cecile Wohl, who was a figure in Hungarian intellectual and political society. His
+            brother was the philosopher and chemist Michael Polanyi. </p>
+         <p><!-- BIOGHIST REQUIRED -->Raised in Budapest, Polanyi attended the University at
+            Budapest and Kolozsvar, earning a doctorate of law in 1909. He was called to the bar in
+            1912. It was at University, in 1908, that Polanyi became engaged in Hungarian politics,
+            helping to found the left-liberal Galilei Circle, a radical political movement that put
+            Polanyi in touch with key figures of Hungarian politics. He would later edit the
+            Circle's journal <title render="italic">Szabadgondolat</title>until its suppression in 1919. In 1914, he helped to
+            form the Hungarian Radical Party. </p>
+         <p><!-- BIOGHIST REQUIRED -->During the First World War, Polanyi served as a cavalry
+            officer in the Austro-Hungarian army on the Russian front until severe illness
+            necessitated his hospitalization first in Budapest, and later in Vienna, where he met,
+            Ilona Duczynska, whom he married in 1923. After the war, in 1921, Polanyi worked for the
+            Hungarian weekly <title render="italic">Becsi Magyar Ujsag</title> 
+         </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1924, Polanyi began work in Vienna as a writer and editor
+            for <title render="italic">Der Oesterreichische Vokswirt,</title> the leading economic and financial weekly of Central
+            Europe, specializing in international affairs. During this time, Polanyi hosted a
+            seminar in his home on the topic of 'a democratic associational socialist economy.' The
+            rise of fascism in Austria forced him to resign from the journal and, in 1933, to flee
+            to London. </p>
+         <p><!-- BIOGHIST REQUIRED -->In England, Polanyi was active in the Christian Left Group,
+            producing pamphlets and circulars, and later edited <title render="italic">Christianity and the Social
+            Revolution</title> with John MacMurray and Joseph Needham. In 1935 Polanyi began a series of
+            lecture tours in the United States. Additionally, he worked as a tutor at the Workers
+            Educational Association adult education program at the Universities of Oxford and
+            London, where his lectures on English social and economic history and international
+            affairs laid the groundwork for his classic work <title render="italic">The Great Transformation.</title> This latter
+            work was written in the United States, during a period as a visiting scholar at
+            Bennington College in Vermont from 1940-1943. During this time, Ilona taught mathematics
+            at Bennington. </p>
+         <p><!-- BIOGHIST REQUIRED -->Returning to London, Polanyi resumed teaching at the Workers
+            Educational Association, and resumed political work in the Hungarian Club of London and,
+            later, the Hungarian Council, both of which were Hungarian <emph render="italic">émigré</emph> organizations. </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1947 Polanyi accepted a position in Columbia University's
+            Department of Sociology. Ilona, however, was denied a visa to the United States because
+            of her association with the Hungarian Communist Party, and her prominent part in the
+            failed Hungarian Revolution of 1919. As a result, the Polanyi's took up residence
+            outside Toronto, and for the rest of his career Polanyi commuted between Toronto and New
+            York City. </p>
+         <p><!-- BIOGHIST REQUIRED -->At Columbia, Polanyi taught, primarily, a course entitled
+            General Economic History, which he described as dealing with "the origins of economic
+            institutions." At the same time, Polanyi also led a faculty seminar and research project
+            on the same topic, called the University Seminar on the Institutionalization of the
+            Economic Process. Though he retired in 1953, Polanyi was retained by Columbia as an
+            emeritus professor, and received a Ford Foundation grant to lead an Interdisciplinary
+            Project on Economic Aspects of Institutional Growth. This project ultimately resulted in
+            the publication of the collaborative work <title render="italic">Trade and Market in the Early Empires.</title> 
+         </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1963 Polanyi and Ilona co-edited <title render="italic">The Plough and the Pen:
+            Writings from Hungary 1930-1956,</title> a collection of English translations of Soviet
+            Hungarian literature and political writings. Also during that year, Polanyi visited
+            Hungary for the first time since 1919, and gave a series of lectures at the Hungarian
+            Academy of Sciences. Later that year, and shortly before his death, Polanyi founded the
+            journal Co-Existence. He died on 23 April, 1964, in Pickering, Ontario </p>
+         <p><!-- BIOGHIST REQUIRED -->A number of Polanyi's works have been published posthumously,
+            including <title render="italic">Dahomey and the Slave Trade,</title> and, in 1977, <title render="italic">The Livelihood of Man,</title> edited by
+            Harry Pearson.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This collection contains the professional correspondence, writings, Columbia University
+            materials, and research files produced by Polanyi primarily from the late 1940s to the
+            early 1960s, during which time he was associated with Columbia University. Because there
+            was no discernable order to much of the collection, the material has been been
+            consolidated into clear series and alphabetized, within series, according to folder
+            title. In cases where the folder was titled by Polanyi himself, the original folder
+            title has been retained. In cases of unlabeled folders, or folders labeled by others,
+            folder names have been altered to more accurately reflect the contents therein.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in five series. <list type="simple">
+               <item>Series I. Correspondence, 1951-1962</item>
+               <item> Series II. Writings, 1937-1963</item>
+               <item>Series III. Columbia University Materials, 1940-1962<list type="simple">
+                     <item>Subseries III.1. Interdisciplinary Project on Economic Aspects of
+                        Institutional Growth and University Seminar on the Institutionalization of
+                        the Economic Process Materials, 1950s</item>
+                     <item> Subseries III.2. Course Materials, 1947-1952 </item>
+                  </list>
+                    </item>
+               <item>Series IV. Research Materials, 1949-1959</item>
+               <item>Series V. <title render="italic">Weekend Notebooks,</title> 1956-1958</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University--Faculty.</corpname>
+         <corpname encodinganalog="610">Ford Foundation.--Interdisciplinary Project.</corpname>
+         <persname encodinganalog="600">Polanyi, Karl, 1886-1964.</persname>
+         <persname encodinganalog="600">Polanyi, Karl, 1886-1964.--Great transformation.</persname>
+         <geogname encodinganalog="651">Benin--commerce--history.</geogname>
+         <geogname encodinganalog="651">Benin--economic conditions.</geogname>
+         <geogname encodinganalog="651">Europe, Eastern--Economic conditions.</geogname>
+         <subject encodinganalog="650">Economic anthropology.</subject>
+         <subject encodinganalog="650">Economic history.</subject>
+         <subject encodinganalog="650">Economic history--1750-1918.</subject>
+         <subject encodinganalog="650">Economic history--Study and teaching.</subject>
+         <subject encodinganalog="650">Economics--history.</subject>
+         <subject encodinganalog="650">Economics--moral and ethical aspects.</subject>
+         <subject encodinganalog="650">History, ancient.</subject>
+         <subject encodinganalog="650">International trade.</subject>
+         <subject encodinganalog="650">Slave trade--Benin.</subject>
+         <subject encodinganalog="650">Slavery.</subject>
+         <subject encodinganalog="650">Social history.</subject>
+         <occupation encodinganalog="656" source="lcsh">Historians.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Economists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room.This collection has no restrictions </p>
+         
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1965 M-65 Polanyi, Mrs. Karl Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>[Collection Name]. Rare Book and Manuscript Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 08/--/89 Christina Hilton Fenn </p>
+         <p>Papers reprocessed by Aaron Winslow (GSAS, 2014) Summer, 2009</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Identification of specific item; Date (if known); Karl Polanyi Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </userestrict>
+      <otherfindaid encodinganalog="555">
+         <p>Finding Aid is available in the repository and online.</p>
+
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence, <unitdate type="inclusive">1951-1962</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains Polanyi’s professional correspondence from the early 1950s to
+                  the early 1960s, most of which appears to be related to his various research and
+                  writing projects, and the coordination of various academic seminars and research
+                  symposium. As such, most of the correspondents are Polanyi’s professional
+                  colleagues, the major exception being correspondence with Polanyi’s brother,
+                  Michael Polanyi. </p>
+               <p>The correspondence in this series is arranged alphabetically. Correspondence
+                  directly relevant to Polanyi’s written works has been kept with the appropriate
+                  topic in the Writing series. <title render="italic">The Weekend Notes</title> series also contains some
+                  correspondence between Polanyi and Abe Rotstein relevant to that work. </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Arensberg, Conrad, <unitdate>1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Bohannan, Paul, <unitdate type="inclusive">1957-1960</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Franklin, Norman, <unitdate>1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Fromm, Erich, <unitdate>1961</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Grant, Donald, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Landsberger, Benno, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Lewy, Julius, <unitdate type="inclusive">1951-1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Merton, R.K., <unitdate>1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Neale, Walter C., <unitdate>1960</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Oppenheim, Leo, <unitdate type="inclusive">1953-1957</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>General Correspondence, <unitdate type="inclusive">1953-1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle> “Seafaring Merchants of Ur”, <unitdate>1956</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Oriental Institute, <unitdate type="inclusive">1958-1959</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Rotstein, Abe, <unitdate type="inclusive">1952-1962</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>Sweet, Ronald, <unitdate>1956</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">15</container>
+                  <unittitle>Vlastos, Gregory, <unitdate>1956</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Writings, <unitdate type="inclusive">1937-1963</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>The Writings Series consists of material from many of Polanyi’s major postwar
+                       works, including <title render="italic">The Great Transformation</title>, <title render="italic">Dahomey and the Slave Trade,</title> 
+                  <title render="italic">Trade and
+                          Markets in Early Empires,</title> the posthumously published <title render="italic">The Livelihood of Man,</title> and
+                       the unpublished <title render="italic">Freedom and Technology.</title> Also included are the manuscripts of
+                  various essays, lectures, and other writings. The writings included herein contain
+                  drafts at various stages of completion, including simple outlines or synopses (<title render="italic">The
+                  Great Transformation</title>), multiple intermediate drafts and incomplete manuscripts, as
+                       well as the final and near-final drafts (<title render="italic">Dahomey</title>). The works placed under the
+                  heading “Non-Market Economies Writings are independent studies and essays that
+                  also reflect Polanyi’s work in <title render="italic">Trade and Markets in Early Empires.</title> Much of
+                  Polanyi’s research and scholarship was collaborative. Because of this
+                  collaborative relationship, the correspondence and notes of Rosemary Arnold on
+                       <title render="italic">Dahomey,</title> are included with the writings. </p>
+               <p>Also included within this series are the chapters, preface, and introduction for
+                  Polanyi’s unfinished and unpublished late work, <title render="italic">Freedom and Technology.</title> This work,
+                  according to Polanyi’s wife Ilona Polanyi, was to have been written with Abe
+                  Rotstein, but was abandoned several years before Polanyi died. </p>
+               <p>Several lectures, such as “Freedom and Technology” and “Present Age of
+                  Transformation” which are early articulations of ideas that Polanyi would later
+                  expand into book-length studies, are also found here. </p>
+               <p>The material in this series is arranged alphabetically.</p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle><title render="italic">Dahomey,</title> 
+                     <unitdate type="inclusive">1948-1963</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>Chapter I-II, <unitdate>1952</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>Chapter 3--“A Cradle of Statesmanship”,
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">18</container>
+                     <unittitle>Currencies, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">19-21</container>
+                     <unittitle>Draft--Early, <unitdate type="inclusive">1953-1960</unitdate> (3
+                        Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">1-2</container>
+                     <unittitle>Draft--Final, <unitdate type="inclusive">1962-1963</unitdate> (2
+                        Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Drafts and Correspondence--Francisco Benet,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Notes--Equivalencies, Money, <unitdate type="inclusive">1940s-1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Notes--Money, Pricing, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Notes--Operational Devices, Money,
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">7-8</container>
+                     <unittitle>Research Notes, Tables, Calculations, <unitdate>undated</unitdate>
+                        (2 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">1-6</container>
+                     <unittitle>Rosemary Arnold, <unitdate type="inclusive">1948-1953</unitdate> (6
+                        Folders)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><title render="italic">Freedom and Technology,</title> 
+                     <unitdate type="inclusive">1956-1958</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle> “Freedom and Technology”--Lecture Notes, <unitdate type="inclusive">1955-1956</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">8-9</container>
+                     <unittitle>Notes and Chapter Drafts, <unitdate type="inclusive">1956-1958</unitdate> (2 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle> “Robert Owen”--Chapter Drafts,
+                     <unitdate>1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Preface and Introduction--Drafts,
+                     <unitdate>1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>General Writings</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle> “A Christian Left Group”, <unitdate type="inclusive">1937-1938</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle> “Consequences of the Industrial Revolution”,
+                        <unitdate>1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle> “The Good Life in an Industrial Society”,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle> “Hungarian Lesson”, <unitdate>1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">6-7</container>
+                     <unittitle>Lecture on Aristotle and J.K. Galbraith’s <title render="italic">The Affluent Society,</title>
+                           <unitdate type="inclusive">1958-1959</unitdate> (2 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle> “Marx on Corporativism”, <unitdate>1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle> “New West”, <unitdate>1958</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle> “On Propaganda”, <unitdate>1940</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle> “On Revisionism”, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle> “On the Size of Market Cultures”--Lecture, <unitdate type="inclusive">1957-1958</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle> “Our Obsolete Market Mentality”,
+                     <unitdate>1947</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Polanyi Bibliography, <unitdate>1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">15-16</container>
+                     <unittitle> “Ports of Trade in Early Societies”--Drafts, Notes, and Research
+                        Materials--1959-1962 (2 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">17-18</container>
+                     <unittitle> “Psychology and Ideology in Institutional Change” and “The Role of
+                        Strain in Institutional Change”, <unitdate>1957</unitdate> (2
+                     Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle> “Public Opinion and Statesmanship”,
+                     <unitdate>1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">20</container>
+                     <unittitle>Review--Smelser’s “Social Change in the Industrial Revolution”,
+                        circa <unitdate>1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">21</container>
+                     <unittitle> “Rousseau; or, is a Free Society Possible?”,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">22</container>
+                     <unittitle> “Szeljegyzetek a szocialista vilagfordulohoz”,
+                        <unitdate>1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle> “Toward the Development of a System of Measuring Technological
+                        Change”, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Untitled Essays, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><title render="italic">Great Transformation,</title> 
+                     <unitdate>1941</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle> “Great Transformation”, <unitdate>1941</unitdate> (First
+                     Outline)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle> “Present Age of Transformation”, <unitdate>1941</unitdate>
+                        (Bennington Lecture)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><title render="italic">Livelihood of Man,</title> 
+                     <unitdate>circa.1951</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">5-6</container>
+                     <unittitle>Chapters 1-36, <unitdate>1951</unitdate> (Chapters 18-29 missing) (2
+                        Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Greek chapters, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Synoptic Table of Contents, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Non-Market Economies Writings</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">9-10</container>
+                     <unittitle> “Early Economies”, <unitdate>1960</unitdate> (2
+                     Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle> “Money, Price and Trade in Pre-Industrial Societies that Possess No
+                        Market System”, <unitdate>1962</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle> “Non-Market” Paper ‘Authentic Version’, <unitdate type="inclusive">1959-1962</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle> “Towards a Conceptual Framework for the Study of Non-Market
+                        Economies”, <unitdate>1962</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Columbia University Materials, <unitdate type="inclusive">1940-1962</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains material relating to Polanyi’s tenure as professor of
+                  economics at Columbia University from 1947 to 1953. The material primarily
+                  consists of handwritten lecture notes and course outlines, as well as writings
+                  from university-supported and -centered faculty seminars and the Ford
+                  Foundation-funded research project. These latter writings are mostly in memo-form,
+                  but also include short write-ups on various topics. All of these materials, while
+                  distinct in form, have similar themes to Polanyi’s other research and book
+                  projects. The material is arranged alphabetically.</p>
+            </scopecontent>
+            <c level="subseries">
+               <did><unittitle>Subseries 1: Interdisciplinary Project on Economic Aspects of
+                     Institutional Growth and University Seminar on the Institutionalizing of the
+                     Economic Process Materials, <unitdate>1950s</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>This subseries contains writings and other materials relating to two
+                     interrelated and interdependent research projects: the University Seminar on
+                     the Institutionalization of the Economic Process, and the Interdisciplinary
+                     Project on Economic Aspects of Institutional Growth. The former project, the
+                     University Seminar, was sponsored in 1948 by Columbia University’s Council for
+                     Research in the Social Sciences, and involved a host of scholars both at
+                     Columbia and at other research institutions. Shortly after Polanyi’s
+                     retirement, Polanyi and Conrad Arensberg received a Ford Foundation grant, in
+                     1953, for what was known as the Interdisciplinary Project on Economic Aspects
+                     of Institutional Growth. Each of these projects produced a number of writings,
+                     primarily in the form of memos which were, apparently, for internal circulation
+                     and not intended for publication--rather, they appear to have been part of
+                     group presentations given by members of the seminar and research projects. Much
+                     of this material seems to be preliminary studies for and early drafts of <title render="italic">Trade
+                     and Market in the Early Empires,</title> edited by Polanyi and co-authored by other
+                     Interdisciplinary Project participants. </p>
+                  <p>This subseries also contains memos and minutes from the University Seminar and
+                     the Interdisciplinary Project, as well as the outline of the Project and the
+                     application material presented to the Ford Foundation. </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Aristotle Memo (#18), <unitdate>1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Ford Foundation-- Proposal, Award, Memos <unitdate type="inclusive">1953-1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>General Writings and Memos, <unitdate>1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Memoranda and Bibliography of Memoranda,
+                     <unitdate>1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">5-7</container>
+                     <unittitle>Memos 1-25, 1953-56 (Memos 22 and 23 missing) (3
+                     Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Outline of Project--Note No. 7 and Unnumbered Notes,
+                        <unitdate>1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle> “Semantics of General Economic History”,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">1-2</container>
+                     <unittitle>University Seminar Lecture, “Markets”--undated</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>University Seminar on the Institutionalizing of the Economic
+                        Process--Minutes, memos, <unitdate type="inclusive">1953-1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries 2: Course Materials, <unitdate type="inclusive">1947-1952</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>This subseries contains extensive handwritten and typed lecture notes for
+                     Polanyi’s various seminars taught while at Columbia University, as well as
+                     syllabi and course descriptions. Polanyi appears to have kept multiple copies
+                     of lecture notes, which he clearly labeled. This subseries also contains an
+                     introduction to a Masters thesis, written by Polanyi in his capacity as
+                     Columbia faculty. </p>
+                  <p>The material in this series is arranged alphabetically.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><unittitle>Course Notes</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle> “Archaic Greece”--2nd and 3rd Copy--undated</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">5-6</container>
+                        <unittitle>Economics 151-52--General Economic History, <unitdate type="inclusive">1947-1949</unitdate> (2 Folders)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Economics 252, <unitdate>1949</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Economics 252: Economic History of Early Greece and
+                        Rome,1948</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Economics Courses, <unitdate type="inclusive">1947-1950</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Grade Book, 1947-1952</unittitle>
+                     </did>
+                     <accessrestrict><p> [Restricted until 2032]</p>
+                            </accessrestrict>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle> “Hesiod” Course, <unitdate type="inclusive">1949-1950</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><unittitle>Main Course, <unitdate type="inclusive">1947-1949</unitdate>
+                                </unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                           <container type="Folder" label="Folder">5</container>
+                           <unittitle>Lecture Notes, <unitdate>1949</unitdate>
+                                    </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                           <container type="Folder" label="Folder">6-8</container>
+                           <unittitle>Parts I, <unitdate type="inclusive">1947-1949</unitdate> (3
+                              Folders)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                           <container type="Folder" label="Folder">1-5</container>
+                           <unittitle>Parts II-III, <unitdate type="inclusive">1947-1949</unitdate>
+                              (5 Folders)</unittitle>
+                        </did>
+                     </c>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">6-7</container>
+                        <unittitle>Second Course (Greek and Roman), <unitdate>undated</unitdate> (2
+                           Folders)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">8-9</container>
+                        <unittitle>Third Course, <unitdate>1949</unitdate> (2 Folders)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Lecture Courses--Table of Contents,
+                        <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Introduction to William Bennett Master's Thesis,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IV: Research Materials, <unitdate type="inclusive">1949-1959</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains handwritten and typescript notes, short written sketches,
+                  correspondence, clippings, and other materials relating to Polanyi’s research
+                  projects Those notes which were labeled or clearly identified as belonging with a
+                  project, course, or Columbia University-related project generally have been
+                  included with those materials. The files that cannot be identified have generally
+                  been left in their original folder, as many of these folders appear to have been
+                  marked by Polanyi himself. </p>
+               <p>The material in this series is arranged alphabetically.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Alalakh data, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">4-5</container>
+                  <unittitle>Antiquity, <unitdate>undated</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Aristotle, <unitdate type="inclusive">1956-1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Auction, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">8-9</container>
+                  <unittitle>Bibliographies, <unitdate type="inclusive">1949-1951</unitdate> (2
+                     Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">10-11</container>
+                  <unittitle>Carl Menger, <unitdate type="inclusive">1958-1959</unitdate> (2
+                     Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">12-14</container>
+                  <unittitle>Cuneiform, <unitdate type="inclusive">1950-1957</unitdate> (3
+                  Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Economic Theory, Markets/Trade, Ancient Rome,
+                     <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">2-3</container>
+                  <unittitle>Feudalism, <unitdate>1950s</unitdate> (2 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">4-6</container>
+                  <unittitle>General Economic History, <unitdate>undated</unitdate> (3
+                  Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Greece, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Hegel on “Civil Society”, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">9-11</container>
+                  <unittitle>Israel, <unitdate>1950s</unitdate> (3 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Mahirum, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Market as Institution, circa.1959</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>Marx, circa. <unitdate>1956</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">1-6</container>
+                  <unittitle>Money and Circulation, Equivalencies, <unitdate type="inclusive">1950-1959</unitdate> (6 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Mycenae, circa.1958</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Von Mises, <title render="italic">Theory and History,</title> 
+                     <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Oikos Controversy, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Operational Devices, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle> “Palace Economy, Temple Economy, and Market Economy in Tribal Israel”
+                     by George Woodard, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Pirenne, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Politics, Psychology, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">14-15</container>
+                  <unittitle>Primitive Economics, <unitdate>undated</unitdate> (2
+                  Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">1-2</container>
+                  <unittitle>Ronald Sweet Dissertation, <unitdate>1958</unitdate> (2
+                  Folders)</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series V: <title render="italic">Weekend Notes,</title> 
+                  <unitdate type="inclusive">1956-1958</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains drafts of Abe Rotstein’s unpublished <title render="italic">Weekend Notes,</title> in which
+                  he transcribed his conversations with Polanyi over a series of weekend visits and
+                  commutes (the two men lived in Canada and drove into New York City for their
+                  respective teaching appointments). The chapters of this manuscript,
+                  chronologically ordered by weekend from 1956-1958, were individually bound in 26
+                  small notebooks, and have been kept in the original order. The bulk of this series
+                  consists of nearly final drafts of the manuscript. Also included are several early
+                  drafts, correspondence between Polanyi and Rotstein, as well as the Table of
+                  Contents and Introduction by Polanyi to his unfinished book <title render="italic">Freedom and
+                  Technology.</title> 
+               </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">3-6</container>
+                  <unittitle>I-IV, <unitdate>1956</unitdate> (4 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>IX, <unitdate>1957</unitdate> (Includes Correspondence)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">8-17</container>
+                  <unittitle>X-XX, <unitdate type="inclusive">1957-1958</unitdate> (XXVI missing)
+                     (10 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">18</container>
+                  <unittitle>XXI, <unitdate>1958</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">19</container>
+                  <unittitle>XXII, <unitdate type="inclusive">1957-1958</unitdate> (Includes
+                     Correspondence, Table of Contents and Introduction to Polanyi’s “Freedom and
+                     Technology”)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">1-4</container>
+                  <unittitle>XXIII-XXVI, <unitdate>1958</unitdate> (4 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">5</container>
+                  <unittitle>Drafts and Correspondence, <unitdate>1958</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+
+
+
+      </dsc>
+   </archdesc>
+</ead>

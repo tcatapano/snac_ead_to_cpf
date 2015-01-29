@@ -1,0 +1,2787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_7906287_ead//EN" mainagencycode="nnc-rb">ldpd_7906287_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Kōji Nakanishi papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2012-08-14">August 14, 2012 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2012-08-14">August 14, 2012 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+         <descrules> Finding aid adheres to that prescribed by Describing Archives: A Content
+            Standard </descrules>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-08-14">2012-08-14</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Nakanishi, Kōji, 1925-</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Kōji Nakanishi papers">Kōji Nakanishi
+            papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1949/2010" type="inclusive">1949-2010</unitdate>
+         <physdesc><extent encodinganalog="300">34 linear ft. (34 record storage cartons)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1540</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">7906287</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is primarily in English with some Japanese
+            </language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Koji Nakanishi is a bioorganic chemist and Columbia University
+            professor emeritus of chemistry.</p>
+         <p>Nakanishi was born in Hong Kong on May 11, 1925. He attended Nagoya University where he
+            received his bachelor's, and later his PhD in chemistry. Nakanishi did post-graduate
+            work at Harvard University before returning to Japan where he taught chemistry at a
+            number of Universities. </p>
+         <p>Nakanishi joined the faculty of Columbia University in 1969 where he taught chemistry
+            and established a natural-products research lab. He and remained part of Columbia's
+            chemistry department for the rest of his career. In 1980 he became the Centennial
+            Professor of Chemistry and is currently a professor emeritus. </p>
+         <p>Nakanishi's career has focused largely on animal and human vision, including studies
+            intended to accelerate the development of a treatment for macular degeneration. With his
+            current group of graduate students, he is also studying the effects of gingko biloba
+            extract on neurological disorders.</p>
+         <p>He has received numerous awards and prizes for his scientific work, and the Nakanishi
+            Prize awarded jointly by the American Chemical Society and the Chemical Society of Japan
+            is names in his honor. </p>
+         <p>Koji Nakanishi has two children, three grandchildren, and is an enthusiastic amateur
+            magician.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The collection consists of the professional papers of Koji Nakanishi. The files contain
+            correspondence with collaborators, graduate students, and others in the scientific
+            community; files related to patents owned by Nakanishi; and subject files highlighting
+            Nakanishi's scholarly interests and scientific pursuits throughout his career.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in 4 series<list type="marked">
+                    <item>Series I: Subject
+                  Files</item>
+                    <item> Series II: Correspondence</item>
+                    <item>Series III:
+                  Publications</item>
+                    <item>Series IV: Patents</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University.--Dept. of Chemistry.</corpname>
+         <persname encodinganalog="600">Nakanishi, Kōji, 1925-</persname>
+         <subject encodinganalog="650">Bioorganic chemistry.</subject>
+         <subject encodinganalog="650">Chemistry, Organic.</subject>
+         <subject encodinganalog="650">Gingko.</subject>
+         <subject encodinganalog="650">Vision.</subject>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions. </p>
+         <p>This collection is located off-site. You will need to request this material at least two
+            business days in advance to use the collection in the Rare Book and Manuscript Library
+            reading room.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Koji Nakanishi Gift 08/01/2010, 2010.2011.M007</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Koji Nakanishi Papers; Box and Folder
+            (if known); Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed 07/--/2012 Carrie Hintz and Brandi Rupp, CC 2012 </p>
+         <p>Finding aid written 08/12/2012 Carrie Hintz</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts/University
+            Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+            publish that which it physically owns; the responsibility to secure copyright permission
+            rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Subject/Alphabetical Files</unittitle>
+            </did>
+                <scopecontent><p>The subject files series is the largest series in the collection.  This series contains files related to Nakanishi's scholarly work, professional service, and awards and recognition that he received for his own scientific work.  There are also many subject files that reflect his scholarly interests, particularly his long interest in the potential of ginkgolides for improving vision and memory and his work with Biosphere and Biosphere 2.  </p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Retinoids</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>VCD-Vision</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>PAFR</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Insect Vision</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Retnioids</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Fish Vision</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>"Overall"/Vision</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Ret-proteins</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Cyclopropyl 6-5-locked</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>G-Protein</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Transduction</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Vision (New)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Rhodopsin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>A2-E: Original Manuscripts-Manuscript, Fax, Letter</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>A2-E Eye Chemistry-Eye Science on RPE</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>A2-E</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>A2E-AMD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>A2E/Lipofuscin-Fluorecsent Pigments in RPE</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>A2E Proposals</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>A2E/Faxes/Phone #5</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>A2E Misc.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Ginkgolides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Ginkgo-2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>A2E</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>A2E</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>A2E-Oxid.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>A2E-Quercetin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Vision/ 36564 GM</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Vision/ 36564 GM-Woody Rh Paper</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Rh/A2E</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>PAFR-2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Vision-Shichida</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Vision-Shichida (own papers)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>A2E Papers-others</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>A2E-AMD Heidi</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>A2E Antioxidants</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>A2E-Lipotuscin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>A2E-AMD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Rh Misc.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Rh-3: G Protein</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Rh-2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Rh-2-Vision Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Rhod. Publications</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Visual Pigment Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>CD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Dr. Wang, Zhi Yuan (CU)-Dermato/tea</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Natural Products</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Hemoglobin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Dictyostelum</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Dictyostelum-Rich Kessin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Dictyostelum-Slime Molds, Other Species</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>BPP</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Porphyrin/DNA</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Photoaffinity Labeling</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>HB Hemoglobin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Marine (Fusetani)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Pheromones</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Mitomycin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Sphigolipids</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Folk Medicine</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>DNA</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>DNA</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>FTIR Mitomycin CJ Rh/bR</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>BTX</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Sugar (Publications)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Reptile</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>NP Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Memory</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>PAF Gingko</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Rhodopsin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Gingkolide Biosynthesis</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>GLU-R</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>GLU-R</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>PAF</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Memory</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Memory</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>GABAR</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>AD-1</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>AD-2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>UV of Arom. Compounds</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Sugar (data/own paper)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>NMR, T1, T2 Overhead</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Spin Systems, T1, T2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>NMR</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>MAS-NMR</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>MS (BTX)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Phys. Const. Tables</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>MS</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>MS VCD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>CPC/Cytosensor</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>COX-Z</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>CD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Peptides CD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>CD 1-5</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>CD 6/'97</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>CD-KN</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>CD (Exciton Chirality)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>CD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>CD (benzylic etc) OLD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>CD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Stereochem</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Exciton Chirality Literature</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Tandem MS/BTX MS</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>19F-SS NMR</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Alt. Mcd</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Cytosensor</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Bioactive</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>History of Natural Products</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Dr. J.N. Wu</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Kronenberg</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Taxol</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Bioactive-NatiProd Lit.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Bioactive</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Pfiesteria Toxin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>DBA</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Ascidian</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Psi Factor</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Tunichromes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Tunichromes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Tubulin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Hand-outs</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle><unitdate type="inclusive">4141</unitdate> MC BTX</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle><unitdate type="inclusive">4141</unitdate> (old)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle><unitdate type="inclusive">8141</unitdate> Material</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Reviews</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>General Interest</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>General Interest</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>CD (1982 Fall)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>ROA</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Ancient Lecture Notes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>G8248</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>Ancient Participation Lists</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>n-Ach-R</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>Active Grants: NSF CD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>CD ('89 &amp; earlier)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>NMR Lecture</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle><unitdate type="inclusive">8141</unitdate> Fall <unitdate type="inclusive">1884</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>G4172</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>Chemistry C3443x Spring '84</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>G4141x (1976/77)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>Rhodopsin Reviews</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>ir Raman</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>MS</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Topics</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Odajima</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Chi-Huey Wong</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Ur pK</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Ginkgolides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Topics in Natural Products</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>13c NMR Literature Xeroxs</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Finished Seminars</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Conferences</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Archive</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Awards</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Awards</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Awards</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Clippings</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Org. Spectroscopy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Org. Spectroscopy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Itochu</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Japanese Letters</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Active Collaboration/ Frequent Correspondence-Tubulin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Active Collaboration/ Frequent Correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>American Chemical Society</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Editorships</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Lecture Pamphlets</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Conferences</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Publication Guidelines</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Publications in Press</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Publications Submitted</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Publication Plans</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Referee Correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Science Watcher-Papers in Preparation</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Amazon 2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Brazil I</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Brazil II</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Private</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>CD</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>The Chemical Record</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Czech Academy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>IPSEN</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Japan Chemical Society</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>JASCO</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>John Wiley</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Maruzen Models</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Nobel Prize Nominations</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>NatProd</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Nuskin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>SAB</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>SMART</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Sunbor</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Suntory</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Tokyo Kagaku Dozin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>University Books</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Wyeth-Ayerst Res.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>PhTX Analogs</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>PhTX Analogs-Own Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>PhTX Papers-Own Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>PhTX Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Polyamine Toxins</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Glutamate</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>n-Ach-R</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Glutamate</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Philanthotoxin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>HIF</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>HIF</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Glu Own Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Glu Own Papers-Neurophysiol</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>HIF</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>HIF-Photoaffinity ATPase</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>HIF</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>HIF Transparancies</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Therajem</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Ojima KN Slides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Gonick "HIF"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Ecdysones Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Ecdysones (Reviews)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>HIF</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Peter Cohen</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Ginkgolide</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>KOWA Company</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>KANEKA</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Merck</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Molecumetics</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>New York Botanical Garden</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>New Chemical Entities</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>MS</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Nittobo</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>PROBEM</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Contracts</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Research Biochemicals International</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Riken</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Sequoia</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Sanki Laboratories</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Cloning</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>NP Novemeber <unitdate type="inclusive">2004</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Princess Chulabhorn</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Usherwood, Peter</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Plantaceutica</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Nakanishi Prize</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Nakanishi Prize <unitdate type="inclusive">1997</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>ASP Award</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Dreyfus</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>King Faisal Prize</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Nominations</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Welch Award</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Berova</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Chemistry Library</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>CV-Scientists</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>CV-Scientists</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>MS Facilities</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Obituaries</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Seeking Positions</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Undergraduates</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Contracts Pending</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>KN-80</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>34509 Proposals</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>34509-1</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>AMB</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Chemistry Department</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Ancient Reprints</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>CD/Bioactive GM 34509</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Companies for Instruments for CD Proposal GM 34509</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>CD NIH34509</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Donations</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Failed Proposals</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Funding</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Ginkgolides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Progess Reports Ginkgo</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Ginkgo Bilberry</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>ESNAP Report</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Granting Agencies</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Group Finance</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Makiko Files</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>OUABAIN/HL52282</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Proposals</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Phytoalexins</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Vision 2002-GM 36564</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>MH 068817 Ginkgolide</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">16</container>
+                  <unittitle>Rhodopsin-Vision Final Report</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>HFSP</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Old Grant Materials</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Old Grant Materials-NIH 36564 (Vision)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Bioorganic/Receptor AI 10187</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Retinal/Retinoid Letters, Projects</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Ceroplastes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Brevetoxin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Insects</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Trichilin/Akita Data</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Trigonelline</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Misc. Reprints</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>IR</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>50 Reprints</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Personal</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Patent: Cape</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>Patent: Glutatmate</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>Patent: Misc.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>Patent: Sugar</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>Patent Wyeth</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>Biosphere 2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>4172/2003 Vision</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>CAPE</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>Chlamydomonas 1</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>Chlamydomonas 2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>IR/RAMAN/UV</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>Spectroscopy Mixed</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>NMR Book</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>UV Second Deriv.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle>Miscellaneous</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Misc. Lit.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Visual Pigment and bR Slides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Antheridiogen Slides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>G2 Factor-Bell "Sugar"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Icipe Slides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Periplanone</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Abscisc Acid Slides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Y Base Slides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Abs. Config. (Chicago)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Sunbor</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Mitomycin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Mitomycin-clippings</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Chlamydomonas Salamander</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Retroretinoids</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>BTX</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Eye 5 Folding</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Rh 8</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Rh 8-Bleaching Adaptation</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>EYE 2 (early)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Retinol</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Yukari Thesis</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Rongyuan Xie</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>GM 10187</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>GM 10187 <unitdate type="inclusive">March2001</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Pending Collaboration</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Ginkgolides NIH-November 2001</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>2-&amp; 3-dehydro ecdysone</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>9-13-bromo</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Sugar Chirality</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Antifeedants</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Insect Sliders</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Azadirachtin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Bleaching Adaptation</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>BTX</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>BTX</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Cabenegrin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>CPC</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Propolis</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Collision Activation MS</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Ecdysone Receptor</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Ecdysone Receptor</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>FAB</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Folding</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Hopanoids</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Imidazoline Receptors</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>IR Master (Alan Croteau)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Kuroyanagi (Nambu)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>MIH Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>MIH</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Alternative Medicine</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Snake Venom</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Matsuno/ Propolis</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Pharmanex</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Pharmanex</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Hamamatsu</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>IAP</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>IPII</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>JICA</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Sci-Tech Center NSF</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>NSF 01-29 Biosphere</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Biosphere 2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Bioorganic Studies of Retinal Proteins-Vision NIH</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Photoaffinity Labeling of Rhodopsin-Irini Zanze NRSA</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>The CD Excition Chirality Method and Its Applications NIH</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Parking and Hotels</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Financial</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Group: Payroll</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Group: Housing Memos</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Benefits/Insurance</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Accounts</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Misc: Owned to KN</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Chemical Abstracts Service</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Muscarinic Acetylchol Rec</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>OBI</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Photoacoustic IR</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Polyene Macrolide</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Porphyrins (E. Vogel)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Protein Peptides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Rapamycin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">22</container>
+                  <unittitle>Rapamycin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Rapamycin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>2H Rhod.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>SHARK</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>SP-303</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Spisula Oocytes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Sugar</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Thomas Biosynthesis</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Visual Transduction</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>VIT. A</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>"The Chemistry of Vision"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>RIKEN I</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>RIKEN II</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Hess</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Maarten</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Dr. Schachter</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>WITKOP</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Checkbook</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Studies on Bioactive Compounds and Receptors NIH</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Account Book</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>ALCON</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>MBI</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Memory</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">23</container>
+                  <unittitle>Travel</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Drawer Account-1989 receipts</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Drawer Account-1988 receipts</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>ACS Reimbursements <unitdate type="inclusive">8/90</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Drawer Account-1990 receipts</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Drawer Account-1991 receipts</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Laura Eisenstein</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Rhodopsin Overheads</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>BION</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Berkowitz, B.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>LE Overheads</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>LE Book</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Bristol-Myers Squibb</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Ret Proteins</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Larex</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Millennium</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>OBI</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>Pharmanex</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>KAST (1998)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>Nominations-Horne, McDerm</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>Nominations-RB</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>Univ. System</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>Univ. System</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>Wandering Nat. Prod. Chem.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>Finished Seminars 1984-1985-1986</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Shaman Pharmaceuticals</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Pharmanex</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Pharmanex</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Theragem</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Nakanishi Symposium</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Nakanishi Symposium Thank You Letters</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Nakanishi Symposium Address Corrections</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>KN 70th Celebration</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>KN 70th Celebration-Heterocycles</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>KN 70th Celebration-Papers Dedicated to KN</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Welch Festivities</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Spring Seminars '97</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>ACAD (1/2)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>ACAD (2/2)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">27</container>
+                  <unittitle>Misc.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">27</container>
+                  <unittitle>Symposiums</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">27</container>
+                  <unittitle>Finished Seminars (1982-1994)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">27</container>
+                  <unittitle>Finished Seminars (1994-1996)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">27</container>
+                  <unittitle>Misc.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">27</container>
+                  <unittitle>Chemistry Department</unittitle>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series II: Correspondence</unittitle>
+            </did>
+                <scopecontent><p>The correspondence series includes correspondence with friends and collaborators in the scientific community, as well as correspondence relating to awards and prizes.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="box" label="Box">28</container>
+                  <unittitle>Alphabetical Correspondence </unittitle>
+                  <physdesc><extent>(4 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">28</container>
+                  <unittitle>Probem: Boston Mtg.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">28</container>
+                  <unittitle>Probem</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">28</container>
+                  <unittitle>Berkovich</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">28</container>
+                  <unittitle>John Prezzuto (Grant)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">28</container>
+                  <unittitle>Alphabetical Correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>Awards '93-'95</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>Awards '95-'98</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>Finished Seminars '98</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>Old Correspondence-Individuals (filed '98)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>East Asia Council</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>Nakanishi Prize</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>NMR Book Protest '95</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>IR Book '98</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>Jones and Bartlett</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">29</container>
+                  <unittitle>Grad. Students </unittitle>
+                  <physdesc><extent>(2 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series III: Publications</unittitle>
+            </did>
+                <scopecontent><p>The publications series includes copies of Nakanishi's journal articles and other published work, as well as offprints of articles by others.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="box" label="Box">30</container>
+                  <unittitle>Publications 1-80 (missing #1)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">30</container>
+                  <unittitle>Publications 81-159</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">30</container>
+                  <unittitle>Publications 160-239 (missing #161, 175, 214, 229)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">30</container>
+                  <unittitle>Publications 240-320</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">30</container>
+                  <unittitle>Publications 321-377</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">30</container>
+                  <unittitle>Publications 378-426 (missing #418, 420, 425)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">30</container>
+                  <unittitle>Publications 427-519 (missing #448, 474, 481)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">30</container>
+                  <unittitle>Publications 575-632</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">31</container>
+                  <unittitle>Publications 633-680</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">31</container>
+                  <unittitle>Publications 681-730</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">31</container>
+                  <unittitle>Publications 731-765</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">31</container>
+                  <unittitle>Publications 766-</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">31</container>
+                  <unittitle>Articles and Offprints by Others </unittitle>
+                  <physdesc><extent>(11 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series IV: Patents</unittitle>
+            </did>
+                <scopecontent><p>The patents series includes files related to numerous patents worked on or held by Koji Nakanishi.  This series also includes files for grants and other sponsored research.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Round Table</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>PAS</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Wood</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>KAZU</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Bell</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Pseudrelone</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Prof. Nozoe</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Patent 1-201</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Patent 1-201</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Patent 1-202</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Patent 1-202</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Patent 7402-Ginkgolides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Illudin-S</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>PN-B</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>Finished Seminars '83-'84</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">32</container>
+                  <unittitle>US-Japan January '84</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>C15 Ginkgolide</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>4-04 Isoxazole</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Obsolete Grants-Past Grants: Navy N62269-78-C-0368</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Obsolete Grants-Past Navy Grant: N00014-80-C-0578 <unitdate type="inclusive">6/1/80-5/31/81</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Obsolete Grants-Past Grants: AI 10187 + CA11572 FTIR
+                     Supplement</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Obsolete Grants-US/Japan Seminar Corr.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>C20 Gingkolide</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>HV Synthesis</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Cuauntemone</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Cervicarcin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Flouroscene</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Ginkgolides</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Task Force II</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Benzoate Chirality</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>NAF</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Lycopodine</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>X Base</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>Abscisin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">33</container>
+                  <unittitle>TG</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">34</container>
+                  <unittitle>Inactive Grants</unittitle>
+               </did>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

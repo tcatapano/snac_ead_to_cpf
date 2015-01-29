@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-ua_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078804_ead//EN" mainagencycode="nnc-rb">ldpd_4078804_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Elbridge T. Gerry Papers</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+                <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+                <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2012-06-27">2012-06-27</date>
+                <item>xml document created by Judith Zupnick.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Gerry, Elbridge T. (Elbridge Thomas), 1837-1927.</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="Elbridge T. Gerry Papers">Elbridge T. Gerry Papers</unittitle>
+            <unitdate encodinganalog="245$f" normal="1856/1912" type="inclusive">1856-1912.</unitdate>
+            <physdesc><extent encodinganalog="300">380 items (5 boxes)</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+                </corpname>
+                <address><addressline>New York, NY.</addressline>
+            </address>
+            </repository>
+            <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+            <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078804</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng">In English</language>
+            </langmaterial>
+            <abstract>This collection contains the papers, consisting primarily of correspondence, of Elbridege T. Gerry (1837-1927), 1857 graduate of Columbuia College and later famous as a lawyer and philanthropist. There are also documents concerning Columbia College Clasa of 1857, college notebooks, memorabilia, and manuscript copies of Gerry's  essays and orations. a</abstract>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p><!-- BIOGHIST REQUIRED -->Lawyer, philanthropist. Gerry was an 1857 graduate of Columbia College. He founded the New York Society for the Prevention of Cruelty to Children and was chairman of the legislative committee that abolished hanging in favor of the electric chair as capital punishment in New York State. He also worked with the Society for the Prevention of Cruelty to Animals and was chairman for the New York City commission for the insane.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>As secretary of the Columbia College Class of 1857, Gerry carried on a detailed correspondence with many of its members. The bulk of the Gerry Papers are these carefully preserved letters, many of which are of a personal, intimate nature, and documents concerning the activities of the class as a whole. Of special interest are letters from Right Rev. Daniel S. Tuttle and manuscript copies of several of Gerry's own essays and orations. Also, some of Gerry's Columbia College notebooks and memorabilia of Gerry's student days.</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in three series:<list type="simple">
+                <item>Series I: Cataloged Documents</item>
+                <item>Series II: Cataloged Correspondence</item>
+                <item>Series III: Columbia College notebooks</item>
+            </list>
+            </p>
+        </arrangement>
+        <controlaccess><head>Subjects</head>
+            <corpname encodinganalog="610">Columbia College (New York, N.Y.)--Alumni and alumnae.</corpname>
+            <corpname encodinganalog="610">Columbia College (New York, N.Y.)--Students.</corpname>
+            <corpname encodinganalog="610">American Society for the Prevention of Cruelty to Animals.</corpname>
+            <corpname encodinganalog="610">New York Society for the Prevention of Cruelty to Children.</corpname>
+            <persname encodinganalog="600">Tuttle, Daniel Sylvester, 1837-1923.</persname>
+            <geogname encodinganalog="651">New York (N.Y.)--Social conditions.</geogname>
+            <geogname encodinganalog="651">New York (N.Y.)--Social life and customs.</geogname>
+            <geogname encodinganalog="651">New York (State)--Social conditions.</geogname>
+            <subject encodinganalog="650">Mentally ill--New York (State)--New York.</subject>
+            <subject encodinganalog="650">Capital punishment--New York (State)</subject>
+            <subject encodinganalog="650">Social problems--New York (State)</subject>
+            <subject encodinganalog="650">Child abuse--Societies, etc.</subject>
+            <subject encodinganalog="650">Animal welfare.</subject>
+            <occupation encodinganalog="656" source="lcsh">Lawyers.</occupation>
+            <occupation encodinganalog="656" source="lech">Philanthropists.</occupation>
+        </controlaccess>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Single photocopies may be made for research purposes. The RBML maintains ownership of the physical material only. Copyright remains with the creator and his/her heirs. The responsibility to secure copyright permission rests with the patron.</p>
+        </userestrict>
+        <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>The following boxes are located off-site: 4-5. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+            <p>This collection has no restrictions.</p>
+        </accessrestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>M-59</p>
+        </acqinfo>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known); Elbridge T. Gerry Papers; Box and Folder; Rare Book and Manuscript
+            Library, Columbia University Library.</p>
+                    </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Cataloged 06/--/89 Christina Hilton Fenn</p>
+        </processinfo>
+        <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Documents</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Correspondence - Columbia College, class of <unitdate>1857</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Various Committee Reports, Treasurer's Report - Columbia College, class of <unitdate>1857</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Translation of Homer's Iliad</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>List of translations</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Essays</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Columbia College, Class of <unitdate>1857</unitdate> - miscellaneous envelopes with names and notes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Schiller, William Tell. Translation by Professor Schmidt - MISSING</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series II: Cataloged Correspondence</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Benedict, W. de L.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Boardman, William S.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Brower, J.H.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Davies, Henry E.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Fairchild, Charles A.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Francis, S.M.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Funsten, Reverend J.B.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Gerry, Elbridge</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Goetze, Frederick</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Griffeths, Catherine Louise</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Griffin, George Butler</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Haven, George G.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Herrick, J.B.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Jackson, Oliver P.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Ludlow, E.L.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>MacDonald, Wilson</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Mason, Erskime</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Massett, B.W. Carey</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Massett, W. Carey</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Maury, Mytton</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Nott, Henry B.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Packwood, Richard T.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Parkman, John</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Parkman, Theodore</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Redmond, Goold</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Russell, Charles</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Sears, Charles E.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Slipper, James H.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Sloan, William S.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Smedberg, W. Renwick</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Smith, Edgar P.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Steel, Alfred H.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Tailer, James T.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Talbot, William R.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Tombo, Rudolf</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Tuttle, Daniel S.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Ward, Charles</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Wheeler, Everett P.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Winslow, William B.</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series III: Columbia College notebooks</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">4-5</container>
+                        <unittitle>Columbia College notebooks</unittitle>
+                    </did>
+                </c> 
+                </c>
+                            
+        </dsc>
+    </archdesc>
+</ead>

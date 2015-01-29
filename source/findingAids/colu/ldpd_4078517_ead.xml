@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078517_ead//EN" mainagencycode="nnc-rb">ldpd_4078517_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Edith Altschul Lehman Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2010-04-20">April 20, 2010 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2010-04-20">April 20, 2010 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-04-20">2010-04-20</date>
+            <item>File created.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Lehman, Herbert H., Mrs.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Edith Altschul Lehman papers,">Edith Altschul
+            Lehman Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1856/1976" type="inclusive">1856-1976 [</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">Bulk Dates: 1963-1976].</unitdate>
+         <physdesc><extent encodinganalog="300">17 linear ft. ( 27 document boxes; 1 record carton; 2 file
+               card boxes; 4 oversize boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0762</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078517</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="     eng   "> Material is in English. </language>
+         </langmaterial>
+         <abstract>This collection documents the life of Edith Altschul Lehman, a philanthropist who
+            supported many social projects in New York City. Edith Lehman was the wife of New York
+            Governor and Senator Herbert H. Lehman. </abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Edith Louise Altschul was born in San Francisco on August 8,
+            1889 to Charles and Camilla Altschul. Charles, a successful banker with Lazard Freres,
+            moved the family to New York City in 1901. Edith attended Dr. Sach's Girls School and
+            Miss Jacoby's School (now the Calhoun School) and took a nursing course after
+            graduation. She met Herbert H. Lehman, a partner in the Lehman Brothers investment firm,
+            at a picnic. They were married on April 28, 1910 and would have three children, Peter,
+            John, and Hilda. </p>
+         <p><!-- BIOGHIST REQUIRED -->Edith considered her marriage her career and the most
+            important aspect of her life, but she was also deeply involved in social welfare and
+            philanthropy. She organized a social service committee to care for the family needs of
+            hospitalized patients. This endeavor led to the creation of Mount Sinai Hospital's first
+            professional social service department, and she remained closely associated with the
+            hospital for many years thereafter. </p>
+         <p><!-- BIOGHIST REQUIRED -->Lehman was also involved with the Henry Street Settlement,
+            which provided health care and other assistance to new immigrants and the poor living in
+            the Lower East Side of New York City. In 1948 the Lehman's built Pete's House, a youth
+            center at Henry Street Settlement dedicated to the memory of their son Peter, who was
+            killed in World War II. Peter had volunteered as a youth leader at the Settlement. </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1917, Edith Lehman became a charter member of the Play
+            Schools Association, which promoted play as vital to the mental and physical health of
+            children. The organization partnered with schools, hospitals, and other institutions to
+            provide opportunities for creative play. Lehman would work with the organization for
+            over fifty years, serving as president and as Chairman of the Board from 1966 until her
+            death in 1976. </p>
+         <p><!-- BIOGHIST REQUIRED -->Edith Lehman was also involved in the Jewish communities of
+            New York and a member of the American Jewish Committee and the Federation of Jewish
+            Philanthropies, among other organizations. She was a supporter of Israel, and first
+            visited the country in 1949 with her husband. The Edith Lehman High School in Dimona,
+            Israel, was dedicated to her. </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1961, the Lehman's built the Lehman Children's Zoo (now the
+            Tisch Zoo) in New York City's Central Park in honor of their 50th wedding anniversary.
+            Although the zoo was renovated in 1997, the bronze Lehman Gates still stand at the
+            entrance. </p>
+         <p><!-- BIOGHIST REQUIRED -->After her husband's death in 1963, Edith Lehman established
+            several major endowments and institutions in his honor, including contributions to Mount
+            Sinai Hospital Medical School and the establishment of the Lehman Professorship in
+            Pediatrics at that institution; the Lehman Educational Fund, which offers scholarships
+            for African American college students; and the Lehman School of Ethics at the Jewish
+            Theological Seminary. She also supported Williams College, Herbert Lehman's alma mater,
+            and financed and endowed the Lehman Suite at Columbia University's School of
+            International and Political Affairs. </p>
+         <p><!-- BIOGHIST REQUIRED -->In recognition for her dedication to social causes, Edith
+            Lehman was awarded honorary doctor of humane letters degrees from Williams College and
+            Mount Sinai School of Medicine, as well as a doctor of laws from Columbia University. </p>
+         <p><!-- BIOGHIST REQUIRED -->Edith Altschul Lehman died on March 8, 1976, in New York City.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This collection documents the life of Edith Altschul Lehman, a philanthropist and the
+            wife of New York Governor and Senator Herbert H. Lehman. It supplements files on Edith
+            Lehman which had been integrated into the Herbert H. Lehman Papers (MS#0763). The
+            majority of materials relate to Edith Lehman's philanthropic activities, such as the
+            construction of the Lehman Children's Zoo, contributions to the Henry Street Settlement,
+            and her involvement in numerous organizations including the Play Schools Association,
+            the American Jewish Committee, and the Federation of Jewish Philanthropies. Other
+            material concerns her marriage to Herbert Lehman and her family life. The collection is
+            comprised of correspondence, diaries, notebooks, speeches, photographs, audiotapes, and
+            memorabilia.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection has been arranged into three series: <list type="simple">
+               <item>Series I: Subject Files, 1942-1976</item>
+               <item>Series III: Condolences, 1976</item>
+               <item>Series III: Memorabilia, 1856-1989</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Henry Street Settlement (New York, N.Y.)</corpname>
+         <corpname encodinganalog="610">American Jewish Committee.</corpname>
+         <corpname encodinganalog="610">Federation of Jewish Philanthropies of New York.</corpname>
+         <corpname encodinganalog="610">Herbert H. Lehman Collections (Columbia University)</corpname>
+         <corpname encodinganalog="610">Play Schools Association.</corpname>
+         <persname encodinganalog="600">Lehman, Edith A. (Edith Altschul).--local</persname>
+         <persname encodinganalog="600">Lehman, Herbert H. (Herbert Henry), 1878-1963.</persname>
+         <geogname encodinganalog="651">Central Park (New York, N.Y.)</geogname>
+         <geogname encodinganalog="651">Central Park Children's Zoo (New York, N.Y.)</geogname>
+         <geogname encodinganalog="651">New York (State)--Politics and government--1951-</geogname>
+         <subject encodinganalog="650">Women--Diaries.</subject>
+         <subject encodinganalog="650">Social settlements--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Zoos--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Children's zoos--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Jews--New York (State)--New York--Societies, etc.</subject>
+         <subject encodinganalog="650">Jews--Charities.</subject>
+         <subject encodinganalog="650">Governors' spouses--New York (State)</subject>
+         <subject encodinganalog="650">Humanitarianism.</subject>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Diaries.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Women philanthropists.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room. This collection has no restrictions. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Correspondence, diaries, notebooks, speeches, photographs, tape recordings, memorabilia
+            bequest Lehman, Edith Altschul</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Bequest of Edith Altschul Lehman, 1977.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Edith Altschul Lehman papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Correspondence, diaries, notebooks, speeches, photographs, tape recordings, memorabilia
+            Surveyed 05/--/87 Julie Miller </p>
+         <p>Papers processed in 2009 Haruna Otsuka and Carolyn Smith </p>
+         <p>Finding aid written in September 2009 by Carolyn Smith</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts/University
+            Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+            publish that which it physically owns; the responsibility to secure copyright permission
+            rests with the patron.</p>
+      </userestrict>
+      <relatedmaterial encodinganalog="544">
+         <head>Related Material</head>
+         <p>Edith Lehman materials from 1910 to 1962 are integrated into the Herbert H. Lehman
+            Papers, Herbert H. Lehman Suite and Papers, Columbia University, New York, N.Y. </p>
+         <p>Herbert H. Lehman Papers, Rare Book &amp; Manuscript Library, Columbia University </p>
+         <p>Frank Altschul Papers, Rare Book &amp; Manuscript Library, Columbia University</p>
+      </relatedmaterial>
+      <otherfindaid encodinganalog="555">
+         <p>Finding Aid available in repository and online; folder level control.</p>
+         <p><extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead//nnc-rb/ldpd_4078517">Online
+               finding aid available.</extref>
+         </p>
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Subject Files, <unitdate type="inclusive">1942-1976</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>The majority of the subject files document Edith Lehman's social and philanthropic
+                  activities. Files relating to the Play Schools Association reflect her role as
+                  president and chairman and include correspondence, reports, memos, and conference
+                  materials. Sponsorship files contain brief notes recording her responses to event
+                  invitations and to the many requests for her sponsorship or endorsement of
+                  particular groups. Other files focus on particular projects, organizations, and
+                  individuals and contain correspondence and memos. Files are arranged
+                  alphabetically. </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>A, <unitdate type="inclusive">1963-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Abortion Law Repeal Legislation, <unitdate type="inclusive">1971-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Abrams, Morris B., <unitdate type="inclusive">1965-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Altschul, Frank and Helen G., <unitdate type="inclusive">1964-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Altschul, Frank and Helen G.--80th Birthday Party,
+                     <unitdate>1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>American Council for Judaism, <unitdate>1960s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>American Friends of Hebrew University, <unitdate type="inclusive">1964-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>American Jewish Committee, <unitdate type="inclusive">1964-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>American Jewish Congress, <unitdate type="inclusive">1972-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Americans for Democratic Action, <unitdate type="inclusive">1970-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Animal Legislation, <unitdate type="inclusive">1966-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Animal Shipment Legislation, <unitdate type="inclusive">1973-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Arnstein, Mr. and Mrs. Lawrence, <unitdate type="inclusive">1965-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>General, <unitdate type="inclusive">1963-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>B, <unitdate type="inclusive">1964-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Beame, Abraham, <unitdate type="inclusive">1969-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Benton, William and Helen, <unitdate type="inclusive">1965-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Bingham, Jonathon B. and June R., <unitdate type="inclusive">1964-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Birmingham, Stephen--"Our Crowd," <unitdate type="inclusive">1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>B'nai B'rith Lehman Exhibition (Washington), <unitdate type="inclusive">1964-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Bragdon, Paul E., <unitdate type="inclusive">1965-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Brandeis University, <unitdate type="inclusive">1964-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Brunkard, Thomas V. Memorial Service,
+                  <unitdate>1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>C, <unitdate type="inclusive">1956-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Carey, Hugh L., <unitdate type="inclusive">1974-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Carey Transition Council, <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">4 to 6</container>
+                  <unittitle>Children's Zoo, <unitdate type="inclusive">1961-1976</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Columbia University, <unitdate>1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Constitutional Convention, New York State,
+                  <unitdate>1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Cordier, Andrew W. <unitdate type="inclusive">1969-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Council for Livestock Protection, circa
+                  <unitdate>1970s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Crank Letters, <unitdate type="inclusive">1966-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>D, <unitdate>1970s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Dimona, Israel, Edith Lehman High School,
+                  <unitdate>1960s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Douglas, Paul H. and Emily, <unitdate type="inclusive">1966-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>E, <unitdate type="inclusive">1964-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Edelstein, Julius C.C., <unitdate type="inclusive">1966-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>F, <unitdate type="inclusive">1964-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Federation of Jewish Philanthropies, <unitdate type="inclusive">1966-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Friends of Central Park Zoo, <unitdate>1970s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>G, <unitdate type="inclusive">1967-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Goodhart, Arthur L. and Family, <unitdate>1970s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Gore, Albert, <unitdate type="inclusive">1970-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>H, <unitdate type="inclusive">1964-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">9 to 12</container>
+                  <unittitle>Henry Street Settlement, <unitdate type="inclusive">1970-1975</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(4 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">1 to 2</container>
+                  <unittitle>Henry Street Settlement <unitdate type="inclusive">1965-1969</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Humane Slaughter of Animals, <unitdate type="inclusive">1957-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">4 to 6</container>
+                  <unittitle>Humphrey, Hubert H. and Muriel, <unitdate type="inclusive">1960-1976</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>I, <unitdate type="inclusive">1965-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Israel, <unitdate type="inclusive">1967-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>J, <unitdate type="inclusive">1964-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Jackson, Barbara, 1964-175</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Jackson, Sir Robert G. A., <unitdate type="inclusive">1965-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Jewish Theological Seminary of America, <unitdate type="inclusive">1965-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Johnson, Lyndon B. and Lady Bird, <unitdate type="inclusive">1963-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Johnson, Lyndon B. Inauguration, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Johnson-Humphrey Campaign <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>K, <unitdate type="inclusive">1966-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Kennedy, Robert F., <unitdate type="inclusive">1960-1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Koch, Edward I., <unitdate type="inclusive">1964-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Krents, Harold, <unitdate type="inclusive">1960-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>L, <unitdate type="inclusive">1965-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Lehman, Edith Altschul</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Art Exhibition Catalogs, <unitdate type="inclusive">1954-1961</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>85th Birthday Party, <unitdate>1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>New York Post Interview, <unitdate>1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Speeches, <unitdate type="inclusive">1966-1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Speeches, <unitdate type="inclusive">1957-1958</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">4 to 6</container>
+                  <unittitle>Lehman, Herbert H. College, <unitdate type="inclusive">1967-1976</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Lehman, Herbert H.--Juvenile Biography Plans,
+                  <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Lehman, Mayer--Family Fund, <unitdate type="inclusive">1969-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Lehman, Orin <unitdate type="inclusive">1964-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Leidesdorf, Samuel D. <unitdate type="inclusive">1964-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Lindsey, John V. <unitdate type="inclusive">1964-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>M, <unitdate type="inclusive">1968-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>McGovern Campaign, <unitdate>1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Magnes Memorial Museum</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Metropolitan Museum and Central Park,
+                  <unitdate>1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Mondale, Walter F., <unitdate type="inclusive">1974-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Morgenthau, Robert--D.A. Campaign, <unitdate type="inclusive">1974-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Morgenthau, Robert--Gubernatorial Campaign,
+                  <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Mount Sinai Hospital and School of Medicine, <unitdate type="inclusive">1964-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>N, <unitdate type="inclusive">1963-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>National--General, <unitdate type="inclusive">1958-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>N.A.A.C.P.-- Herbert H. Lehman Education Fund, <unitdate type="inclusive">1965-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>New York Hospital-- Hilda Master Chair, <unitdate type="inclusive">1967-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>New York State-- Lehman Memorial Fellowships, <unitdate type="inclusive">1964-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>New York State Thruway, <unitdate type="inclusive">1942-1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>New York University Medical Center, <unitdate type="inclusive">1964-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>O, <unitdate type="inclusive">1970-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>P, <unitdate type="inclusive">1965-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Philanthropies, <unitdate type="inclusive">1968-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Play Schools Association</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Biennial Conference, <unitdate>1965</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">2 to 7</container>
+                     <unittitle>General, <unitdate type="inclusive">1974-1976</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(6 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Biennial Conference, <unitdate>1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Political--General, <unitdate type="inclusive">1970-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Presidential Medal of Freedom, <unitdate type="inclusive">1963-1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>R, <unitdate type="inclusive">1964-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Roosevelt, Eleanor--Memorial Foundation, <unitdate type="inclusive">1964-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Roosevelt, Franklin D.--Monument Committee, <unitdate type="inclusive">1966-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Sa-Se, <unitdate type="inclusive">1960-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Sh-Sy, <unitdate type="inclusive">1964-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">6 to 15</container>
+                  <unittitle>Sponsorships, <unitdate type="inclusive">1966-1975</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(10 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">16</container>
+                  <unittitle>T, <unitdate type="inclusive">1964-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>United Jewish Appeal, <unitdate type="inclusive">1962-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>U-V, 169-1975</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>W, <unitdate type="inclusive">1963-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Wagner, Robert Jr., <unitdate type="inclusive">1964-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Wald, Lillian D.-- Election to the Hall of Fame, <unitdate type="inclusive">1965-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">6 to 7</container>
+                  <unittitle>Weinfeld, Edward, <unitdate type="inclusive">1965-1975</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Williams College, <unitdate type="inclusive">1964-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Williams College--Scholarships, <unitdate type="inclusive">1960s-1970s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Wise, Hilda Jane Lehman and Family,
+                  <unitdate>1970s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Yale University, <unitdate type="inclusive">1970-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Y-Z, <unitdate type="inclusive">1965-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Condolences, <unitdate>1976</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This small series holds obituaries, funeral service information, and letters of
+                  condolence sent to Edith Lehman's children and family after her death in March
+                  1976. </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">31</container>
+                  <unittitle>Obituary, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">31</container>
+                  <unittitle>Funeral Service--General, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">31</container>
+                  <unittitle>Condolence Letters--A-Z, <unitdate>1976</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(8 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">31</container>
+                  <unittitle>Condolence Letters--General, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Memorabilia, <unitdate type="inclusive">1856-1976</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series holds a variety of notebooks, awards, artifacts, and other objects
+                  representing many aspects of Edith Lehman's life. It includes elaborately bound
+                  scrapbooks and other gifts from her uncle, Richard Altschul, which he made each
+                  year for his niece's birthday. Consisting of family traditions and injokes, they
+                  were known as "The Richy Classics." The series also houses family documents, the
+                  diaries, and several photo albums documenting wedding anniversaries and trips.
+                  Other albums cover events such as the dedication of Herbert Lehman College and the
+                  construction of Pete’s House; most of these were given to the Lehman's as
+                  commemorative gifts. The series contains a watercolor painting of the Lehman
+                  Children's Zoo and two original sketches of the zoo's animal sculptures, designed
+                  by artist Aymar Embury. Also included are social books, Christmas gift lists,
+                  diplomas and membership certificates, and awards, medals, pins, statues, and other
+                  items given to Edith in recognition of her philanthropic activities. </p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle>Richard Altschul Gifts</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <unittitle>"Just C &amp; Y"--Book Box with Letter,
+                        <unitdate>1925</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <unittitle>"What I know About Social Services" and Letters,
+                        <unitdate>1917</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <unittitle>"Infra Red and Ultraviolet Pictures of Family Life in New York,
+                           <unitdate>1924 August 18</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <unittitle>"Lest We Forget"--Scrapbook of California made for Charles and
+                        Camilla Altschul, <unitdate>1901</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <unittitle>"Cressy's History of California, Edition Grand de Luxe,"
+                           <unitdate>1923</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Awards and Commemorative Objects</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <unittitle>Testimonial by Women's Division of the American Jewish Joint
+                        Distribution Committee--Guest Signatures,
+                     <unitdate>1936</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle>National Association for the Advancement of Colored
+                        People--Certificate of Life Membership for Edith Lehman,
+                        <unitdate>1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle>Mount Sinai Plaque, <unitdate>1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle>Judge Irving Lehman--Golden Jubilee Scroll from the National Jewish
+                        Welfare Board, <unitdate>April 12, 1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle>Jewish Theological Seminary of America--Certificate, <unitdate type="inclusive">1965-1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle>Louise Waterman Wise Award, <unitdate>1973</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <unittitle>Legislative Correspondents Association of the State of New
+                        York--Certificate, <unitdate>1937</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <unittitle>"The Deserted Wives in 'A Little Party of Our Own'" --by the Wives
+                        of the Legislative Correspondents Association of the State of New York,
+                           <unitdate>1934</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>For Mrs. Herbert Lehman by the International Ladies Garment Workers'
+                        Union--Gold Needle and Thimble, <unitdate>July 1,
+                     1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>American Jewish Committee--Anti-Defamation League--Medal,
+                           <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Medical Board of Mount Sinai Hospital--Medal,
+                        <unitdate>1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>For Edith A. Lehman on Her Eightieth Birthday--Medal from the Play
+                        Schools Association, <unitdate>August 18, 1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Felix M. Warburg Memorial Award,
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>United Jewish Appeal--Medal Commemorating the 20th Anniversary of
+                        V-E Day, <unitdate>1965</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>United Jewish Appeal--Medal Commemorating the 50th Anniversary of
+                        Karen Hayesod, <unitdate>1970</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Mount Sinai Hospital Trusteeship Medals, <unitdate>1946</unitdate>
+                        (2 medals)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Mount Sinai Hospital Board of Trustees Medal--Brass in Lucite,
+                           <unitdate>1963</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Silver Medal Commemorating Dedication of the Eleanor Roosevelt Wing
+                        of the Franklin D. Roosevelt Library--Eleanor Roosevelt Memorial Foundation,
+                           <unitdate>May 3, 1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Lifetime Pass to the Central Park Children's Zoo--by the Department
+                        of Parks, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Lifetime Membership in the Woman's Division, Federation of Jewish
+                        Philanthropies--Membership Card, <unitdate>1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Howard University Centennial Medal in Appreciation of Gift to Alumni
+                        Scholarship Fund, <unitdate>1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Medal with US Congress Seal from Jonathan Bingham,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Honorary Membership from New York Chapter of Hadassah,
+                           <unitdate>1961</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Brandeis University Plaque in Appreciation of Gift to Library Trust
+                        Fund, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Plaque to Edith Lehman from the Board of Trustees of Brandeis
+                        University--Naming Her as Fellow of the University, <unitdate>April 17,
+                        1964</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Elected to the Society of Honor Reform Jewish Appeal,
+                        1965-1970--Statues (4 statues)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Statue to Herbert Lehman for his 80th Birthday by Honor Reform
+                        Jewish Appeal, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Bust of John Kennedy by Robert Berkes, Presented by 65th Anniversary
+                        Convention of the International Ladies' Garment Workers Union,
+                           <unitdate>1965 May</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Mount Sinai Medical Center Memorial Resolution, <unitdate>1976
+                        March</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>Naming of Herbert H. Lehman College--Certificate,
+                        <unitdate>1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Resolution of Appreciation from Henry Street Settlement Urban Life
+                        Center--Certificate, <unitdate>1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Citation from Americans for Democratic Action at Annual
+                        National--Certificate, <unitdate>1964</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Tribute in Honor of Herbert Lehman Presented to Edith Lehman by the
+                        Jewish Teachers Seminary and People's University--Certificate,
+                           <unitdate>1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Election of Edith Lehman to the Society of Honorary Alumni of the
+                        Hebrew University of Jerusalem--Certificate,
+                     <unitdate>1970</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Dedication of the Edith Lehman Comprehensive High School,
+                        Israel--Certificate, <unitdate>1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Original lithograph by Chaim Gross from the United Jewish Appeal of
+                        Greater New York, <unitdate>1963</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box">Lehman Suite cabinet</container>
+                     <unittitle>Class Bowl Engraved with "In Appreciation" from Jonathan Bingham,
+                           <unitdate>1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box">Lehman Suite cabinet</container>
+                     <unittitle>Blue and White Plate from Thanks to Scandinavia,
+                        <unitdate>1973</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Degrees</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle>Williams College--Diploma, <unitdate>1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>National Red Cross--Volunteer Special Services Certificate,
+                           <unitdate>1944</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Mount Sinai School of Medicine, Honorary Doctor of Humane
+                        Letters--Diploma, <unitdate>1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Columbia University, Honorary Doctor of Laws--Diploma and
+                        Photographs, <unitdate>1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Photo Albums</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <unittitle>Golden Wedding Anniversary, <unitdate>1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <unittitle>Edith Lehman High School in Dimona, Israel--Photo Album,
+                           <unitdate>1965</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <unittitle>Visit to Israel--Photo Album, <unitdate>1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle>"ORT" in Israel--Photo Book,
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <unittitle>Governor Lehman and the Amalgamated Clothing Workers of America: a
+                        Photographic Record Presented to Mrs. Edith Lehman, <unitdate>1967 October
+                        9</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>Pete's House--Henry St. Settlement--Photo Book,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>Launching of the Diesel Electric Ferryboat "The Governor Herbert H.
+                        Lehman" <unitdate>1964 September 5</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>820 Park Avenue--Tenth Floor, <unitdate>March
+                     1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>820 Park Avenue--Eleventh Floor, <unitdate>March
+                     1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Photographs--EAL, <unitdate>1975</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Herbert H. Lehman Village, Israel--Photo Album,
+                        <unitdate>1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Edith Lehman High School at Dimona, Israel--Plans,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Meadow Farm, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>Play Schools Association--Book of Photographs and Children's
+                        Artwork, <unitdate>1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>Friends of the Zoo: Teenage Volunteers at the Lehman Children's
+                        Zoo--Photo Album, <unitdate>1975</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Dedication of Herbert Lehman College,
+                     <unitdate>1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <container type="Folder" label="Folder">2 to 3</container>
+                     <unittitle>Edith Lehman 50th Anniversary Fund, <unitdate type="inclusive">1917-1968</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Meadow Farm Album, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Mount Sinai School of Medicine--The Investiture of Horace L. Hodes,
+                        MD as the First Lehman Professor of Pediatrics,
+                     <unitdate>1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <unittitle>Naming of Herbert H. Lehman College,
+                     <unitdate>1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">33</container>
+                     <unittitle>Teenage Photograph Workshop, Henry Street Settlement,
+                        <unitdate>1957</unitdate> (2 binders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">33</container>
+                     <unittitle>Dedication of the Herbert H. Lehman Suite, Columbia University,
+                           <unitdate>1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box">Lehman Suite cabinet</container>
+                     <unittitle>Hubert H and Muriel Humphrey--Framed Photograph,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>General</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Political Contributions, <unitdate type="inclusive">1964-1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>European Trip Notebook, <unitdate>1970</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Birthday List, <unitdate>1941</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Memory Book, <unitdate type="inclusive">1957-1975</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Gift List, <unitdate>1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Tipping Memory Book, <unitdate type="inclusive">1926-1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">7 to 8</container>
+                     <unittitle>Christmas, <unitdate type="inclusive">1956-1974</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">1 to 3</container>
+                     <unittitle>Edith Altschul Lehman--Diary, <unitdate>1949</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Elisabeth Josephson Altschul--Diary, <unitdate type="inclusive">1856-1872</unitdate> (3 copies)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Social Books</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">17</container>
+                        <unittitle>Social Book<unitdate type="inclusive">1950-1956</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">17</container>
+                        <unittitle>Social Book, <unitdate type="inclusive">1957-1963</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">17</container>
+                        <unittitle>Social Book, <unitdate type="inclusive">1966-1970</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">17</container>
+                        <unittitle>Beverage Preferences, <unitdate>1968</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">18</container>
+                        <unittitle>Social Book, <unitdate type="inclusive">1971-1974</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">18</container>
+                        <unittitle>Social Book, <unitdate>1975</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <unittitle>Engagement Calendar, <unitdate>1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <unittitle>The Book of the Bride Elect Designed by a Spinster--Wedding Gifts,
+                           <unitdate>1910</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <unittitle>Family Trees--Lehman and Altschul,
+                     <unitdate>1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <unittitle>S.S. Commodore--Passenger List, <unitdate>1909 April
+                     4</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <unittitle>Lehman Village--General Information, Israel,
+                        <unitdate>1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>"The Josephson Family"--History by Gertrude Furth,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Matchbook with Picture of Herbert and Edith Lehman,
+                           <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Herbert and Edith Lehman Bookplates,
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Menu, <unitdate>1910 April 28</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Genealogy Notes--Index Cards,
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Pencil Sketches of the Whale and the Rabbit Sculptures for the
+                        Lehman Children's Zoo by Artist Aymar Embury,
+                     <unitdate>1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Watercolor Sketch of Children's Zoo by C. Weiss,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <unittitle>Dead Sea Scrolls Replica, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <container type="Folder" label="Folder">6 to 7</container>
+                     <unittitle>Israel Diary, <unitdate>1959</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box">Lehman Suite Cabinet</container>
+                     <unittitle>Children's Zoo Illustration on the cover of <title render="italic">The New Yorker</title>,
+                           <unitdate>1964 January 25</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

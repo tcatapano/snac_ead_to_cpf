@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078961_ead//EN" mainagencycode="nnc-rb">ldpd_4078961_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Norbert George Barr
+               Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-03-05">2012-03-05</date>
+            <item>xml document instance created by Alison Rhonemus</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Barr, Norbert George, 1901-</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Norbert George Barr Papers">Norbert George
+            Barr Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1942/1953" type="inclusive">1942-1953.</unitdate>
+         <physdesc><extent encodinganalog="300">12.5 linear ft (ca. 23,000 items in 30 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline/>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0081</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078961</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English,</language>
+            <language langcode="fre">French,</language> and <language langcode="ger">German.
+            </language>
+         </langmaterial>
+         <abstract> This collection contains documents, manuscripts, printed material and
+            photographs relating to Barr's service with U.S. Army Military Intelligence and the U.S.
+            Displaced Persons Commission, in addition to personal correspondence.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Writer, journalist. Born in Vienna, Austria, Barr was a
+            free-lance news photographer and journalist from 1925 to 1939, traveling extensively in
+            Europe and the Middle East. He enlisted in the U.S. Army in 1942 and was discharged in
+            1945.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, documents, photographs, and printed materials. The papers
+            cover the years 1942-1953, during which time he served with the U.S. Army Military
+            Intelligence, participated in the Nürnberg war crimes trials, and was employed by the
+            U.S. Displaced Persons Commission. At Nürnberg, he first held the position of
+            interrogator and later helped edit trial documents for publication. The correspondence
+            is largely of a personal nature, although some is work-related. With the manuscripts are
+            three bound typescript carbon copies of essays on Nazi Germany by Herbert Pohle von
+            Dziecielski, an engineer in the Speer ministry. The majority of the collection consists
+            of interrogation summaries of presoners of war and defendants. Among other materials,
+            there are also numbered 3x5 cards listing items of evidence, documents and evidence on
+            individuals and institutions, a translation of the journal of the German Chief of the
+            Army General Staff from August 14, 1939 to September 24, 1942, and reports on displaced
+            persons. The photographs are few: most are of an unidentified possible atrocity. The
+            printed materials, in English, French, German, include newspaper clippings, pamphlets,
+            and books and range in date from 1937 to 1951.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in one series: <list type="simple">
+                    <item>Series I: Norbert
+                  George Barr Papers, 1942-1953</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Germany.--Oberkommando der Wehrmacht.</corpname>
+         <corpname encodinganalog="610">United States.--Displaced Persons Commission.</corpname>
+         <corpname encodinganalog="610">United States.--Dept. of the Army.--General Staff.--Military
+            Intelligence Division.</corpname>
+         <persname encodinganalog="700">Von Dziecielski, Herbert Pohle.</persname>
+         <geogname encodinganalog="651">Germany--History--1933-1945.</geogname>
+         <geogname encodinganalog="651">Germany--History--1945-1990.</geogname>
+         <subject encodinganalog="650">Nuremberg Trial of Major German War Criminals, Nuremberg,
+            Germany, 1945-1946.</subject>
+         <subject encodinganalog="650">World War, 1939-1945--Prisoners and prisons.</subject>
+         <subject encodinganalog="650">World War, 1939-1945--Refugees.</subject>
+         <subject encodinganalog="650">World War, 1939-1945--Atrocities.</subject>
+         <subject encodinganalog="650">World War, 1939-1945--Germany.</subject>
+         <subject encodinganalog="650">Refugees--Europe.</subject>
+         <subject encodinganalog="650">Political refugees--Europe.</subject>
+         <subject encodinganalog="650">War crime trials--Germany (West)</subject>
+         <subject encodinganalog="650">National socialism.</subject>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Journalists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">News photographers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>03/02/1983 M83-03-02</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Transferred from the Law Library, 1983.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Norbert George Barr Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 03/31/1989 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+
+      <dsc><c level="series">
+            <did><unittitle>Series I: Norbert George Barr Papers, <unitdate type="inclusive">1942-1953</unitdate>
+                    </unittitle>
+            </did>
+                          <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Correspondence</unittitle>
+                  </did>
+               </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Subject File A-Es</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Anhaltische Kohlenwerke</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Anti-Semitic Propaganda</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Breder, Reinhard</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Business Law</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Central Planning Board</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Correspondence of Prisoners Held at Nuernberg</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Depositions - Moosburg</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Depositions - Nuernberg</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Deutsche Kohlenbergbau-Gesellschaft</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Deutsche Waffenstillstand Delegation</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Dietrich, Otto - Document Book IVB</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Displaced Persons</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Economic Leaders</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Essener Steinkohlenbergwerke Aktiengesellschaft</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Subject File Ex-L</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Exhibit Index - Defense</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Exhibit Index - Prosecution</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Flick, Friedrich</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>H.A. Brassert &amp;amp; Co., Inc.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Hanneken, Hermann von</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Himmler, Heinrich</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Hitler Assassination Attempt - July 20,1944</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Huegel, Klaus</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Investigative Reports</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Kehrl, Hans</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Kriminalbiologische Untersuchungsatten... in Köln über Schaps, Karl
+                        Israel</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Krupp Firm</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Liberated Areas - Halle</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Liberated Areas - Leipzig</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Liberated Areas - Notes on Suspects</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Liberated Areas - Stolberg</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Lindemann, Karl</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>Subject File M-Po</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Memoranda - <unitdate>1946</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Memoranda - <unitdate>1947</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Memoranda - <unitdate>1948</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Memoranda - <unitdate type="inclusive">1949-1950</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Miscellaneous - General</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Miscellaneous - Legal Papers</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Miscellaneous - Military Papers</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Musy, Jean-Marie</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Personal Papers</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Personal Papers - Military</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Personnel - Subsequent Proceedings Division</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Pleiger, Paul</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Pohl, Oswald</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Pohle von Dziecielski, Herbert (2)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>Subject File Pu-Sa</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Publications Division (3)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Reichsfinanzministerium</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Robert Bosch G.M.B.H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Rogowski, Ernst</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>SS</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Sauckel, Fritz</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Saupert, Hans</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Saur, Karl Otto</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle>Subject File Sch</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Schaeffer, Ernst</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Schellenberg, Walter (3)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Schellenberg, Walter - Defense Documents</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Schellenberg, Walter - Prosecution Briefs</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Schroeder, Kurt Freiherr von</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle>Subject File Sk-T</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Skorzeny, Otto W.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Slave Labor - French Witnesses (2)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Speer, Albert</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Thyssen, Fritz</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Transcripts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Translated Documents</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Subject File W</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Waneck, Wilhelm</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Wiegand, Ferdinand</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Wirtschaftspolitik</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Witness List - A-L</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Witness List - M-Z</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Wolf, Karl</unittitle>
+                  </did>
+               </c>
+                    </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Photographs</unittitle>
+                  </did>
+               </c>
+       
+         
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Manuscripts</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>"America Today" script - <unitdate>June 6, 1945</unitdate>
+                     (mimeograph)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Goldschmidt, Jakob - Dr. Hjalmar Horace Greeley Schacht
+                     (typescript)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Krohn, Johannes - Die Sozialpolitik im Deutschen Wiederaufbrau (carbon
+                     copy)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Personal Writings (carbon copies)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Pohle von Dziecielski, Herbert - Covering Letters for MSS</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Pohle von Dziecielski, Herbert - Leid und Tränen (bound carbon copy)
+                     (published?)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Pohle von Dziecielski, Herbert - Ruckshau ins Gestrige (bound carbon
+                     copy) (published?)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Pohle von Dziecielski, Herbert - Was Hitler Zerschlug (bound carbon
+                     copy) (published?)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Pohle von Dziecielski, Herbert - Was Hitler Zerschlug (carbon
+                     copy)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Pohle von Dziecielski, Herbert - Woran Deutschland Zerbach (bound
+                     carbon copy) (published?)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Publications Division - Drafts</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Interrogation Summaries</unittitle>
+               </did>
+            
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <unittitle>A-Bo</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <unittitle>Br-D</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle>E-F</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <unittitle>G-Han</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <unittitle>Har-Hu</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <unittitle>I-Kl</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <unittitle>Kn-Lh</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <unittitle>Li-Mr</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <unittitle>Mu-P</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <unittitle>Q-R</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <unittitle>S-Schr</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle>Schu-Sz</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <unittitle>T-Wei</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle> Wel-Z</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>Index A-Z (Names typed in red in index are found in this
+                     collection)</unittitle>
+                  </did>           
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">23</container>
+                  <unittitle>Displaced Persons Reports</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <unittitle>Journal of the German Chief of the General Staff</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Vol. 1 "The Polish Campaign. Part 1" <unitdate type="inclusive">August 14, 1939-September 10, 1939</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Vol. 2 "The Polish Campaign. Part 2" <unitdate type="inclusive">September 11, 1939-December 6, 1939</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Vol. 3 "Winter 1939/1940" <unitdate type="inclusive">December 7,
+                        1939-May 9, 1940</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Vol. 4 "The Campaign in France" May 10, 1940-0ct. 30,
+                        <unitdate>1940</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Vol. 5 (untitled) <unitdate type="inclusive">October 31, 1940-February
+                        20, 1941</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Vol. 6 "The Campaign in Russia. Part 1" <unitdate type="inclusive">February 21, 1941-July 31, 1941</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Vol. 7 "The Campaign in Russia. Part 2" August 1, 1941-September 24,
+                        <unitdate>1942</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <unittitle>Card Files - Evidence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Box 1: Cards with "MI" numbers, <unitdate>1924</unitdate>,
+                           <unitdate>1926</unitdate>, <unitdate type="inclusive">1931-1941</unitdate> miscellaneous cards.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Box 2: "NI" <unitdate type="inclusive">1941-1942</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Box 3: Cards with "NG" numbers (handwritten), <unitdate type="inclusive">4800-5499</unitdate> (incomplete) miscellaneous "NG"
+                        cards</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Box 4: Cards with "NG" numbers (typescript), 005-799
+                        (incomplete)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Box 5: 800-2998</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Box 6: 3002-3599</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>Box 7: 3600-4299</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>Box 8: 4300-5199</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>Box 9: 5200-5828 desk
+                        calendars for <unitdate>1947</unitdate> and <unitdate>1948</unitdate> with
+                        appointments</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">29</container>
+                  <unittitle>Card Files - Prisoners</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>"Germans Expected" A-Z, "Germans Here" A-Z, "Germans Released"
+                        A-Z,</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Miscellaneous cards</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Printed Material</unittitle>
+               </did>
+            </c>
+         </c>
+         
+      </dsc>
+   </archdesc>
+</ead>

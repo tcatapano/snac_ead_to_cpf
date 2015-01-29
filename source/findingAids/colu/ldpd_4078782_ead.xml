@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078782_ead//EN" mainagencycode="nnc-rb">ldpd_4078782_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Rose Franken Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-01-28">2010-01-28</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Franken, Rose, 1895-1988.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Rose Franken Papers">Rose Franken Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1925/1982" type="inclusive">1925-1982</unitdate>
+         <physdesc><extent encodinganalog="300">ca. 1,250 items (49 boxes, 46 v., 200 sound recordings)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078782</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->American novelist and playwright.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence and manuscripts including drafts, typescripts, and proofs of Franken's short stories, novels, plays, and radio, film, and television scripts beginning with her first novel, PATTERN, published in 1925, through her latest volume, <title render="italic">You're Well Out of a Hospital</title>, published in 1966. Many of the manuscripts relate to her most famous characters, Claudia and David, who have become part of the contemporary cultural fabric. The collection also contains 18 volumes of clippings, approximately 200 recordings, and 501 mimeographed scripts relating to the "Claudia" series. Among the major correspondents are Faith Baldwin, Paul U. Kellogg, and Eleanor Roosevelt.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 10 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged Correspondence</item>
+               <item>Series II: Arranged Correspondence</item>
+               <item>Series III: Manuscripts</item>
+               <item>Series IV: Interviews</item>
+               <item>Series V: Clippings</item>
+               <item>Series VI: Photographs</item>
+               <item>Series VII: Periodicals</item>
+               <item>Series VIII: Books</item>
+               <item>Series IX: Records and Films</item>
+               <item>Series X: Flatbox Series</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Baldwin, Faith, 1893-1978.</persname>
+         <persname encodinganalog="600">Kellogg, Paul Underwood, 1879-1958.</persname>
+         <persname encodinganalog="600">Roosevelt, Eleanor, 1884-1962.</persname>
+         <subject encodinganalog="650">Literature publishing.</subject>
+         <subject encodinganalog="650">American literature--20th century.</subject>
+         <subject encodinganalog="650">Radio scripts.</subject>
+         <subject encodinganalog="650">Television scripts.</subject>
+         <subject encodinganalog="650">Motion picture plays.</subject>
+         <genreform encodinganalog="655" source="ftamc">Scripts.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Women authors, American.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Women dramatists, American.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located off-site. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1966 M-66 Franken, Rose Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Rose Franken; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 06/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+       <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><unittitle>Crawford, Joan </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Fadiman, Clifton </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Fontanne, Lynn </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Hughes, Robert </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Kellogg, Paul </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Perkins, Maxwell E. </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Rodgers, Richard </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Roosevelt, Eleanor </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Webster, Margaret </unittitle>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series II Arranged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><unittitle>White House correspondence</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Personal correspondence</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Correspondence relating to "Claudia" and other plays</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><unittitle>Fan mail</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series III: Manuscripts</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>"Another Claudia", Farrar &amp; Rinehart, <unitdate>1943</unitdate>
+                        </unittitle>
+                        <physdesc>(Original typescript, much amended; Carbon typescript, used as printer's copy, much amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>"Another Language", Samuel French, <unitdate>1932; 1941; [n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(3 Published editions)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>"The Antic Years", Doubleday, <unitdate>1958</unitdate>
+                        </unittitle>
+                        <physdesc>(Original carbon typescript, much amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>"The Book of Claudia", Farrar &amp; Rinehart, <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(Published edition)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">3-5</container>
+                        <unittitle>"Claudia"</unittitle>
+                        <physdesc>(1 Typescript for Doubleday ed., amended, 2 Published editions (Farrar &amp; Rinehart, 1941), 2 Copies (Doubleday, 1954))</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>"Claudia, a comedy drama"</unittitle>
+                        <physdesc>(1 Original carbon typescript, amended, 2 Published editions (Farrar &amp; Rinehart, 1941), 1 Copy (Samuel French, 1942))</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>"Claudia, aand David", Farrar &amp; Rinehart, <unitdate>1940</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Published edition)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>"Claudia, aand David", [n.p.], <unitdate>13 February 1946</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Typescript for film version)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>"Claudia, aand David", [n.p.], <unitdate>20 February 1946</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Mineographed shooting script for film version)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Claudia Television Scripts: "Important Decisions", [n.p.], <unitdate>27 October 1958</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Mineographed)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Claudia Television Scripts: "The Special Talent", [n.p.], <unitdate>22 January 1962</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Mineographed)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Claudia Omnibus: a) <title render="italic">The Book of Claudia</title>; b) <title render="italic">Another Claudia</title>; c) <title render="italic">Young Claudia</title>; d) <title render="italic">The Marriage of Claudia</title>; e) <title render="italic">The Antic Years</title>; f) <title render="italic">From Claudia to David</title>, Doubleday, <unitdate>1958</unitdate>
+                        </unittitle>
+                        <physdesc>(Amended copies of the books)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>"The Fragile Years", Doubleday, <unitdate>1952</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Original typescript, much amended, 1 Galley proof, date 15 July 1952)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>"From Claudia to David"</unittitle>
+                        <physdesc>(1 Original typescript, much amended, 1 Typed copy for printer, amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>"Gold Pennies", Constable, <unitdate>1933</unitdate>
+                        </unittitle>
+                        <physdesc>(2 copies)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>"The Hallams", Samuel French, <unitdate>1948</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Mimeographed acting version, 1 Mimeographed acting version, much amended, 1 Mimeographed version)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">11 &amp; 12</container>
+                        <unittitle>"Intimate Story", Doubleday, <unitdate>1955</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Original typescript, much amended, with title "Happy Dream", 1 Typed carbon, printer's copy, 1 Galley proofs)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>"The Marriage of Claudia", Rinehart, <unitdate>1948</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Carbon typescript, amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>"Of Great Riches", Longmans, Green, <unitdate>1937</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Published edition)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>"Outrageous Fortune", Samuel French, <unitdate>1944</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Typescript draft, with tile "Crystal", 1 Acting typescript, amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>"Pattern"</unittitle>
+                        <physdesc>(1 Original typescript, amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>"Rendezvous", Doubleday, <unitdate>1954</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Original typescript, much amended, 1 Typed carbon for printer, amended, 1 Original galley proofs, corrected)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>"Second Thoughts on the First Lady", Privately printed, <unitdate>1943</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Original carbon typescript, amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>"Soldier's Wife", Samuel French, <unitdate>1945</unitdate>
+                        </unittitle>
+                        <physdesc>(2 copies)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>"Soldier's Wife", Samuel French, green paper, <unitdate>1945</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Early draft, carbon, much amended, 2 Typescript, acting version)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>"Twice Born", Scribner's, <unitdate>1935</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Published edition)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>"Twice Born", Scribner's, <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Much amended in the text for the 1969 edition]</p>
+                    </scopecontent>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">16-18</container>
+                        <unittitle>"When All is Said and Done" [autobiography]</unittitle>
+                        <physdesc>(1 Original typescript, much amended, 1 Carbon typescript, much amended, 1 Gallye proof, corrected)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>"When Doctors Disagree"</unittitle>
+                        <physdesc>(1 Typescript (original and carbon mixed), much amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">19 &amp;42</container>
+                        <unittitle>"The Wing; a comedy drama in two acts"</unittitle>
+                        <physdesc>(3 Typescripts, much amended, 2 Mimegraphed copies, much amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>"You're Well Out of a Hospital", Doubleday, <unitdate>1966</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Original typescript, amended, 1 Galley proof, 1 Published edition)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>"Young Claudia", Rinehart, <unitdate> 1946</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Original typescript, amended)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">21-39</container>
+                        <unittitle>"Claudia"</unittitle>
+                        <physdesc>(501 Radio Scripts)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Miscellaneous Manuscripts</unittitle>
+                        <physdesc>(16 Typescripts of stories, sketches, and plays)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">27-29</container>
+                        <unittitle>Film Scripts</unittitle>
+                        <physdesc>(37 Mimeographed scripts, several in typescript)</physdesc>
+                    </did>
+                    <scopecontent><p>[Written by Rose Franken in conjunctiopn with William brown Meloney]</p>
+                    </scopecontent>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series IV: Interviews</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Kerr, David Interview of Rose Franken by her grandnephew</unittitle>
+                        <physdesc>(3 Audio tapes, 1 Typescript transcript)</physdesc>
+                    </did>
+                    <scopecontent><p>[Gift of David Kerr, 1988]</p>
+                    </scopecontent>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series V: Clippings</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">40 &amp; 41</container>
+                        <unittitle>Clippings</unittitle>
+                    </did>
+                </c>
+            </c>    
+    
+         <c level="series">
+                <did><unittitle>Series VI: Photographs</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Photographs</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series VII: Periodicals</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>"Return of Claudia", Good Housekeeping, <unitdate>July 1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>"The Strongest Cord of All; a Claudia Story", Redbook, <unitdate>June 1952</unitdate>
+                        </unittitle>
+                        <physdesc>(2  Copies)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>"Little Cakes", Harper's Bazaar, <unitdate>January 1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>"Little Cakes", Sunday News, <unitdate>1927</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>"About Rose Franken"</unittitle>
+                        <physdesc>(6 Magazines, 1 Book)</physdesc>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series VIII: Books</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">44-49</container>
+                        <unittitle>Books by Rose Franken</unittitle>
+                        <physdesc>(69 Volumes, 39 Duplicate volumes)</physdesc>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series IX: Records and Films</unittitle>
+                </did>
+                <scopecontent><p>In Cage #6</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Claudia Record Album</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>397-380 . . .</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Claudia Program #99, #100 . . .</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>197 &amp; 198</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>353 &amp; 354</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>189 &amp; 190</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>231 &amp; 232</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>345 &amp; 346</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>301 &amp; 302</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Cinemart</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Bess Johnson Audition</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Phondisc "The Wing"</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Phondisc "Young Claudia"</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>"Claudia" Motion Picture</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>"Claudia" Motion Picture</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series X: Flatbox Series</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Flatbox">66</container>
+                        <unittitle>"What America Thinks of Claudia"</unittitle>
+                        <physdesc>(1 Scrapbook)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">66</container>
+                        <unittitle>"The Soldier's Wife"</unittitle>
+                        <physdesc>(1 Scrapbook of clippings)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">66</container>
+                        <unittitle>"Claudia"</unittitle>
+                        <physdesc>(1 Scrapbook of clippings)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">67</container>
+                        <unittitle>Newspaper clippings and reviews</unittitle>
+                        <physdesc>(1 Scrapbook of clippings)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">68</container>
+                        <unittitle>Newspaper clippings</unittitle>
+                        <physdesc>(1 Scrapbook of clippings)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">68</container>
+                        <unittitle>"Daytime Radio and Increased Sales Volume"</unittitle>
+                        <physdesc>(1 Bound volume)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">69</container>
+                        <unittitle>Newspapers clippings</unittitle>
+                        <physdesc>(1 Scrapbook)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">70</container>
+                        <unittitle>Promotional posters</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">71</container>
+                        <unittitle>Promotional posters; stage photos</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">72</container>
+                        <unittitle>Stage photos</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+      </dsc>
+   </archdesc>
+</ead>

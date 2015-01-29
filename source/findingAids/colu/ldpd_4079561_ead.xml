@@ -1,0 +1,2758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079561_ead//EN" mainagencycode="nnc-rb">ldpd_4079561_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Ivan Morris Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-18">2010-02-18</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Morris, Ivan I.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Ivan Morris Papers">Ivan Morris Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1931/1976" type="inclusive">1931-1976</unitdate>
+         <physdesc><extent encodinganalog="300">18 linear ft. (ca. 18,900 items in 47 boxes and 3 volumes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079561</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Ivan Ira Esme Morris, 1925-1976, was chairman of Columbia's East Asian Department from 1966-1969.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correrspondence, manuscripts, notes, memoranda, documents, photographs and printed materials. In addition to personal correspondence and documents, there are files of Amnesty International, the human rights organization of which Morris was American Section chairman. Also included are notes and manuscripts of Morris' studies in Japanese literature and culture, particularly relating to his many books and translations. His interest in puzzles, and compilations of several volumes of them, are reflected in notes and correspondence. Among the major correspondence are Donald Keene, Anthony Powell, Sacheverell Sitwell and Arthur Waley. </p>
+         <p>1984 addition: Diaries, correspondence, manuscripts, and audio tapes</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 8 series:</p>
+         <p><list type="marked">
+               <item>Series I: Personal Files</item>
+               <item>Series II: Miscellaneous Files</item>
+               <item>Series III: Books</item>
+               <item>Series IV: Oversize</item>
+               <item>Series V: 1980 Addition</item>
+               <item>Series VI: 1982 Addition</item>
+               <item>Series VII: 1984 Addition</item>
+               <item>Series VIII: 2003 Addition </item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Amnesty International.</corpname>
+         <corpname encodinganalog="610">Columbia University.--East Asian Institute.</corpname>
+         <persname encodinganalog="600">Keene, Donald.</persname>
+         <persname encodinganalog="600">Waley, Arthur.</persname>
+         <persname encodinganalog="600">Powell, Anthony, 1905-2000.</persname>
+         <persname encodinganalog="600">Sitwell, Sacheverell, 1897-1988.</persname>
+         <geogname encodinganalog="651">Japan--Social life and customs.</geogname>
+         <subject encodinganalog="650">Japanese literature.</subject>
+         <subject encodinganalog="650">Japanese literature--Translations into English.</subject>
+         <subject encodinganalog="650">Puzzles.</subject>
+         <genreform encodinganalog="655" source="ftamc">Albums.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Articles.</genreform>
+         <genreform encodinganalog="655" source="aat">Audio tapes.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Bylaws.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Calling cards.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Contracts.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Diaries.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Indexes.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Lecture notes.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Lectures.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Memoranda.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Minutes.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Notebooks.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Obituaries.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Passports.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="aat">Proofs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Reviews.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Scrapbooks.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Statutes.</genreform>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Scholars.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: 2-47. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+         <p>Selected family correspondence is closed.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1979 M-1979 Papers Alexander, Annalita M. Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Annalita M. Alexander, 1979, 1980, 1982 &amp; 1984.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Ivan Morris Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers Entered in AMC 11/19/90</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Personal Files</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries 1.1: Cataloged Correspondence</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Acton, Harold To Ivan Morris, Florence, <unitdate>2 Jan. 1971</unitdate>
+                            </unittitle>
+                            <physdesc>(4 page a.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Baldwin, Roger Nash To Ivan Morris, [v.p.], <unitdate>May-Nov. 1974</unitdate>
+                            </unittitle>
+                            <physdesc>(2  t.l.s. (with related correspondence) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Barzun, Jacques To Ivan Morris, New York, <unitdate>8 Nov. 1968</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page a.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Boyle, Kay To Ivan Morris, San Francisco, Cal., <unitdate>1975-1976</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.l.s. 1, t.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Compton-Burnett, Ivy To Ivan Morris, London, <unitdate>27 Nov. 1967</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page a.l.s. (on card, with copy of related letter) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Forster, E[dward] M[organ], 1879-1970 To Ivan Morris, Cambridge, U.K., <unitdate>31 Nov. 1967</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page ms.l.s. (with autograph postscript; with copy of related letter) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Gilliatt, Penelope To Ivan Morris, New York, <unitdate>2 July 1976</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>[Hazzard], Shirley To Ivan Morris, [v.p.], <unitdate>1975-1976</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.l.s. 1, a.l.s. (with envelope) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Janeway, Elizabeth To Ivan Morris, New York, <unitdate>24 March 1976</unitdate>
+                            </unittitle>
+                            <physdesc>(3 page t.l. (photostatic copy) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Keene, Donald To Ivan Morris, [v.p.], <unitdate>[n.d.] &amp; 1961-1975</unitdate>
+                            </unittitle>
+                            <physdesc>(8 a.l.s. 3, t.l.s. (with related correspondence) 1, Christmas card )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Knopf, Alfred A. To Ivan Morris, New York, <unitdate>24 Feb. 1967</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.l.  (signed by secretary) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Knopf, Blanche W. To Ivan Morris, New York, <unitdate>28 Nov. 1955</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Komroff, Manuel To Ivan Morris, Woodstock, N.Y., <unitdate>27 Feb. 1968</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Laughlin, James To Ivan Morris, New York, <unitdate>25 June 1964</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Mishima, Yukio To Ivan Morris, Tokyo, <unitdate>Jan.-Nov. 1970</unitdate>
+                            </unittitle>
+                            <physdesc>(2  a.l.s. (with envelopes; photocopies) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Mishima, Yukio To Harold, [n.p.], <unitdate>17 Nov. 1970</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page a.l.s.  (photocopy) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Mishima, Mrs. Yukio To Ivan Morris, Tokyo, <unitdate>21 June 1971</unitdate>
+                            </unittitle>
+                            <physdesc>(3 page a.l.s. (written in Japanese with envelope; photocopy) )</physdesc>
+                        </did>
+                        <scopecontent><p>[Correspondence in Japanese]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Morris, Ira To Ivan Morris, Agadir, Morocco, <unitdate>2 March 1953</unitdate>
+                            </unittitle>
+                            <physdesc>(3 page t.l.s. (with envelope) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Morris, Ira and Edita To, Nesles, France, <unitdate>1968</unitdate>
+                            </unittitle>
+                            <physdesc>(1  Christmas card )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Powell, Anthony To Ivan Morris, Frome, U.K., <unitdate>17 July 1964 &amp; 6 Nov. 1967 </unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Riesman, David To Ivan Morris, Cambridge, Mass., <unitdate>18 Aug. 1965</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Shawn, William To Ivan Morris, New York, <unitdate>25 July 1975</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.l.s. (photostatic copy) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Sitwell, Sacheverell To Ivan Morris, Towcester, U.K., <unitdate>1967-1968</unitdate>
+                            </unittitle>
+                            <physdesc>(7  a.l.s. (with related correspondence) 3, a.p.c.s. (signed with initials; with related correspondence) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Steegmuller, Francis To Ivan Morris, New York, <unitdate>5 Dec. 1971</unitdate>
+                            </unittitle>
+                            <physdesc>(2 page a.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Stokes, Henry Scott To Ivan Morris, Tokyo, <unitdate>28 Nov. 1970</unitdate>
+                            </unittitle>
+                            <physdesc>(10 page t.l.s. (photocopy) )</physdesc>
+                        </did>
+                        <scopecontent><p>[Re: Yukio Mishima]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>[Trevor-Roper], Hugh [Redwald, 1914-    ] To Ivan Morris, [n.p.], <unitdate>[n.d.] </unitdate>
+                            </unittitle>
+                            <physdesc>(2 page a.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>[Trevor-Roper], Hugh [Redwald, 1914-    ] To Roderick MacFarquhar, Oxford, U.K., <unitdate>16 Nov. 1968</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Waley, Arthur To Theodore de Bary, London, <unitdate>13 Jan. 1962</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.l.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Waley, Arthur [David] To Ivan Morris, [London], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(3 a.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Waley, Arthur David and Alison Grant Robinson To Ivan Morris, London, <unitdate>ca. 26 May 1966</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page a.l.s.  (on verso of marriage announcement; in hand of Alison Grant Robinson Waley; signed "A &amp; A") )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Waugh, Alec To Ivan Morris, Tangier, Morocco, <unitdate>23 July 1975</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page a.l.s.  (with envelope) )</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.2: Uncataloged Correspondence</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>General</unittitle>
+                            <physdesc>(2 folders )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Legal correspondence,   <unitdate>1964-1965</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Family correspondence (RESTRICTED)</unittitle>
+                        </did>
+                        <scopecontent><p>[RESTRICTED]</p>
+                        </scopecontent>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.3: Manuscripts and Documents</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1 </container>
+                            <unittitle>Forrestal, James , Washington, D.C., <unitdate>9 Dec. 1944</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page p.d.s. (commission of Ivan Ira Morris as Ensign in the U.S. Navy) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Forrestal, James , Washington, D.C., <unitdate>8 July 1946</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page p.d.s.  (certificate of Satisfactory Service of Ivan Ira Morris in the U.S. Navy) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Keene, Donald [In Your Distant Street Few Drums Were Heard], [n.p.], <unitdate>ca. 1967</unitdate>
+                            </unittitle>
+                            <physdesc>(12 page t.ms.s. (essay with autograph and manuscript corrections) )</physdesc>
+                        </did>
+                        <scopecontent><p>[Essay included in <title render="italic">Madly Singing in the Mountains</title> by Ivan Morris]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Keene, Donald , [n.p.], <unitdate>[ca. March 1968]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.d.s. (assignment of copyright) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Morris, Ivan Misunderstandings re Mishima Suicide, [n.p.], <unitdate>[1970]</unitdate>
+                            </unittitle>
+                            <physdesc>(4 page a.ms. (essay; photocopy) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Sitwell, Sacheverell Reminiscences of Arthur Waley, [n.p.], <unitdate>ca. 1968</unitdate>
+                            </unittitle>
+                            <physdesc>(4 page a.ms.s. (with four page typed copy, with autograph corrections) )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Sitwell, Sacheverell , [n.p.], <unitdate>ca. 1968</unitdate>
+                            </unittitle>
+                            <physdesc>(1 page t.d.s. (assignment of copyright) )</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.4: Miscellaneous Files</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1 </container>
+                            <unittitle>Academic Record Philips Academy and Harvard University</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Alexander, Annalita M. The Grinding Machine</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Curriculum Vitae and Obituary</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Jobs and Tenure</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Jordan, C. Manuscripts</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Memberships</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Nationality</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Notes, Manuscripts and Documents, Miscellaneous; 1975 Datebook</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Obituaries and Memorials</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Passports</unittitle>
+                            <physdesc>(7 )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>School notebooks, Summerfields, Oxon, U.K.</unittitle>
+                            <physdesc>(3 volumes )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Travel</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>U. S. Navy</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.5: Puzzles</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3 </container>
+                            <unittitle>Correspondence, notes and drafts related primarily to Morris' books <title render="italic">The Lonely Monk and Other Puzzles</title> and <title render="italic">Basil the Bookworm and Other Puzzles</title>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.6: Amnesty International</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Correspondence: General</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Correspondence,   <unitdate>1974</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>General</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Board of Directors</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Board of Directors: Minutes</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Budget and Finances</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>By-Laws, Statutes, Incorporation</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Executive Committee: Minutes</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Executive Director</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5 </container>
+                            <unittitle>Fund-Raising</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Fund-Raising: Art for Amnesty</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Impartiality</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Index to Minutes of the Board and Executive Committee Meetings</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>International Council and International Secretariat</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Lobbying</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Riverside Group</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Staff</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6 </container>
+                            <unittitle>Missions and Investigations: China; Cuba; Dominican Republic; India; Iran; Japan; Syria/Israel; Urugay</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Missions: General</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Reports: General</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7 </container>
+                            <unittitle>Printed material: General</unittitle>
+                            <physdesc>(2  folders )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>Printed material: Clippings</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>Printed material: Periodicals</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.7: Japanese Literature and Culture  </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">8 </container>
+                            <unittitle>Genji: Notes and Related material</unittitle>
+                            <physdesc>(2  folders )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle><title render="italic">Madly Singing in the Mountains</title>: Correspondence, Notes, and Related Material</unittitle>
+                        </did>
+                        <scopecontent><p>[Book about Arthur Waley]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9 </container>
+                            <unittitle><title render="italic">Madly Singing in the Mountains</title>: Correspondence, Notes, and Related Material </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10 </container>
+                            <unittitle>Mishima, Yukio Correspondence and notes about, etc.</unittitle>
+                            <physdesc>(1  folder )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <unittitle><title render="italic">The Nobility of Failure</title>
+                            </unittitle>
+                            <physdesc>(t.ms.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11 </container>
+                            <unittitle><title render="italic">The Nobility of Failure</title>
+                            </unittitle>
+                            <physdesc>(t.ms.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12 </container>
+                            <unittitle><title render="italic">The Pillow Book of Sei Shonagon</title>: Notes, Manuscripts, and Related Material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13 </container>
+                            <unittitle>Politics: Notes, Manuscripts, Correspondence, and Related Material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">14 </container>
+                            <unittitle>Morris, Ivan <title render="italic">The Style of Murassaki Shikibu</title>
+                            </unittitle>
+                            <physdesc>(Dissertation - 2 volumes )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15 </container>
+                            <unittitle>Class Notes</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <unittitle>Notes on the 17th Century</unittitle>
+                            <physdesc>(2  folders )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <unittitle>Notes on Women</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">16 </container>
+                            <unittitle>Notes</unittitle>
+                            <physdesc>(10 volumes of manuscript notebooks )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17 </container>
+                            <unittitle>Notes</unittitle>
+                            <physdesc>(6 volumes of manuscript notebooks )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">18 </container>
+                            <unittitle>Book Reviews</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                            <unittitle>Nosca, Peter Manuscript</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                            <unittitle>Sakamoto, Mariai Manuscripts and notes</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                            <unittitle>Translations and miscellaneous notes</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                            <unittitle>Notebooks and miscellaneous notes</unittitle>
+                        </did>
+                        <scopecontent><p>[Gift 1982]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">19 </container>
+                            <unittitle>Translation: Notes and Correspondence</unittitle>
+                            <physdesc>(1 folder )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Translation: Printed</unittitle>
+                            <physdesc>(1 folder )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Morris, Ivan Articles and Lectures</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Morris, Ivan Miscellaneous notes and manuscripts</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">20</container>
+                            <unittitle>Clippings and articles by Ivan Morris</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">20</container>
+                            <unittitle>Clippings and articles - miscellaneous</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series II: Miscellaneous Files</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries II.1: Photographs</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21 </container>
+                            <unittitle>Akayo </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Family and personal</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Japan,   <unitdate>1956-1959; 1973 (Feb.); 1973-1974</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Krementz, Jill </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Mishima, Yukio </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Morris, Ivan </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Nehru, Bhutto </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Macmillan, Harold </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle><title render="italic">The Nobility of Failure</title>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Nobuko </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Miscellaneous</unittitle>
+                            <physdesc>(2 folders )</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries II.2: Scrapbooks and Printed</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <unittitle>Scrapbooks</unittitle>
+                            <physdesc>(2 volumes )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <unittitle>Printed, miscellaneous</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <unittitle>Printed and miscellaneous material</unittitle>
+                        </did>
+                        <scopecontent><p>[Gift 1982]</p>
+                        </scopecontent>
+                    </c>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series III: Books</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">23 </container>
+                        <unittitle>Morris, Ira and Edita Books by Ira and Edita Morris</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24 </container>
+                        <unittitle>Morris, Edita Books by Edita Morris</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25-27  </container>
+                        <unittitle>Morris, Ivan Books by Ivan Morris</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28  </container>
+                        <unittitle>Morris, Ivan Books and printed (Japanese and miscellaneous).</unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series IV: Oversize</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Flatbox"> 339</container>
+                        <unittitle>Harvard One document</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Flatbox"> 338</container>
+                        <unittitle>Reviews of Morris' books and related items [Volumes 1 and 2]</unittitle>
+                        <physdesc>(2 scrapbooks )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Flatbox"> 339</container>
+                        <unittitle>Reviews of Morris' books and related items [Volume 3]</unittitle>
+                        <physdesc>(1 scrapbook )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Flatbox"> 337</container>
+                        <unittitle>The Tale of Genji Scroll</unittitle>
+                        <physdesc>(1 paste-up volume )</physdesc>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series V: 1980 Addition</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries V.1: Personal Files </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">29 </container>
+                            <unittitle>General correspondence,   <unitdate>1971-1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Correspondence relating to Columbia University and jobs</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Alexander, Annalita M. Miscellaneous items</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Biographical material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Calling Cards</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Contracts and Royalties</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Family and personal documents</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Miscellaneous items</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries V.2: Amnesty International</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Amnesty International Miscellaneous materials</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries V.3: Japanese Literature and Culture </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <unittitle>Columbia University Lecture notes (2 binders); Student papers (11); Miscellaneous</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <unittitle>Morris, Ivan Book reviews; Lectures; <title render="italic">Nobility of Failure</title> (drafts and related items)</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <unittitle>Miscellaneous</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">32 </container>
+                            <unittitle>Notes and note cards</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries V.4: Miscellaneous Files </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <unittitle>Photographs</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <unittitle>Printed proofs, reviews, and miscellaneous</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series VI: 1982 Addition</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Photograph albums (including Margot Fonteyn in Japan)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Morris, Ira and Edita Correspondence, [v.p.],  <unitdate>1943-1973</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[CLOSED]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Morris, Nubko Divorce</unittitle>
+                    </did>
+                    <scopecontent><p>[CLOSED]</p>
+                    </scopecontent>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series VII: 1984 Addition </unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries VII.1: Diaries </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36 </container>
+                            <unittitle>Diaries,   <unitdate>1945-1948</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VII.2: Personal Correspondence </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">37 </container>
+                            <unittitle>Alexander, Annalita M. </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Brazin, Anne </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Cowan, J.S. </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Crewe, Martha </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Eissler, K.R. </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Gentleman, Vivian F. </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>George, Ivan </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Good, Jack </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Harshell, Arnald </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Keene, Donald </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Kiddo, Anson </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Lewis, Arne </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>MacGregor, Robert M. </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Maclennar, Bud </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Mason, Richard </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Monet, Dorothy </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Morris, Anne Wade </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Morris, Ayako Ojawe </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Morris, Nobuko </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Poalazzi, Isabella </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Letters (first names only)</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Postcards</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VII.3: Family Correspondence </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Family correspondence (Mother, Father, Grandmother)</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VII.4: Notes, etc. </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>Notes, manuscripts, business papers, and printed materials</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VII.5: Audio </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">40</container>
+                            <unittitle>Broadcasts, speeches, and interviews</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Mapcase">14/16/04</container>
+                            <unittitle>Portrait</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series VIII: 2003 Addition </unittitle>
+                </did>
+                <scopecontent><p>Includes materials from 1999 gift</p>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries VIII.1: Restricted Correspondence </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+                            <unittitle>Ivan Morris Personal Correspondence ,   <unitdate>1974-1976</unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent><p>[RESTRICTED ]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+                            <unittitle>Mishima, Yukio To Ivan Morris, Tokyo, <unitdate>Jan.-Nov. 1970</unitdate>
+                            </unittitle>
+                            <physdesc>(2  a.l.s. (with envelopes) )</physdesc>
+                        </did>
+                        <scopecontent><p>[RESTRICTED]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+                            <unittitle>Mishima, Mrs. Yukio To Ivan Morris, Tokyo, <unitdate>21 June 1971</unitdate>
+                            </unittitle>
+                            <physdesc>(3 page a.l.s. (written in Japanese; with envelope) )</physdesc>
+                        </did>
+                        <scopecontent><p>[RESTRICTED. Correspondence in Japanese]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+                            <unittitle>Stokes, Henry Scott To Ivan Morris, Tokyo, <unitdate>28 Nov. 1970</unitdate>
+                            </unittitle>
+                            <physdesc>(10 page t.l.s. (re: Yukio Mishima) )</physdesc>
+                        </did>
+                        <scopecontent><p>[RESTRICTED]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+                            <unittitle>Morris, Ivan Misunderstandings re Mishima Suicide, [n.p.], <unitdate>[1970]</unitdate>
+                            </unittitle>
+                            <physdesc>(4 page a.ms.  (essay) )</physdesc>
+                        </did>
+                        <scopecontent><p>[RESTRICTED]</p>
+                        </scopecontent>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VIII.2: Arranged Correspondence</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Alexander, Annalita ,   <unitdate>1993-1998</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Alfred A. Knopf, Inc.    <unitdate>1956, 1961</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Amnesty International ,   <unitdate>1970-1978, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>B,   <unitdate>1967-1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>C,   <unitdate>1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>F,   <unitdate>1952-1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>G,   <unitdate>1959, 1972</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>H,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Jensen, Julie ,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Kiddo, Anson ,   <unitdate>1971-1972</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Kiddo, Anson ,   <unitdate>1973-1974, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>M,   <unitdate>1962-1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Morris, Edita ,   <unitdate>8 May 1974</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Morris, Ivan ,   <unitdate>1936-1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Morris, Ivan ,   <unitdate>1970-1976, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Morris, Ivan: Condolence Letters,   <unitdate>1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Morris, Nobuko ,   <unitdate>1971, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Nissenson, Hugh ,   <unitdate>1975</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Oxford University Press,   <unitdate>29 Sept. 1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>P,   <unitdate>1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>R,   <unitdate>1969, 1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>S,   <unitdate>1966-1975</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Tong, T. K.    <unitdate>20 May 1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>V,   <unitdate>1965, 1973</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>W,   <unitdate>1952, 1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Unidentified,   <unitdate>1966-1976, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VIII.3: Manuscripts</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "Animal Words", list,   <unitdate>25 May 1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "By the Sea of Japan", story,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "The Challenge of "Soka Gakkai"", article, published version appearing in <title render="italic">Books &amp; Writers</title>,   <unitdate>May 1966</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "Chess", notes,   <unitdate>1968-1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "Christmas Cards", lists,   <unitdate>1972-1975</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "Class Notes",   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "Coca-Cola", collection of poetry,   <unitdate>1944</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "Comment on Darkness in Summer", book review,   <unitdate>Oct. 1973</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "The "Demos" in Japan", paper,   <unitdate>14 June 1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "Economic Realism in the Later Works of Ihara Saikuku", paper, published version in <title render="italic">The Transactions of the Asiatic Society of Japan</title>, 3rd Series, Vol. VII,   <unitdate>1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "English Language Notes",   <unitdate>1967[?]</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "L'évolution politique du Japon d'apres guerre", article, published version appearing in <title render="italic">Politique Etrangere</title>,   <unitdate>June 1956</unitdate>
+                            </unittitle>
+                            <physdesc>(langcode="fre"&gt;French)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "Fiction Non-Fiction Read", lists,   <unitdate>1940-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "Foreign Policy Issue in the 1958 Elections", paper,   <unitdate>1958</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "Government I", exam blue book,   <unitdate>22 Jan. 1943</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan <title render="italic">I Remember Pearl Harbor</title>, book jacket blurb,   <unitdate>1975</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "In Defense of Communism", essay,   <unitdate>28 Jan. 1942</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "Interview with Kobe Abe", transcript,   <unitdate>Nov. 1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan "Japanese Foreign Policy and Neutralism", paper,   <unitdate>1959[?]</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "Library", list,   <unitdate>1967-1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "Losses", notes,   <unitdate>1967-1976, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan, ed. <title render="italic">Madly Singing in the Mountains: An Appreciation and Anthology of Arthur Waley</title>, book jacket,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "A Man Who Rendered the Most Meritorious Services in the Meiji Restoration", translation of essay by Fukuzama Yukichi,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "A Meaningful Dialogue", play, fragment,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] "Melancholia", collection of poetry,   <unitdate>1944</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Morris, Ivan [?] Miscellaneous Notes,   <unitdate>1954-1976, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "The Moscow Negotiations and their Repercussions as Seen from Tokyo", article,   <unitdate>Sept. 1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan [?] "Packing Lists",   <unitdate>1973-1974</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan <title render="italic">The Pillow Book of Sei Shonagan</title>, translations,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan <title render="italic">The Pillow Book of Sei Shonagon</title>, notes,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan <title render="italic">The Pillow Book of Sei Shonagon</title>, advertisement,   <unitdate>1967</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan [?] "Poems", collection of poetry,   <unitdate>1944</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "The Policeman and the Student: Some Notes on the Political Scene in Japan", essay,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan [?] Prayers,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan Research Notes,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan [?] "Reviews", list,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan [?] "Sentences", lists,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan  "The Setting", book, fragment,   <unitdate>1962[?]</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan [?] "Socialist Merger in Japan", essay,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "Soka Gakkai Brings 'Absolute Happiness'", article, published version appearing in <title render="italic">The New York Times Magazine</title>,   <unitdate>18 July 1965</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "Some Aspects of the Tale of Genji Scroll", book, 1st draft,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "Soviet-Japanese Peace Treaty Talks: The Negotiations as seen from Tokyo", article, published version in <title render="italic">The World Today</title>,   <unitdate>Aug. 1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "Spanish I", exam blue book,   <unitdate>19 March 1943</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "Sunny Greece", letter to the editor, published version,   <unitdate>20 June 1968</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "Swedish Course at the Lingauphone Institute", worksheets,   <unitdate>1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "Uncensored Reflections",   <unitdate>1944</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan [?] "U.S. and U.K. words", list,   <unitdate>June 1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan [?] "Useful Words", list,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "Violence in Japanese Politics", introductory essay to special <title render="italic">New Leader</title> issue on Japan,   <unitdate>6 Nov. 1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan "The World of "The Tale of the Genji"", book, chapters 1-4,   <unitdate>Dec. 1961</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Morris, Ivan [?] Unidentified Fragments,   <unitdate>1966-1976, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Unidentified Unidentified Fragments: Calligraphy,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VIII.4: Notebooks</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>National Diary,   <unitdate>1941</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Address Book,   <unitdate>1972</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Address Book,   <unitdate>1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Address Book,   <unitdate>1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Guest Book for Reading of "The Green Card Romance",   <unitdate>3 Feb. 1988</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VIII.5: Documents</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Anthony Sheil Associates for the publication of <title render="italic">The Lonely Monk and Other Puzzles</title>,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with John Brown Publisher of the Oxford University Press for a book about Japan,   <unitdate>6 Nov. [n.y.]</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Guest Book, loose pages,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with the Royal Institute of International Affairs for objective and systematic investigation of "The 'Reverse Course' in Japan",   <unitdate>13 Dec. 1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with UNESCO for English translation of Saikaku,   <unitdate>23 Dec. 1955</unitdate>
+                            </unittitle>
+                            <physdesc>(langcode="fre"&gt;French)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Delamain et Boutelleau for introduction,   <unitdate>2 March 1956</unitdate>
+                            </unittitle>
+                            <physdesc>(langcode="fre"&gt;French)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreements for English translation of <title render="italic">Fires in the Plains</title> by Shohei Ooka,   <unitdate>Aug. 1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Shohei Ooka and Curtis Brown, Ltd. for English translation of <title render="italic">Fires in the Plains</title>,   <unitdate>14 Feb. 1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Alfred A. Knopf, Inc. for English translation of <title render="italic">The Golden Temple</title> by Yukio Mishima,   <unitdate>20 March 1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Contract for English translations of Japanese short stories for the <title render="italic">Anthology of Modern Japanese Short Stories</title>,   <unitdate>1957-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Contract for English translation of Saikuku,   <unitdate>17 Sept. 1958</unitdate>
+                            </unittitle>
+                            <physdesc>(langcode="fre"&gt;French)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Cards of introduction for Ivan Morris,   <unitdate>1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Letter of appointment to Assistant Professor of Chinese and Japanese at Columbia University,   <unitdate>4 Apr. 1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Contract for the publication of <title render="italic">The World of the Tale of Genji</title>,   <unitdate>26 Aug. 1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Letter of appointment to Assistant Professor of Chinese and Japanese at Columbia University,   <unitdate>3 Apr. 1961</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Contract with UNESCO for English translation of Court Diaries of Medieval Japan,   <unitdate>6 June 1961</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Certificate of appointment to Associate Professor of Chinese and Japanese at Columbia University,   <unitdate>7 May 1962</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Sidgwick and Jackson Ltd. for an untitled non-fiction book on Japan,   <unitdate>18 June 1962</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with D.C. Heath and Company for the publication of <title render="italic">Japan 1931-1945--Militarism, Fascism, Japanism?</title>,   <unitdate>4 Dec. 1962</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Alfred A. Knopf, Inc. for the publication of <title render="italic">The World of "The Tale of Genji</title>,   <unitdate>16 May 1963</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Columbia University Press for the publication of the <title render="italic">Dictionary of Selected Forms in Japanese Literature</title>,   <unitdate>20 Dec. 1965</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Cards of introduction for Ivan Morris,   <unitdate>1966</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with George Weidenfeld and Nicolson Ltd. for publication of <title render="italic">The Samurai</title>,   <unitdate>11 Jan. 1966</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Thames and Hudson Ltd. for "The Far East", contribution to <title render="italic">The Seventeenth Century</title>, ed. Hugh Trevor-Roper,   <unitdate>8 March 1966</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with John Brown Publisher of Oxford University Press for the publication of <title render="italic">The Pillow Book of Sei Shonagon</title>,   <unitdate>4 May 1966</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Columbia University Press for the publication of <title render="italic">The Pillow Book of Sei Shonagon</title>,   <unitdate>20 Jan. 1967</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreements for publication of <title render="italic">Madly Singing in the Mountains: An Appreciation and Anthology of Arthur Waley</title>,   <unitdate>1968</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Thames and Hudson Ltd. for publication of <title render="italic">A Concise History of Japan</title>,   <unitdate>15 Aug. 1968</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Walker Publishing Co., Inc. for publication of <title render="italic">The Riverside Puzzles</title>,   <unitdate>2 Dec. 1968</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Anthony Sheil Associates for publication of <title render="italic">Pillow Book Puzzles</title>,   <unitdate>15 Jan. 1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Program from Dinner in Honor of Ivan Morris,   <unitdate>27 May 1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Kodansha International Ltd. for publication of <title render="italic">The Genji Scroll</title>,   <unitdate>2 Sept. 1969</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Contracts for publication of <title render="italic">As I Crossed the Bridge of Dreams</title>,   <unitdate>1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Walter Verlag AG for the German publication of <title render="italic">The Riverside Puzzles</title>,   <unitdate>5 Jan. 1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Contract with Little, Brown and Company for the publication of <title render="italic">The Lonely Monk and Other Puzzles</title>,   <unitdate>5 Aug. 1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Agreement with Walter Verlag AG for German publication of <title render="italic">The Riverside Puzzles and The Lonely Monk and Other Puzzles</title>,   <unitdate>9 Nov. 1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Will and Testament of Annalita Alexander,   <unitdate>16 June 1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>Announcement for Memorial Service for Ivan Morris,   <unitdate>17 Sept. 1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VIII.6: Photographs</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Artwork,   <unitdate>1964, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Indentified People,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Japan,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Flatbox">681</container>
+                            <unittitle>Japan,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Morris, Ivan and Family ,   <unitdate>1968, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Flatbox">681</container>
+                            <unittitle>Morris, Ivan and Family ,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Flatbox">681</container>
+                            <unittitle>Morris, Ivan and Family ,   <unitdate>1965, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Flatbox">681</container>
+                            <unittitle>Morris, Ivan and Family ,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Flatbox">681</container>
+                            <unittitle>Roosevelt, Franklin D.    <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Unidentified People,   <unitdate>1923, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Unidentified Places,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Flatbox">681</container>
+                            <unittitle>Unidentified Portraits,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Flatbox">681</container>
+                            <unittitle>Unidentified Portraits,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Negative,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VIII.7: Audio Recordings</unittitle>
+                    </did>
+                    <scopecontent><p>Contents transcribed from label information provided on boxes for reel to reel audiotapes.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Act I backward,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(7 inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Act III and blank; Gordon Cook, Blank and Sleeping Beauty, Act II, Blank for April 21,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Copia dell'intervista con la Signorina Annalita Marsigli,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(5  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>"The Fiction of Yasunari Kawabata," Oriental-Western Literary Relations Conference of MLA,   <unitdate>29 Dec. 1968</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>I Dig Love; Love, Ashe Puthli,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(5  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">41  </container>
+                            <unittitle>Ivan Morris Memorial Service (DUB), Tracks A &amp; B, 7 1/2 IPS,   <unitdate>16 Sept. 1976</unitdate>
+                            </unittitle>
+                            <physdesc>(5  inch reel )</physdesc>
+                        </did>
+                        <scopecontent><p>[RESTRICTED]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Lee Graham Interview (Modern Japan) DUB,   <unitdate>29 Oct. 1975</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>"Nom" Theatre Tape Recording, Full Track Mono, 7 1/2 IPS,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Novograd,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>The Pillow Book Part 2, Part 3 of 5, 7 1/2 IPS, Program 1 of 7; Net #PA 311-3-Teachers-Jacobson; Reel #2,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>The Pillow Book Part 3, Part 3 of 5, 7 1/2 IPS, Program 2 of 7-; Saltzman Telephone #1,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(7 inch reel  )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>The Pillow Book Part 4, Part 4 of 5, Program 4 of 7; Reel #4,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>The Pillow Book Part 5, Part 5 of 5, 7 1/2 IPS, Program 7 of 7; Reel #5,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Talk by I. M. at Asia House,   <unitdate>Dec. 1967</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Talks re Waley,   <unitdate>1967</unitdate>
+                            </unittitle>
+                            <physdesc>(7  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>[Unidentified],   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(5  inch reel )</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>[Unidentified],   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                            <physdesc>(5  inch reel )</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries VIII.8: Printed Materials</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Amnesty International Articles,   <unitdate>1971-1975, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Ballet Program for Koma Ayako Ogawa Ballet Studio,   <unitdate>23 April 1973</unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent><p>[Program in Japanese]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>"Be Careful" by Annalita,   <unitdate>Jan. 1968</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Blank Postcards,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Book Reviews,   <unitdate>1969-1975, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Casino Card,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Congressional Record, Speech of Hon. Gale W. McGee on Academic Freedom,   <unitdate>27 July 1965</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Eulogies to Ivan Ira Morris,   <unitdate>1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Film Reviews,   <unitdate>1976</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Human Rights Newspaper Clippings,   <unitdate>1974-1977, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>"The Iwakura Mission in Sweden" by Bert Edström, Working Paper 43,   <unitdate>Oct. 1997</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>"The Japanese Riots" from Notes of the Month, <title render="italic">The World Today</title>, Vol. 16, no. 7,   <unitdate>July 1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Literature from the Foundation for New Educational Projects,   <unitdate>1977</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Miscellaneous Newspaper Clippings,   <unitdate>1977-1984, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Morris Family Newspaper Clippings,   <unitdate>1954-1956, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Program for Annual Commemoration Service at Columbia University,   <unitdate>20 Feb. 1977</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Resume for H. Clay Alexander,   <unitdate>n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Style Sheets,   <unitdate>1956-1966, n.d.</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Tegami No Kakikata from Airyodu (publisher),   <unitdate>1968</unitdate>
+                            </unittitle>
+                            <physdesc>(Text in Japanese)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Theater Program for "The Grinding Machine" by Annalita Alexander,   <unitdate>1978</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>"The Tiger Cages of Con Son" from <title render="italic">Winners and Losers</title> by Gloria Emerson,   <unitdate>Jan. 1977</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle><title render="italic">The Written Script, a novel</title> by Annalita Marsigli,   <unitdate>1998</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+      </dsc>
+
+   </archdesc>
+</ead>

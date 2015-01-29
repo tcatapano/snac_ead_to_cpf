@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079566_ead//EN" mainagencycode="nnc-rb">ldpd_4079566_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the George N. Olcott Coin Collection</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Olcott, George N., 1869-1912, collector.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="George N. Olcott Coin Collection">George N. Olcott Coin Collection</unittitle>
+         <unitdate encodinganalog="245$f" type="inclusive">Coin collection.</unitdate>
+         <physdesc><extent encodinganalog="300">ca 4,000 coins.</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University,<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, N.Y. 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079566</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p>Columbia University professor.</p>
+            <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>A collection of ancient Greek and Roman coins formed by Columbia professor George N. Olcott, (A.B. 1893; Ph.D. 1899). The coins are arranged in chronological order in two cabinets. A hand-written card catalog indexes and describes each coin. In 1958 the Library acquired a collection of squeezes of almost all the coins used in the ancient Greek city of Syracuse on the island of Sicily.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Arranged.</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <subject encodinganalog="650">Coinage, International.</subject>
+         <subject encodinganalog="650">Coins.</subject>
+         <subject encodinganalog="650">Coins, Ancient.</subject>
+         <subject encodinganalog="650">Coins, Greek.</subject>
+         <subject encodinganalog="650">Coins, Roman.</subject>
+         <subject encodinganalog="650">Coins--Collectors and collecting.</subject>
+         <genreform encodinganalog="655" source="ftamc">Card catalogs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Indexes.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Squeezes.</genreform>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1912 M-1912 Olcott, George N. Bequest</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Bequest of George N. Olcott, 1912.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>George N. Olcott Coin Collection. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Entered in AMC 11/26/90</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish materials must be obtained in writing from the Librarian for Rare Books and Manuscripts.</p>
+      </userestrict>
+      <dsc/>
+      <dsc/>
+   </archdesc>
+</ead>

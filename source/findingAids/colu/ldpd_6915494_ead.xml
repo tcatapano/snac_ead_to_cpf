@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://appdev.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_6915494_ead//EN" mainagencycode="nnc-rb">ldpd_6915494_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Susan Otis Thompson papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2011-05-20">May 20, 2011 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2011-05-20">May 20, 2011 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2011-05-20">2011-05-20</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2011-06-02">2011-06-02</date>
+            <item>XML document instance created by Catherine C. Ricciardi</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Thompson, Susan Otis</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Susan Otis Thompson Papers,">Susan Otis
+            Thompson Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1965/1992" type="inclusive">1965-1992</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1970-1980]</unitdate>
+         <physdesc><extent encodinganalog="300">1.05 linear ft. (2.5 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1561</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">6915494</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng "> In English </language>
+         </langmaterial>
+         <abstract>The papers consist primarily of correspondence and documentation related to her
+            professional activities as a professor, a librarian, and a scholar of early print and
+            book history.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Susan Otis Thompson was a teacher, author, editor, lecturer,
+            and researcher, best known for her scholarship on William Caxton and the history of the
+            book. </p>
+         <p><!-- BIOGHIST REQUIRED -->Thompson enrolled at Columbia University's School of Library
+            Service, where she earned both her M.S. (1963) and D.L.S. (1972). She began as an intern
+            in the University Libraries Reference Department. She gradually took on teaching duties
+            and rose through the academic ranks, becoming a teaching assistant, lecturer, preceptor,
+            assistant professor, and finally an associate professor in 1978. Starting in 1966 she
+            began teaching a course on the History of the Book that she would continue to teach
+            until the school's closing in 1992. She also contributed, alongside Terry Belanger, to
+            the establishment of Columbia's Master's program concentration in Rare Books,
+            Manuscripts, and Special Collections, the first of its kind in the U.S. (1973). This
+            program would later become the independent Rare Book School, now located at the
+            University of Virginia. </p>
+         <p><!-- BIOGHIST REQUIRED -->With research interests in rare books and manuscripts, book
+            and printing history, library history, rare book librarianship, book design, typography,
+            graphic arts, and the Arts and Crafts movement, Thompson published <title render="italic">American Book Design and William Morris</title> in 1977 (Bowker),
+            which was reprinted in 1996 by Oak Knoll Press and the British Library. As both a writer
+            and editor, she contributed to numerous publications, including <title render="italic">The Arts and Crafts Movement in America 1876-1916</title> (1994), <title render="italic">The Heritage of the Graphic Arts Lecture Series: A Complete
+            Listing</title> (1994), and <title render="italic">William Caxton: An American
+               Contribution to the Quincentenary Celebration</title> (1976), a chapbook published by
+            the Typophiles printed for the Caxton International Congress (1976), which marked the
+            500th anniversary of the introduction of printing into England. Thompson also spoke
+            around the country at seminars, conferences, and panel discussions. </p>
+         <p><!-- BIOGHIST REQUIRED -->Thompson was an active member of numerous book history
+            societies, including the Typophiles, the William Morris Society, and the Corrodentia
+            Society, and in 1977 she became one of the first women allowed to join the Grolier Club.
+            She was also a founding member of the American Printing History Association (APHA)
+            (1974) and served as the editor of APHA's semiannual journal <title render="italic">Printing History</title> from 1979-1983. </p>
+         <p><!-- BIOGHIST REQUIRED -->Thompson died of breast cancer in 2008.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Thompson's papers consist primarily of correspondence, clippings, and printed materials
+            related to her professional activities as a librarian, teacher, and scholar of book
+            history. </p>
+         <p>The strength of the papers lies in their documentation of topics pertaining to the
+            history of libraries, books, and library science in the late twentieth century. A
+            scholar in early book history and book design, her papers contain documentation and
+            artifacts from Thompson's research, as well as correspondence with Leo Wyatt, L.
+            Carrington Goodrich, and Herbert Kleist. Thompson's papers also document the activities
+            of the now-defunct School of Library Service at Columbia University, including the
+            establishment of a rare books librarianship concentration that would later become the
+            Rare Book School, and the activities of numerous library- and book history-related
+            organizations, most notably the formative years of the American Printing History
+            Association (APHA). The papers also include manuscript drafts, speeches, and
+            correspondence related to Thompson's research, publications, and speaking engagements. </p>
+         <p>Of additional note is a manuscript on the state of libraries in Nigeria and Kenya
+            (1965). A small set of black-and-white photographs are included with the report. </p>
+         <p>The collection contains a small amount of information describing the Grolier Club's
+            contribution to the establishment of the Columbia University rare books progam, but
+            little else of note. Papers related to the William Morris Society are too few to be
+            considered significant. </p>
+         <p>The material type of the collection is mixed.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection has been left in its original physical order but has been intellectually
+            arranged into six series. Although a few papers have been assigned as general
+            correspondence, it should be noted that all six series contain correspondence specific
+            to their respective topics. <list type="simple">
+               <item>Series I. Columbia University School of Library Service, 1972-1987, Undated </item>
+               <item>Series II. Correspondence -- General, 1969-1992 </item>
+               <item>Series III: Professional Development, 1976-1977, 1980, 1986, 1991-1993 </item>
+               <item>Series IV. Publications, 1965-1986 </item>
+               <item>Series V. Service and Committees, 1971-1979, 1982 </item>
+               <item>Series VI. Speaking Engagements, 1971-1980</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">American Library Association</corpname>
+         <corpname encodinganalog="610">American Printing History Association</corpname>
+         <corpname encodinganalog="610">American Printing History Association--Conference</corpname>
+         <corpname encodinganalog="610">Association of College and Reference Libraries</corpname>
+         <corpname encodinganalog="610">Association of College and Reference Libraries--Rare Books
+            and Manuscripts Section--Preconference</corpname>
+         <corpname encodinganalog="610">Columbia University.--School of Library Service</corpname>
+         <corpname encodinganalog="610">Columbia University.--School of Library Service--History</corpname>
+         <corpname encodinganalog="610">Grolier Club</corpname>
+         <corpname encodinganalog="610">National Conservation Advisory Council (U.S.)</corpname>
+         <corpname encodinganalog="610">New York Library Association</corpname>
+         <corpname encodinganalog="610">New York Metropolitan Reference and Research Library Agency</corpname>
+         <corpname encodinganalog="610">Rare Book School</corpname>
+         <corpname encodinganalog="610">Trumbull College (Yale University)</corpname>
+         <persname encodinganalog="600">Adams, Rrandolph Greenfield, 1892-1951</persname>
+         <persname encodinganalog="600">Beilenson, Edna, 1909-1981</persname>
+         <persname encodinganalog="600">Bellanger, Terry</persname>
+         <persname encodinganalog="600">Caxton, William, ca. 1422-1491 or 2</persname>
+         <persname encodinganalog="600">Dunlap, Joseph R. (Joseph Riggs), 1913-</persname>
+         <persname encodinganalog="600">Goodrich, L. Carrington (Luther Carrington), 1894-</persname>
+         <persname encodinganalog="600">Kleist, Herbert, 1902-1986</persname>
+         <persname encodinganalog="600">Leslie, Robert L., 1885-1987</persname>
+         <persname encodinganalog="600">Morris, William, 1834-1896</persname>
+         <persname encodinganalog="600">Shoemaker, Richard H.</persname>
+         <persname encodinganalog="600">Thompson, Susan Otis</persname>
+         <persname encodinganalog="600">Wyatt, Leo, 1909-1981</persname>
+         <subject encodinganalog="650">Arts and crafts movement</subject>
+         <subject encodinganalog="650">Book design--History</subject>
+         <subject encodinganalog="650">Book design--United States--History</subject>
+         <subject encodinganalog="650">Graphic Arts--History</subject>
+         <subject encodinganalog="650">History of the book</subject>
+         <subject encodinganalog="650">Librarianship and information studies</subject>
+         <subject encodinganalog="650">Libraries--History</subject>
+         <subject encodinganalog="650">Libraries--Kenya</subject>
+         <subject encodinganalog="650">Libraries--Nigeria</subject>
+         <subject encodinganalog="650">Printing--History</subject>
+         <subject encodinganalog="650">Typography</subject>
+         <subject encodinganalog="650">Rare books</subject>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Susan Otis Thompson Gift 1996</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Susan Otis Thompson Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed by Kellie Walsh (Rutgers University, 2012) </p>
+         <p>Finding aid written by Kellie Walsh (Rutgers University, 2012) March 2011</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts/University
+            Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+            publish that which it physically owns; the responsibility to secure copyright permission
+            rests with the patron.</p>
+      </userestrict>
+      <otherfindaid encodinganalog="555">
+         <p>Finding aid in repository; folder level control.</p>
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Series I. Columbia University School of Library Service, <unitdate type="inclusive">1972-1987, </unitdate>
+                        <unitdate>Undated</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series consists of correspondence, newsletters, committee minutes, notes, and
+                  event documentation related to the activities and operations of the Columbia
+                  University School of Library Service. The series includes a selection of issues of
+                     <title render="italic">Library Service News,</title> offering insight into the
+                  regular activities of the department, faculty, and alumni, as well notes, place
+                  cards, and photographic slides from early printing and private press exhibits held
+                  in the library. This series also contains documentation of the establishment of a
+                  program concentration in Rare Books, Manuscripts, and Special Collections,
+                  including an unsigned letter draft presumably written by Terry Belanger in which
+                  he details the need for the program and provides a brief synopsis on the Grolier
+                  Club's association with it, and on the 1987 conference on Libraries and Scholarly
+                  Communication in the United States sponsored jointly by Columbia University and
+                  the Center for the Book in the Library of Congress.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Committee on Goals and Objectives,
+                  <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Committee on Instruction, <unitdate type="inclusive">1983-1986</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Committee on Research and Academic Librarianship,
+                     <unitdate>1985</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Conference on Libraries and Scholarly Communication (co-sponsored by
+                     Library of Congress), <unitdate>1987</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Executive Committee, <unitdate type="inclusive">1984-1985,
+                        </unitdate>
+                            <unitdate type="inclusive">1987-1992</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">3 to 4</container>
+                  <unittitle>Library Exhibits, <unitdate>Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Library Service News, <unitdate type="inclusive">1972-1984</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Rare Books and Special Collections Concentration,
+                     <unitdate>1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Statutory Faculty, <unitdate type="inclusive">1979-1980</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II. Correspondence -- General, <unitdate type="inclusive">1969-1992</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains correspondence and related materials that do not explicitly
+                  relate to Columbia University's School of Library Service or Thompson's
+                  professional development activities, publications, service activities, or speaking
+                  engagements. (Correspondence related to such categories are housed in their
+                  respective series.) This series contains correspondence with Leo Wyatt on the
+                  topic of calligraphy (1977-1981), L. Carrington Goodrich on the disputed timeline
+                  of Oriental printing (1969-1992), and Herbert Kleist on book bindings
+               (1974-1975).</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Correspondence with L. Carrington Goodrich (on Oriental printing),
+                        <unitdate type="inclusive">1969-1992</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Correspondence with Leo Wyatt (on calligraphy), <unitdate type="inclusive">1977-1981</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Herbert Kleist on bookbindings, <unitdate type="inclusive">1974-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III. Professional Development, <unitdate type="inclusive">1976-1977, </unitdate>
+                        <unitdate>1980, </unitdate>
+                        <unitdate>1986,
+                     </unitdate>
+                        <unitdate type="inclusive">1991-1993</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains documentation of seminars and conferences that Thompson
+                  attended as an attendee rather than a speaker. Invitations, schedules, and lists
+                  of registrants are included.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">16</container>
+                  <unittitle>American Library Association (ALA) Centennial Library History Seminar,
+                     1976 </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">18</container>
+                  <unittitle>American Printing History Association (APHA) -- Conferences, <unitdate type="inclusive">1991-1993</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">17</container>
+                  <unittitle>Association of College and Research Libraries (ACRL) -- Rare Books and
+                     Manuscripts Section Preconferences, <unitdate>1977, </unitdate>
+                            <unitdate>1980,
+                        </unitdate>
+                            <unitdate>1986</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IV. Publications and Manuscripts, <unitdate type="inclusive">1965-1986</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains correspondence, manuscripts, clippings, and notes related to
+                  articles and books written by, edited by, and compiled by Thompson, including
+                     <title render="italic">Caxton: An American Contribution to the Quincentenary
+                     Celebration</title> (1976) and <title render="italic">American Book Design and
+                     William Morris</title> (1977). This series also contains a manuscript report on
+                  the state of libraries in Nigeria and Kenya (1965) with a small set of
+                  accompanying black-and-white photographs.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>American Book Design and William Morris, <unitdate type="inclusive">1972-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">5 to 6</container>
+                  <unittitle>American Printing History Association (APHA) -- First Annual
+                     Conference, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Caxton: An American Contribution to the Quincentenary Celebration,
+                        <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Dictionary of American Biography Article on Randolph. G. Adams,
+                        <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Dictionary of American Library Biography Article on Richard Shoemaker,
+                        <unitdate>1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Libraries in Nigeria and Kenya (manuscript), <unitdate type="inclusive">1965-1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Reader on Rare Book Librarianship, <unitdate type="inclusive">1975-1979</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Robert L. Leslie Festschrift, <unitdate type="inclusive">1985-1986</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series V. Service and Committees, <unitdate type="inclusive">1971-1979,
+                     </unitdate>
+                        <unitdate>1982</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series includes correspondence, minutes, and related materials documenting
+                  the committees and advisory councils on which Thompson served. (Service specific
+                  to the Columbia University School of Library Service is located in Series I.) This
+                  series contains documentation from the first annual conference of the American
+                  Printing History Association (1976), which is also co-located in Series IV and
+               VI.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>American Library Association (ALA) Library History Round Table,
+                        <unitdate type="inclusive">1976-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>American Printing History Association (APHA)</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">5 to 6</container>
+                     <unittitle>First Annual Conference, <unitdate>1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>National Officers Election, <unitdate>1982</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Committee on Teaching the History of the Book, <unitdate type="inclusive">1976-1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Association of College and Research Libraries (ACRL)</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Rare Books and Manuscripts Section -- Committee to Study Special
+                        Education for Training Rare Book, Manuscript, and Special Collections
+                        Librarians, <unitdate type="inclusive">1971-1975</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Rare Books and Manuscripts Section -- Continuing Education
+                        Committee, <unitdate type="inclusive">1977-1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Corrodentia Society, <unitdate type="inclusive">1971-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Heritage of the Graphic Arts, <unitdate>1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>National Conservation Advisory Council, <unitdate type="inclusive">1974-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series VI. Speaking Engagements, <unitdate type="inclusive">1971-1980</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains correspondence, documentation, notes, and text of speeches
+                  delivered by Thompson at panel, conference, and seminar appearances.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Corrodentia Society, <unitdate type="inclusive">1971-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>New York Metropolitan Reference and Research Library Agency (METRO)
+                     Conservation Seminar, <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Typophiles Christmas Luncheon for Joseph Dunlap,
+                     <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">5 to 6</container>
+                  <unittitle>American Printing History Association (APHA) -- First Annual
+                     Conference, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">20</container>
+                  <unittitle>Society of Printers (Boston), <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>University of Alabama -- Symposium on the Book Arts,
+                     <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">19</container>
+                  <unittitle>American Printing History Association (APHA) -- New York Chapter,
+                        <unitdate>1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Cooper-Hewitt Museum -- Book Arts Program,
+                  <unitdate>1978</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">15</container>
+                  <unittitle>New York Library Association Conference Panel on Special Collections,
+                        <unitdate>1978</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Trumbull College -- Dedication of Sherman Foster Johnson Press,
+                        <unitdate>1978</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Rochester Institute of Technology -- Goudy Award for Edna Beilenson,
+                        <unitdate>1980</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

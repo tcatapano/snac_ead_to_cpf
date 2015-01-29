@@ -1,0 +1,2532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078739_ead//EN" mainagencycode="nnc-rb">ldpd_4078739_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Abraham Epstein Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+            </change>
+         <change><date normal="2012-01-26">2012-01-
+            26</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Epstein, Abraham, 1892-1942.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Abraham Epstein Papers">Abraham Epstein Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1918/1945" type="inclusive">1918-1945.</unitdate>
+         <physdesc><extent encodinganalog="300">ca. 50,000 items (86 boxes, 2 cmi boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078739</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Research Director, Pennsylvania Commission on Old Age Pensions, 1918-1921 and 1923-1927; Executive Secretary, American Association for Social Security, 1927-1942.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, documents, minutes, lists, reports, financial records, and printed materials of Abraham Epstein. The personal and business papers relate to his fight on behalf of Social Security and old age pensions.</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <geogname encodinganalog="651">Pennsylvania--Politics and government.</geogname>
+         <geogname encodinganalog="651">United States--Politics and government--1901-1953.</geogname>
+         <subject encodinganalog="650">Social security--United States.</subject>
+         <subject encodinganalog="650">Old age pensions.</subject>
+         <subject encodinganalog="650">Older people--Economic conditions.</subject>
+         <subject encodinganalog="650">Social problems.</subject>
+         <corpname encodinganalog="697">Pennsylvania Commission of Old Age Pensions.</corpname>
+         <occupation encodinganalog="656" source="lcsh">Social reformers.</occupation>
+      </controlaccess>
+      <accessrestrict><head>Access Restrictions</head>
+            <p>Boxes 2-86 of this collections are are located off-site. You will need to request 
+         this material at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+        </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1950 M-50 Epstein, Mrs. Abraham Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Abraham Epstein Papers. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 06/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <dsc><c level="series">
+                <did><unittitle>Contents List</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Adams Jane--Correspondence (October 1929-June 1935)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Advisory Commission to the Council of National: Defense Reports, etc. (July 194O-.January 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Alabama--Correspondence (April 1929-June 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Amalgamated Bank of Now York--Correspondence (June 1931-January 1952)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>American Child, published by the National Child Labor Committee., N.Y. City (November 1931-April 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>America. Association for Economic Freedom, Wash., D.C.--Correspondence, declaration, etc. (October 1937-February 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>American Association for Social Security:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Appeals for money--Correspondence, etc. (May 1931-November 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Appeals foundations--Correspondence, etc. (January 1932-0ct. 1935)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Bill--"A State Old Age Assistance Bill"</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Commended in correspondence (June 1932-April 1941)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Comments on work &amp; N.Y. old age pension bills (March 1926-April 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Constitution:</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Correspondence</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Suggested draft</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Cooperative struggle for existence--Correspondence, announcement, etc. (December 1941-September 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Luce's Press Clipping Bureau--Correspondence (June 1931-June 1943)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Nice letters responding to appeals, etc. (October-November 1941)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Organization--Beginning--Correspondence, minutes, etc. (January-December 1927)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Press release (January 1957-November 1958)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Press release (February 1959-0ct. 1940)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Publicity--Correspondence (April 1941-January 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><unittitle>Requests for information:</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">3</container>
+                                <unittitle>1 (May - December 1928)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">3</container>
+                                <unittitle>2 (January- February 1929)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">3</container>
+                                <unittitle>3 (March - April 1929)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">3</container>
+                                <unittitle>4 (May- October 1929)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">3</container>
+                                <unittitle>5 (August- October 1929)</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>A.A.S.S.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Advisory Council--Correspondence (October 1927-November 1933)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><unittitle>Advisory Com. on Social Insurance--Correspondence, lists, etc.:</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">4</container>
+                                <unittitle>1 (June 1935)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">4</container>
+                                <unittitle>2 (July 1933-December 1940)</unittitle>
+                            </did>
+                        </c>
+                    </c>
+               <c level="file">
+                        <did><unittitle>Board of Directors:</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">4</container>
+                                <unittitle>Invitations to meetings:</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">4</container>
+                                <unittitle>(January 1937-December 1938)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">4</container>
+                                <unittitle>(January 1939-November 1940)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">4</container>
+                                <unittitle>Minutes (October 1935-December 1940)</unittitle>
+                            </did>
+                        </c>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Executive Committee meetings--Correspondence, minutes, etc.:</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>1 (September 1929-December 1930)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>2 (January 1931-Apr1 l932)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>Minutes, agenda, etc. (March 1927-May 1933)</unittitle>
+                            </did>
+                        </c>
+                    </c>
+               <c level="file">
+                        <did><unittitle>Social security (monthly):</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>Free mailing lists:</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>1 (March 1933-NUv. 1936)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>2 (February 1937-November 1941)</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>American Council on Public Affairs. Schnapper, Morris B.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Correspondence, pamphlets, etc. (December 1937-November 1941)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>American Federation of Labor:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Correspondence, draft, etc. (November 1929-5ept. 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Maurer, James H. -- Correspondence (February 1927)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <unittitle>Pres. Green, William-- Correspondence, bills, etc. (August 1931-March 1936)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>American Mercury--Correspondence (November 1930-February 1932)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>American various assns.--National conferences--Program (May-December 1933)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Appeal for charity--C1ippings, pamphlets, etc. (December 1924-February 1929)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Argentina--Pensions, correspondence, etc. (1921-June 1927)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Arizona--Correspondence (September 1930-July 1933)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Arkansas--Correspondence (February 1929-Feg. 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Associated Silk Workers. Matthews, Joseph E.--Correspondence (January1930-February1932)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Associations of social work, workers, consumers, universities, churches, etc.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>Correspondence lists, etc. (September1928-April 1941)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Austria--Acts, etc. (December1906-December 1924)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Australia--Pamphlets, regulation, table, forms, correspondence (l908-December1926)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Bardwell, Francis, Bureau of Old Age Assistance, MA.-Correspondence (April 1931-April 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Barkin, Solomon--Correspondence (May-July 1933)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Battle, George G.--Correspondence (March 1931-March 1932)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Belgium--Bul., pamphlet (1925)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Billikopf, Dr. Jacob--Correspondence(January1928-1930/1931-January1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Bills 1931--Drafts--Arkansas, Conn., Mich., Ohio</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Blossom, Frederick A. Correspondence, etc (January 1932-March 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Bradon, Jack.  The Truth About Weekly Industrial Insurance) (magazine), Chicago, Ill.—Corerspondence (June 1933-April 1937)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Brazil--Décret No. 4,682 (Janvier 1923)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Broadeasting--WNYC (February1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Brookwood, Inc., A School for.Progressive Labor Education --Correspondence, etc. (October1927-March 1936)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Bulgaria-regulat1ons, etc. (March 1906-June 1924)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Burlingham, C. C., N.Y.City--Correspondence, etc. (March 1929-November1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Caldwell, Helen E .Irving, N.J.-- Correspondence. (August1928-January1930)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>California--Correspondence (February l939-February1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>CaliSocial Welfare Dept.-- Correspondence. (January1929-December1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Canada--Correspondence (December1929-January1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Canada. Dept. of Labour. Government. Annuities Branch--Report, Correspondence, etc. (March 1936-April 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Canada Toronto. Cohen, J.L. -- Correspondence. (April 1927-November1928)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Cartoons, drawings, etc.--Old age pensions (February 1932-July 1935)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Chamberlin, Joseph P ~ Columbia University--Correspondence, (1928-1936)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Chile--Articles (1924)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Christian Social Justice Fund. Gilman, Elizabeth--Correspondence, (January 28-December 31)(January'32-July'38)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Christmas appeal--Clippings, etc. (Dee.1930)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Clark, ProJane, Perry. The rise of a new federalism--Correspondence, (July 1937-June 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Cochran, Edwin Paul-- Correspondence (September1939-January1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Cogswell, Edmund S Extent of old age dependency (November-December 1926)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Cohen, Wilbur H. See: S.S.B.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Colorado--Correspondence (March 1938-August 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Colorado Denver—Com. and general correspondence (July 1931-September1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Columbia University. Seager, Henry R - Correspondence. (February1930)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Connecticut--Correspondence, etc. (February1934-June 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Conn, Commission on Old Age Pensions. Meeker, Royal-- Correspondence.(June 1931-August 1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Conn. Com. for Old Age Security:</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Correspondence., etc. (June 1934-October1935)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Minutes (February1936-January1935)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Conn. Federation of Labor. Egan, John J.-- Correspondence. (March'30-September '41</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Czechoslovakia—Regulations (December 192l)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Delaware--Correspondence, etc. (February1929-September19S6)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Denmark--Notifications (June 1922-February1925)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Devine, Dr. Edward T -- Correspondence. (January1932-May 1937)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Dies Com.--Amer. Youth Cong. rebuffed by Epstein, A.—Correspondence (October-December'31</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Dill-Connery bill <unitdate>1932</unitdate> &amp; l934-- Correspondence. (February’32-May'34) in 4 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Douglas, ProPaul H., University of Chicago -- Correspondence. (January ‘29-January ‘42)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>duPont, Alfred I., Wilmington, Del.-- Correspondence. (October'3O-June ‘36)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>The Eagle magazine (September1922 &amp;December 1923)--Correspondence, clippings, etc. (July '33-September'37)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Eag1es, Fraternal Order of --Bulletins, Correspondence, etc. (April ‘22-November ’27)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Elias, Harry L. - Correspondence. (February 1931-August 1933)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Emergency Work Bureau--Correspondence, payroll sheets, etc. (December ’30-October '35)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Epstein, A.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <unittitle>Articles (September 1923-?) in 4 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <unittitle>Correspondence (July 1950-1939) in 6 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <unittitle>Biographical materials</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <unittitle>Biography by Preo, Fred L.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Biography &amp;. Comment by Leonard, Oscar (February 1938)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Centennial Observance of the 100th Anniversary of Epstein's birth. (Correspondence and printed materials, 1992)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Helping far immigration visa:</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Guigui, Albert--Correspondence, (February-April 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Wadler, Arnold (September '40-December '41)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Rager, Dr. Fritz--Correspondence, etc. (April '38-November ‘41)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Personal correspondence (February 1927-June 1932) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Radio ta1ks--Correspondence, (October 1936-December 1940)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Research--Cards, clippings.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Speeches &amp;lecture series--Perry &amp; Wise, Inc.--Correspondence, lists, news releases, etc. (November'37-June '38)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle>Syllabi for (Comparative) Social Security courses (1941-1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <unittitle>Speaking endangerments--Correspondence, etc. (October '33-December '37) in 6 fo1ders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                            <unittitle>Speaking engagements--Correspondence, etc. (January'33-May '39) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                            <unittitle>Western lecture tours, <unitdate>1936</unitdate> &amp; <unitdate>1937</unitdate> in 5 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <unittitle>The Challenge of the aged--Correspondence, etc. ('28-September'42) in 4 Folders</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <unittitle>Insecurity: a challenge to America (l936-July 1942) in 4 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                            <unittitle>The Insurance Racket, articles (1930-1934) in 5 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                            <unittitle>N.Y.U. term papers by his student.(June 1940-January 1942) in 4 Folders.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Epstein, Mrs. Abraham--Correspondence, (December 1937-May 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Epstein, the Abraham Testimonial Com. --Financial statements, appeals, etc. (January 1942-February 1943)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Evening Sun, Baltimore.  Fitzgerald, Stephen E.—Corresponence (January ’37-October ‘40</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Federated Press—releases in I</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Federated Press--Releases on old age pensions, labor movement, etc. (July 1927-June 1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Florida--Correspondence (February 1928-October 1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Flynn, John T. --Correspondence against Epstein's militancy, statements about several state and associations, etc. (February '39-May ‘40)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Foreign correspondence (January 1930-June 1941) in 4 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Foundations. The Thrift &amp; Security Foundation. Fell, Herbert N.--Correspondence (August 1937-October 1937)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Foundations, Philanthropic--Pamphlets, reports, clippings, &amp; Correspondence, (1930-May 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>France:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">20</container>
+                            <unittitle>Act (July 1909), rapports, bul. (1923-September 1925)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">20</container>
+                            <unittitle>Pamphlets, etc. (1900-Mars 1925) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>France, Clemens J. --Correspondence (March 1941-April 1943)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Fur industry--Charity chest--Correspondence( etc. (I1ay 1929-January 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Gage, Margaret--Correspondence (February 1935-June 1943)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Gale, Zona's story Lights out (1932-1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>General Welfare Act--Correspondence, etc. (September 1937-January 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Georgia--Correspondence (February 1929-April 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Germany--Pamphlet &amp; correspondence (July-September 1921)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Gilbert, Mart &amp; E. Albert, Philadelphia, Pa. --Correspondence, (February 1936-May 1937)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Glassberg, Benjamin--Federated Jewish Charities, etc.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Glassberg, Benjamin--Correspondence (January 1928-January 1935)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Great Britain:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <unittitle>Bibl., etc. (1925 etc.)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <unittitle>Industrial welfare in England:</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <unittitle>Pamphlets, magazines (1999-1925)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Bournville--Pamphlets, etc. (May '06-September'25)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Pamphlets, rept., &amp; correspondence, (1908-June 1925)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Greece--Acts, decrees, etc. (1924-1925)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Haber, ProWilliam, Mich.--Correspondence (December 1935-February 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Harmon, William E.--Correspondence, &amp; a plan for old age &amp; investment protection (May-June 1927)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Hawaii--Correspondence (March 1937-April 1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Hitler, Adolf--Public speeches--Extracts (10 February 1933-1 September 1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Hogue, Dr. Richard W.--Correspondence (June 1954-January 1941) in 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Home for Aged and Infirm Hebrews, NY City—Correspondence, suggested program (February 1932-1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Hurst, Fennie--Correspondence (February 1934-November 1935)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Hyde, Albert Alexander, Wichita, Kan.--Correspondence, etc. (January '29-February '35)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Iceland--Act, the General Old Age Pension (9 July 1909)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Idaho--Correspondence, etc. (February 1929-May 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Illinois:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">24</container>
+                            <unittitle>Correspondence (March 1934-November 1941)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">24</container>
+                            <unittitle>The British Old People's Home (under the auspices of the Daughters of the British Empire in the Middle Western States).  Adams, Pres. Julie Cooke--Correspondence, etc. (January 1934-May 1937)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">24</container>
+                            <unittitle>The American Legislators' Assn.--Correspondence (March 1931-June 1935)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">24</container>
+                            <unittitle>Chicago--Correspondence, etc. (February 1934-Qct. 1941) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">24</container>
+                            <unittitle>Commission on Old Age Pensions-Correspondence. (January 1932-December 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">24</container>
+                            <unittitle>Committee for Old Age Security,-Lists, correspondence(March 1933)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Imberman, A. A.-Correspondence (September 1937-January 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>India. The Indian witness vol. LVI no.42 (20 October 1926)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Indiana--Correspondence (January 1930-February 1942) </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Insurance:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">25</container>
+                            <unittitle>Insurance Law Revision--Draft, Correspondence, (January 1939-June 1941)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">25</container>
+                            <unittitle>Pamphlets, articles, etc. (1929-December 1937)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">25</container>
+                            <unittitle>Works, articles, Correspondence, etc. (December 1937-Hov. 1838)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">25</container>
+                            <unittitle>Industrial Life Insurance--Works;. Correspondence, Pamphlets, etc. (’33)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Insurance companies--Forms, rates, etc. (Jan &amp; <unitdate>October 1925</unitdate>  etc.)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>International Labor Office-- Correspondence (November 1925-5ept. 1926)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>International Labor Organization:</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Correspondence, monthly summary (April, ‘32-December ’41</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Magnusson, Leifur--Correspondence (February 1929-May 1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Inter-professional Assn.--Correspondence, bill draft, call (August '34-April '36)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Iowa--Correspondence (January 1929-June 1941) in 2 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Isaacs, Stanley H., friend of the Manhattan slum-dwellers--Correspondence, memorandum, organizations, etc. (September 1932-September 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Italy--Regulations (guigno 1924-april 1925)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Japan--Correspondence, acts (October-November 1926)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Joint Com. on Unemployment (&amp; Taxation)--Correspondence, etc. (October'31-June'34)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Joint Com. to Sponsor the Automobile Accident Compensation Plan-Articles, correspondence, etc. (March 1937-June 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Kane, Francis Fisher, Attorney at Law, Philadelphia--Correspondence, (January 1933-February 1936)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Kansas--Correspondence (January 1930-November 1940) in 2 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Kelley, Nicholas, Treasurer of A.A.S.S. --Correspondence, (April 1930-Dec 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Kentucky--Correspondence (April 1928-April 1937)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Labor, etc.--Newspapers, etc. (January 1925-0ct. 1928)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Lansburgh, Dr. Richard H., Univ. of Pa.--Correspondence, (May 1928-May 1930)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Larkin, Oliver W.--Correspondence (June-Ju1y 1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Leach, Agnes Brown--Correspondence (October 1929-March 1932)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>League for Industrial Democracy--Corres., minutes, etc. (December ‘29-February ‘42)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Legislative questionnaire--Lists, clippings, etc. (September 1929-1930)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Lehman, , J. S. Circularization of pamph1ets--Correspondence, etc. (February. 1930-March 1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Leiserson, Dr. William. H.--Correspondence (February 1929-April 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Louisiana--Correspondence, etc. (April 1930-oct. 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Maine--Correspondence, etc. (March 1927-June 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Massachusetts--Correspondence, etc. (October 1937-June 1929); (February 1932-February 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>MA:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Boston--Correspondence (January 1932-April 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Saving Bank--Corres., statement (November 1926)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Wiesman, Margaret, Consumers' League --Correspondence, etc. (January ‘33-December ‘35; (January 1936-March'43)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Maryland--Correspondence (January 1929-Harch 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Md. Baltimore--Correspondence (January 1934-December 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Md. Imberman, A. A.--Correspondence (January 1935-September 1937)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Metropolitan Life Insurance Company--Correspondence, (March '37-March ‘42)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Michigan--Correspondence, etc. (September 1931-June 1935) in 2 Folders; (January 1937-April 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Mich. Com. far Old Age Security--Lists or names (January 1933)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Mich:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <unittitle>Detroit--Correspondence (July 1938-February 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <unittitle>Grand Rapids Com.--Correspondence (September 1931-January 1937)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <unittitle>Kalamazoo--Corres., list, etc. (December 1931-April 1934)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Middle age problem--Correspondence (November 1929-1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Minnesota--Correspondence (November 1928-July 1941) in 2 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Minn. Commission on the Aged--Pamphlets, Correspondence, synopsis (November 1925)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Mississippi-Correspondence (March 1931-November 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Missouri:</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Correspondence (February 1937-March 1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Poorhouses, poor farms: "Place of Horrors"-Inspection repts., etc. (1923-1933)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Mo.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <unittitle>Com. for Old Age Security--Correspondence, etc. (April ‘32-September ‘33)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <unittitle>Leonard, Oscar--Correspondence (October 1954-December 1941)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Mo.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <unittitle>Kansas City-Correspondence, etc. (September 1930-February 1939)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <unittitle>Russell, Meigs B.--Correspondence, lists &amp; miscellaneous data (November 1931-April 1932) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <unittitle>St. Louis--Correspondence (January 1935-February 1942)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Montana--Correspondence (January 1925-December 1927); (November 1929-April 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>National Assn. of Manufactures--Clippings, Correspondence, etc. (April' 30-October '35)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>(First-Third) National Conference on Old Are Security--Correspondence, proceedings, bills, etc. (April 1928-1931) in 6 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>National Conference on Social Security--Correspondence, etc. (June 1932-November 1942) in 3 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Nationa1 Council of Jewish Women, Jersey City Section. Mahler, Benjamin (Minna)--Correspondence, (September 1930-May 1931)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>National Industrial Recovery Act, Pamphlets, etc. (July-September 1933)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>National Public Housing Conference. Alfred, Helen, Correspondence, etc. (September 1929-March 1934); (March 1937-April 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Nebraska--Correspondence, (January 1958)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Netherlands--Regulations, Correspondence, etc. (October 1920-January 1927)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Neuberger, Dr. Otto--Corres., biographical sketch, etc. (January 1936-September 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Nevada--Biennial rept. of the supt. old-age pensions <unitdate type="inclusive">1923-1924</unitdate>  (1925)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>New Hampshire--Corres., Legal information bul. (October 1930-December 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>NJ:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Correspondence, (January 1927-January 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Lists, miscellaneous data (May-October 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Press release (October 1929-December 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Resolutions (February 1929-April 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Speaking engagements--Correspondence, (May-September 1930)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Alloway, J. E., Trenton--Correspondence, etc (October 1932-November 1934)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Camden--Correspondence (October 1928-March 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Consumers' League of N. J. Wiley, Katherine G. T.- General Correspondence, (November 1929-March 1934)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Assn. for Social Security--Correspondence, by-laws (November 1937-March 1938)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Council on Old Age Pensions:</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Correspondence, statement, etc. (October 1930)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Correspondence w. Governor (December ’29-April ’31)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>etc.--Contributions--Correspondence, etc. (April 1930-November)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Executive Com.--Minutes, agenda, lists, correspondence, etc. (February ‘30-May '3l)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Correspondence, etc. (January 1930-October 1932) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Board of Chosen Freeholders--Correspondence (December 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Diocese of N. J. Weeles, Rev. Samuel G.--General Correspondence, (December 1929-November 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Emil Franke1--Correspondence (January 1928-July 1940)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Federation of Labor. Reilley, Hugh V.--Correspondence (December 1929-June 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Hasley, Florence--General Correspondence, (January 1930-February 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Glover, Ralph--Correspondence, (October 1930-March 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Jersey City--Correspondence, (May 1929-February 1933)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Leuper, Fred J.--Correspondence, (November 1929-January 1933)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Lewis R. D.--General Correspondence, (October 1930-August 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>New Brunswick--Correspondence, (October 1930-February 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Newark--Correspondence, (November 1929-February 1934)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Paterson--Correspondence, (August 1930-February 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Pension Survey Commission--Correspondence, reports. (September 1930-November 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Permanent Conference--Correspondence, minutes, agenda, etc. (January-April 1930)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Plainfield--Correspondence, (December 1929-December 1930)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Trenton-general correspondence, (December 1929-November 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Trenton. Ellis, William J.--Correspondence, (January 1931-0ct. 1941)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Women's Republican Club of N.J.--Correspondence, (August '30-January'3l)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>New Mexico--Correspondence, (September 1934-June 1958)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>New York (City)--Correspondence, (January 1930-October 1942) in 3 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>N.Y.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>City Affairs Com.--Correspondence, minutes, etc. (December'37-December '42)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>City Club--Correspondence, etc. (December 1936-April 1939)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>N.Y. (City):</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Congregational Education Society--Correspondence, (September ’31-Sep. '34)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Dept. of Welfare. Old Age Security Div., etc. --Correspondence, (May 1930-January 1943)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Shientag, Bernard L., Judge--Correspondence, (December ‘29-0ct. ‘50)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">37</container>
+                            <unittitle>Welfare Council, Research Bureau--Private agencies (May ‘29)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>N.Y. (State):</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>General Correspondence, (February 1938-September 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Legislation--Old Age Assistance Act (Liberalization)--Correspondence, etc. (January 1937-March 1939)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Legislation--Old Age Pension bills--Signed by Governor (March-April 1930)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Legislative Hearing Conference--Correspondence, lists, etc. (January 1938-May 1929) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Meetings, &amp; conferences--Correspondence, (March 1929-February 1930)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Repeal attempts--Correspondence, etc. (December 1931-April 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>N.Y.:</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Albany--Correspondence, (June 1929-February 1942) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Hearing--Bil1 for old age security--Correspondence, lists, etc. (January 1930-February 1931) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Albany Conference on Old Age Security--Correspondence, remarks, lists (October 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Andrews, Elmer F., Dept. of Labor--Correspondence, (September’35-November'38)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Binghamptor--Correspondence, (October 1929-0ct. 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>Buffalo--Correspondence, (June 1929-March 1921)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>Dept. of Social Welfare--Correspondence, (February 1934-October 1941), etc.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>Dept. of Social We1fare. Schneider, David M. One thousand recipients of old age allowances (1935)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>Joint Legislative Welfare Com., etc.--Corres., etc. (February 1928-Ju1y 1929)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>N.Y. Commission on Old Age Security--Correspondence, (April 1929-February 1933)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>N.Y. Constitutional Convention. Com. on Social Welfare.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>NY. Edward Corsi--Correspondence, (July-Aug, 1938)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Permanent Conference on Old Age Security:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">40</container>
+                            <unittitle>Correspondence, releases, lists, speeches, minutes, etc. (January 1927-May 1934) in 7 Folders.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>N.Y.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+                            <unittitle>Permanent Conference-Correspondence, minutes.. etc. (January ‘37-November ‘41) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+                            <unittitle>Permanent Conference. Com. on Education--Correspondence, minutes, etc. (January 1934-April 1935)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+                            <unittitle>Permanent Conference. Executive Com. affiliated organizations--Correspondence, etc. (September 1929-June 1937) in 3 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Rochester--Correspondence, (July 1929-February 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Roosevelt, F.D., 1929-33 3 letters (photocopied)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Senate:</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Byrne, William T.--Correspondence, (December 1934-January 1936)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Mautick, Seabury C. &amp; Mastick bill--Correspondence, etc. (January 1930-January 1934)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Mandelbaum, Samue1-- Correspondence an act (January 1933-January 1936)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Syracuse--Correspondence, (October 1929-May 1936)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Utica--Correspondence, (July.1929-October 1935)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>New Zealand--Pamphlets, Correspondence, annual reports., forms, etc. (1908-January 1927)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Nordholm, Alex--Correspondence, (September 1935-July 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>North Carolina--Correspondence, Public welfare progress (January 1930-April 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>North Dakota--Correspondence, (May 1930-March 1936)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Ohio:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Bills, statistics, conferences, Correspondence, lists, etc. (December 1930-December 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Old Age Security herald (July-August 1931)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Correspondence, (April 1928-March 1941)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Old Age refund--Correspondence, (September 1939-Apri 1940)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Old Age Pensions &amp; Unemployment Campaign (1929-1938) (photocopies)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Bigelow, Herbert S.--Correspondence, etc. (February 1928-March 1937)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Cincinnati--Correspondence, (November 1928-July 1941)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Columbus--Correspondence, (January 1929-April 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Cleveland--Correspondence, (January 1937-December 1941), Rose leaves (June '41)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Dayton--Correspondence, (September 1929-February 1939)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Toledo--Correspondence, (February 1931-April 1937)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Oklahoma. Old Age Pension Bill--Correspondence etc. (April 1928-November 1932);(March 1933-(October 1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Old age pensions--Development, foreign countries, etc..--Articles, lists, etc. (1916-February 1929)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Old age pensions--Development in various states &amp; so on--Articles, etc. (1908-February 1929)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Old age pensions--N.Y., Ky., etc.--Correspondence, (January 1934-August 1943) in 2 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Old age pensions--Schemes (June <unitdate>1929</unitdate> etc.)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Old Folks’ Relief Society, Inc... NY. City--Correspondence, (May 1930-December 1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Oppositions to old age pensions--Articles &amp; general data, clippings, letters, etc. (April 1931-July 1933)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Oregon--Correspondence, etc. (January 1928-July 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Organizations--Reports, Correspondence, resolutions (September 1927-February 1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Organizations, etc. endorsing old age pensions--Pamphlets, etc. (December ‘28)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Organizations magazines, etc.--Correspondence, (October 1927-December 1928); (January 1929-May 1930)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Pennsylvania--Correspondence, (December 1926-December 1929) in 2 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Pennsylvania--Correspondence, (January 1937-July 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>PA:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Allentown--Com. &amp; general correspondence, etc. (November 1931-October 1941)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Altoona--Com. &amp; general corres., etc. (December 1931-November 1934)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Chamber of Commerce--Bul., lists, correspondence, etc. (May-December 1926)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Chamber of Commerce--Pa. progress, monthly (July 1926-September 1928)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Com. On Old Age Security--Corres., etc. (December 1931.-January 1954)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Federation</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Easton--Com. &amp; general correspondence, etc. (November 1931-April 1934)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Erie—Com. &amp; general correspondence, etc. (November 1931-1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Federation of Labor:</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Reports, resolutions, etc. (May ‘24-'28)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Maurer, James Hudson .Correspondence, etc.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>Maurer, James Hudson .Correspondence, etc. (January 1928-April 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Fight--Correspondence, acts, supreme court records, etc. (May ‘32-November'33)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Ford City. Almshouse, etc.--Re-inspect1on sheets, articles, etc. (February 1922-October 1923)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Harrisburg--Correspondence. (May 1936-April 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Pittsburgh--Correspondence, (February 1936-April 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Reading--Correspondence, etc. (April 1931-February 1933)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Scranton--Correspondence, etc. (March 1932-December 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Wilkes-Barre--Correspondence, etc. (February 1933-June 1939)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Senate. Vare. Old Age Pension Amendment--Fight-Correspondence, reports, etc. (April 1924-April 1927) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Old Age Assistance Commission--Articles &amp; Miscellaneous data (1924-1927) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Old Age Pension Commission--Correspondence, certificate, etc. (May 1924-May 1927)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Security League. Schermerhorn, Gertrude L.--Correspondence, newsletters, etc. (August 1934-July 1936)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>People’s Lobby, Wash, D.C. --Correspondence, declaration, etc. (December ‘29-November ‘39)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Personal Correspondence, (January 1924-February 1937) in 3 fo1ders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Philadelphia--Correspondence, (1937-1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Philadelphia Conference--Correspondence, lists, etc. (May-November 1930)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Policyholders' Advisory Council--Correspondence, constitution, testimony (April-September 1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Pope, Willard, Detroit, Mich.--Correspondence, etc. (May 1930-0ct. 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Portugal--Decreto n.5 (mai 1919)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Principles, Statement of, an article ?F1ynn (February 1938-May 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>Rackets:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">49</container>
+                            <unittitle>Health--Clippings (February-June 1934)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">49</container>
+                            <unittitle>Old age pensions--"National Old Age Pension Assn." by "Dr." J.E.Pope--Clippings, Correspondence, etc. (1933-1936) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">49</container>
+                            <unittitle>Old age pensions--Townsend Clubs, San Diego, Calif.-Correspondence, etc. (February 1933-February 1936) in 3 Folders.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">49</container>
+                            <unittitle>Social security--Miscellaneous correspondence, clippings, etc. (July 1933-October 1941) in 2 Folders.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Railroad Retirement Board. Latimore, Murray W.--Correspondence, (May '35-November'40)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Reed, Dr. Louis S., Md.--Correspondence, (December 1937-Jan 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Reporting service (stenotype)--Corres. (July 1930-February 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Republican Program Com. (Glenn Frank)--Correspondence, program, charges, etc. (March 1937-January 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Rhode Island:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <unittitle>Correspondence, (December 1933-November 1941)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <unittitle>Council for Old Age Security--Correspondence, (September 1930-May 1934) in 2 Folders</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <unittitle>Minutes (November 1930-February 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <unittitle>House. Soriere, Albert A.--Correspondence, (December 1935-February 1937)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><unittitle>Roosevelt, pres. Franklin D.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <unittitle>Correspondence, etc. (December 1928-September 1940)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <unittitle>Clippings (February-July 1934)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle>Rosenberg controversy--Correspondence, press -releases, etc. (September ' 37-July '41)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle>Rosenwald, Julius--Requesting contribution--Correspondence, (November ‘27-January '29)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle>Romania--Act (January 1912), Monitorul oficial (November 1924)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle>Rubinov, Dr. Isaac Max--Correspondence, clippings, etc. (January 1928-January 1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Sanford, Frederick, N.J. League of Women Voter~-General correspondence (May 1930-February 1931)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Sanford, Raymond, Ill. Com. for Old Age Security--Correspondence, (March 1932-October 1935) in 2 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Saposs, David J .--Correspondence, (February 1939-March 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Snyderman, George S., Pa.--Correspondence, (February 1933-July 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Social Science Research Council—Correspondence (April ’36-November ’40)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Social Security Board (Correspondence on the origin of the name "Social Security")</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>South Carolina--Correspondence, (September 1950-August 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>South Dakota--Correspondence, (February 1934-March 1939)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>State Com.'s Stationery--Samples</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Stewart, Bryce M., Industrial Relations Counselors-Suggested changes for H.R. <unitdate>7260</unitdate> (April 1935-January 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Sweden, Netherlands, Greece--Acts, order, etc. (May '18-August '25)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Tennessee--Correspondence, (February 1950-March 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Texas--Correspondence, (January 1930-March 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Twentieth Century Fund, Inc., Boston--Corres concerning a grant (January 1928-April 1929)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Utah--Correspondence, etc.(October 1929-February 1955)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Utopian state--Townsend, Dr. E.'s Utopian Society in Southern Calito Utah; Sinclair, Upton.--C1ippings, etc. (December 1931-Sept 1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Unions--Correspondence, &amp; pamphlets, etc. (1923)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>United Mine Workers of America. Old Age Pension Commission-Corres. (October-November 1924)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle>U.S. Congress:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">54</container>
+                            <unittitle>Amendments to social security act--Correspondence, (December'38-Marcn'39)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">54</container>
+                            <unittitle>Congressional Intelligence--Receipt of $25 (September 1935)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">54</container>
+                            <unittitle>Dinner on old age pensions, <unitdate>January 1932</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">54</container>
+                            <unittitle>Correspondence, lists (December 1931-April 1932)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">54</container>
+                            <unittitle>Dinner, March 1934--Correspondence, lists (February-March 1934)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><unittitle>House:</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">54</container>
+                                <unittitle>Ellenbogen, Henry-- Correspondence. (January 1933-November 1938)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">54</container>
+                                <unittitle>Fitzgerald, Roy G.--Correspondence, (December 1929-Nay 1930)</unittitle>
+                            </did>
+                        </c>
+                    </c>
+               <c level="file">
+                        <did><unittitle>Senate:</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">54</container>
+                                <unittitle>Hearings--Correspondence, etc. (December ‘29-January '31) in 2 Folders</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">54</container>
+                                <unittitle>Hearings--Persons promised to attend--Correspondence, (May '3O)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">54</container>
+                                <unittitle>Hearings--Persons unable to attend--Correspondence, (May ‘30)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">54</container>
+                                <unittitle>Hearings-on Dill's Old Pension bill, <unitdate>February 1930</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">54</container>
+                                <unittitle>Correspondence, etc. (December 1929-March 1931)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">54</container>
+                                <unittitle>Budlong, Percy E., Official Reporter--Correspondence, (September-December 1932)</unittitle>
+                            </did>
+                        </c>
+                  <c level="file">
+                            <did><container type="Box" label="Box">54</container>
+                                <unittitle>Dill, C.C.--Correspondence, bill, etc. (May ‘29-March '43)</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>U.S. Dept. of Labor. Lubin, Dr. Isador--Correspondence, (June '33-March '36)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Employment Office. Ringe, Helen H.--Correspondence, etc. (September '33-December 35)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Social Security Board--Travel orders, contract, correspondence, etc. (October 1939-January 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Uruguay--Social legislation, Legislation obrera (October 1919)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Vermont--Corres. (November 1932-February 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Villard, Oswald Garrison--Correspondence, (July 1931-April 1932)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Vinton, Warren Jay--Corresp (December 1931-July. 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Virginia--Correspondence, (April 1929-September 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Va. Senate. Morris, Emma--Correspondence, a bill (May 1930-June 1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Walter, Dr. Josephine's will--Correspondence, receipt by A.A.S.S., etc. (May 1935-June 1935)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Washington--Correspondence, (April 1938-November 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Wash.,D.C.:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <unittitle>Correspondence, (February l939-May 1942)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <unittitle>Memorandum, bill, etc.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <unittitle>Conference--Correspondence, (May 1929)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <unittitle>Permanent Com. --Minutes, Correspondence, etc. (May 1932-January 1934)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>West Virginia--Correspondence, (January 1929-May 1940)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Whitney, William C.: Foundation. Bogue, Anna--Correspondence, (December 1927-June 1941) in 2 fo1ders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Wisconsin--Correspondence, etc. (January 1936-February 1942)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Old age pensions law--Pamphlets, Correspondence (June '26-February '28)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Workers' Education--Correspondence, (February-May 1941)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Workmen's Circle--correspondence, etc. (December 1934-March 1938)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Wyoming--Correspondence, etc. (November 1929-Ju1y 1934)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">57-60</container>
+                        <unittitle>Miscellaneous correspondence, I-IV</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Requests for "Negro Migrant" (1918-1921)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>American Assn. for Social Security--Clippings (1930)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">63-66</container>
+                        <unittitle>Miscellaneous clippings, I-IV</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">67</container>
+                        <unittitle>Electrictype cuts reprints--Scrapbook</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">68</container>
+                        <unittitle>Editorials--Scrapbook (1932-1933)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Magazine articles--Scrapbook (1919-1930)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">70-73</container>
+                        <unittitle>Miscellaneous scrapbooks</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">74</container>
+                        <unittitle>Lecture material, New York University</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">75-78</container>
+                        <unittitle> "Insecurity: A Challenge to America": Typescript</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">79</container>
+                        <unittitle> "Challenge of the Aged": typescript with related materials</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Old Age Pensions</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Misc. manuscripts; Misc. newspaper clippings, including letters to the editor of N.Y. Times from A. &amp; H.C. Epstein and some pamphlets (Gift 1978)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82-84</container>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">85-86</container>
+                        <unittitle>American Association for Social Security: Membership Cards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">46</container>
+                        <unittitle>Photographs</unittitle>
+                    </did>
+                </c>
+            </c>
+
+   
+      </dsc>
+   </archdesc>
+</ead>

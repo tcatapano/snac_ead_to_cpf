@@ -1,0 +1,3530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079521_ead//EN" mainagencycode="nnc-rb">ldpd_4079521_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Stein and Day Publisher Records,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-03-11">2010-03-11</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><corpname encodinganalog="110">Stein and Day Publishers.</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Stein and Day Publisher Records,">Stein and Day Publisher Records,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1963/1988" type="inclusive">1963-1988</unitdate>
+         <physdesc><extent encodinganalog="300">28.75 linear ft.(ca. 34,500 items in 68 boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library.</subarea>
+            </corpname>
+            <address><addressline>535 West 114th St., New York, NY, 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079521</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Stein and Day Publishers was founded by Sol Stein and his wife Patricia Day in 1962 and remained in business until 1989. Primarily a trade book publisher of popular and literary fiction, biographies, and social history, it was also a publisher of military history, child and health care books.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, documents, photographs and printed material. The editorial, publicity, and production files detail the publishing of some 450 titles, mostly from the 1970s and 1980s. Among the cataloged correspondents are: Woody Allen, Christy Brown, Claude Brown, Pearl S. Buck, William F. Buckley, Jr.; James T. Farrell, Leslie A. Fiedler, Jack Higgins, William Inge, Elia Kazan, Henry Miller, and J. B. Priestley. There are nineteen manuscripts, most with authorial or editorial corrections, as well as publicity photographs of Christy Brown, Claude Brown, Chester Himes, and Robert Oppenheimer, Jack Higgins et al.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 4 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged Correspondence</item>
+               <item>Series II: Arranged Production Files</item>
+               <item>Series III: Manuscripts</item>
+               <item>Series IV: Photographs</item>
+              </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Allen, Woody.</persname>
+         <persname encodinganalog="600">Kirkpatrick, Jeane J.</persname>
+         <persname encodinganalog="600">Buckley, William F. (William Frank), 1925-2008.</persname>
+         <persname encodinganalog="600">Cohen, William S.</persname>
+         <persname encodinganalog="600">Exon, J. James (John James), 1921-2005.</persname>
+         <persname encodinganalog="600">Glenn, John, 1921-</persname>
+         <persname encodinganalog="600">Heath, Edward.</persname>
+         <persname encodinganalog="600">Higgins, Jack, 1929-</persname>
+         <persname encodinganalog="600">MacLeish, Archibald, 1892-1982.</persname>
+         <persname encodinganalog="600">Mailer, Norman.</persname>
+         <persname encodinganalog="600">Inge, William.</persname>
+         <persname encodinganalog="600">Logan, Joshua.</persname>
+         <persname encodinganalog="600">Martin, Malachi.</persname>
+         <persname encodinganalog="600">Rockefeller, John D. (John Davison), 1874-1960.</persname>
+         <persname encodinganalog="600">Kennedy, Edward Moore, 1932-</persname>
+         <persname encodinganalog="600">Frost, David.</persname>
+         <persname encodinganalog="600">Miller, Henry, 1891-1980.</persname>
+         <persname encodinganalog="600">Brown, Christy, 1932-1981.</persname>
+         <persname encodinganalog="600">Farrell, James T. (James Thomas), 1904-1979.</persname>
+         <persname encodinganalog="600">Smith, Margaret Chase, 1897-1995.</persname>
+         <persname encodinganalog="600">Nunn, Sam.</persname>
+         <persname encodinganalog="600">Long, Russell.</persname>
+         <persname encodinganalog="600">Wallop, Malcolm.</persname>
+         <persname encodinganalog="600">Quayle, Dan, 1947-</persname>
+         <persname encodinganalog="600">Burns, James MacGregor.</persname>
+         <persname encodinganalog="600">Brown, Claude, 1937-</persname>
+         <persname encodinganalog="600">Shenker, Israel.</persname>
+         <persname encodinganalog="600">Morris, Desmond.</persname>
+         <persname encodinganalog="600">Hobson, Laura Keane Zametkin.</persname>
+         <persname encodinganalog="600">Buchwald, Art.</persname>
+         <persname encodinganalog="600">Buck, Pearl S. (Pearl Sydenstricker), 1892-1973.</persname>
+         <persname encodinganalog="600">Hurst, Fannie, 1889-1968.</persname>
+         <persname encodinganalog="600">Priestley, J. B. (John Boynton), 1894-1984.</persname>
+         <persname encodinganalog="600">Kissinger, Henry, 1923-</persname>
+         <persname encodinganalog="600">Hicks, Granville, 1901-1982.</persname>
+         <persname encodinganalog="600">Hayes, Helen, 1900-1993.</persname>
+         <persname encodinganalog="600">Asimov, Isaac, 1920-1992.</persname>
+         <persname encodinganalog="600">Kazan, Elia.</persname>
+         <persname encodinganalog="600">Fiedler, Leslie A.</persname>
+         <persname encodinganalog="600">Allen, Steve, 1921-2000.</persname>
+         <persname encodinganalog="600">Goldwater, Barry M. (Barry Morris), 1909-1998.</persname>
+         <subject encodinganalog="650">Publishers and publishing.</subject>
+         <genreform encodinganalog="655" source="ftamc">Photoprints</genreform>
+         <occupation encodinganalog="656" source="lcsh">Publishers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: 2-69. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>08/11/1989 M-89-11-08 Stein and Day Publishers Gift</p>
+      </acqinfo>
+      <altformavail encodinganalog="530">
+         <head>Alternate Formats</head>
+         <p>Pearl S. Buck letter is on microfilm.</p>
+      </altformavail>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Stein and Day Publisher Records; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Processed 04/16/1990 PL</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+        </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Allen, Steve </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Allen, Woody </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Asimov, Isaac </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Brown, Christy </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Brown, Claude </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Buchwald, Art </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Buck, Pearl S. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Buckley, William F,, Jr. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Burns, James MacGregor </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Cohen, William S. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Exon, J. James </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Farrell, James T. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Fiedler, Leslie A. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Frost, David </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Glenn, John </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Goldwater, Barry </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Hayes, Helen </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Heath, Edward </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Hicks, Granville </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Hobson, Laura Z. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Holloway, Stanley </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Hurst, Fannie </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Inge, William </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Kazan, Elia </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Kennedy, Edward M. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Kirkpatrick, Jeane J. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Kissinger, Henry A. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Logan, Josh </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Long, Russell </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Macleish, Archibald </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mailer, Norman </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Malden, Karl </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Martin, Malachi B. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Miller, Henry </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Morris, Desmond </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Nunn, Sam </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Patterson, Harry </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Priestley , J. B. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Quale, Dan </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Riegle, Donald W, Jr. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rockefeller, John D., 3rd </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Shenker, Israel </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Smith, Margaret Chase </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Symms, Steve </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Wallop, Malcolm </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series II: Arranged Production Files</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">2 </container>
+                        <unittitle><title render="italic">Abbott's New Card Games</title> by Bob Abbott, <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle><title render="italic">Acid Test</title> by John Simon, <unitdate>1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle><title render="italic">Actualizations Beyond EST</title> by James M. Martin, <unitdate>l977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle><title render="italic">Add Years to Your Life and Life to Your Years</title> by Dr. Irene Gore, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle><title render="italic">After Reason</title> by Arianna Stassinopoulos [Huffington], <unitdate>1977</unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle><title render="italic">Afterplay</title> by James Halpern and Mark A. Sherman, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle><title render="italic">Aircraft and Sea Power</title> by Vice Admiral Sir Arthur Hezlet, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle><title render="italic">Alaska </title> by Jon Gardey, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle><title render="italic">All the Drowned Sailors </title> by Raymond B. Lech, <unitdate>1984</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle><title render="italic">The Almighty and the Almighty Dollar </title> by Gordon L. Weil, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle><title render="italic">America America </title> by Elia Kazan, <unitdate>1962</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle><title render="italic">America, I Love You </title> by Harry Golden, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle><title render="italic">The Americans </title> by David Frost, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">America's Stonehenge Mystery Hill </title> by Mark Feldman, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Anatomy of a Battle </title> by Kenneth Macksey, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Anchorwoman </title> by Al Morgan, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Andropov </title> by Arnold Beichman and Mikhail Bernstam, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Animals of Africa </title> by Bernhard Grzimek, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Anne Boleyn </title> by Alison Plowden, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Answer to History </title> by Mohammed Reza Pahlavi (Shah of Iran), <unitdate>1980</unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle><title render="italic">Anything for a Quiet Life </title> by Jack Hawkins, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle><title render="italic">Aperitifs and Liqueurs </title> by Pamela Vandyke Price, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle><title render="italic">Arafat Is Next </title> by Lionel Black (ie Dudley Barker, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle><title render="italic">Aretino's Dialogues tr. </title> by Raymond Rosenthal, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle><title render="italic">The Arrangement </title> by Elia Kazan, <unitdate>1967</unitdate>
+                        </unittitle>
+                        <physdesc>(4 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle><title render="italic">The Art of Psychological Warfare </title> by Charles Roetter, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle><title render="italic">The Art of World Team Tennis </title> by Greg Hoffman, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle><title render="italic">Aspects of Wagner </title> by Bryan Magee, <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle><title render="italic">The Assassins </title> by Elia Kazan, <unitdate>1972 </unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle><title render="italic">Astrological Chart of the United States </title> by Gar Osten, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle><title render="italic">Auto-Da-Fe </title> by Elias Canetti, <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">Background Music </title> by Christy Brown, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">Backus Strikes Back </title> by Jim Backus, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">Ballet Cook Book </title> by Tanaquil Le Clercq, <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">The Bank of America </title> by Gordon L. Weil, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Barker, Dudley. General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">The Bass Book </title> by Homer Circle, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">Battle of Arnhem </title> by Cornelis Bauer, <unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">The Battle of the Java Sea </title> by David A. Thomas, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">The Battle of Saratoga </title> by Ruper Furneaux, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">The Battle of the Torpedo Boats </title> by Brian Cooper, <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">Beauty Makeover Guide </title> by Judith Ross &amp; Susan Acton, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">Because It's There </title> by Benjamin F. Schemmer, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Beichman, Arnold. General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">Being Busted </title> by Leslie Fiedler, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle><title render="italic">Better Wines for Less Money </title> by Nathaniel Korshin, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle><title render="italic">Betrayal </title> by  Lucy Freeman and Julie Roy, <unitdate>1976</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle><title render="italic">Beyond Our Limits </title> by Wendy Cooper and Dr. Tom Smith, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle><title render="italic">Billie's Blues </title> by John Chilton, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle><title render="italic">Bobby Fisher vs the Rest of the World </title> by Brad Darrach, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle><title render="italic">Body Shop </title> by Corinne Browne, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle><title render="italic">The Bomb that Could Lip-Read </title> by Donald Seaman, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle><title render="italic">The Book of Aphrodisiacs </title> by Dr. Raymond Stark, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle><title render="italic">The Book of Before and After Dinner Drinking </title> by Sheldon Wasserman, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle><title render="italic">Book of Tennis Lists, 1985</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle><title render="italic">Breakdown </title> by N. S. Sutherland, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle><title render="italic">British Aircraft of World War II </title> by John Frayn Turner, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Brown, Christy.  General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle><title render="italic">The Burke Foundation </title> by Anthony McCandless, <unitdate>1987</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle><title render="italic">The Business of Living </title> by Dr. Jack H. Grossman, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle><title render="italic">Bypassing  Bypass</title> by Elmer Cranton, <unitdate>1984</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle><title render="italic">Caruso </title> by Stanley Jackson, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle><title render="italic">Casebook of a Psychic Detective </title> by Dixie Yeterian, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle><title render="italic">Caught in the Act </title> by William W. Pearce, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle><title render="italic">The Cavalry of World War II </title> by Janus Piekalkiewicz, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle><title render="italic">Cedar Rat </title> by Gary K. Everist, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle><title render="italic">Champaign Decoration on a Beer Budget </title> by Doreen Roy, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle><title render="italic">Che Guevara </title> by Daniel James, <unitdate>1969 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle><title render="italic">Chess Panorama </title> by William Lombardy &amp; David Daniels, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle><title render="italic">Childhood Illness </title> by Jack G, Shiller, M,D.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle><title render="italic">Children of Ham </title> by Claude Brown, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle><title render="italic">The Chinese Restaurant Cook Book </title> by Barbara Myers, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle><title render="italic">Christopher Columbus </title> by John Stewart Collis, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle><title render="italic">Classic Furniture Projects </title> by A. W. Marlow, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle><title render="italic">Cleo </title> by Mary Lutynes, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle><title render="italic">Cognac </title> by Cyril Ray, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle><title render="italic">The Collected Essays of Leslie Fiedler </title> by Leslie Fiedler, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle><title render="italic">A Collector's Guide to Paper Money </title> by Yasha Beresiner, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle><title render="italic">The Comic </title> by Brian Glanville, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle><title render="italic">The Complete All-in-the-Oven Cookbook </title> by Dolores Riccio and Joan Bingham, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle><title render="italic">The Complete Bolivian Diaries of Che Guevara, 1968</title>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle><title render="italic">The Complete Bonsai Handbook </title> by Darlene Dunton, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle><title render="italic">The Complete Dictionary of Wood </title> by Thomas Corkhill, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle><title render="italic">The Complete Dictionary of Television and Film </title> by Lynne Naylor Ensign and Robyn Eileen Knapton, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle><title render="italic">The Complete International Appetizer Cookbook </title> by Sonia Uvezian, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle><title render="italic">The Complete International Breakfast/Brunch Cookbook </title> by Kay Shaw Nelson, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle><title render="italic">The Complete International One-Dish Meal Cookbook </title> by Kay Shaw Nelson, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle><title render="italic">The Complete International Salad Book </title> by Kay Shaw Nelson, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle><title render="italic">The Complete International Sandwich Book </title> by Sonia Uvezian, <unitdate>1981</unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle><title render="italic">The Complete International Soup Cookbook </title> by Kay Shaw Nelson, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle><title render="italic">The Complete Manual of Wood Finishing </title> by Frederick Oughton, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle><title render="italic">The Complete Pork Cookbook </title> by Louise Sherman Schoon and Corrine Hardesty, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle><title render="italic">The Complete Rally Book </title> by David Hebb, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle><title render="italic">The Complete Saussage Cookbook </title> by Pamela Riddle, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle><title render="italic">Concord the Inside Story </title> by Geoffrey Knight, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle><title render="italic">The Condensed World of the Reader's Digest </title> by Samuel A. Schreiner, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle><title render="italic">Confessional </title> by Jack Higgins, <unitdate>1984</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle><title render="italic">The Conquest of Chile </title> by H. R. S. Pocock, <unitdate>1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle><title render="italic">The Consumer's Guide to Banks </title> by Gordon L. Weil, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle><title render="italic">The Consumer's Guide to Video Tape Recording </title> by Boris Zmijewsky, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle><title render="italic">The Corporate Mentor </title> by Karol White, <unitdate>1982 </unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[not published]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle><title render="italic">Cosmetic Surgery </title> by William Brown, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle><title render="italic">Cosmic Influences on Human Behavior </title> by Michel Gauquelin, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle><title render="italic">Country </title> by Nick Tosches, <unitdate>1977 </unitdate>
+                        </unittitle>
+                        <physdesc>(4 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle><title render="italic">Cozumel </title> by E. Howard Hunt, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle><title render="italic">Cranko, John.  Biographical information</title>, 1973</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle><title render="italic">The Cretan Lover </title> by Jack Higgins, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle><title render="italic">Crime and Punishment </title> by Aryeh Neier, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle><title render="italic">The Crypto Man </title> by Kenneth Royce, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle><title render="italic">A D &amp; B on D &amp; B </title> by Isadore Barmash, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle><title render="italic">The Dark Side of History </title> by Michael Edwardes, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle><title render="italic">Day of Judgment </title> by Jack Higgins, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle><title render="italic">Deafness </title> by David Wright, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle><title render="italic">The Defense Never Rests </title> by F. Lee Bailey, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle><title render="italic">Descent of Woman </title> by Elaine Morgan, <unitdate>1972 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><title render="italic">Destination Peace </title> by Gideon Rafael, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><title render="italic">The Devil at Home </title> by Oliver Lange, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><title render="italic">Diary of a Harlem Schoolteacher </title> by Jim Haskins, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><title render="italic">Dictionary of Battles </title> by Thomas Harbottle, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><title render="italic">Dictionary of Catch Phrases </title> by Eric Partridge, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><title render="italic">Dictionary of Espionage </title> by Henry S. A. Becket, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><title render="italic">Dictionary of Symptoms </title> by Dr. Joan Gomez, <unitdate>1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><title render="italic">The Difficult Child </title> by A. J. Montanari &amp; Arthur Henley, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><title render="italic">Dillinger </title> by Harry Patterson, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle><title render="italic">Disney's World </title> by Leonard Mosley, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle><title render="italic">Disraeli in Love </title> by Maurice Edelman, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle><title render="italic">Disraeli Rising </title> by Maurice Edelman, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle><title render="italic">Dr. Kugler's Seven Keys to a Longer Life </title> by Dr. Hans J. Kugler, <unitdate>1978</unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle><title render="italic">Dr. Kugler's Seven Keys to a Longer Life </title> by Dr. Hans J. Kugler, <unitdate>1978</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle><title render="italic">Dr. Shealy's Book of Occult Medicine </title> by Dr. C. Norman Shealy, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle><title render="italic">The Doctor's Quick Weight Loss Diet </title> by Samm Baker &amp; Irwin Stillman, <unitdate>1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle><title render="italic">Dog Training My Way </title> by Barbara Woodhouse, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle><title render="italic">Dollars on Your Doorstep </title> by Joseph Daffon, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle><title render="italic">Don't Ask Your Waiter </title> by Pauline &amp; Sheldon Wasserman, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle><title render="italic">Don't Change </title> by Wendy Cooper, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle><title render="italic">Don't Get Perconel With a Chicken </title> by H. Allen Smith, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle><title render="italic">Doors </title> by Evan Hunter, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle><title render="italic">Down All The Days </title> by Christy Brown, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle><title render="italic">Driven </title> by Leon Mandel, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle><title render="italic">The Dying of the Light </title> by Brian Glanville, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Eastside, Westside </title> by Derek Lambert, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Easy Sleep </title> by John J. Gnap, M.D., <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">The Eating Rich Cookbook </title> by Leonard Louis Levinson, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Eclipse of Kings </title> by Denis Judd, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Edith Cavell </title> by Rowland Ryder, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Edward Kennedy: The Camelot Heritage </title> by James MacGregor Burns, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">The Eisenhower Deception </title> by Clive Eagleton, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Electronics and Sea Power </title> by Vice Admiral Sir Arthur Hezlet, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Elizabeth and Her Suitors </title> by Alison Plowden, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Elizabeth R </title> by Elizabeth Longford, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Elvis Calendar</title>, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Encyclopedia of Dogs and Puppies </title> by Barbara Woodhouse, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">The Encyclopedia of the Occult, the Esoteric, and the Supernatural </title> by Benjamin Walker, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">England Ebbing </title> by Jack Pitman, <unitdate>1987</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">The English </title> by David Frost and Antony Jay, <unitdate>1968 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><title render="italic">Enola Gay </title> by Gordon Thomas and Max Morgan Witts, <unitdate>1977 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><title render="italic">Escape </title> by Dwight and Barbara Worker, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><title render="italic">Esoteric Encyclopedia of External Knowledge </title> by Vernon Howard, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><title render="italic">European Theatre </title> by Henry Popkin, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><title render="italic">The Every Other Day Exercise Book </title> by Fern Lebo, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><title render="italic">Exocet </title> by Jack Higgins, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><title render="italic">Eye Book </title> by Anne-Lise Gotzsche, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle><title render="italic">The Fabulous Life of Diego Rivera </title> by Bertram D. Wolfe, <unitdate>1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle><title render="italic">The Fail-Safe Fallacy </title> by Sidney Hook, <unitdate>1963 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle><title render="italic">Falling Apart </title> by Elaine Morgan, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle><title render="italic">Fame </title> by Susan Margolis, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle><title render="italic">The Fantasy Game </title> by Dr. Peter Dally, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle><title render="italic">Farmer's Law </title> by Richard N. Farmer, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle><title render="italic">Femininity Game </title> by Dr. Thomas Boslooper &amp; Marcia Hayes, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle><title render="italic">Fiasco </title> by John Deane Potter, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle><title render="italic">Fifth Class Mail </title> by Jim Dwyer, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle><title render="italic">The Final Conclave </title> by Malachi Martin, <unitdate>1978 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle><title render="italic">A Fistful of Heroes </title> by Oliver Jacks, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle><title render="italic">The Flouride Question </title> by Anne-Lise Gotzsche, <unitdate>1974 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle><title render="italic">Food in History </title> by Reay Tannahill, <unitdate>1973</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle><title render="italic">Foods for Love </title> by Robert Hendrickson, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle><title render="italic">Forbidden Cures </title> by Steven Fredman, M.D.  &amp; Robert E. Burger, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle><title render="italic">Forbidden Universe </title> by Leo Talamonti, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle><title render="italic">Fraud: The Amazing Career of Dr. Savundra </title> by Jon Connell &amp; Douglas Sutherland, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle><title render="italic">Friendship </title> by Myron Brenton, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle><title render="italic">From a Gynecologist's Notebook </title> by Sherwin A. Kaufman, M.D., <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle><title render="italic">From Place to Place </title> by Hannah Tillich</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Frost, David.  General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle><title render="italic">Funny People </title> by Steve Allen, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle><title render="italic">G. K. Chesterton </title> by Dudley Barker, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle><title render="italic">The Gaza Intercept </title> by E. Howard Hunt, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle><title render="italic">Gestures </title> by Desmond Morris et al, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle><title render="italic">Gideon's Force </title> by William Vivian Butler, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle><title render="italic">Gideon's Law </title> by William Vivian Butler, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Girodias, Maurice (Olympia Press).  General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle><title render="italic">The Golden Express </title> by Derek Lambert, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle><title render="italic">Great Medical Disasters </title> by Dr. Richard Gordon, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle><title render="italic">Guernica </title> by Gordon Thomas and Max Morgan Witts, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle><title render="italic">The Happy Person </title> by Harold Greenwald and Elizabeth Rich, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle><title render="italic">The Harbor Mouse </title> by Hannah Tillich, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle><title render="italic">The Hargrave Deception </title> by E. Howard Hunt, <unitdate>1980 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle><title render="italic">He: An Irreverent Look at the American Male </title> by Florence King, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle><title render="italic">Hitler in Vienna, 1907-1913 </title> by J. Sydney Jones, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">Hoffa: The Real Story </title> by James R. Hoffa, <unitdate>1975</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">Home Free </title> by Chris Kazan, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">How to Get Lucky </title> by Max Gunther, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">How To Protect Yourself Against Cops in California and Other</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">Strange Places </title> by F. Lee Bailey, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">I Have Come to Step Over Your Soul </title> by Charles W. Sasser, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">I Miss You When You're Here </title> by Lee Leonard, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">In Praise of Punishment </title> by William Tucker, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">Inside Story </title> by Chapman Pincher</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">Instead of the Trees </title> by J. B. Priestly, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">An Irreverant and Thoroughly Incomplete Social History of Almost</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">Everything </title> by Frank Muir, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle><title render="italic">J. P. Morgan </title> by Stanley Jackson, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle><title render="italic">Japan Against the World: 1941-2041 </title> by Russell Braddon, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle><title render="italic">The Jewish Mystique </title> by Ernest van den Hoag, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle><title render="italic">Jewish Responses to Nazi Persecution </title> by Isaiah Trunk, <unitdate>1978</unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle><title render="italic">The Joey Adams Laugh Diary </title> by Joey Adams, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle><title render="italic">The Judas Code </title> by Derek Lambert, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle><title render="italic">Judenrat </title> by Isahiah Trunk, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle><title render="italic">Kara Kush </title> by Idries Shah, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle><title render="italic">Killing for Company </title> by Brian Masters, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>King, Florence. General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle><title render="italic">King David: King of the Beggars </title> by Malachi Martin, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle><title render="italic">The Klan </title> by Patsy Sims, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle><title render="italic">The Kremlin Conspiracy </title> by E. Howard Hunt, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Lambert, Derek. General File. </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle><title render="italic">Landowska on Music ed. </title> by Denise Restout, <unitdate>1964</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle><title render="italic">The Last Place On Earth </title> by Harold T. P. Hayes, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle><title render="italic">Laughing All The Way </title> by Barbara Hower, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle><title render="italic">Leading Ladies </title> by Electra Clark, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle><title render="italic">Lenin Lives! </title> by Gregory O'Brien, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle><title render="italic">Let Sleeping Dogs Die </title> by Tim Heald, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle><title render="italic">Life After Marriage </title> by Mary Ann Singleton, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle><title render="italic">A Lifetime's Reading </title> by Philip Ward, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle><title render="italic">The Life and Legend of Sherlock Holmes </title> by Terrance Dicks, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle><title render="italic">The Life and Times of Joe McCarthy </title> by Thomas C. Reeves, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle><title render="italic">The Life and Times of Mohammed </title> by Sir John Glubb, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle><title render="italic">Life Begins at Sixty </title> by Bill Case, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle><title render="italic">A Life in Two Centuries </title> by Bertram D. Wolfe, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle><title render="italic">Living in Step </title> by Jeanette Lofas and Ruth Roosevelt, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle><title render="italic">Living is Loving </title> by Inge and Sten Hegeler, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle><title render="italic">Living is Many Things </title> by George Leo Robertson, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle><title render="italic">The Living Room </title> by , <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle><title render="italic">Living Safely in a Polluted World </title> by Richard Mackarness, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">Lloyd's of London </title> by Anthony Brown, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">Love and Death in the American Novel </title> by Leslie Fiedler, <unitdate>1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">Love and Limerence </title> by Dorothy Tennov, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">Luciano's Luck </title> by Jack Higgins, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">Ma Bell </title> by Richard Ottinger &amp; Michael Kitzmiller, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">Mad as Hell </title> by Henry Miller, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">Mafioso </title> by Gaia Servadio, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">Magna Carta </title> by W. L. Warren, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">The Major International Treaties </title> by J. A. S. Grenville, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle><title render="italic">Making Ends Meet </title> by Barbara Howar, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle><title render="italic">Man and the Beast Within </title> by Benjamin Walker, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle><title render="italic">The Man from Devil's Island </title> by Colin Richards, <unitdate>1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle><title render="italic">Man is the Prey </title> by James Clarke, <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle><title render="italic">A Man of Principle </title> by Dudley Barker, <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle><title render="italic">The Man Who Had Power Over Women </title> by Gordon M. Williams, <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle><title render="italic">The Man Who Wanted Tomorrow </title> by Brian Freemantle, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle><title render="italic">The Man Who Was Not Himself </title> by John Creasy, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle><title render="italic">The Man Who Was Saturday </title> by Derek Lambert, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle><title render="italic">Managing Your Doctor </title> by Arthur Freese, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle><title render="italic">The Maple Harvest Cookbook </title> by Diane Lewis, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle><title render="italic">Marconi: A Biography </title> by W. P. Jolly, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle><title render="italic">Marine Sniper </title> by Charles Henderson, <unitdate>1986</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle><title render="italic">Marriage With My Kingdom </title> by Alison Plowden, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle><title render="italic">Martin </title> by George A. Romero, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle><title render="italic">Mastering Herbalism </title> by Paul Huson, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle><title render="italic">Mawson's Will </title> by Lennard Bickel, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle><title render="italic">Mayday 747 </title> by Alan Scott a.k.a. Reynolds Locke, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle><title render="italic">The Medusa Touch </title> by Peter Van Greenaway, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle><title render="italic">Memos to Management </title> by Frank A. Armstrong, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle><title render="italic">Mend It! </title> by Maureen Goldsworthy, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle><title render="italic">Mensa </title> by Victor Serebriakoff, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle><title render="italic">The Meredith Legacy </title> by Sharon Salvato, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle><title render="italic">The Messengers Will Come No More </title> by Leslie Fiedler, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle><title render="italic">MI5 </title> by Nigel West, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle><title render="italic">Michel's Bird </title> by Michel Legrand and George Mendoza, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle><title render="italic">Miracle of Deliverance </title> by Stephen Harper, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle><title render="italic">The Monday Man </title> by Ronny Pearlman, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle><title render="italic">Mopeds: The Complete Guide </title> by Steve Pyle, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle><title render="italic">The Moscow Scene </title> by Geoffrey Bocca, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle><title render="italic">The Mosley Receipt </title> by Kenneth Royce, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle><title render="italic">The Most Wanted Man in America </title> by John Clouser &amp; Dave Fisher, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle><title render="italic">A Mouth Full of Sugar </title> by Chris Kazan, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle><title render="italic">Moving Pictures </title> by Budd Schulberg, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Muir, Frank.  General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle><title render="italic">My England </title> by Lydia Clarke Heston, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle><title render="italic">My Family </title> by Grahame Hughes, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle><title render="italic">My Game </title> by Ken Stabler with Lou Sahadi, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle><title render="italic">The Mystic Healers </title> by Paris Flammonde, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle><title render="italic">Naked People </title> by Abner Dean, <unitdate>1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle><title render="italic">Napoleon and Talleyrand </title> by Barbara Norman, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle><title render="italic">The New Apocrypha </title> by John Sladek, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle><title render="italic">The New Eleusis </title> by Robert Abbott, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle><title render="italic">The New FBI </title> by Robert Pack, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle><title render="italic">The New Sexual Etiquette for Women</title> ed. by Patricia Holt, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle><title render="italic">New York Intellectuals </title> by Mark Krupnick, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle><title render="italic">The Nine Lives of Mickey Rooney </title> by Arthur Marx, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle><title render="italic">No-Nonsense Government </title> by Richard Sloma, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle><title render="italic">Non-Human Thought </title> by Jacques Graven, <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle><title render="italic">The Obituary Book </title> by Alden Whitman, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle><title render="italic">An Occult Guide to South America </title> by John Wilcock, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle><title render="italic">Off Camera </title> by Leonard Probst, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle><title render="italic">Olivier ed. </title> by Logan Gourlay, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle><title render="italic">The Oppenheimer Hearing </title> by John Major, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle><title render="italic">Orient Express </title> by Michael Barsley, <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle><title render="italic">Other Senses, Other Worlds </title> by Doris and David Jones, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle><title render="italic">Outdoor Power Equipment </title> by Arthur Darack, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle><title render="italic">Particular Pleasures </title> by J. B. Priestley, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle><title render="italic">A Partisan View </title> by William Phillips, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle><title render="italic">Patterson, Harry.  General information</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle><title render="italic">Phobia Free </title> by E. Ann Sutherland and Zalman Amit, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle><title render="italic">The Phoenicians Discovered America </title> by Robert  and Jennifer Marx, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle><title render="italic">Pinktoes </title> by Chester Himes, <unitdate>1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle><title render="italic">Poisioned Ivy </title> by Benjamin Hart, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle><title render="italic">Portrait of Jesus? The Illustrated Story of the Shroud of Turin </title> by Frank C. Tribbe, <unitdate>1983</unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Priestley, J. B.  General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle><title render="italic">The Retreat of Radiance </title> by Ian Moffitt, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle><title render="italic">Richard Burton: The Erotic Search </title> by Michael Hastings, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle><title render="italic">Rockefeller's Follies </title> by William Rodgers, <unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle><title render="italic">The Rookies </title> by Ed Walton, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle><title render="italic">The Run to Morning </title> by Jack Higgins, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle><title render="italic">Sacred Honor </title> by Raymond B. Lech, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle><title render="italic">The Second Stone </title> by Leslie A. Fiedler, <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle><title render="italic">Secrets </title> by F. Lee Bailey, <unitdate>1979</unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle><title render="italic">Seige </title> by Edwin Corley, <unitdate>1969 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle><title render="italic">Sex in History </title> by Reay Tannahill, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle><title render="italic">Shaw's Etcetera </title> by Alan Chappelow, <unitdate>1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle><title render="italic">Slings and Arrows </title> by Robert Lewis, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle><title render="italic">Solo </title> by Jack Higgins, <unitdate>1980</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle><title render="italic">The Solution to All the World's Problems </title> by David Frost, <unitdate>1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle><title render="italic">Somebody Pays </title> by Ray Russell, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle><title render="italic">Southern Ladies and Gentlemen </title> by Florence King, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle><title render="italic">Sovereign State </title> by Anthony Sampson, <unitdate>1972 </unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle><title render="italic">Sparrow in the Snow </title> by Sylva Darel, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle><title render="italic">The Specialist </title> by Gayle Rivers, <unitdate>1985</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle><title render="italic">Spider Scott novels </title> by Kenneth Royce.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle><title render="italic">Spinfishing </title> by Norman Strung, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle><title render="italic">Sports and American Society </title> by Charles Cohen &amp; Robert Marcus, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle><title render="italic">The Squeeze </title> by David Craig, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle><title render="italic">Stalin </title> by Leon Trotsky, <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle><title render="italic">Stalin Account </title> by Kenneth Royce, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle><title render="italic">The Stay-Married Handbook </title> by Lawrence Weinberg, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Stein and Day.  Clippings.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Stein and Day.  Correspondence with Penguin Books, <unitdate>1964-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Stein and Day.  Documents.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Stein and Day.  General file.  </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle><title render="italic">Stein and Day.  Legal material: Antitrust case.</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle><title render="italic">The Stein and Day Baseball Date Book </title> by Rich Marazzi, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle><title render="italic">The Stein and Day Dictionary of Definitive Quotations </title> by Michael McKenna, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle><title render="italic">Stein &amp; Day vs McCall Corp.  Legal material.</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle><title render="italic">Storm in the West </title> by Sinclair Lewis &amp; Dore Schary, <unitdate>1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle><title render="italic">Straight Talk to Parents </title> by Mary Susan Miller &amp; Samm Sinclair Baker, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle><title render="italic">Strange Communists I Have Known </title> by Bertram D. Wolfe, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle><title render="italic">Streets of Gold </title> by Evan Hunter, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle><title render="italic">Super Joe </title> by Joe Charboneau, Burt Graeff, and Terry Pluto, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle><title render="italic">The Supercops </title> by L. H. Whittemore, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle><title render="italic">Superstars, Stars, and Just Plain Heroes </title> by Nathan Salant, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle><title render="italic">The Swimmer </title> by Eleanor Perry, <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle><title render="italic">The Talking Ape </title> by Keith Laidler, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle><title render="italic">Talking to Yourself </title> by Pamela E. Butler, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Tannahill, Reay.  General File</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle><title render="italic">The Tears of Chalbi </title> by Kenneth Royce, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle><title render="italic">That Pellet Woman! </title> by Betty Pellet with Alexander Klein, <unitdate>1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle><title render="italic">Theme and Variations </title> by Yehudi Menuhin, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle><title render="italic">Theomatics </title> by Jerry Lucas and Del Washburn, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle><title render="italic">Think </title> by William Rodgers, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle><title render="italic">The Third Bullet </title> by Arnold Stream, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle><title render="italic">The Thirties </title> by Alan Jenkins, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle><title render="italic">The Thoroughly Tasteful Dirty Jokebook </title> by Shelli Sonstein, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle><title render="italic">The Tibbets Story </title> by Paul W. Tibbets, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle><title render="italic">Tiger </title> by Nigel Slater, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle><title render="italic">Tillich, Hannah  3 unpublished short stories</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle><title render="italic">Time No Longer </title> by Andrija Ruharich, <unitdate>1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle><title render="italic">To Catch a King </title> by Harry Patterson, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle><title render="italic">To Stand at the Pole </title> by William R. Hunt, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle><title render="italic">Tony the Iceman </title> by Chris Kazan, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle><title render="italic">Total Self-Knowledge </title> by Ernest Dichter, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle><title render="italic">Touch Me </title> by Suzanne Somers, <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle><title render="italic">Touch the Devil </title> by Jack Higgins, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle><title render="italic">Trace Your Roots </title> by Grahame Hughes, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle><title render="italic">The Truth about Medical Malpractice </title> by Ronald E. Gots.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle><title render="italic">Two Men Who Saved France </title> by Major-General Sir Edward Spear, <unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle><title render="italic">The Ultra Americans </title> by Thomas Parrish, <unitdate>1987</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle><title render="italic">The Understudy </title> by Elia Kazan, <unitdate>1975</unitdate>
+                        </unittitle>
+                        <physdesc>(2 folders )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle><title render="italic">Up From LIberalism </title> by William F Buckley, Jr., <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle><title render="italic">The Valhalla Exchange </title> by Harry Patterson, <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle><title render="italic">The Value of Nothing </title> by John Weitz, <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle><title render="italic">Vietnam </title> by Hugh Lunn, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle><title render="italic">Vigilante </title> by William Tucker, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle><title render="italic">Voices </title> by Seymour Shubin, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Wadleigh, John.  General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle><title render="italic">Waiting for the End </title> by Leslie A. Fiedler, <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle><title render="italic">The Warburgs: The Story </title> by David Farrer, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle><title render="italic">WASP, Where is Thy Sting </title> by Florence King, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle><title render="italic">The Week France Fell </title> by Noel Barber, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle><title render="italic">Weiner's Herbal </title> by Dr. Michael Weiner, <unitdate>1979</unitdate>
+                        </unittitle>
+                        <physdesc>(1 folder )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><title render="italic">What To Do When the Russians Come </title> by Robert Conquest and Jon M. White, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><title render="italic">What You Can Do About Baldness </title> by Edmund Van Deusen, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><title render="italic">When the Kissing had to Stop </title> by Constantine FitzGibbon, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>Whiting, Charles. General File.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><title render="italic">Why Are They Lying to Our Children? </title> by Herbert London, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><title render="italic">Witches' Sabbath </title> by Maurice Sachs, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><title render="italic">'Wiv a Little Bit o'Luck' </title> by Stanley Holloway, <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><title render="italic">Wolfe, Bertram and Ella.  General File.</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><title render="italic">Your Child's Right to Sex </title> by Hal M. Wells, Ph.D., <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series III: Manuscripts</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><title render="italic">The Angel of Zin </title> by Clifford Irving, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle><title render="italic">Answer to History </title> by Mohammed Reza Pahlavi (Shah of Iran), <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle><title render="italic">Answer to History </title> by Mohammed Reza Pahlavi (Shah of Iran), <unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle><title render="italic">Confessional </title> by Jack Higgins, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle><title render="italic">The Final Conclave </title> by Malachi Martin, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle><title render="italic">Hoffa: The Real Story </title> by James R. Hoffa, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle><title render="italic">How To Protect Yourself Against Cops in California and Other</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle><title render="italic">Strange Places </title> by F. Lee Bailey, <unitdate>1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle><title render="italic">The Messengers Will Come No More </title> by Leslie Fiedler, <unitdate>1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle><title render="italic">My Story </title> by Marilyn Monroe</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle><title render="italic">The Nine Lives of Mickey Rooney </title> by Arthur Marx, <unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle><title render="italic">A Partisan View </title> by William Phillips, <unitdate>1983</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle><title render="italic">Secrets </title> by F. Lee Bailey, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle><title render="italic">The Tibbets Story </title> by Paul W. Tibbets, <unitdate>1978</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle><title render="italic">To Catch a King </title> by Harry Patterson, <unitdate>1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle><title render="italic">The Understudy </title> by Elia Kazan, <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle><title render="italic">The War Against the Terrorists </title> by Gayle Rivers, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">67</container>
+                        <unittitle><title render="italic">The War Against the Terrorists </title> by Gayle Rivers, <unitdate>1986</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">67</container>
+                        <unittitle><title render="italic">What To Do When the Russians Come </title> by Robert Conquest and Jon M. White, <unitdate>1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">67</container>
+                        <unittitle><title render="italic">With a Cast of Thousnads </title> by Jill Schary Zimmer</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">68</container>
+                        <unittitle><title render="italic">Wynner </title> by Mel Torme, <unitdate>1977</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series IV: Photographs</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Backus, Jim and George Burns  </unittitle>
+                        <physdesc>(1 photograph )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Brown, Christy  </unittitle>
+                        <physdesc>(4 photographs )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Brown, Claude  </unittitle>
+                        <physdesc>(4 photographs )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Chesterton, Gilbert Keith  </unittitle>
+                        <physdesc>(1 photograph of a painting )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Fiedler, Leslie A.  </unittitle>
+                        <physdesc>(1 photogrpah )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Fisher, Bobby  </unittitle>
+                        <physdesc>(3 photogrpah )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Frost, David  </unittitle>
+                        <physdesc>(6 photogrpah )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Hart, Benjamin  </unittitle>
+                        <physdesc>(53 photogrpah )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Himes, Chester  </unittitle>
+                        <physdesc>(5 photogrpah )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Howar, Barbara  </unittitle>
+                        <physdesc>(1 photogrpah )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Olivier, Laurence  </unittitle>
+                        <physdesc>(38 photogrpah )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Oppenheimer, Robert  </unittitle>
+                        <physdesc>(1 photogrpah )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Patterson, Harry  </unittitle>
+                        <physdesc>(12 photogrpah )</physdesc>
+                    </did>
+                </c>
+            </c>
+
+
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,2482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_7229539_ead//EN" mainagencycode="nnc-rb">ldpd_7229539_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Marvyn Scudder Collection of
+                    Corporate Documents,</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+                    Manuscript Library; machine readable finding aid created by Columbia University
+                    Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+                    University Libraries</publisher>
+                <date encodinganalog="Date" normal="2009-07-11">July 11, 2009 </date>
+                <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT
+                conversion <date normal="2009-07-11">July 11, 2009 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2009-07-11">2009-07-11</date>
+                <item>File created.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Scudder, Marvyn, 1876-1935, collector</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="Marvyn Scudder Collection of Corporate Documents,">Marvyn Scudder
+                Collection of Corporate Documents,</unittitle>
+            <unitdate encodinganalog="245$f" normal="1827/1950" type="inclusive">1827-1950s</unitdate>
+            <physdesc><extent encodinganalog="300">514 linear ft. (411 record storage cartons).</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University.<subarea>Rare Book &amp; Manuscript
+                        Library</subarea>
+                </corpname>
+                <address><addressline>Butler Library, 6th Fl. East, 535 West 114th St., New York, NY. 10027</addressline>
+            </address>
+            </repository>
+            <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">7229539</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng">In English</language>
+            </langmaterial>
+            <abstract>Marvyn Scudder, the editor of the Marvyn Scudder Manual of Extinct and
+                Obsolete Companies and the country's most famous stock detective, donated the
+                collection to Columbia in 1921. The collection contains more than 3,000,000 pages of
+                documentary material on thousands of United States and foreign corporations.
+                Although there is a small number of annual reports in the collection, reports from
+                almost 5000 companies are available in the complementary collection of <extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/indiv/business/guides/annual_reports.html">Historical Corporate Annual Reports</extref> available from Columbia
+                University's Watson Library of Business and Economics.</abstract>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>History</head>
+            <p><!-- BIOGHIST REQUIRED -->Begun in 1885 by Moses L. Scudder, head of the Investor's
+                Agency in New York, the collection was inherited by Marvyn Scudder, editor of the
+                "Marvyn Scudder Manual of Extinct and Obsolete Companies" and the country's most
+                famous stock detective. He gave the collection to the Business Library in 1921.
+                Particularly strong in documents from railroads, mining companies and New York City
+                real estate companies, the Scudder Collection has a complete file of material on the
+                Union Pacific Railroad that includes the original offering statements. </p>
+            <p><!-- BIOGHIST REQUIRED -->The Marvyn Scudder Collection of corporate documents is
+                believed to be the largest of its kind with more than 3,000,000 pages of documentary
+                material on the financial history and organization of thousands of United States and
+                foreign corporations.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>Includes communications to shareholders, indentures, prospectuses, reorganization
+                plans, annual reports, and other corporate instruments dating from 1827.</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>Arranged alphabetically by corporate name.</p>
+        </arrangement>
+        <controlaccess><head>Subjects</head>
+            <persname encodinganalog="600">Scudder, Marvyn, 1876-1935.</persname>
+            <subject encodinganalog="650">Corporations--United States.</subject>
+            <subject encodinganalog="650">Mineral industries--Finance.</subject>
+            <subject encodinganalog="650">Business history.</subject>
+            <subject encodinganalog="650">Railroads--History.</subject>
+        </controlaccess>
+        <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>The finding aid for the Marvyn Scudder Collection of Corporate Documents lists only
+                the first and last company in each box, but Columbia University's Watson Library of
+                Business and Economics maintains a 48-drawer card catalog in a separate room that
+                lists every company in the collection. Patrons who wish to consult the card catalog
+                for the Scudder Collection should request access to that catalog specifically from
+                the Watson Library reference desk. </p>
+            <p>The Watson Library website also provides access to a spreadsheet of a complete list
+                of every report in the <extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/indiv/business/guides/annual_reports.html">Historical Corporate Annual Reports</extref> collection, as well as a
+                two-drawer card catalog of the same reports. Patrons who wish to consult the card
+                catalog for Historical Annual Reports should request it at the Watson Library
+                reference desk. (Be advised that because of Mr. Scudder’s fame, this catalog is
+                sometimes confusingly also known as the “Scudder Annual Reports” card catalog.)</p>
+            <p>This collection is located off-site. You will need to request this material at least
+                twenty-four (24) hours in advance to use the collection in the Rare Book and
+                Manuscript Library reading room.</p>
+        </accessrestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>Business Library Transfer 2004.</p>
+        </acqinfo>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known); Marvyn Scudder Collection of
+                Corporate Documents; Box and Folder; Rare Book and Manuscript Library, Columbia
+                University Library.</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Finding aid published 7/7/2009 pl</p>
+        </processinfo>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Single photocopies may be made for research purposes. Permission to publish material
+                from the collection must be requested from the Curator of Manuscripts/University
+                Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+                publish that which it physically owns; the responsibility to secure copyright
+                permission rests with the patron.</p>
+        </userestrict>
+        <relatedmaterial encodinganalog="544">
+            <head>Selected Related Material-- at Columbia</head>
+            <p><extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/indiv/business/guides/annual_reports.html">Scudder Corporate Annual Reports</extref>
+            </p>
+
+        </relatedmaterial>
+        <dsc><c level="series">
+                <did><unittitle>Alphabetical Files</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>A &amp; K Petroleum Company TO Adams Clark Building Corp.
+                            (Ill)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Adams Engineering Co. TO Aero Underwriters Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Aeronautical Industries Inc. TO Air Marshal Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Air-O-Cel Industries Inc. TO Alabama-Tennessee Natural Gas
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Alabama Traction Light &amp; Power Co, Ltd. TO Alberta,
+                            Province of Canada</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Alberta Wheat Pool TO Allentown Terminal Railroad Co.
+                            (PA)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Allergan Pharmaceuticals TO Allis (Louis) Co. (WI)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Allis-Charmers Mfg. Co. (DEL) TO Aluminum Company of
+                            America</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Aluminum Company of Canada, Ltd. TO American Aircraft Company
+                            (DEL)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>American Alfalfa Products Co. TO American Break Shoe
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>American Brake Shoe &amp; Foundry Company TO American Credit
+                            Indemnity Company of New York</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>American Cryogentcs, Inc. TO American Fram Products
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>American Felt Company (NJ) TO American Heat, Light &amp;
+                            Power Company (ME)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>American Hide &amp; Leather Company TO American Locomotive
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>American London &amp; Empire Corp. TO American Public
+                            Services Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>American Public Utilities Company TO American Security Company of
+                            Bedford Indiana</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>American Seeding Machine Company TO American Sumatra Tobacco
+                            Corporation</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>American Sumatra Tobacco Corp. TO American Title &amp;
+                            Insurance Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>American Tobacco Company TO American Water Works &amp;
+                            Electric Co. Inc (VA)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>American Water Works &amp; Electric Company, <unitdate type="inclusive">1932-1949</unitdate> TO American Yvette Company,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>American Zinc &amp; Lead Mining &amp; Milling Co. TO
+                            Anchor Post products, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Anchor Precision Corp. TO Ann Arbor Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Annie Consolidate Mining Co. TO Arista Truck Renmting
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Family Finance Corp [Name cahnged to Arista] TO Armco Steele
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Armin Poly Film Corp. TO Arwood Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Arwood Precision Casting Corp. TO Associated Gas &amp;
+                            Electric Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Associated Gas &amp; Electric Co. TO Associated Sudents,
+                            Univ. of Washington</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Associated Telephone &amp; Telegraph TO Athens Railway
+                            &amp; Electric Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Athey Truss Wheel Co. TO Atlantic City Electric Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Atlantic City Gas Co. TO Atlas Assurance Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Atlas Chemical Industries TO Australion Iron &amp;
+                            Steele</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Austro-American Silver Copper &amp; General Mining
+                            Association TO Ayrshire Patoka Colliers Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Aztec Land &amp; Cattle Co. TO Bali Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Ball Engine Co. TO Bamm Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Banca Commerciale Italiana TO Bandar Rubber
+                            Moatschappij</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Band-It Company TO Bank of Scotland</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Bank of Silesian Landowners Assn., Breslau TO Barahona Sugar
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Barbara Lynn Stories Inc. TO Barrington Court</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Barry Apartments TO Bayless Pulp &amp; Paper
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Bayly Manufacturing Co TO Bellingham, Washington (City
+                            of)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Bellows Falls Hydro-Electric Corp. TO Beth Warehouse</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Bethleham City Warter Co. TO Birmingham Realty Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Birmingham Small Arms CO. To Bohn Aluminum &amp; Brass
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Bohn Refrigerator Co. TO Boston &amp; Montana Development
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Boston &amp; Montana Milling &amp; Power Co. TO Botany
+                            Mills Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Botany Industries Inc. TO Brazos Oil Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>Brazos River Gas Co. TO British-American Ball Nozzle
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>British-American Bank Note Company, Ltd. TO Broadway Department
+                            Store, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>Broadway Exchange Corp. TO Brooklyn-Manhattan Transit
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Brooklyn-Manhattan Transit Corp TO Brush Moore
+                            Newspaper</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle>Bryant &amp; Chapman Co. TO Buffalo Elevators,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Buffalo Gas Co. TO Burmah Oil Company Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Burmeister &amp; Wain, Engineers &amp; Shipbuilders, Ltd.
+                            TO C &amp; K Brewing Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle>C &amp; R Hotel Company TO California Excelsior Oil
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>California Federal Savings &amp; Loan Association TO Camaguey
+                            Company, Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Camaguey Sugar Company TO Canadian Colonial Airways
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Canadian Consolidated Felt Company TO Canadian Propane
+                            Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle>Canadian Property Co. TO Capitol Reef Uranium Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>Capitol Southwest Corp. TO Carter, William Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Carolina &amp; Northwestern Railway Co. TO Cellulose Products
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Celotex Company TO Central Fule Oil Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Central Funding Corp TO Centyral Leather Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>Central Leather Company TO Central Paper Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Central Paper Company, Inc. TO Central States Investment Trust,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle>Central States Power &amp; Light Corp. TO Cessna Aircraft
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle>Chadwick Brass Company TO Chase National Bank Annual Reports,
+                            1941-50</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">67</container>
+                        <unittitle>Charlevoix Realty Corp. TO Chelsea Realty Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">68</container>
+                        <unittitle>Chemcell Limited TO Cheraw &amp; Darlington Railroad
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Cherm TO Chesapeake Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">70</container>
+                        <unittitle>Chesapeake Corp. TO Chiacgo &amp; Eastern Illinois Railway
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">71</container>
+                        <unittitle>Chicago &amp; Eastern Illinois RR. Co. TO Chiago &amp;
+                            Southern Airlines Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">72</container>
+                        <unittitle>Chicago &amp; Eastern Illinois RR. Co. TO Chiago &amp;
+                            Southern Airlines Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">73</container>
+                        <unittitle>Chicago Economic Fuel Gas Company TO Chicago, Milwaukee, St. Paul
+                            and Pacific Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">74</container>
+                        <unittitle>Chicago, Milwaukee, St. Paul Railway Co. TO Chicago Railways
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">75</container>
+                        <unittitle>Chicago Rapid Transit Company TO Chicago Suburban Gas and
+                            Electric Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>Chicago Subway Co. TO Childs Food Stores, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>Child's Co. TO Cincinnati, Findlay and Fort Wayne Railway
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>Cincinnati Gas and Electric Co. TO Cities Service
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">79</container>
+                        <unittitle>Cities Service Power and Light Co. TO City National Building
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>City of Newcastle Water Company TO Clevland-cliffs Iron
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Clevland, Columbus, Cincinnati and Indianapolis Railway Co. TO
+                            Coca-Cola Bottling Co. of New York Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>Coca-Cola Company TO Colorado, Columbus and Mexican
+                            R.R</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>Colorado Fuel and Iron Co. TO Columbia Steel and Shafting
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">84</container>
+                        <unittitle>Columbia- Southern Chemical Corp. TO Columbus Packing
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">85</container>
+                        <unittitle>Columbus Power Company TO Commonwealth and Southern
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">86</container>
+                        <unittitle>Commonwealth and Southern Corp. TO Community Power and Light
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">87</container>
+                        <unittitle>Community Public Service Company TO Connecticut General Life
+                            Insurance Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">88</container>
+                        <unittitle>Connecticut Humane Society TO Consolidated Chemical
+                            Industries</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">89</container>
+                        <unittitle>Consolidated Chemical Industries TO Consolidated Fuel
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>Consolidated Gas Company of Baltimore City TO Consolidated
+                            Laundries Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">91</container>
+                        <unittitle>Consolidated Lead and Zinc Co. TO Consumers Power
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">92</container>
+                        <unittitle>Consumers Public Service Co. TO Continental Telephone
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">93</container>
+                        <unittitle>Continental Typewriter Co. TO Com Products Refining
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">94</container>
+                        <unittitle>Corning Glass Works TO Credit Foncier of America Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">95</container>
+                        <unittitle>Credit Italiano TO Crown Cork and Seal Company Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">96</container>
+                        <unittitle>Crown Cork and Seal Company of Baltimore City TO Cuban Sugar
+                            Mills Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">97</container>
+                        <unittitle>Cuban Telephone Company TO Cushing Petroleum Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">98</container>
+                        <unittitle>Cushman Food Co., Inc. TO Dana Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">99</container>
+                        <unittitle>Danac Real Estate Investment Corp. TO Daystrom Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">100</container>
+                        <unittitle>Dayton Airplane Engine Co. TO Delaware Lackawanna and Western
+                            Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">101</container>
+                        <unittitle>Delaware National Bank TO Denver and Salt Lake Western Railroad
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">102</container>
+                        <unittitle>Denver Chicago Trucking Co. Inc. TO Detroit, Almont and Northern
+                            Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">103</container>
+                        <unittitle>Denver and Canada Tunnel Co. TO Detroit Trust Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">104</container>
+                        <unittitle>Detroit United Railway TO Distillers Securities Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">105</container>
+                        <unittitle>Distilling and Cattle Feeding Co. TO Dominion Radiator and Boiler
+                            Co. Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">106</container>
+                        <unittitle>Dominion Reduction Co. Ltd. TO Dry Dock East Broadway and Battery
+                            R.R. Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">107</container>
+                        <unittitle>Dry Dock Savings Institution TO Eagle Harbor Copper
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">108</container>
+                        <unittitle>Eagle-Picher Co. to Eastern Aircraft Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">109</container>
+                        <unittitle>Eastern Airlines Inc. to Easy Washing Machine Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">110</container>
+                        <unittitle>Eaton and Howard Management Fund A-1 TO Edwards Dental Supply
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>Egyptian Lacquer Manufacturing Co. TO Electric Bond and Share
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">112</container>
+                        <unittitle>Electric Cable Co. TO <unitdate>1133</unitdate> Park Avenue
+                            Apartment Building</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">113</container>
+                        <unittitle>Eleven West Forty Second Street, Inc. TO Emerson Shoe Stores
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">114</container>
+                        <unittitle>Emerson Truck and Tractor Co. TO Energie Electrique du Littoral
+                            Mediterraneen</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">115</container>
+                        <unittitle>Energie Electrique du Nord de la France TO Erie Railroad Co. -
+                            Prospectuses</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">116</container>
+                        <unittitle>Erie Railroad Co. TO Europe on Wheels, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">117</container>
+                        <unittitle>European and North American Railway TO Fairbanks, Morse and
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">118</container>
+                        <unittitle>Fairchild Aviation Corp. TO Farrell Foundry and Machine
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">119</container>
+                        <unittitle>Farrington Manufacuring Co. TO Federal Public Service
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle>Federal Public Utilities Co. TO Fidelity Finance Corp., Doing
+                            Business as American Finance Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle>Fidelity Fund, Inc. TO Fireman's Fund Indemnity Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle>Fireman's Fund Insurance Co. TO First National Bank, Morengo,
+                            IA</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>First National Bank (Marlow, OK) TO Fisher Building</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">124</container>
+                        <unittitle>Fisher Flouring Mills TO Flintridge Hotel Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>Flo-Mix Fertilizers Corp. TO Flour City Ornamental Iron
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">126</container>
+                        <unittitle>Flour Mills of America, Inc. TO Forstmann Woolen Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">127</container>
+                        <unittitle>Fort Collins Consolidated Royalties, Inc. TO Foundation
+                            Securities Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">128</container>
+                        <unittitle>Foundation Trust Shares TO H.H. Franklin Manufacturing
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">129</container>
+                        <unittitle>Franklin Mining Company TO Fuller Brush Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">130</container>
+                        <unittitle>Fuller Building TO Gardens Apartments Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">131</container>
+                        <unittitle>Gardner- Denver Co. TO General Acceptance Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">132</container>
+                        <unittitle>General Acceptance Corp. TO General Equities Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">133</container>
+                        <unittitle>General Electric Overseas Capital Corp. TO General Optical Co.,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">134</container>
+                        <unittitle>General Outdoor Advertising Co. TO General Steamship
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">135</container>
+                        <unittitle>General Steel Casting Corp. TO Georgia and Florida
+                            Railroad</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">136</container>
+                        <unittitle>Georgia Florida and Alabama Railroad Co. TO Gibsons
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">137</container>
+                        <unittitle>Gero Metallurgical Corp. TO Glenwyn Apts.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">138</container>
+                        <unittitle>Glidden Co. TO Goldfield Noble Mining Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">139</container>
+                        <unittitle>Goldfield Peerless Mining Co. TO Goodyear Tire and Rubber
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">140</container>
+                        <unittitle>Goodyear Tire and Rubber Co. TO Grand Rapids Edison
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">141</container>
+                        <unittitle>Grand Rapids Gas Light Co. TO Gray's Point Terminal Railway
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">142</container>
+                        <unittitle>Graybear Building TO Great Northern Iron Ore
+                            Properties</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">143</container>
+                        <unittitle>Great Northern Majestic Building Corp. TO Green Bay, Winona and
+                            St. Paul R.R. Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">144</container>
+                        <unittitle>Greenboro TO Greyhound Lines, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">145</container>
+                        <unittitle>Greyhound Corp. TO Guaranty Title and Trust Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">146</container>
+                        <unittitle>Guaranty Trust and Savings Bank TO Gum and Sweetmeat
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">147</container>
+                        <unittitle>Gundrum (H.F.) Co. TO Hallicrafters Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">148</container>
+                        <unittitle>Halliday Lithograph Corp. TO Hanlon and Goodman Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">149</container>
+                        <unittitle>Hanlon-Gregory Galvanizing Co. TO Hart-Carter Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">150</container>
+                        <unittitle>Hart Coal Co. TO Havana Electric and Utilities Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">151</container>
+                        <unittitle>Havana Electric Railway Co. TO Hearst Brisbane
+                            Properties</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">152</container>
+                        <unittitle>Hearst Building TO Hercules Petroleum Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">153</container>
+                        <unittitle>Hercules Powder Co. TO Highland Spruce Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">154</container>
+                        <unittitle>Highland Telephone Co. TO Hocking Valley Railway Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">155</container>
+                        <unittitle>Hodge Iron Co. TO Home Mortgage Investment Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">156</container>
+                        <unittitle>Home Oil Co., Ltd. TO Hotel Lennox</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">157</container>
+                        <unittitle>Hotel Lexington TO Household Finance Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">158</container>
+                        <unittitle>Household Finance Corp. TO Hudson and Long Island Traction
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">159</container>
+                        <unittitle>Hudson and Manhattan Co. TO Hunter Machinery Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">160</container>
+                        <unittitle>Hunter Steel Co. TO Hydraulic-Press Brick Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">161</container>
+                        <unittitle>Hydraulic- Pressed Steel Co. TO Idaho State Life Insurance Co.,
+                            Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">162</container>
+                        <unittitle>Idaho Yellow Jacket Gold Mining Co. TO Illinios Pacific Glass
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">163</container>
+                        <unittitle>Illiniois Packing Co. TO Income Leasehold Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">164</container>
+                        <unittitle>Income Trust Shares TO Indiana Consumers Gas and By-Products
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">165</container>
+                        <unittitle>Indiana, Decatur and Western Railway Co. TO Indiana Truck
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">166</container>
+                        <unittitle>Indiana Union Traction Co. TO Industrial Advancement Corp. of
+                            Utica</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">167</container>
+                        <unittitle>Industrial and General Trust, Ltd. TO Inland Express
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">168</container>
+                        <unittitle>Inland Gas Corp. TO Insuranceshares Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">169</container>
+                        <unittitle>Insuranceshares Trust Certificates TO Interborough- Metropolitan
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">170</container>
+                        <unittitle>Interborough Personal Loan Co. TO Interborough Rapid Transit
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">171</container>
+                        <unittitle>Interborough Rapid Transit Co. TO International Carbon
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">172</container>
+                        <unittitle>International Carriers, Ltd. TO International and Great Northern
+                            Railway Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">173</container>
+                        <unittitle>International and Great Northern Railway Co. TO International
+                            Match Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">174</container>
+                        <unittitle>International Match Realization Corp. TO Int'l Okonite
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">175</container>
+                        <unittitle>Int'l Ordinance Co. TO Int'l Safety Razor Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">176</container>
+                        <unittitle>Int'l Salt Corp. TO Int'l Water Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">177</container>
+                        <unittitle>Int'l Waterways Navigation TO Interstate Public Utilities
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">178</container>
+                        <unittitle>Interstate Railway TO Investors Fund Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">179</container>
+                        <unittitle>Investors Management Fund, Inc. TO Iowa Nebraska Public Service
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">180</container>
+                        <unittitle>Iowa Planning Company TO Irvine Life Boat Handler Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">181</container>
+                        <unittitle>Irving Trust Co. TO (J&amp;B) Ivey Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">182</container>
+                        <unittitle>JIB Consolidated Mining Company TO Jenkins Vulcan Spring
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">183</container>
+                        <unittitle>Jenney Electric Mfg. Co. TO Johnson Iron Works Dry Dock &amp;
+                            Sm Building Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">184</container>
+                        <unittitle> (Lewis D.) Jophnsons &amp; Son Company TO Kalamazoo Building
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">185</container>
+                        <unittitle>Kalamazoo National Bank TO Kansas City Public Service
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">186</container>
+                        <unittitle>Kanasa City Quarries Company TO Kansas City Power &amp;
+                            Lighting Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">187</container>
+                        <unittitle>Kansas City Public Service Company TO Kansas City, Wyanootte
+                            &amp; NW Railway Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">188</container>
+                        <unittitle>Kansas City Colorado Pacific Railway Company TO Karnstadt
+                            (Rudolph) Inc. (Germany)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">189</container>
+                        <unittitle>Karnstadt (Rudolph) Inc. (Germany) TO Kelsey-Hayes Wheel
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">190</container>
+                        <unittitle>Kelsey Wheel Co. TO Kern Realty Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">191</container>
+                        <unittitle>Kerr-Addison Gold Mines Ltd. TO Keystone Watch Case
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">192</container>
+                        <unittitle>Keystone Waterworks Co. TO Kingston Gas &amp; Electric
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">193</container>
+                        <unittitle>Kingston Products Corp. Kruger &amp; Toll Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">194</container>
+                        <unittitle>Kruger &amp; Toll Coampny (Sweden) TO Lackawanna Steele Co.
+                            (NY 1902)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">195</container>
+                        <unittitle>Lackawanna &amp; Mallney Telephone Company TO Lake Forest
+                            Water Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">196</container>
+                        <unittitle>Lake Gas Co. TO Landay Bros. Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">197</container>
+                        <unittitle>Lander Electric Lights &amp; Power Company TO Laurel Grove
+                            Cemetary Co</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">198</container>
+                        <unittitle>Laurel Lake Mills TO Leece-Neville Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">199</container>
+                        <unittitle>Lee Communicatiopns Inc. TO Lehigh Valley Railroads
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">200</container>
+                        <unittitle>Lehigh Valley Railroad Company (Mortgages) TO Lester, Carter
+                            &amp; CO.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">201</container>
+                        <unittitle>Lester Engineering Company (Ohio) TO Libby. McNeill &amp;
+                            Libby</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">202</container>
+                        <unittitle>Libby's Hotel Corp. TO Limestone Transportation Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">203</container>
+                        <unittitle>Limited Realty Company TO Lincoln Telephone &amp; Telegraph
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">204</container>
+                        <unittitle>Lincoln Traction Co. TO Liquid Carbonk Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">205</container>
+                        <unittitle>Liquid Carbonk Corp., <unitdate>1927</unitdate> TO Live Oak Oil
+                            &amp; Gas Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">206</container>
+                        <unittitle>Live Poultry Transit Co. TO Loan's (Marcus) Theatre
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">207</container>
+                        <unittitle>Lowes Marcus Theatre Ltd. TO Lone Star Land Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">208</container>
+                        <unittitle>Lone Star Gas Co. TO Long Island Lighting Co. (annual
+                            report)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">209</container>
+                        <unittitle>Long Island Live Stock Fair Corp. TO Lory Electronics
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">210</container>
+                        <unittitle>Los Angele Biltmore Hotel Co. TO Louisiana and Northwest Railroad
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">211</container>
+                        <unittitle>Louisiana Oxygen Company TO Louisville, New Albanny and Chicago
+                            Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">212</container>
+                        <unittitle>Louisville and Nashville Railroad Eq. Turst TO Loyal Mining and
+                            Leasing Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">213</container>
+                        <unittitle>Lloyd Scruggs Company TO Lycoming Manufacturing Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">214</container>
+                        <unittitle>Lydia Cotton Mills TO Mal Dermid Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">215</container>
+                        <unittitle>MacDonald Company TO (Josiah)Macy Jr. Foundation</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">216</container>
+                        <unittitle>Mad Ox Mines Inc.TO Mamoning Investment Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">217</container>
+                        <unittitle>Mamoning Savings and Trust Co. TO Malletts Bay Club</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">218</container>
+                        <unittitle>Mallinckroot Inc. TOManhattan Life Insurance Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">219</container>
+                        <unittitle>Manhattan Mammota Mining Co. TO Manitoba Power Co.
+                            Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">220</container>
+                        <unittitle>Manitoba Railway Co.Maple Valley TO Rural Telephone
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">221</container>
+                        <unittitle>Maplewood Hotel Co. TO Marine Midland Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">222</container>
+                        <unittitle>Marine Midland Trust Co. TO The Marsden Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">223</container>
+                        <unittitle>Marseille Land and Water Power Co. TO Massachusettes Gas
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">224</container>
+                        <unittitle>Massachusettes Investors Growth Stock TO Maxwell Motor
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">225</container>
+                        <unittitle>Maxwell Scientific International, Inc. TO McClure
+                            Publications</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">226</container>
+                        <unittitle>McClure's Magazine TO McGran Tire &amp; Rubber
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">227</container>
+                        <unittitle>McGregor &amp; McIntyre Ltd. TO W.D. McRae Lumber
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">228</container>
+                        <unittitle>McRare Oil &amp; Gas Co. TO Menraden Oil &amp; Guano
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">229</container>
+                        <unittitle>Menomnee &amp; Marinette Light &amp; Traction Co. TO
+                            Merchants &amp; Manufactures Terminal Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">230</container>
+                        <unittitle>Merchant's Metropolitan National Bank TO Merritt's Red Jacket
+                            Distillery &amp; Free Warehouse</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">231</container>
+                        <unittitle>Merritt-Chapman &amp; Scott Corp TO Metropolitan Life
+                            Insurance Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">232</container>
+                        <unittitle>Metropolitan Life Insurance Co. TO Mexican Coal &amp; Coke
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">233</container>
+                        <unittitle>Mexican Eagle Oil Co., Ltd. TO H.H. Meyer Packing Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">234</container>
+                        <unittitle>Mexican Coffee Plantation Co. TO Michigan Steele
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">235</container>
+                        <unittitle>Michigan Steele Tube Products Co. TO Middle West
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">236</container>
+                        <unittitle>Middle West Gas &amp; Electric Co. TO Milbury National
+                            Bank</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">237</container>
+                        <unittitle>Midland United Co. TO Miller Hotel Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">238</container>
+                        <unittitle>G.L. Miller &amp; CO. TO Milwaukee &amp; Northern
+                            Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">239</container>
+                        <unittitle>Milwaukee Refrigerator Transit &amp; Car Co. TO Minneapolis
+                            Elk Building Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">240</container>
+                        <unittitle>MI-Medicine Co. Minneapolis Threshing Machine Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">241</container>
+                        <unittitle>Minneapolis Western Railway Co TO Mirro Aluminum Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">242</container>
+                        <unittitle>Mirror Films, Inc. TO Mississippi River, Hamburg &amp;
+                            Western Railway CO.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">243</container>
+                        <unittitle>Mississippi River Power Co. Missouri, Kansas Texas Railway
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">244</container>
+                        <unittitle>Missouri, Kansas Texas Railway Co. TO Missouri Power &amp;
+                            Light Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">245</container>
+                        <unittitle>Missouri Public Service Co. TO Mohawk Hydro-Electric
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">246</container>
+                        <unittitle>Mohawk Investment Corp. TO Monangahela Railway Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">247</container>
+                        <unittitle>Monongahela River R.R. CO. TO Montana Power Transmission
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">248</container>
+                        <unittitle>Montana Power Co. TO Montreal Locomotive Works, Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">249</container>
+                        <unittitle>Montreal Metropolitan Commission TO Morris &amp;
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">250</container>
+                        <unittitle>Morriss &amp; Essex Railroad TO Mortgage Guarantee
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">251</container>
+                        <unittitle>Mortgage Co. of Maryland, Inc. TO Motor Stocter Corp.
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">252</container>
+                        <unittitle>Motor Transit Co. TO Mountain Lake Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">253</container>
+                        <unittitle>Mountain Lion Mining Co., Ltd. TO Munsey Water Supply
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">254</container>
+                        <unittitle>Municipal Bank of the State of Hessen TO Muscogee Mfg.
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">255</container>
+                        <unittitle>Muscoy Development Co. TO NSU Motorenwerke Atkiengesellschaft
+                            Neckarsulm</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">256</container>
+                        <unittitle>N. V. Hondelsvereeniging Amsterdam TO Nassau Land
+                            Bank</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">257</container>
+                        <unittitle>Nassau Land &amp; Improvement Bank TO National Bank of
+                            Egypt</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">258</container>
+                        <unittitle>National Bank of Fairfield TO National Casket Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">259</container>
+                        <unittitle>National Castings Co. TO National Developemeny Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">260</container>
+                        <unittitle>National Dictograph Co. TO National Gypsum Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">261</container>
+                        <unittitle>National Hamilton Bank TO National New Haven Bank</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">262</container>
+                        <unittitle>National Newark Banking Co. TO National Steele Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">263</container>
+                        <unittitle>National State Bank of Newark, N.J. TO National Stores Investment
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">264</container>
+                        <unittitle>Navarro Oil Company TO Nevada Central Railway</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">265</container>
+                        <unittitle>Nevada Central Railway Co. TO New England Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">266</container>
+                        <unittitle>New England Co. Power System TO New England Southern
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">267</container>
+                        <unittitle>New England Southern Mills TO New Jersey Electric Protection
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">268</container>
+                        <unittitle>New Jersey Fidelity &amp; Loan Co. TO New Orleans National
+                            Bank</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">269</container>
+                        <unittitle>New Orleans Railway &amp; Light Co. TO New York Business
+                            Building Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">270</container>
+                        <unittitle>New York Butcher's Calf Skin Association TO New York Central
+                            &amp; Hudson River Railroad</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">271</container>
+                        <unittitle>New York Central Railroad TO New York Harbor Dry Dock
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">272</container>
+                        <unittitle>New York, Honsatic &amp; Northern R.R. Co. TO New York, New
+                            Haven &amp; Hartford Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">273</container>
+                        <unittitle>New York Northern Grain Co. TO New York Sewing Machine
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">274</container>
+                        <unittitle>New York Shipbuilding Corp. TO New York, Susquehanna &amp;
+                            Western Railroad</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">275</container>
+                        <unittitle>New York, Susquehanna Coal Co. TO New York White Cross Milk
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">276</container>
+                        <unittitle>New York, Westchester &amp; Boston Railway Co. TO Newport
+                            Industries, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">277</container>
+                        <unittitle>Newport Land Trust Co. TO Niagara Land &amp; Fruit
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">278</container>
+                        <unittitle>Niagra Laundry &amp; Mtf. Co. TO Nipissing Mines
+                            Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">279</container>
+                        <unittitle>Nippon Beet Sugar Manufacturing Co. TO Norfolk &amp; Southern
+                            Railroad Co</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">280</container>
+                        <unittitle>Norfolk &amp; Southern Lighting To North American
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">281</container>
+                        <unittitle>North American Co. TO North American Light &amp; Power
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">282</container>
+                        <unittitle>North American Loan &amp; Trust Co. TO North Standard Mining
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">283</container>
+                        <unittitle>North Star Construction Co. TO Northern Indiana Power
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">284</container>
+                        <unittitle>Northern Indiana Public Service Co. - Prospectus TO Northern
+                            Pacific Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">285</container>
+                        <unittitle>Northern Pacific &amp; Montana Railroad Co. TO Northern State
+                            Power Co. TO Northern States Life Insurance Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">286</container>
+                        <unittitle>Northern State Power Co. TO Northwestern Bell Telephone
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">287</container>
+                        <unittitle>Northwestern Fire &amp; Marine Insurance Co. TO Norwalk Iron
+                            Works Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">288</container>
+                        <unittitle>Norwalk Lock Co. To Oceanic Steam Navigation Co.,
+                            Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">289</container>
+                        <unittitle>Ocilla Southern Railroad TO Ohio Power Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">290</container>
+                        <unittitle>Ohio Public Service Co TO Oklahoma General Power Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">291</container>
+                        <unittitle>Oklahoma Iron Works International Supply Co. TO Omaha, Dodge
+                            City, and Southern Railway Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">292</container>
+                        <unittitle>Omaha Horse Railway Co. TO Osage Railway Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">293</container>
+                        <unittitle>Osage Valley &amp; Southern Kansas Railroad Co. TO Ozark
+                            &amp; Cherokee Central Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">294</container>
+                        <unittitle>Ozark Corp. TO Pacific Lumber</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">295</container>
+                        <unittitle>Pacific Lighting TO Palomar Mortgage Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">296</container>
+                        <unittitle>Pamour Porcupine Mines, Ltd. TO Parbec Mines, Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">297</container>
+                        <unittitle>Pargas, Inc. TO Pecos Valley Power &amp; Light
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">298</container>
+                        <unittitle>Phelps Dodge Corp. TO Penn-Ohio Edison Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">299</container>
+                        <unittitle>Penn-Ohio Oil Corp. TO Penn-Ohio Power &amp; Light
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">300</container>
+                        <unittitle>Penn Power Co. TO Penn Steele</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">301</container>
+                        <unittitle>Penn Steam Ship CO. TO Peoples Passenger RW CO.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">302</container>
+                        <unittitle>Peoples Pertoleum Co. TO Pare Marquette R.R. Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">303</container>
+                        <unittitle>Pare Marquette R.R. Co. TO Philadelphia &amp; Western Railway
+                            CO.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">304</container>
+                        <unittitle>Philadelphia, Baltimore &amp; Washington Railroad Co. TO
+                            Philadelphia, Reading &amp; New England Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">305</container>
+                        <unittitle>Philadelphia Savings Fund Society TO Phoenix Gold Mining
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">306</container>
+                        <unittitle>Phoenix Gummiwerke A.G. TO Piggly Wiggly Pacific Co.,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">307</container>
+                        <unittitle>Piggly Wiggly Stores, Inc. TO Pittsburgh, Binghamton &amp;
+                            Eastern Railroad Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">308</container>
+                        <unittitle>Pittsburgh Board of Trade Land Co. TO Pittsburgh Railways
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">309</container>
+                        <unittitle>Pittsburgh Real Estate Co. TO Platte Uranium, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">310</container>
+                        <unittitle>Platte Wyoming Oil Co. of Guernsey, Wyoming TO Popular Creek Coal
+                            &amp; Iron Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">311</container>
+                        <unittitle>Porcupine Canadian Goald Mines, Ltd. TO Portland Electric
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">312</container>
+                        <unittitle>Portland Electric Power Co. TO Postal Telegraph &amp; Cable
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">313</container>
+                        <unittitle>Postal Telegraph &amp; Cable Corp TO Power Corporation of
+                            Canada, Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">314</container>
+                        <unittitle>Power Corporation of New York TO Preway Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">315</container>
+                        <unittitle>Price (Ed.V.) &amp; Co. TO Progressive Laundry &amp;
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">316</container>
+                        <unittitle>Progress Manufacturing Co. Ltd. TO Prudencia Rebell Cigarette
+                            Machine Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">317</container>
+                        <unittitle>Prudence Securities Corp. TO Public Service Corp. of New
+                            Jersey</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">318</container>
+                        <unittitle>Public Service Corp. of New Jersey TO Public Service Electric
+                            &amp; Gas Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">319</container>
+                        <unittitle>Public Service Electric &amp; Gas Co. TO Puget Sound Bridge
+                            and Dredging Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">320</container>
+                        <unittitle>Puget Sound Construction Co. TO Pyramid Life Insurance
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">321</container>
+                        <unittitle>Pyramid Mining Co. TO Quincy Station Post Office</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">322</container>
+                        <unittitle>Quinebaug Co. TO Rainbow Oil &amp; Gas Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">323</container>
+                        <unittitle>Rainey (Paul J.) Pier Co. TO Raybestos Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">324</container>
+                        <unittitle>Raybestos-Manhattan, Inc. TO Red Creek &amp; Far Haven Tel.
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">325</container>
+                        <unittitle>Red Crossgold Mining &amp; Milling Co. TO Reliance Insurance
+                            Co. of Philadelphia</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">326</container>
+                        <unittitle>Reliance International Corp. TO Republic Railway &amp; Light
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">327</container>
+                        <unittitle>Republic National Bank of New York TO Rez-Tile Industries,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">328</container>
+                        <unittitle>Rezlon Chemical Products Limited TO Richardson &amp; Boynton
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">329</container>
+                        <unittitle>Richardson (George O.) Machinery Co. TO Ries Biologicals,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">330</container>
+                        <unittitle>Rike-Kumler Co. TO Riverside Trust Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">331</container>
+                        <unittitle>Riverside Tunnel &amp; Mining Co. TO Rock Island-Frisco
+                            Terminal Railway Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">332</container>
+                        <unittitle>Rock Island Improvement Co. TO Romer Manufacturing
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">333</container>
+                        <unittitle>Ronalds-Federated Limited TO Ruland and Whiting Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">334</container>
+                        <unittitle>Rulane Gas Company TO Sackett &amp; Wilhelms
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">335</container>
+                        <unittitle>Saco-Lowell Shops TO Saint Joseph Crude Oil &amp; Gas
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">336</container>
+                        <unittitle>Saint Joseph Bridge TO St. Louis &amp; Southeastern Railway
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">337</container>
+                        <unittitle>St. Louis &amp; Springfield Railway Company TO St Louis-San
+                            Francisco Railway Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">338</container>
+                        <unittitle>St. Louis-San Francisco Railway Company TO St. Paul Commercial
+                            Building Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">339</container>
+                        <unittitle>St. Paul Construction Company TO San Antonio Machine &amp;
+                            Supply Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">340</container>
+                        <unittitle>San Antonio Public Service Company TO Sanders Associates,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">341</container>
+                        <unittitle>Sanford Light &amp; Fuel Co. TO Savings and Loan Bank of the
+                            State of New York</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">342</container>
+                        <unittitle>Savings &amp; Loan Co. TO Schulco Co., Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">343</container>
+                        <unittitle>Schulte (D.A.), Inc. TO Scudder Stevens &amp; Clark Common
+                            Stock Fund, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">344</container>
+                        <unittitle>Scudder Stevens &amp; Clark Common Stock Fund, Inc. TO
+                            Seaboard Petroleum Co,</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">345</container>
+                        <unittitle>Seaboard Oil Co. of Texas TO Second National Bank of
+                            Allegheny</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">346</container>
+                        <unittitle>Second National Bank (Atlantic City) TO Selfridge and Co.,
+                            Ltd.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">347</container>
+                        <unittitle>Selfridge Provincial Stores, Ltd. TO Shamrock Mining
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">348</container>
+                        <unittitle>Shamrock Oil &amp; Gas Corp. TO Sheffield
+                            Farms-Slawson-Decker Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">349</container>
+                        <unittitle>Sheffield Land &amp; Improvement TO Shetucket Co., Norwich,
+                            Conn.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">350</container>
+                        <unittitle>Shevlin-Clarke Co., Ltd. TO Silent Writing Machine
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">351</container>
+                        <unittitle>Silesia Electric Corp. TO Sinclair Consolidated Oil
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">352</container>
+                        <unittitle>Sinclair Crude Oil Purchasing Co. TO Smith (W.F.) Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">353</container>
+                        <unittitle>Smith (A.O.) Mfg. Co. TO Societe Norvegienne de L'azote et du
+                            Foreces Hydro-Electrique</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">354</container>
+                        <unittitle>Societe Pipe-Line Sud-European TO South American Improvement
+                            CO.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">355</container>
+                        <unittitle>South American Mines CO. TO South Scituate Savings
+                            Bank</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">356</container>
+                        <unittitle>South Shore Club Apts. TO Southern Central Railroad
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">357</container>
+                        <unittitle>Southern Cities Power Co. TO Southern Indiana Gas &amp;
+                            Electric Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">358</container>
+                        <unittitle>Southern Indiana Railway Co. TO Southern Pacific
+                            Lines</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">359</container>
+                        <unittitle>Southern Pacific RR Co. TO Southern Securities Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">360</container>
+                        <unittitle>Southern Sierra Power Co TO Speculative Mineral Shares
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">361</container>
+                        <unittitle>Speed Building To Spang, Chalfant &amp; Co., Inc</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">362</container>
+                        <unittitle>Spanish American Fruit Co, Inc TO Springfield-Monarch Insurance
+                            Companies</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">363</container>
+                        <unittitle>Springfield Motors Co. TO Standatd Electric Co. Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">364</container>
+                        <unittitle>Standard Electric Co. of California TO Standard Oil Co.
+                            (KY)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">365</container>
+                        <unittitle>Standard Oil Company (Kansasa) TO Stanislaus Farms
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">366</container>
+                        <unittitle>Stanislaus Power Development Co. TO Stein (A.) &amp; Co.
+                            (ILL)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">367</container>
+                        <unittitle>Stein-Bloch Co. TO Stone &amp; Webster Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">368</container>
+                        <unittitle>Stone &amp; Webster (Street Railway Co) TO Suffern Gas
+                            CO.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">369</container>
+                        <unittitle>Suffolk &amp; Carolina Railway Co TO Sunroy Oil
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">370</container>
+                        <unittitle>Sunroy Oil Corp. TO Sweets Company of America</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">371</container>
+                        <unittitle>Sweets Steele Company TO Tayloe Pearson &amp; Carson Ltd.
+                            (Canada)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">372</container>
+                        <unittitle>Taylor Wharton Iron &amp; Steele Co. TO Tennessee Public
+                            Service Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">373</container>
+                        <unittitle>Tennessee Railway Light &amp; Power Co. TO Tennessee Natural
+                            Gas Lines</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">374</container>
+                        <unittitle>Texas Eastern Production Co. TO Textron Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">375</container>
+                        <unittitle>Textured Fibers Inc. TO Thirteen Hundred and Two Pacific
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">376</container>
+                        <unittitle>Thriteenth &amp; Chancellor Streets TO Timkin Roller Bearing
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">377</container>
+                        <unittitle>Timm Aircraft Corp. TO Tonopah &amp; Goldfield RR
+                            Company</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">378</container>
+                        <unittitle>Tonopah Belmont Development Co. TO Trans Mountain Oil Pipe Line
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">379</container>
+                        <unittitle>Trans Mountain Pipe Line Co., Ltd. TO Tri-Utilities
+                            Corp[.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">380</container>
+                        <unittitle>Triad Oil Co. TO Tuition Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">381</container>
+                        <unittitle>Tularosa Copper Co. TO Underwriter's Securities Corp. TO Union
+                            Lumbering Co</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">382</container>
+                        <unittitle>Underwriter's Securities Corp. TO Union Lumbering Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">383</container>
+                        <unittitle>Union Metal Manuracturing Co. TO Union Street Railway
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">384</container>
+                        <unittitle>Union Sugar Co. TO United-Carr Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">385</container>
+                        <unittitle>United Central Oil Corp. TO United Electric Service
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">386</container>
+                        <unittitle>United Electric Traction Co. TO United Gas &amp; Oil
+                            Development Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">387</container>
+                        <unittitle>United Gas Improvement Co. TO United Overseas Bank</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">388</container>
+                        <unittitle>United Owners Realty CO. TO United Service Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">389</container>
+                        <unittitle>United Security Life Ins. &amp; Trust Co. TO United States
+                            Kings County Bond &amp; Management Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">390</container>
+                        <unittitle>United States Leather Co. TO United States Servateria
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">391</container>
+                        <unittitle>U.S. Shars Corp. TO U.S. Telephone Mfg. Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">392</container>
+                        <unittitle>United States Television Mfg. Corp. TO Universal Pictures Co.,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">393</container>
+                        <unittitle>Universal Pipe &amp; Radiator Co. TO Utility Equities
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">394</container>
+                        <unittitle>Uvava Copper Co. TO Victor Brewing Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">395</container>
+                        <unittitle>Victor Chemical Works TO Virginia Railway Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">396</container>
+                        <unittitle>Virginia's Fruie Exchange TO Waco Hilton Hotel Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">397</container>
+                        <unittitle>Waco Street Ry. TO Wandell Chocolate Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">398</container>
+                        <unittitle>Wandling Glove Co. TO Warren-Burnham Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">399</container>
+                        <unittitle>Warren Commercial Club of Warren, Ohio TO Watkins (J.B.) Land
+                            Mortgage Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">400</container>
+                        <unittitle>Watkins National Bank, Lawrence, Kan. TO Wentworth Manufacturing
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">401</container>
+                        <unittitle>Wentworth Military Scientific &amp; Literary Educational Co.
+                            TO Westchester First National Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">402</container>
+                        <unittitle>Westchester Lighting Co. TO Western Pacific Railroad
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">403</container>
+                        <unittitle>Western Pacific Railroad Co. TO Western Union Telegraph
+                            Co</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">404</container>
+                        <unittitle>Western Union Telegraph Co. (Legal Materials) TO Westinghouse
+                            Electric &amp; Manufacturing Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">405</container>
+                        <unittitle>Westinghouse Electric &amp; Manufacturing Co. TO Wheeling
+                            &amp; Lake Erie Railroad Co</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">406</container>
+                        <unittitle>Wheeling, Lake Erie Railroad Co. TO Whitman &amp; Barnes
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">407</container>
+                        <unittitle>Whitman Building Corp. TO Wilson &amp; Co., Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">408</container>
+                        <unittitle>Wilson &amp; Co., Inc. Wisconsin Central Railway
+                            Co.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">409</container>
+                        <unittitle>Wisconsin Central Railway Co. TO Wisconsin Public Service
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">410</container>
+                        <unittitle>Wisconsin Public Service Corp. TO Wright Aeronautical
+                            Corp.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">411</container>
+                        <unittitle>Wright &amp; Taylor Distilling Corp. TO Zurn Industries,
+                            Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle/>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

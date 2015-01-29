@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079401_ead//EN" mainagencycode="nnc-rb">ldpd_4079401_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Lynn Thorndike Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-03-30">2010-03-30</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Thorndike, Lynn, 1882-1965.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Lynn Thorndike Papers,">Lynn Thorndike Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1902/1963" type="inclusive">1902-1963</unitdate>
+         <physdesc><extent encodinganalog="300">60 linear ft. ( ca. 30,000 items in 124 boxes and 1 Flatbox; some in Mapcase).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079401</unitid>
+         <langmaterial encodinganalog="546">  English and Latin.</langmaterial>
+
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Professor of history at Columbia University. Columbia University A.M., 1903; Ph.D., 1905.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Papers of Thorndike, consisting of correspondence, mansucripts, diaries, notes, photocopies of medieval scientific manuscripts, glass slides, books, pamphlets, and reprints. The correspondence relates to his scholarly research and publication in the field of the history of medieval science. Also, some family and personal correspondence. One half of the collection consists of photostatic copies of manuscripts Thorndike indexed in his major work, A CATALOGUE OF INCIPITS OF MEDIAEVAL SCIENTIFIC WRITINGS IN LATIN (1963), the first draft, final copy, galley proofs, related correspondence, and extensive card files of notes used in compiling the work. There is also a typescript of the 1937 edition. Thorndike's 76 volumes of personal diaries, 1902-1963, detail his daily activities, appointments, trips abroad, and lists of reading. In addition there are his other manuscripts for journal articles and book reviews.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 2 series:</p>
+         <p><list type="marked">
+               <item>Series I: Texts in the History of Natural and Occult Sciences</item>
+               <item>Series II: Books</item>
+            </list>
+         </p>
+      </arrangement>      
+      <controlaccess><head>Subjects</head>
+         <subject encodinganalog="650">Science--History.</subject>
+         <subject encodinganalog="650">Science, Medieval--Research.</subject>
+         <subject encodinganalog="650">Manuscripts, Latin.</subject>
+         <subject encodinganalog="650">Scholarly publishing.</subject>
+         <genreform encodinganalog="655" source="ftamc">Diaries.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Slides.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Historians.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located off-site. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1963 M-63 Thorndike, Lynn Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Lynn Thorndike Papers, Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 09/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Texts in the History of Natural and Occult Sciences</unittitle>
+                </did>
+                <scopecontent><p>The numbers below refer to descriptions published in <title render="italic">Medievallia Humanistica</title>.  Volume 13, 1960 and <title render="italic">Progress of Medieval and Renaissance Studies in the United States and Canada</title>.  Bulletin No. 20, 1949.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>No. 1 - No. 7</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>No. 8 - No. 17</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>No. 18; 19; 22; 24 - 25</unittitle>
+                    </did>
+                    <scopecontent><p>[For 20, 21, 23 see Mapcase]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>No. 27, 29 - 38</unittitle>
+                    </did>
+                    <scopecontent><p>[28 not received; for 39 see Mapcase]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>No. 40 - 49</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>No. 50 - 54</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>No. 55 - 60; 63 - 69</unittitle>
+                    </did>
+                    <scopecontent><p>[61 &amp; 62 not received]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>No. 71 - 75</unittitle>
+                    </did>
+                    <scopecontent><p>[70 not received]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>No. 76 - 89</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>No. 90 - 98</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>No. 100 - 102; 104 - 109; 111 - 119 </unittitle>
+                    </did>
+                    <scopecontent><p>[For 103 &amp; 110 see Mapcase]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>No. 120 - 125; 127 - 142 </unittitle>
+                    </did>
+                    <scopecontent><p>[126 not received]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>No. 143 - 155</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>No. 156 - 166; 167 - 175</unittitle>
+                    </did>
+                    <scopecontent><p>[126 not received]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>No. 176 - 190</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>No. 191; 192; 194 - 204; 206 - 210; 212</unittitle>
+                    </did>
+                    <scopecontent><p>[211 not  received; for 193; 205; 210 see Mapcase]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>No. 213 - 218; 220 - 226; 228 - 231; 234 - 244 </unittitle>
+                    </did>
+                    <scopecontent><p>[219 missing, see micrifilm; 232, 233 see Mapcase]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>No. 245; 246; 248 - 252; 254 - 262; 264 268; 270 - 272; 274; 279 - 283; 291; 293 - 295; 297 - 298 </unittitle>
+                    </did>
+                    <scopecontent><p>[253; 269; 275 - 277; 288 are missing see microfilm; 247; 263; 273; 278; 284 - 288; 290; 292; 296; 299 see Mapcase]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>No. 300 - 310; 312</unittitle>
+                    </did>
+                    <scopecontent><p>[311 missing see microfilm]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>No. 313 - 322; 324; 326 - 328; 330; 331; 333 - 340; 346 - 349</unittitle>
+                    </did>
+                    <scopecontent><p>[323; 325; 329; 332; 341 - 345 are missing see microfilm]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>No. 350; 352 - 358; 360 - 369</unittitle>
+                    </did>
+                    <scopecontent><p>[351 missing see microfilm; 359 see Mapcase]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>No. 370 - 380; 383; 385 - 388; 390 - 392; 396 - 408</unittitle>
+                    </did>
+                    <scopecontent><p>[381; 382; 384; 389; 395 are missing see microfilm; 393 see Mapcase]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. First Draft [1],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. First Draft [2],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. First Draft [3],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. First Draft [4],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. Final Copy [1],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. Final Copy [2],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. Final Copy [3] &amp; miscellaneous correspondence,   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. Galley Proof [1],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. Galley Proof [2],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. Index [1],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. Index [2],   <unitdate>1963 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. Typescript [1],   <unitdate>1937 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writings in Latin</title>. Typescript [2],   <unitdate>1937 ed.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Notes fro revised edition of <title render="italic">Magic</title>, etc.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Reprints, etc.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Articles in preparation, etc.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Ancient &amp; medieval history</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Index to 1937</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Revised draft <title render="italic">History of Medieval Europe</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">43-46</container>
+                        <unittitle>Note Cards</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>Miscellaneous notes</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Index of Herbs</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>Index VII &amp; VIII</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Index VII &amp; VIII; miscellaneous</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle>Drafts for Michael Scot</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Incipits &amp; miscellaneous</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Diaries</unittitle>
+                        <physdesc>(76 a.ms.)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle>Card Files : Authors AA-BRA</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Card Files : Authors BREH - COR</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Card Files : Authors COS - GRI</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Card Files : Authors GRO - KO</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle>Card Files : Authors KR - NA</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>Card Files : Authors NE - SALZ</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Card Files : Authors SAM - VINC</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Card Files : Authors WIND - Z</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Notes for the WUS</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Catch proof</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Mss. catalogs</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Indices of Mss. articles</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Card Files: Notes on Mss., A - Florence</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>Card Files: Notes on Mss., Geneva - Montreal</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Card Files: Notes on Mss., Padua - Peruga</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle>Card Files: Notes on Mss., Philadelphia - A</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle>Card Files: Bibliography 17th Century</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle>Indices British Medic</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle>Mss. article</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle>Incipits, 1957</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">66</container>
+                        <unittitle>1960 Biz. Notes</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">67</container>
+                        <unittitle>Card Files: Photostats</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">68</container>
+                        <unittitle>Card Files: Notes on "Romance of the Rose" and Juvenal</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">68</container>
+                        <unittitle>Card Files: Notes on "Romance of the Rose" and Juvenal</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>Card Files: Notes on authors, A - G</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">70</container>
+                        <unittitle>Card Files: Notes on authors, H - Z</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">71</container>
+                        <unittitle>Card Files: Dates  - 1660</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">72</container>
+                        <unittitle>Card Files: Dates  1660 -</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">73</container>
+                        <unittitle>Card Files: Notes, A - Barth</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">74</container>
+                        <unittitle>Card Files: Notes, Barto - Comets</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">75</container>
+                        <unittitle>Card Files: Notes, Comp - Gan</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">75</container>
+                        <unittitle>Card Files: Notes, Comp - Gan</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>Card Files: Notes, Gar - I</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>Card Files: Notes, J - Mar</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>Card Files: Notes, Mas - Plab</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">79</container>
+                        <unittitle>Card Files: Notes, Pling - St.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Card Files: Notes, Sur - Z</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>Card Files: Subjects, A - Cli</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>Card Files: Subjects, Clo - Lau</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>Card Files: Subjects, Pe - Z</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">84</container>
+                        <unittitle>Card Files: Subjects, Law - Pa</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">85</container>
+                        <unittitle>Card Files: MSS - Authors/Titles, A &amp; B</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">86</container>
+                        <unittitle>Card Files: MSS - Authors/Titles, C - John G.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">87</container>
+                        <unittitle>Card Files: MSS - Authors/Titles, Joh - Ra</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">88</container>
+                        <unittitle>Card Files: MSS - Authors/Titles, Re - Z</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">89</container>
+                        <unittitle>Card Files: 17th Cent., A - Fab.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>Card Files: 17th Cent., Fac - Me</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">91</container>
+                        <unittitle>Card Files: 17th Cent., Mi - Z</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">92</container>
+                        <unittitle>Card Files: Incipits, A - Ha</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">93</container>
+                        <unittitle>Card Files: Incipits, He - Quia</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">94</container>
+                        <unittitle>Card Files: Incipits, Quib - Z</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">95</container>
+                        <unittitle>Card Files: Ancient</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">96</container>
+                        <unittitle>Card Files: Roman</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">97</container>
+                        <unittitle>Card Files: Medieval</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">98</container>
+                        <unittitle>Mailing List</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">98</container>
+                        <unittitle>16th century</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">98</container>
+                        <unittitle>Later books on 17th century</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">99</container>
+                        <unittitle>Card Files: Miscellaneous</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">100</container>
+                        <unittitle>Card Files: Miscellaneous Typescripts</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">101</container>
+                        <unittitle>Correspondence, 1902 - 1907</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">101</container>
+                        <unittitle>Correspondence, 1903 - 1923</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">101</container>
+                        <unittitle>Correspondence, 1917 - 1925</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">102</container>
+                        <unittitle>Correspondence, 1933 - 1939</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">102</container>
+                        <unittitle>Correspondence, 1939 - 1943</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">102</container>
+                        <unittitle>Correspondence, 1944 - 1947</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">103</container>
+                        <unittitle>Correspondence, 1948 - 1951</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">103</container>
+                        <unittitle>Correspondence, 1951 - 1955</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">103</container>
+                        <unittitle>Correspondence, 1955 - 1958</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">104</container>
+                        <unittitle>Correspondence, 1950 - 1960</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">104</container>
+                        <unittitle>Correspondence, 1960 - 1962</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">104</container>
+                        <unittitle>Christmas Cards, 1961</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">105</container>
+                        <unittitle>1924 - 1932</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">105</container>
+                        <unittitle>June 16, 1963 - chiefly taxes and photographs</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">105</container>
+                        <unittitle>Materials before 1500 still in use, notes, lists, indices, etc.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">105</container>
+                        <unittitle>Some in 1500 - 1800</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">106</container>
+                        <unittitle>1951/1952 Bibliography 17th century notes written up</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">106</container>
+                        <unittitle>Stetton &amp; Silvestre offprints</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">106</container>
+                        <unittitle>Early offprints</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">107</container>
+                        <unittitle>Mike Scot</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">107</container>
+                        <unittitle>American Council of Learned Societies MA Academy</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">107</container>
+                        <unittitle>Short History of Civilization</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">108</container>
+                        <unittitle>Articles in process or published</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">108</container>
+                        <unittitle>Neugebauer/Zinner</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">108</container>
+                        <unittitle>Notes on 17th century authors</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">109</container>
+                        <unittitle>Reviews of magic &amp; experimental science</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">109</container>
+                        <unittitle>Book reviews</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">109</container>
+                        <unittitle>16th century (8 x 10 notes), etc. mostly combined in IV-VI</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">110</container>
+                        <unittitle>Magic IX Medicine</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">110</container>
+                        <unittitle>MacMillan Co. correspondence</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">110</container>
+                        <unittitle><title render="italic">Historical Outlook</title> articles</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>Miscellaneous 1950s/1960s</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>Secondary schools (History, Latin, English)/University administration</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">112</container>
+                        <unittitle>Reprints</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">112</container>
+                        <unittitle>Old notes mainly written up not from mss., arranged alphabetically</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">113</container>
+                        <unittitle>Correspondence re. Vols I &amp; II of <title render="italic">Magic &amp; Experimental Science</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">113</container>
+                        <unittitle>General articles on MA &amp; Early Modern Times: Essays in the History of Science</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">113</container>
+                        <unittitle>Alchemy</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">114</container>
+                        <unittitle>Lectures, 2nd half</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">114</container>
+                        <unittitle>Historiography 16th-18th centuries</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">114</container>
+                        <unittitle>France mms. catalogs by cities</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">114</container>
+                        <unittitle>Notes on mss. (no matters after 1500 now in this file)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">115</container>
+                        <unittitle>Hist. 231</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">115</container>
+                        <unittitle>Letters current to 1961</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">115</container>
+                        <unittitle>Article in preparation</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">116</container>
+                        <unittitle>Houghton Mifflin re. <title render="italic">History of Magic</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">116</container>
+                        <unittitle>Rufinus Rotograph notes, etc.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">117</container>
+                        <unittitle>Hist. 223 (suppl. or dup. material)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">117</container>
+                        <unittitle>Family letters</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">117</container>
+                        <unittitle>Notes on 236</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">118</container>
+                        <unittitle>Books published with C.U. Press</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">118</container>
+                        <unittitle>1964 Typed 568-1247</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">118</container>
+                        <unittitle>Proofs VII - VIII</unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series II: Books</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">119</container>
+                        <unittitle><title render="italic">History of Magic &amp; Experimental Science</title>, III - VI</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">119</container>
+                        <unittitle><title render="italic">Science and Thought in the 15th Century</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">119</container>
+                        <unittitle><title render="italic">The Sphere of Sacrobosco and its Commentators</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">119</container>
+                        <unittitle><title render="italic">History of Astrology, Astronomy, and Mathematics</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle><title render="italic">Studies in Medieval Latin Mss.</title> 4 volumes</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle><title render="italic">Essays in Intellectual History</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle><title render="italic">Papers in Early Modern History</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle><title render="italic">Article on the History of Medicine, 1953-1959</title>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle><title render="italic">Reprints Through 1937</title> 3 volumes</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle><title render="italic">Reprints Through 1937</title> 3 volumes</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">Offprints IV - VII</title> 4 volumes</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">Papers on the History of Medicine, 1940</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">Medieval Intellectual History</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">Manuscripts and Research</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">Renaissance</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">Miscellaneous Early Modern</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">History and Geography</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">Medieval History and Political Thought</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">History of Medicine</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle><title render="italic">History of Alchemy</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle><title render="italic">History of Astronomy and Mathematics</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle><title render="italic">Aristotle - Alchemy</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle><title render="italic">History of Science</title> by George Sarton </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle><title render="italic">History of Magic and Experimental Science</title> Volume II </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle><title render="italic">History of Magic and Experimental Science</title> Volume I</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle><title render="italic">History of Magic and Experimental Science</title> Volume II</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle><title render="italic">History of Magic and Experimental Science</title> Volume I1</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle><title render="italic">History of Magic and Experimental Science</title> Volume III</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writing in Latin</title> 
+                  </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle><title render="italic">Incipits of Medieval Scientific Writing in Latin</title>  Notebook Mss.</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>General notebook [Mss.]</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>Economics notebook [Mss.]</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>Glass Plate Negatives [3 boxes]</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">123</container>
+                        <unittitle>Verreichnis  . . .  by E. Zinner, 1925</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">570</container>
+                        <unittitle>Wesleyan University Scrapbook</unittitle>
+                    </did>
+                </c>
+            </c>
+
+
+      </dsc>
+   </archdesc>
+</ead>

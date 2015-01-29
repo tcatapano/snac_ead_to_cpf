@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://appdev.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078972_ead//EN" mainagencycode="nnc-rb">ldpd_4078972_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Barrell family papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2011-02-10">February 10, 2011 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2011-02-10">February 10, 2011 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2011-02-10">2011-02-10</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Barrell Family.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Barrell family papers,">Barrell Family
+            Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1791/1846" type="inclusive">1751-1929</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1791-1889].</unitdate>
+         <physdesc><extent encodinganalog="300">1.25 linear ft. (3 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY.10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0082</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078972</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is in English. </language>
+         </langmaterial>
+         <abstract>The collection consists primarily of personal correspondence between members of
+            the Barrell family in London, the United States, Barbados, and Demerara which was then a
+            part of British Guiana. The collection also contains several family chronicles, a diary
+            and cashbook belonging to Theodore Barrell, autograph albums belonging to Walter
+            Newberry Barrell and Theodora Barrell, and photographs and silhouettes.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Historical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->The Barrell Family were noted merchants and businessmen in
+            London and in colonial Demerara, now part of Guyana. </p>
+         <p><!-- BIOGHIST REQUIRED -->Theodore Barrell, the son of Walter Newberry Barrell, a
+            London-based businessman, was both in Boston in 1771. He spent most of his career
+            working as a merchant in the Americas, including in Barbados where he met his wife
+            Elizabeth Beckles Barrell (born November 18, 1783) and in Demerara. </p>
+         <p><!-- BIOGHIST REQUIRED -->Theodore Barrell died in Saugerties, New York in 1846.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The collection consists primarily of letters to Theodore Barrell from members of the
+            Barrell family in London, the United States, Barbados. The collection also contains
+            geneological chronicles, a diary and cashbook belonging to Theodore Barrell, autograph
+            albums belonging to Walter Barrell and Theodora Barrell, an exercise book belonging to
+            John Stayner Barrell, and silhouettes and photographs of the Barrell family and of their
+            property.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in five series:<list type="marked">
+                    <item>Series I.
+                  Correspondence, 1751-1853</item>
+                    <item>Series II: Autograph Albums, Diaries, and
+                  Exercise Book, 1814-1874</item>
+                    <item>Series III: Visual Materials, undated,
+                  1864-1889</item>
+                    <item>Series IV: Genealogical Material and Family Documents,
+                  1804-1929</item>
+                    <item>Series V: Books Owned by the Family</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Barrell, Walter.</persname>
+         <persname encodinganalog="600">Barrell, Theodore.</persname>
+         <geogname encodinganalog="651">London (England)--Description and travel.</geogname>
+         <geogname encodinganalog="651">Barbados--Description and travel.</geogname>
+         <geogname encodinganalog="651">Guyana--Commerce.</geogname>
+         <geogname encodinganalog="651">Guyana--Description and travel.</geogname>
+         <subject encodinganalog="650">Families--Barbados.</subject>
+         <subject encodinganalog="650">Families--Guyana.</subject>
+         <subject encodinganalog="650">Merchants.</subject>
+         <genreform encodinganalog="655" source="ftamc">Diaries.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Autographs.</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located on-site. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>M59 gift Walter E. Benjamin</p>
+      </acqinfo>
+      <altformavail encodinganalog="530">
+         <head>Alternate Formats</head>
+         <p>Manuscripts and photographs are on microfilm.</p>
+      </altformavail>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Barrell Family Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 03/31/89 Christina Hilton Fenn </p>
+         <p>Papers Re-processed 2010 Jenny Mathias, MSLIS Pratt Institute 2011 </p>
+         <p>Finding aid written 2010 Jenny Mathias, MSLIS Pratt Institute 2011</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence, <unitdate type="inclusive">1751-1853</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series is composed of primarily letters from various members of the Barrell
+                  family to Theodore Barrell, There are also a few letters to other members of the
+                  Barrell family, however the bulk of the correspondence is addressed to Theodore.
+                  The largest single group comprises the letters of Walter Barrell in London to his
+                  son, Theodore who was then a merchant in Demarara. These letters mention such
+                  family affairs as births, deaths and marriages, business matters including
+                  payments received and payments due, and advice from father to son on interpersonal
+                  matters often including remarks on religion and faith. Some correspondence makes
+                  passing mention of the change of rule in Demarara from British to Dutch and then
+                  back to British rule again from 1802-1803 and the beginning of the Napoleonic Wars
+                  in Europe. The majority of the correspondence from other members of the family
+                  deals with major family events, health of family members and friends of the family
+                  and trade matters.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>A-B, <unitdate type="inclusive">1751-1841</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Barrell, Abigail, <unitdate type="inclusive">1794-1846</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Barrell, Theodore, <unitdate type="inclusive">1836-1845</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Barrell, Walter to Theodore Barrell, <unitdate type="inclusive">1781-1804</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Barrell, William to Theodore Barrel, <unitdate type="inclusive">1795-1803</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>C-Z, <unitdate type="inclusive">1794-1853</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Massa, Theodora, <unitdate type="inclusive">1837-1844</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Autograph Albums, Diaries, and Exercise Book, <unitdate type="inclusive">1814-1881</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains autograph books belonging to Theodore Barrell’s children, Walter Newberry Barrell and Theodora Barrell, a diary and cashbook belonging to Theodore Barrell from 1841    and an exercise book belonging to John Stayner Barrell dated 1814-1816. </p>
+               <p>Theodore Barrell’s diary and cashbook of 1841 details his observations on subjects ranging from weather conditions to comparisions of different branches of the Christian faith.  The diary and cashbook also lists cash receipts and expenditures and marks important historical dates and Barrell family events.</p>
+               <p>John Stayner Barrell’s exercise book is mainly composed of his study of the French language including vocabulary, verb conjugations and extensive translations from English to French.  The book also contains brief entries on such subjects as social customs in letter writing, shorthand notation, arithmetic and religion.   The exercise book also contains lovingly illustrated family trees for the Barrell family and the Stayner family.  </p>
+               <p>This series also contains a diary compiled by Charles Barrell, Elizabeth Barrell, Elizabeth Massa, and Theodora Barrell including historical events as well as daily occurrences.  </p>
+               
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Barrell, Charles-- Diary, <unitdate type="inclusive">1837-1881</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+               <scopecontent><p>(compiled with Elizabeth Barrell, Elizabeth Massa, and Theodora Barrell)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Barrell, John Stayner-- Exercise Book</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Barrell, Theodora-- Autograph and Commonplace Book, <unitdate type="inclusive">1820-1826</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Barrell, Theodore-- Diary and Account Book,
+                     <unitdate>1841</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Barrell, Walter Newberry-- Autograph and Commonplace Book, <unitdate type="inclusive">1823-1827</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Visual Materials, Undated, <unitdate type="inclusive">1864-1889</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains a small number of photographs of members of the Barrell Family and property owned by the family.  There are also two silhouettes.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Photographs, undated, <unitdate type="inclusive">1864-1889</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Silhouettes, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>(one is of Theodora Barrell)</p>
+               </scopecontent>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IV: Geanealogical Material and Family Documents,</unittitle>
+            </did>
+            <scopecontent><p>This series is comprised of notes about the genealogy of the Barrell Family and family and legal documents such as land deeds and wills.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Notes on Barrell Family genealogy,
+                     <unitdate>1929</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Barrell Family Chonology, <unitdate type="inclusive">1579-1849</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Barrell Family Chronology, <unitdate>1878</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>(compiled by Charles Barrell and enclosed in a letter to his cousin)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Conveyance of Property by Theodore Barrell to Ferdinand Massa,
+                        <unitdate>1831</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Notice of Lottery or Sale of Theodore Barrell's Property in Demerara,
+                        <unitdate>1804</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>(printed broadside)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>History of the Gall Estate</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Gall, Elizabeth</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Last Will and Testament, <unitdate>1813</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Copy of a Paper Handed to Miss Gall,
+                        <unitdate>1916</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Barrell, Theodore-- Sketches of the Demerary Incidents 2nd
+                        <unitdate>September 1791</unitdate> to 29th <unitdate>March
+                     1800</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Mscellaneous Items</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series V: Books Owned by the Barrell Family</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><title render="italic">The Bouquet: A Selection of Poems</title> owned
+                     by Elizabeth Barrell</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><title render="italic">De L'education des Enfans</title> owned by
+                     Theodore Barrell</unittitle>
+               </did>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

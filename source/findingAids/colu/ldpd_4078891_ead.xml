@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078891_ead//EN" mainagencycode="nnc-rb">ldpd_4078891_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Abram Stevens Hewitt Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Hewitt, Abram S. (Abram Stevens), 1822-1903.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Abram Stevens Hewitt Papers">Abram Stevens Hewitt Papers,</unittitle>
+         <unitdate encodinganalog="245$f">n.d.</unitdate>
+         <physdesc><extent encodinganalog="300">2 file boxes, 14 v.</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078891</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Hewitt graduated from Columbia in the class of 1842 and became, in turn, an attorney in New York City, a manufacturer of iron and steel, Member of the U.S. House of Representatives, 1875-1879, 1881-1886, and Mayor of New York, 1887-1888.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This a collection of the surviving undergraduate papers, notebooks, and memorabilia of Hewitt, including a group of college themes and exercises, the manuscript of Hewitt's Greek Salutatory Address (4 October 1842), three volumes of lecture notes, eight volumes of translations from Greek authors, and three volumes of lecture notes made by Hewitt's brother-in-law and business partner, Edward Cooper (1824-1905). Also, a group of various commemorative medals.</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University--Students.</corpname>
+         <persname encodinganalog="600">Cooper, Edward, 1804-1905.</persname>
+         <subject encodinganalog="650">Greek language--Study and teaching.</subject>
+         <subject encodinganalog="650">Greek literature--Study and teaching.</subject>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>Colection is shelved off-site and requires advance notice of intent to use.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1936 M-36 Nevins, Allan Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Abram Stevens Hewitt Papers. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 07/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <dsc/>
+   </archdesc>
+</ead>

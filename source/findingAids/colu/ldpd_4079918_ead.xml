@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079918_ead//EN" mainagencycode="nnc-rb">
+            ldpd_4079918_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide  to the Papers of Leonard Altman,</titleproper>
+                <author encodinganalog="Contribu tor">Columbia University Libraries. Rare Book and
+                    Manuscript Library; machine readable finding aid created by Columbia University
+                    Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library Columbia
+                    University Libraries</publisher>
+                <date encodinganalog="Date" normal="2008-12-02">December 2, 2008 </date>
+                <address><addressline>6th Fl. East</addressline>
+                    <addressline>535 West 114th St.</addressline>
+                    <addressline>New York, NY 10027</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT
+                conversion <date normal="2008-12-02">December 2, 2008 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2008-12-02">2008-12-02</date>
+                <item>File created.</item>
+            </change>
+            <change><date normal="2009-01-21">2009/01/21</date>
+                <item>xml document instange created by Patrick Lawlor</item>
+            </change>
+            <change><date normal="2010-01-20">2010-01-21</date>
+                <item>Legacy finding aid created from Pro Cite.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Altman, Leonard, 1920-1996.</persname> 
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="Papers,">Leonard Altman Papers,</unittitle>
+            <unitdate encodinganalog="245$f" normal="1930/1995" type="inclusive">1930-1995</unitdate>
+            <physdesc><extent encodinganalog="300">1 linear ft. (451 items in 2 boxes).</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+                </corpname>
+                <address><addressline>Butler Library, New York, NY 10027</addressline>
+                </address>
+            </repository>
+            <unitid countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0021</unitid>
+            <unitid countrycode="US" repositorycode="nnc-rb" type="clio">4079918</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng">In English</language>
+            </langmaterial>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p><!-- BIOGHIST REQUIRED -->Musician, teacher, writer, and arts administra tor who
+                played an important role in the preservation of Carnegie Hall and was Direc tor of
+                the music division of the New York State Council of the Arts. In the 1950s and
+                1960s, he wrote about music for Stereo Review, The American Record Guide and Musical
+                America, and was the edi tor and publisher of Listen: A Music Monthly from 1963  to
+                1965. In the late 1960s and early 1970s, he produced more than 200 music programs
+                for WNYC-TV, and radio programs for stations in New York, Bos ton, and Los Angeles.
+                He was edi tor of the Leeds Music Corporation, a music publisher, in the early 1960s
+                and direc tor of the Concert Artists Guild from 1969  to 1973. He helped start the
+                Citizens Committee  to Save Carnegie Hall and was a board member for Carnegie Hall
+                until 1974. He also was chairman for the unsuccessful Citizens Committee for the
+                Preservation of the Old Metropolitan Opera House. He was with the New York State
+                Council on the Arts from 1973 until 1979; taught at New York University, the New
+                School, and Queens College; and was with the Berkshire Music Center at Tanglewood in
+                Lenox MA. He moved  to California in 1979 and became a direc tor of the Los Angeles
+                County Music and Performing Arts Commission. From the late 1980s, he was direc tor of
+                the Maestro Foundation which sponsored private concerts in California.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>Correspondence, manuscripts, documents, notes, printed material, and pho tographs of
+                Leonard Altman concerning his work as edi tor of LISTEN and board member of Carnegie
+                Hall as well as his other professional and personal interests.</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged into 2 series:</p>
+            <p><list type="marked">
+                    <item>Series I: Cataloged Correspondence</item>
+                    <item>Series II: Uncataloged Material</item>
+                </list>
+            </p>
+        </arrangement>
+        <controlaccess><head>Subjects</head>
+            <corpname encodinganalog="610">Carnegie Hall (New York, N.Y.).</corpname>
+            <persname encodinganalog="600">Babin, Vic tor, 1908-1972.</persname>
+            <persname encodinganalog="600">Bacon, Ernst, 1898-</persname>
+            <persname encodinganalog="600">Beardslee, Bethany.</persname>
+            <persname encodinganalog="600">Bentley, Eric, 1916-</persname>
+            <persname encodinganalog="600">Biggs, E. Power (Edward Power), 1906-1977.</persname>
+            <persname encodinganalog="600">Bloom, Julius.</persname>
+            <persname encodinganalog="600">Brown, Earle, 1920-</persname>
+            <persname encodinganalog="600">Bruch, Max, 1838-1920.</persname>
+            <persname encodinganalog="600">Carlisle, Kitty, 1915-</persname>
+            <persname encodinganalog="600">Demus, Jörg, 1928-</persname>
+            <persname encodinganalog="600">Duke, Vernon, 1903-1969.</persname>
+            <persname encodinganalog="600">Farberman, Harold, 1929-</persname>
+            <persname encodinganalog="600">Feldman, Mor ton, 1926-</persname>
+            <persname encodinganalog="600">Fortas, Abe.</persname>
+            <persname encodinganalog="600">Foster, Norman.</persname>
+            <persname encodinganalog="600">Fuleihan, Anis, 1900-1970.</persname>
+            <persname encodinganalog="600">Gebhard, Heinrich, 1878-1963.</persname>
+            <persname encodinganalog="600">Hawkins, Erick.</persname>
+            <persname encodinganalog="600">Kassern, Tadeusz, 1904-1957.</persname>
+            <persname encodinganalog="600">La Brecque, Rebecca.</persname>
+            <persname encodinganalog="600">Malraux, Madeleine.</persname>
+            <persname encodinganalog="600">Meyerbeer, Giacomo, 1791-1864.</persname>
+            <persname encodinganalog="600">Meyerowitz, Jan, 1913-</persname>
+            <persname encodinganalog="600">Milhaud, Darius, 1892-1974.</persname>
+            <persname encodinganalog="600">Milhaud, Madeleine.</persname>
+            <persname encodinganalog="600">Nestʹev, I. V. (Izrailʹ Vladimirovich), 1911-</persname>
+            <persname encodinganalog="600">Perry, Julia, 1924-1979.</persname>
+            <persname encodinganalog="600">Previn, André, 1929-</persname>
+            <persname encodinganalog="600">Reich, Steve, 1936-</persname>
+            <persname encodinganalog="600">Rochberg, George.</persname>
+            <persname encodinganalog="600">Rodgers, Dorothy F., 1909-</persname>
+            <persname encodinganalog="600">Rudhyar, Dane, 1895-</persname>
+            <persname encodinganalog="600">Sargeant, Winthrop, 1903-</persname>
+            <persname encodinganalog="600">Schonberg, Harold C.</persname>
+            <persname encodinganalog="600">Schuller, Gunther.</persname>
+            <persname encodinganalog="600">Secrest, Meryle.</persname>
+            <persname encodinganalog="600">Sessions, Roger, 1896-</persname>
+            <persname encodinganalog="600">Shapey, Ralph, 1921-</persname>
+            <persname encodinganalog="600">Sokolow, Anna.</persname>
+            <persname encodinganalog="600">Sowande, Fela, 1905-</persname>
+            <persname encodinganalog="600">Starer, Robert.</persname>
+            <persname encodinganalog="600">Stern, Isaac, 1920-</persname>
+            <persname encodinganalog="600">Stevens, Denis, 1922-</persname>
+            <persname encodinganalog="600">Stevens, Risë, 1913-</persname>
+            <persname encodinganalog="600">Stravinsky, Igor, 1882-1971.</persname>
+            <persname encodinganalog="600">Tcherepnin, Alexander, 1899-1977.</persname>
+            <persname encodinganalog="600">Thorne, Francis.</persname>
+            <persname encodinganalog="600"> tourel, Jennie.</persname>
+            <persname encodinganalog="600">Trampler, Walter.</persname>
+            <persname encodinganalog="600">Twining, Nathan.</persname>
+            <persname encodinganalog="600">Varèse, Edgard, 1883-1965.</persname>
+            <persname encodinganalog="600">Varèse, Louise, 1890-</persname>
+            <persname encodinganalog="600">Votterle, Karl.</persname>
+            <persname encodinganalog="600">Westergaard, Peter.</persname>
+            <persname encodinganalog="600">Wolpe, Hilda Morley.</persname>
+            <subject encodinganalog="650">Music--United States.</subject>
+            <genreform encodinganalog="655" source="aat">Announcements.</genreform>
+            <genreform encodinganalog="655" source="aat">Articles.</genreform>
+            <genreform encodinganalog="655" source="aat">Brochures.</genreform>
+            <genreform encodinganalog="655" source="aat">Certificates.</genreform>
+            <genreform encodinganalog="655" source="aat">Contracts.</genreform>
+            <genreform encodinganalog="655" source="aat">Essays.</genreform>
+            <genreform encodinganalog="655" source="aat">Estimates.</genreform>
+            <genreform encodinganalog="655" source="aat">Financial records.</genreform>
+            <genreform encodinganalog="655" source="aat">Fliers (printed matter).</genreform>
+            <genreform encodinganalog="655" source="aat">Greeting cards.</genreform>
+            <genreform encodinganalog="655" source="aat">Invoices.</genreform>
+            <genreform encodinganalog="655" source="aat">Lists.</genreform>
+            <genreform encodinganalog="655" source="aat">Minutes</genreform>
+            <genreform encodinganalog="655" source="aat">Notes.</genreform>
+            <genreform encodinganalog="655">Poems</genreform>
+            <genreform encodinganalog="655" source="aat">Press releases.</genreform>
+            <genreform encodinganalog="655" source="aat">Programs</genreform>
+            <genreform encodinganalog="655" source="aat">Scores.</genreform>
+            <occupation encodinganalog="656" source="lcsh">Arts administra tors.</occupation>
+            <occupation encodinganalog="656" source="lcsh">Composers (Music).</occupation>
+            <occupation encodinganalog="656" source="lcsh">Music critics.</occupation>
+            <occupation encodinganalog="656" source="lcsh">Musicians.</occupation>
+            <occupation encodinganalog="656" source="aat">Teachers.</occupation>
+            <title encodinganalog="630">Listen.</title>
+        </controlaccess>
+        <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>This collection has no restrictions.</p>
+            <p>This collection is located on-site.</p>
+        </accessrestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>N 05/23/2001 M-01-05-23 Papers Page, Tim Gift</p>
+        </acqinfo>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known); Leonard Altman Papers, Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Papers N Cataloged 01/23/2002 HR</p>
+        </processinfo>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+        </userestrict>
+         <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Babin, Victor To the editor of <title render="italic">Listen</title>, Cleveland, OH, <unitdate>3 July 1964</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bacon, Ernst To Leonard Altman, Middletown, CT, <unitdate>12 Dec 1963- 19 Feb 1964</unitdate>
+                        </unittitle>
+                        <physdesc>(2 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Beardslee, Bethany To Leonard Altman, Princeton NJ, <unitdate>16 Aug 1962 - 1 Oct 1962</unitdate>
+                        </unittitle>
+                        <physdesc>(4 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Beardslee, Bethany To Leonard Altman, Princeton NJ, <unitdate>16 Aug 1962 - 1 Oct 1962</unitdate>
+                        </unittitle>
+                        <physdesc>(4 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bentley, Eric Russell To Leonard Altman, v.p., <unitdate>7 Dec 1963 - 1982</unitdate>
+                        </unittitle>
+                        <physdesc>(4 t.l.s , 5 t.p.c.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Biggs, E. Power To Joseph Dash, Cambridge, MA, <unitdate>14 March 1976</unitdate>
+                        </unittitle>
+                        <physdesc>(2 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Brown, Earle Homer To Leonard Altman, v.p., <unitdate>25 June 1964 - 18 Aug 1964</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s,; 2 t.ms.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Carlisle, Kitty To Leonard Altman, v.p., <unitdate>various [1984 - 1993]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s,; 4 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Demus, Jorg To Leonard Altman, Vienna, <unitdate>23 June 1981 - 21 July 1981</unitdate>
+                        </unittitle>
+                        <physdesc>(2 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Duke, Vernon To Leonard Altman, Pacific Palisades, CA &amp; Paris, <unitdate>6 Jan 1964 - 24 May 1966</unitdate>
+                        </unittitle>
+                        <physdesc>(9 t.l.s,; 17 a.p.c.s,; 17 a.l.s,; 7 t.ms. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Faberman, Harold To Leonard Altman, [New York], <unitdate>[18 May 1964]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.n.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Feldman, Morton To [the editor of "Listen"], New York, <unitdate>25 March 1964</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Fortas, Abe To Leonard Altman, Washington, <unitdate>25 Nov 1963</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Fuleihan, Anis To Leonard Altman, Tunis, <unitdate>11 Feb 1963</unitdate>
+                        </unittitle>
+                        <physdesc>(2 t.l.s )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Gebhard, Heinrich To Leonard Altman, Brookline, MA, <unitdate>4 May 1950</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Schonberg, Harold C. To Leonard Altman, New York, <unitdate>26 Nov 1963 - 7 Sept. 1964</unitdate>
+                        </unittitle>
+                        <physdesc>(2 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Kassern, Tadeusz To Leonard Altman, [New York], <unitdate>10 June 1950</unitdate>
+                        </unittitle>
+                        <physdesc>(2 a.l.s. )</physdesc>
+                    </did>
+                    <scopecontent><p>[With 2 snapshots of Kassern, taken at Rev. Hebert Owen's house]</p>
+                    </scopecontent>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Malraux, Madeleine Lioux (Mme. Andre) To Leonard Altman, v.p., <unitdate>various [1973]</unitdate>
+                        </unittitle>
+                        <physdesc>(5 a.l.s,; 1 a.n.s,; 2 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Meyerowitz, Jan [To Leonard Altman], Berlin, <unitdate>3 May 1964</unitdate>
+                        </unittitle>
+                        <physdesc>(10 t.ms.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Milhaud, Darius [To Leonard Altman], [Oakland, CA], <unitdate>[Dec 1962]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Christmas cards. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Nestev, Izrail Vladimirovich To Leonard Altman, Moscow, <unitdate>28 Ma7 1961 - Dec 1965</unitdate>
+                        </unittitle>
+                        <physdesc>(2 t.l.s,; 1 t.p.c.s,; 1 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Perry, Julia Amanda To Leonard Altman, Akron, OH, <unitdate>[24 Aug 1949]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.p.c.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Previn, Andre To Leonard Altman, [Los Angeles], <unitdate>11 May 1963</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Reich, Steve To Leonard Altman, n.p., <unitdate>25 Oct 1978</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Reich, Steve To Leonard Altman, v.p., <unitdate>25 Oct 1978 - 26 Dec 1991</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.l.s,; 2 a.p.c.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rochberg, George To Leonard Altman, Newtown Square, PA, <unitdate>2 Aug 1961 - 28 April 1962</unitdate>
+                        </unittitle>
+                        <physdesc>(18 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rodgers, Dorothy Feiner (Mrs. Richard) To Leonard Altman, [New York], <unitdate>[2 Feb 1980]</unitdate>
+                        </unittitle>
+                        <physdesc>(2 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Sargeant, Winthrop To Leonard Altman, [New York], <unitdate>27 Nov 1963</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Schonberg, Harold C. To Leonard Altman, New York, <unitdate>26 Nov 1963</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Schuller, Gunther To Leonard Altman, v.p., <unitdate>various [1962-1988]</unitdate>
+                        </unittitle>
+                        <physdesc>(5 a.l.s,; 3 a.n.s,; 1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Secrest, Meryle To Leonard Altman, v.p., <unitdate>23 May 1991 - 2 Jan 1992</unitdate>
+                        </unittitle>
+                        <physdesc>(4 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Sessions, Roger To Rebecca La Brecque, v.p., <unitdate>26 May 1979 - 21 July 1980</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.l,; 6 a.l.s,; 1 a.p.c.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Shapey, Ralph To Leonard Altman, v.p., <unitdate>[27 June 1963 - 31 Dec 1987]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s,; 15 a.l.s,; 3 a.p.c.s,; 1 p.l,; 1 and a.n.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Sokolow, Anna To Leonard Altman, [New York], <unitdate>[11 July 1990 - 20 Jan 1991]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.l.s,; 2 a.p.c.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Sowande, Fela To Leonard Altman, v.p., <unitdate>8 May 1962 - 17 June 1966</unitdate>
+                        </unittitle>
+                        <physdesc>(2 a.l.s,; 2 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                 
+                 <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Starer, Robert &amp; Johanna (Mrs. Robert) To Leonard Altman, [Rome], <unitdate>19 Nov 1964</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Stern, Isaac To Leonard Altman, New York, <unitdate>11 Nov 1974 - 3 Jan 1991</unitdate>
+                        </unittitle>
+                        <physdesc>(2 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Stern, Vera Lindenblit (Mrs. Isaac) To Leonard Altman, New York, <unitdate>5 Dec 1991</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Stevens, Denis To James Goodfriend, South Croydon, UK, <unitdate>10 July 1964</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Stevens, Rise To [Leonard Altman], n.p., <unitdate>n.y.</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Christmas card )</physdesc>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Stravinsky, Igor A Cure for V.D. [Vernon Duke], New York, <unitdate>14 Aug 1964</unitdate>
+                        </unittitle>
+                        <physdesc>(4 t.ms. )</physdesc>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Tcherepnin, Alexander &amp; Ming Lee To [Leonard Altman], Bach, Switz., <unitdate>[Nov 1964]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 Christmas card )</physdesc>
+                    </did>
+                </c>
+                         
+                         <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Thorne, Francis Burritt, Jr. To Leonard Altman, New York, <unitdate>3 April 1984</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                         
+                         <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Tourel, Jennie To Leonard Altman, New York, <unitdate>4 June 1969</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                         
+                         <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Trampler, Walter To Leonard Altman, [Polensa, Mallorca, Sp.], <unitdate>13 Sept. 1962</unitdate>
+                        </unittitle>
+                        <physdesc>(4 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                         
+                         <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Twining, Nathan To Leonard Altman, [Baltimore], <unitdate>20 Sept 1972</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.l.s. )</physdesc>
+                    </did>
+                    <scopecontent><p>[This concerto was first performed on 20 Sept 1972 by Nathan Twining &amp; Martin Berkofsky.]</p>
+                    </scopecontent>
+                </c>
+                             
+                             <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Varese, Louise McCutcheon (Mrs. Edgar) To Leonard Altman, [New York], <unitdate>[18 Nov 1965]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.l.s. )</physdesc>
+                    </did>
+                </c>
+                             
+                             <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Votterle, Karl To Leonard Altman, Frankfurt/Main, <unitdate>27 Aug 1963 - 30 Sept 1963</unitdate>
+                        </unittitle>
+                        <physdesc>(4 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                             
+                             <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Westergaard, Peter To Leonard Altman, New York, <unitdate>4 April 1962</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.l.s. )</physdesc>
+                    </did>
+                </c>
+                             
+                             <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Wolpe, Hilda Morley To Leonard Altman, New York, <unitdate>20 Aug 1981 - 30 Jan 1982</unitdate>
+                        </unittitle>
+                        <physdesc>(4 t.l.s. )</physdesc>
+                    </did>
+                </c>
+            </c>
+                             
+             <c level="series">
+                <did><unittitle>Series II: Uncataloged Material</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Carnegie Hall Letters, memoranda, lists, printed items, etc., New York City</unittitle>
+                    </did>
+                </c>
+                                 
+                                 <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Foster, Norman Recipe, members' book, invitation, program, essay: "Why?" </unittitle>
+                    </did>
+                </c>
+                                 
+                                 <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Rudhyar, Dane (1895-1985) Pamphlet, clipping, <title render="italic">Human Dimensions</title> Vol. 4, No. 3, signed</unittitle>
+                    </did>
+                </c>
+                                 
+                                 <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Shapey, Ralph (1921-    ) Letters, program, and clippings</unittitle>
+                    </did>
+                </c>
+                                 
+                                 <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>USSR Lists, essays, clippings. letters</unittitle>
+                    </did>
+                </c>
+                                 
+                                 <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Varese, Edgard (1883-1965) Essays, lectures</unittitle>
+                    </did>
+                </c>
+                                 
+                                 <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Miscellaneous correspondence, essays, lists, programs</unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

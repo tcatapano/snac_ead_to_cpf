@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://appdev.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_9006537_ead//EN" mainagencycode="nnc-rb">ldpd_9006537_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the John Jay Iselin papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2011-10-18">October 18, 2011 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2011-10-18">October 18, 2011 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2011-10-18">2011-10-18</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Iselin, John Jay.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="John Jay Iselin papers,">John Jay Iselin
+            papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1983/1995" type="inclusive">1983-1995</unitdate>
+         <physdesc><extent encodinganalog="300">8 linear ft. (8 record storage cartons)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1587</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">9006537</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is in English </language>
+         </langmaterial>
+         <abstract>Papers of John Jay Iselin, journalist, editor, professor of journalism, and
+            president of both WNET/Channel 13 and the Cooper Union for the Advancement of Science
+            and Art.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->John Jay Iselin, descendent of the Supreme Court Justice John
+            Jay, was born in Greenville, South Carolina in 1933. He left South Carolina to pursue
+            his education at Harvard, where he received both his Bachelor's Degree. He received the
+            prestigious Marshall Scholarship which funded his course of study at Cambridge, where he
+            received his Master's Degree before returning to Harvard to pursue his PhD in
+            government, which he received in 1964. </p>
+         <p><!-- BIOGHIST REQUIRED -->After graduation he worked as a journalist for publications
+            including Newsweek before shifting his focus onto the production side of writing as an
+            editor with Harper &amp; Row in 1970. He only held his editorial position at Harper
+            &amp; Row for two years; in 1972 he took the helm of New York's public television
+            station, WNET/Channel 13 and remained president of the station for 16 years. Under his
+            leadership, WNET produced shows such as <title render="italic">Great
+               Performances</title>, <title render="italic">Nature</title> and <title render="italic">Newshour</title> as well as a number of documentaries and miniseries. </p>
+         <p><!-- BIOGHIST REQUIRED -->Iselin left the station in 1988 when he was appointed the
+            tenth president of the Cooper Union for the Advancement of Science and Art. His
+            presidency there was marked with great growth in the Cooper Union endowment and in
+            particular a huge capital campaign that helped build and update the institutions
+            facilities and lab spaces. He also oversaw the creation of new endowed professorships.
+            After twelve years at the Cooper Union, Iselin left the university to take on the
+            presidency of the Marconi International Fellowship Foundation at Columbia University
+            which promotes work and scholarship in the field of telecommunications, merging his own
+            background in both the academy and in broadcasting. </p>
+         <p><!-- BIOGHIST REQUIRED -->John Jay Iselin died in 2008 at the age of 74.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The records, which primarily cover the period in which Iselin served as the President of
+            the Cooper Union, contain topical files and correspondence related to his professional
+            activities.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in 2 series <list type="marked">
+                    <item>Series I: General
+                  Files, 1984-1993</item>
+                    <item>Series II: Reading File (Correspondence),
+                  1984-1995</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Cooper Union for the Advancement of Science and
+            Art.</corpname>
+         <corpname encodinganalog="610">Herb Lubalin Study Center of Design and
+            Typography.</corpname>
+         <persname encodinganalog="600">Iselin, John Jay.</persname>
+         <subject encodinganalog="650">College presidents</subject>
+         <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Office of the President, The Cooper Union for the Advancement of Science and Art Gift
+            09/08/2011</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); John Jay Iselin Papers; Box and Folder
+            (if known); Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed 10/--/2011 Gillian Rhodes (Columbia College, 2012). </p>
+         <p>Finding aid written 10/13/2011 Carrie Hintz</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: General Files, November, <unitdate type="inclusive">1984-November, 1993</unitdate>
+                    </unittitle>
+            </did>
+                <scopecontent><p>The General Files contain information relating to Iselin's presidency of the Cooper Union, including files on his fundraising efforts on behalf of the institution and research files related to the history of the Cooper Union, as well as files related to capital projects at the Cooper Union and a Charles and Ray Eames film festival hosted by the college. </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Campaign, November 1st, <unitdate>1984</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Gift Securities Procedure, May/June,
+                     <unitdate>1987</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>CU-Garden, <unitdate type="inclusive">1992/1993</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Fringe Patterns Exhibit, <unitdate>1987</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Freedom of Information Clearinghouse,
+                     <unitdate>1991</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Forms-Various</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Financial Reports and Mailing Lists, <unitdate type="inclusive">1983-1990</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Centennial Campaign Convocation, <unitdate>1956</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Childesign, <unitdate>1990</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Commencement Info, <unitdate type="inclusive">1983-1990</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Community Programs, <unitdate type="inclusive">1990-1991</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Computer Information, <unitdate type="inclusive">1985-1987</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Conciliation Tour <unitdate>May 4, 1995</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Christmas Gift List, <unitdate type="inclusive">1990-1992</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Continuing Education Programs Sept/Dec,
+                     <unitdate>1992</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Cookerly, Anne,1990</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Cooper Collection Background Info,
+                     <unitdate>1989</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Cooper Pioneer (copies), <unitdate>1993</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Cooper Union History/Info, <unitdate type="inclusive">1983-1991</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Cooper Union-125 Years, Fall, <unitdate>1985</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Cooper Union Overview, <unitdate>1991</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>CU History</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Cooper Union Research Foundation, <unitdate type="inclusive">1983-1991</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>A Festival of Eames’ Films</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Mailing List, <unitdate type="inclusive">1985-1987</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>“Great Performances”</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Program</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Correspondence</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Budget</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>State Dormitory Authority Loan, <unitdate>1984</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Demographic Services Grenzebach &amp; Martstl,
+                        <unitdate>1988</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Deferred Giving to CU, <unitdate>1991</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Energy Forum May 6th, <unitdate>1992</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Engineering-H.S. Summer research internship program, <unitdate type="inclusive">1989-1991</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Engineering School Info/Memos, <unitdate type="inclusive">1987-1994</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Plaque Commemorative Updated List</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Lubalin Center</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Portfolio, <unitdate>1985</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Correspondence, 1986-87</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Contribution/Ad Response, <unitdate>1986</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            </c>
+            <c level="series">
+               <did><unittitle>Series II: Reading Files (Correspondence) <unitdate type="inclusive">1988-1995</unitdate>
+                    </unittitle>
+               </did>
+               <scopecontent><p>Iselin's Correspondence Files, which he calls reading files, span his years at Cooper Union years and relate his work as the president of that institution.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>December, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>November, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>October, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>September, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>August <unitdate>1989</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>July, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>June, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>May, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>April, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>March, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>February, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>January, 1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>December, 1988</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>November, 1988</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>August <unitdate>1988</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>July, 1988</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>June, 1988</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>May, 1988</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>April, 1988</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>March, 1988</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>February, 1988</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle><unitdate>January, 1988</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>December, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>November, 1990</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>October, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>September, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>August <unitdate>1990</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>July, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>June, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>May, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>April, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>March, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>February, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle><unitdate>January, 1990</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>January, 1991</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>February, 1991</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>March, 1991</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>April, 1991</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>May, 1991</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>June, 1991</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>July, 1991</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>August <unitdate>1991</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>September, 1991</unitdate> (2 files)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>October, 1991</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>October, 1991</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>November, 1991</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle><unitdate>December, 1991</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>Deaths</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>January, 1992</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>February, 1992</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>March, 1992</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>April, 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>May, 1992</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>June, 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>July, 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle>August <unitdate>1992</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>September, 1992</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>October, 1992</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>November, 1992</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle><unitdate>December, 1992</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>January, 1993</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>February, 1993</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>March, 1993</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>April, 1993</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>May, 1993</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>June, 1993</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>July, 1993</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle>August <unitdate>1993</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>September, 1993</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>October, 1993</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>November, 1993</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle><unitdate>December, 1993</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>General Correspondence, <unitdate>1994</unitdate> (4
+                     Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>General Information, <unitdate>1994</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Placement Advertisement, <unitdate>1994</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Invoices, <unitdate>1994</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle><unitdate>January, 1994</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle><unitdate>February, 1994</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle><unitdate>March, 1994</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle><unitdate>April, 1994</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle><unitdate>May, 1994</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle><unitdate>June, 1994</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle><unitdate>July, 1994</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>August <unitdate>1994</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle><unitdate>September, 1994</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle><unitdate>October, 1994</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle><unitdate>November, 1994</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle><unitdate>December, 1994</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle><unitdate>January, 1995</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle><unitdate>February, 1995</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle><unitdate>March, 1995</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle><unitdate>April, 1995</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle><unitdate>May, 1995</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle><unitdate>June, 1995</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle><unitdate>July, 1995</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

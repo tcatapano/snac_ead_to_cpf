@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078932_ead//EN" mainagencycode="nnc-rb">ldpd_4078932_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Letters of Italian
+               Patriots</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2012-10-16">2012-10-16</date>
+            <item>XML document instance created by Catherine C. Ricciardi</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><corpname encodinganalog="110">Columbia University. Rare Book and Manuscript
+               Library.</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Letters of Italian Patriots">Letters of
+            Italian Patriots</unittitle>
+         <unitdate encodinganalog="245$f" normal="1754/1874" type="inclusive">1754-1874.</unitdate>
+         <physdesc><extent encodinganalog="300">30 items (1 box)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078932</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Italian. </language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Historical Note</head>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This group of thirteen letters, one document, one signed card, fourteen portraits, and
+            one portrait medal relates to six distinguished Italian patriots who were prominent in
+            the unification of Italy in the 19th century. The collection includes one letter and one
+            portrait of Count Camillo Benso Cavour (1810-1861); three letters and three portraits of
+            Domenico Cirillo (1739-1799); two letters and two portraits of Giuseppe Garibaldi
+            (1807-1882); one letter and one portrait of Giuseppe Guisti (1809-1850); six letters,
+            one signed card, and six portraits of Giuseppe Mazzini (1805-1872); and one document,
+            one portrait, and one portrait medal of Victor Emmanuel II of Italy (1820-1878). The
+            letters are in many cases accompanied by transcriptions and translations as they are
+            chiefly in Italian. The portraits are engravings and photographs.</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Cavour, Camillo Benso, conte di, 1810-1861.</persname>
+         <persname encodinganalog="600">Cirillo, Domenico, 1739-1799.</persname>
+         <persname encodinganalog="600">Garibaldi, Giuseppe, 1807-1882.</persname>
+         <persname encodinganalog="600">Giusti, Giuseppe, 1809-1850.</persname>
+         <persname encodinganalog="600">Mazzini, Giuseppe, 1805-1872.</persname>
+         <persname encodinganalog="600">Victor Emmanuel II, King of Italy, 1820-1878.</persname>
+         <geogname encodinganalog="651">Italy--History--19th century.</geogname>
+         <geogname encodinganalog="651">Italy--Politics and government--1789-1870.</geogname>
+         <subject encodinganalog="650">Patriotism--Italy.</subject>
+         <genreform encodinganalog="655" source="ftamc">Portraits.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Autographs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Engravings.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions. </p>
+         <p>This collection is located on-site.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>M-59</p>
+      </acqinfo>
+      <altformavail encodinganalog="530">
+         <head>Alternate Formats</head>
+         <p>Translations available in part. </p>
+         <p>Transcriptions available in part.</p>
+      </altformavail>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Letters of Italian Patriots; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 07/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <otherfindaid encodinganalog="555">
+         <p>
+            Finding aid available in repository and online.
+         </p>
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Letters</unittitle>
+                </did>
+            <c level="file">
+               <did><container type="box" label="Call#">X850.16 C68</container>
+                  <physdesc>(1 Box)</physdesc>
+               </did>
+            </c>
+            </c>
+      </dsc>
+   </archdesc>
+</ead>

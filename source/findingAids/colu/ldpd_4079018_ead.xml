@@ -1,0 +1,2336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079018_ead//EN" mainagencycode="nnc-rb">ldpd_4079018_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the League of Women Voters of the City of New York Records</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+            </change>
+         <change><date normal="2011-12-05">2011-12-05</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><corpname encodinganalog="110">League of Women Voters of the City of New York.</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="League of Women Voters of the City of New York Records">League of Women Voters of the City of New York Records,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1919/1979" type="inclusive">1919-1979.</unitdate>
+         <physdesc><extent encodinganalog="300">60,000 items (139 boxes, 6 v., 1 oversize)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079018</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, memoranda, minutes, reports, scrapbooks, printed material, and photographs. The files contain much material of the League of Women Voters of New York State as well, and some material pertaining to the national organization. The files document the League's activities in the areas of voter registration, election reform, New York City government, foreign policy, ecology, and numerous other concerns, and contain the records of city, state, and national conventions, annual reports, and Board and Council minutes. Major correspondents include Emanuel Teller, Stanley M. Isaacs, Jacob K. Javits, Robert F. Kennedy, Edward I. Koch, John Vliet Lindsay, Nelson A. Rockefeller, Anna Lord Strauss, and Percy E. Sutton.</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">League of Women Voters of New York State.</corpname>
+         <persname encodinganalog="600">Celler, Emanuel, 1888-1981.</persname>
+         <persname encodinganalog="600">Isaacs, Stanley M. (Stanley Myer), 1882-1962.</persname>
+         <persname encodinganalog="600">Javits, Jacob K. (Jacob Koppel), 1904-1986.</persname>
+         <persname encodinganalog="600">Kennedy, Robert F., 1925-1968.</persname>
+         <persname encodinganalog="600">Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979.</persname>
+         <persname encodinganalog="600">Koch, Ed, 1924-</persname>
+         <persname encodinganalog="600">Lindsay, John V. (John Vliet)</persname>
+         <geogname encodinganalog="651">United States--Foreign relations.</geogname>
+         <geogname encodinganalog="651">New York (N.Y.)--Politics and government--1898-1951.</geogname>
+         <geogname encodinganalog="651">New York (N.Y.)--Politics and government--1951-</geogname>
+         <geogname encodinganalog="651">New York (State)--Politics and government--1865-1950.</geogname>
+         <geogname encodinganalog="651">New York (State)--Politics and government--1951-</geogname>
+         <subject encodinganalog="650">Ecology--New York (State)</subject>
+         <subject encodinganalog="650">Voter registration--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Voter registration--New York (State)</subject>
+         <subject encodinganalog="650">Elections--Corrupt practices.</subject>
+         <subject encodinganalog="650">Women--New York (State)--New York--Societies and clubs.</subject>
+         <subject encodinganalog="650">Women--New York (State)--Societies and clubs.</subject>
+         <subject encodinganalog="650">Social problems.</subject>
+         <subject encodinganalog="650">Women in politics.</subject>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Scrapbooks.</genreform>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1955 M-55 League of Women Voters of the City of New York Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>League of Women Voters of the City of New York Records. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 07/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Correspondence</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Abzug, Bella S.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Koch, Edward I.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>LaGuardia, Fiorello H.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Beame, Abraham D.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lefkowitz, Louis J.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Belmont, Eleanor Robson</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lehman, Herbert H.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Buckley, James L.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lindsay, John Vliet</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Burlingham, Charles Culp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>McCarthy, Eugene J.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Carey, Hugh L.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Morgenthau, Henry, Jr.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Carman, Harry J.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Moses, Robert</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Celler, Emanuel</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>O'Dwyer, Paul</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Cherne, Leo</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Reid, Whitelaw</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Chisholm, Shirley</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rockefeller, Nelson A.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Chute, Marchette</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rosenman, Samuel I. Roosevelt, Franklin D,</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Dewey, Thomas E.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Ruml, Beardsley</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Douglas, Helen Gahagan</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Seligman, Eustace</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Dulles, John Foster</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Smith, Alfred E.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Eisenhover, Mamie Doud</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Strauss, Anna Lord</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Fadiman, Clifton</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Sutton, Percy E.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Gildersleeve, Virginia C.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Wagner, Robert F., Jr.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Harriman, William Averell</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Wilson, Woodrow</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Holtzman, Elizabeth</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Isaacs, Stanley M. Hoover, Herbert Catalogued documents</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Javits, Jacob K.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Keating, Kenneth B. Lindsay, John Vliet</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Kennedy, Robert Wagner, Robert F., Jr.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Kenyon, Dorothy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Knopf, Alfred A.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Correspondence, Miscellaneous uncatalogued, <unitdate type="inclusive">1934-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Files, A-Z</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>ABC (network)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Action Calls (Also called "Action" and "Time for Action;" includes some state and national materials) - 1954-1972. 11 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Active Voter, 1942-1973. 2 Folders (SEE ALSO Annual Reports - Public Relations</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Annual Reports (SEE ALSO Reports - <unitdate type="inclusive">1936-1939, </unitdate>
+                            <unitdate type="inclusive">1952-1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Annual Reports, I964-1969</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Annual Reports, <unitdate type="inclusive">1969-1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Annual Reports, Branch, <unitdate type="inclusive">1953-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Annual Reports, Branch, I96O-I965</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Annual Report Analyses, <unitdate type="inclusive">1958-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Annual Reports, Public Relations, <unitdate>1963</unitdate> - <unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Annual Reports, Public Relations, <unitdate type="inclusive">1966-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Annual Reports, Public Relations, <unitdate type="inclusive">1972-1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Apportionment (includes headings: Reapportionment, Districting, Redistricting and Proportional Representation), 1930-1966. 7 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Apportionment, 1963-1971. 12 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Backgroung Briefs, <unitdate type="inclusive">1970-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Baltimore Branch. 5 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Benes Dinner, <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Bicentennial Commission, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Birth Control, <unitdate type="inclusive">1922-1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Board and Council Minutes, agendas and records, <unitdate type="inclusive">1919-1926</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Board and Council Minutes, agendas and records, <unitdate type="inclusive">1927-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Board and Council Minutes, agendas and records,</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Board and Council Minutes, agendas and records, <unitdate type="inclusive">1947-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Board and Council Minutes, agendas and records, <unitdate type="inclusive">1950-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>Board and Council Minutes, agendas and records, <unitdate type="inclusive">1954-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Board and Council Minutes, agendas and records, <unitdate type="inclusive">1957-1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Board and Council Minutes, agendas and records, <unitdate type="inclusive">1971-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Branch, Floral Park</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Branch, Metropolitan Evening</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Branch, Staten Island</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Branch Chairman's Workshop, <unitdate type="inclusive">1959-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Branch Problems, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Branches Outside New York (SEE ALSO Baltimore and Job Analyses)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>By-Laws, <unitdate type="inclusive">1924-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>By-Laws, 1970-1972. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Cable TV</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Calendar, <unitdate type="inclusive">1972-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Catt, Carrie Chapman, Memorial Fund</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>China. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Christian Science Monitor</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>City Affairs (SEE ALSO Municipal Affairs and New York City) - Brochures</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>City Affairs, <unitdate type="inclusive">1934-1953, </unitdate>
+                            <unitdate type="inclusive">1945-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>City Affairs, 1953-1963. 4 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>City Almanac</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>City Lines</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>City Planning and Zoning, <unitdate type="inclusive">1963-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>City Poll, <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>City Poll, 1956-1957. 4 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>City Poll, <unitdate>1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Civic Affairs Forum, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Civic Assembly</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Civic Participation Course - kit</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Civil Rights</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Civil Service. 3 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Committee Reports, Miscellaneous, <unitdate type="inclusive">1938-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Community Development Article, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Community School Board Elections, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Congress, h Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Constitutional Convention, <unitdate type="inclusive">1938-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Constitutional Convention, <unitdate>1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Constitutional Convention, 1966-1967. 4 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Constitutional Convention, 1966-1967. 7 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Consumer Department</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Consumer Interest</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Continuing Responsibilities (includes national materials). 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Conventions (City), <unitdate>1937</unitdate> - <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Conventions (City), <unitdate type="inclusive">1948-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Conventions (City) <unitdate type="inclusive">1955-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Conventions (City), <unitdate type="inclusive">1968-1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Conventions (City), <unitdate type="inclusive">1972-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Council - SEE Board</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>County Government</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Courts, Childrens, <unitdate type="inclusive">1921-1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Courts, Family, <unitdate>1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Courts, Citizens Conference on,</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Courts, New York State, <unitdate>1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Courts, Trial by Jury</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Current Agenda Proposals. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>"Danger Confronting Popular Government" <unitdate>1920</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Decentralization</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Direct Line, <unitdate type="inclusive">1963-1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Direct Line, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Districting - SEE Apportionment</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Economic Policies, U.S.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Economic Policy Institute, <unitdate>1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Economics, Domestic</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Education, 1930-1969. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Education, 1970- . 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Education – Board of Education</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Education - Decentralization</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Education Fund</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Education - publications (miscellaneous; loose)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Education - publications (miscellaneous; loose)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Election Law - 1940-1969. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Election Law - Administration, <unitdate type="inclusive">1969-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Election Law - Direct Primary</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Election Night Reporting, <unitdate>1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Election Systems Project</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Elections</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Elections, <unitdate type="inclusive">1969-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Elections, <unitdate type="inclusive">1971-1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Elections, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Elections, Primary, <unitdate type="inclusive">1955-1968, </unitdate>
+                            <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Electoral College</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Environment, 1967-1973. 3 Folders. (SEE ALSO Water Resources)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Executive Interns, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Federal Loyalty/Security. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Field Secretary, <unitdate type="inclusive">1959-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Fiftieth Anniversary</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Finances, 1961-1973. 3 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Finances, Budgets, <unitdate type="inclusive">1964-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Finances, Policies,</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Finances — Publications</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Finances — Skit, <unitdate>1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Finances — Stockholders Reports, <unitdate type="inclusive">1951-1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Finances — Tea, <unitdate type="inclusive">1965-1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Flyers</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Foreign Policy, 19^0-1955-3 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Foreign Policy, <unitdate type="inclusive">1959-1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Foreign Policy, <unitdate type="inclusive">1971-1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Foreign Policy - Bricker Amendment</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Foreign Policy - Connally Amendment</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Foreign Policy - Economic</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Foreign Policy - Publications</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Foreign Policy Publications</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Forest Hills, <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Fortieth Anniversary, <unitdate>1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Foundation for Citizen Education, <unitdate type="inclusive">1971-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Handbooks and Kits (also organization manuals)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Handbooks and Kits - City</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Handbooks and Kits National</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Harlem Unit&amp;, 1956-1973. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Home Rule, <unitdate type="inclusive">1936-1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Home Rule, District of Columbia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Hotels, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Housing, 1929-1971. 3 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Human Resources, 1964-1973. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4l</container>
+                        <unittitle>Industrial Relations</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4l</container>
+                        <unittitle>International Relations</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4l</container>
+                        <unittitle>International Woman Suffrage Alliance</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4l</container>
+                        <unittitle>Job Analyses, <unitdate>1953</unitdate> Arlington, Va.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4l</container>
+                        <unittitle>Judicial System, 1958-1973. 3 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Jury Service</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Juvenile Delinquency</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Kits SEE</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Handbooks</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Kudos, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Labor SEE</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Industrial Relations</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Land Use</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Legal Status</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Legislative Programs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Legislative Conference, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Membership, 1948-1973. 4 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43a</container>
+                        <unittitle>Membership Cards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43b</container>
+                        <unittitle>Membership Cards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43c</container>
+                        <unittitle>Membership Cards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44a</container>
+                        <unittitle>Membership Cards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44b</container>
+                        <unittitle>Membership Cards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44c</container>
+                        <unittitle>Membership Cards</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Memoranda, Notes and Drafts</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Men's Committee. 14 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Metropolitan Project Survey, <unitdate type="inclusive">1972-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Municipal Affairs Committee, <unitdate type="inclusive">1933-1938</unitdate>  (SEE ALSO City Affairs)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>National (i.e., League of Women Voters of the United States, h Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>National - Board Reports, <unitdate type="inclusive">1969-1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>National - Conventions, <unitdate type="inclusive">1958-1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>National - <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>National - Current Focus</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>National - National Voter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>National - Program, <unitdate type="inclusive">1942-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>National - Program-Making, 1961-1973. 4 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>National - Publications and Memoranda, <unitdate type="inclusive">1965-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>National – Report from the Hill</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>National - Tips on Reaching the Public</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>Neighborhood Government</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>New Voter Program</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>New York City - Board of Elections</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>New York City - Budget, 1955-196U</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>New York City - Charter, <unitdate type="inclusive">1934-1938, </unitdate>
+                            <unitdate type="inclusive">1961-1966</unitdate>  1970-1973. 3 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>New York City - Council, <unitdate>1939, </unitdate>
+                            <unitdate>1947, </unitdate>
+                            <unitdate type="inclusive">1960-1969</unitdate>  1973. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>New York City - Health and Hospitals, <unitdate type="inclusive">1929-1930</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>New York State Legislation, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>New York Votes (Coalition) <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Nominating Committee, <unitdate type="inclusive">1964-1966</unitdate>  1971-1972. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Observer, <unitdate type="inclusive">1971-1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Office Space, <unitdate type="inclusive">1971-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Organization, <unitdate type="inclusive">1949-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Organizations, Other</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Overseas Education Fund</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Outlook for Work - Election Law, <unitdate>1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Pensions, <unitdate>1934, </unitdate>
+                            <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Permanent June Primary, <unitdate>1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Permanent Personal Registration, <unitdate type="inclusive">1920-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle><unitdate type="inclusive">1920-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle><unitdate type="inclusive">1949-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle><unitdate type="inclusive">1951-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle><unitdate type="inclusive">1953-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Permanent Personal Registration - Cost Lists</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Permanent Personal Registration - Methods and Tactics</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Permanent Personal Registration - Statements</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Permanent Personal Registration - Printed and miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Police Review Board</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Policies and Procedures</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Political Accountability</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Politics in Action, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Practical Politics, <unitdate type="inclusive">1951-1955</unitdate>  196O-1961+. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Presidency, U.S.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Presidential Elections</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>President's Mailing, Duplicate, <unitdate type="inclusive">1964-1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle><unitdate type="inclusive">1964-1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle><unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle><unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle><unitdate type="inclusive">1966-1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Press Book, <unitdate type="inclusive">1969-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Program, <unitdate type="inclusive">1930-1939, </unitdate>
+                            <unitdate type="inclusive">1948-1949</unitdate>  (SEE ALSO Current Agenda and Continuing Responsibilities</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Program-Making, Local, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Programs and Meetings, <unitdate type="inclusive">1920-1929</unitdate> and  <unitdate>n.d.</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Programs and Meetings, <unitdate type="inclusive">1930-1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Programs and Meetings, <unitdate type="inclusive">1940-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Programs and Meetings, Area Conference, <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Programs and Meetings, Citywide Meeting, <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Programs and Meetings, <unitdate>1951, </unitdate>
+                            <unitdate>1952, </unitdate>
+                            <unitdate>1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Programs and Meetings, Citywide Meetings, <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Programs and Meetings, Area Conferences, <unitdate type="inclusive">1952-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Programs and Meetings, Citywide Meeting, <unitdate>1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Programs and Meetings - Brooklyn Candidates, <unitdate>1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Programs and Meetings, <unitdate type="inclusive">1964-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Programs and Meetings, <unitdate type="inclusive">1970-1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Proportional Representation - SEE Apportionment</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Public Finance - General</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Public Finance - Budgets</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Public Finance - Inflation Control</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>Public Relations (includes news releases), <unitdate type="inclusive">1935-1951, </unitdate>
+                            <unitdate type="inclusive">1953-1962</unitdate>  1963-1970. 3 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Public Relations, <unitdate type="inclusive">1971-1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Publications - General</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Publications - <unitdate>1969, </unitdate>
+                            <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Publications - <unitdate>1971, </unitdate>
+                            <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Reapportionment - SEE Apportionment</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Redistricting "</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Reorganization, <unitdate type="inclusive">1955-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>Report Forms</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>Reports on Programs and Activities (SEE ALSO Annual Reports), <unitdate type="inclusive">1930-1945, </unitdate>
+                            <unitdate>1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>Reports on Programs and Activities (SEE ALSO Annual Reports), 1935-1946. 6 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>Reports and Announcements, Mimeographed (SEE ALSO Presidents Mailing) 1937-1952.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>Reports and Announcements, Mimeographed, <unitdate type="inclusive">1953-1970</unitdate> and n.d,</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Reports and Announcements, Mimeographed, <unitdate type="inclusive">1971-1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Representative Government, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>School Health Services, New York City,</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Second Suffrage, <unitdate>1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Social Welfare and Child Welfare</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Social Welfare - Youth Services Council</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Spanish Language "Facts for Voters"</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Speakers Kits, 1950-1965. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle>Speakers Kits, <unitdate type="inclusive">1966-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle>Special Gifts, 1971-1973. 3 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle>Spring Seminars, 1972-1973. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">66-68</container>
+                        <unittitle>State (i.e., League of Women Voters of New York State) - Minutes, <unitdate>1921</unitdate> – <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">69</container>
+                        <unittitle>State - Minutes, <unitdate>1937</unitdate> – <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">70</container>
+                        <unittitle>State - Minutes, <unitdate type="inclusive">1948-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">71</container>
+                        <unittitle>State - Annual Reports, <unitdate type="inclusive">1921-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">72</container>
+                        <unittitle>State - Council, <unitdate type="inclusive">1939-1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">73</container>
+                        <unittitle>State - Conventions, <unitdate type="inclusive">1935-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">74</container>
+                        <unittitle>State - Conventions, <unitdate type="inclusive">1955-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">75</container>
+                        <unittitle>State - Conventions, <unitdate type="inclusive">1971-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">75</container>
+                        <unittitle>State - Conventions, Legislative Conferences, <unitdate type="inclusive">1941-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">75</container>
+                        <unittitle>State - Conventions, Board Reports, <unitdate type="inclusive">1965-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>State - General Files, <unitdate type="inclusive">1940-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>State - Apportionment</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>State - ByLaws</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>State - Education</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>State - Election Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>State - Finances</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>State - Judiciary</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>State - New York State Voter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>State - Primaries (SEE ALSO Election Law)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>State - Program-Making, I965-I967</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>State - <unitdate type="inclusive">1969-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>State - <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>State - Publications</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>State - Voters Service</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">77</container>
+                        <unittitle>State - Workbooks</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>Statements, Public and Policy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>Staten Island Community College</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>Structure Committee, <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>Student Activities</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>Subway Fare, <unitdate type="inclusive">1935-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>Summer Workshops, <unitdate>1971, </unitdate>
+                            <unitdate>1972</unitdate> 1973. 3 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">78</container>
+                        <unittitle>Survey Committee, 1961-I963</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">79</container>
+                        <unittitle>Tax Exemption, <unitdate type="inclusive">1923-1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">79</container>
+                        <unittitle>Techniques (Speakers, Trainers, etc.)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">79</container>
+                        <unittitle>Television Programs, 196O-1962 (SEE ALSO Direct Line and "You're It. . ."'</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">79</container>
+                        <unittitle>Trade, 1954-1973. 3 Folders.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Trade - Poll, <unitdate>1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Trade - Publications</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Transportation, <unitdate type="inclusive">1972-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Travel, <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Tri-State Committee, 1970-1973. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>United Nations, <unitdate type="inclusive">1950-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>United Nations, <unitdate type="inclusive">1970-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>United States Constitution</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>Urban Action, <unitdate type="inclusive">1972-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>Utilities, Public</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>Veterans Bonus</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>Visitors, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>Vote Power</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>"Voteman°</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>Voter Registration</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>Voter Qualifications</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8l</container>
+                        <unittitle>Voter Service, <unitdate type="inclusive">1950-1996</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">82 and 82a</container>
+                        <unittitle><unitdate type="inclusive">1950-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle><unitdate type="inclusive">1960-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">84</container>
+                        <unittitle><unitdate>1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">85</container>
+                        <unittitle><unitdate type="inclusive">1965-1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">86</container>
+                        <unittitle>Voters Service, <unitdate type="inclusive">1966-1967</unitdate>  Primary Poll Watching Project</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">87</container>
+                        <unittitle>Voters Service, 1968-1973. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">87</container>
+                        <unittitle>WABC, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">87</container>
+                        <unittitle>WCBS, <unitdate type="inclusive">1971-1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">87</container>
+                        <unittitle>War Activities, <unitdate type="inclusive">1934-1942</unitdate>  1947-2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">87</container>
+                        <unittitle>Water Resources, 1955-1962. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">88</container>
+                        <unittitle>Water Resources, <unitdate type="inclusive">1963-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">89</container>
+                        <unittitle>Water Resources, <unitdate type="inclusive">1968-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">89</container>
+                        <unittitle>Water Resources, Delaware River Basin. 2 Folders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">89</container>
+                        <unittitle>Water Resources, Lake Erie Basin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">89</container>
+                        <unittitle>Water Resources, Ohio River Basin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">89</container>
+                        <unittitle>Water Resources, Pollution Abatement Campaign, <unitdate>1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">89</container>
+                        <unittitle>Water Resources, Susquehanna</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">89</container>
+                        <unittitle>Water Resources, Slides. 8 Boxes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>Welfare, <unitdate type="inclusive">1935-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>Woman Suffrage</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>Womens’ Africa Committee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>Workplans, <unitdate type="inclusive">1956-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>Workshops and Seminars</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>"You’re It — You Are Government, USA" <unitdate type="inclusive">1951-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>Youth In Politics</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">90</container>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">91-100</container>
+                        <unittitle>Printed Materials (primarily pamphlets; some mimeographs and clippings)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">101</container>
+                        <unittitle>Photographs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">135-136</container>
+                        <unittitle>Scrapbooks</unittitle>
+                        <physdesc><extent>(6 volumes)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">Mapcase 14-P-01</container>
+                        <unittitle>Oversize material: 2 Folders: Proclamations of League of Women Voters Day, <unitdate>1958</unitdate> and 1959.</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series III: <unitdate>1990</unitdate> Addition</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">102</container>
+                        <unittitle>Action-Annual Reports</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">103</container>
+                        <unittitle>Bicentennial-Charter revisions</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">104</container>
+                        <unittitle>City Conventions-Community Development</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">105</container>
+                        <unittitle>Conference of Urban Problems-Conventions</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">106</container>
+                        <unittitle>Correspondence (1979-1981)-Council Kit Contents</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">107</container>
+                        <unittitle>Cultural Affairs-Finance</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">108</container>
+                        <unittitle>Foundation for City Education-Litigation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">109</container>
+                        <unittitle>Martin’s Department Store-Memoranda</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">110</container>
+                        <unittitle>Memoranda (cont.)-Munites</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">111</container>
+                        <unittitle>National Leangue (1961-1968)-New School Spring Seminar, <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">112</container>
+                        <unittitle>News Clippings-"N" Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">113</container>
+                        <unittitle>Operating Manuals-Radio</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">114</container>
+                        <unittitle>Radio (cont.)-United Nations Background Material</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">115</container>
+                        <unittitle>United Nations (cont.)-Voting Machine (Spanish Film)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">116</container>
+                        <unittitle>"What Makes N.Y.C. Run?" – Women’s Issues</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">117</container>
+                        <unittitle>Women's Job Rights Proposal - Year of Young Voter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">ll8</container>
+                        <unittitle>Photographic Material - Miscellaneous Papers</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">119</container>
+                        <unittitle>Foreign Economic Policy: Action Calls</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">119</container>
+                        <unittitle>Foreign Economic Policy: Congressional Role Call Votes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle>Foreign Economic Policy: Correspondence(1963-1964)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">120</container>
+                        <unittitle>Foreign Economic Policy: Field Trips (1955-1975)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle>Foreign Economic Policy: Foreign Aid Statements</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">121</container>
+                        <unittitle>Foreign Economic Policy: Publications (Old)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle>Foreign Economic Policy: Scrapbook</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">122</container>
+                        <unittitle>Foreign Economic Policy: World Trade</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">123-134</container>
+                        <unittitle>Printed Material</unittitle>
+                    </did>
+                </c>
+            </c>
+
+   
+   
+      </dsc>
+   </archdesc>
+</ead>

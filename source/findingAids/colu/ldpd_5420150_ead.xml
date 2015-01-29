@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://appdev.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_5420150_ead//EN" mainagencycode="nnc-rb">
+            ldpd_5420150_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Tibor Serly Papers,</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+                    Manuscript Library; machine readable finding aid created by Columbia University
+                    Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+                    University Libraries</publisher>
+                <date encodinganalog="Date" normal="2008-12-02">December 2, 2008 </date>
+                <address><addressline>6th Fl. East</addressline>
+                    <addressline>535 West 114th St.</addressline>
+                    <addressline>New York, NY 10027</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT
+                conversion <date normal="2008-12-02">December 2, 2008 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2008-12-02">2008-12-02</date>
+                <item>File created.</item>
+            </change>
+            <change><date normal="2009-01-15">2009/01/15</date>
+                <item>xml document instange created by Patrick Lawlor</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Serly, Tibor.</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="Tibor Serly papers,">Tibor Serly Papers,</unittitle>
+            <unitdate encodinganalog="245$f" normal="1905/1992" type="inclusive">1905-1992.</unitdate>
+            <physdesc><extent encodinganalog="300">3.15 linear feet [ 7 archival document boxes; 1 card file box; 1
+                    oversize flat box (# 749)]</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+                </corpname>
+                <address><addressline>New York, NY. 10027</addressline>
+                </address>
+            </repository>
+            <unitid countrycode="US" repositorycode="nnc-rb" type="clio">5420150</unitid>
+            <unitid countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1416</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng">In English</language> and <language langcode="hun">Hungairan</language>
+            </langmaterial>
+            <abstract>This collection contains the personal papers, including musical scores, of the Hungarian-American composer, arranger, and theorist Tibor Serly.</abstract>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p><!-- BIOGHIST REQUIRED -->Tibor Serly was born in Losonc, Hungary on November 25,
+                1901. He began his musical studies with his father, Lajos Serly, a Hungarian
+                patriot, theatrical composer, and pupil of Liszt. Due to financial hardships, Lajos
+                Serly moved his family in 1905 to New York City, where Tibor spent his childhood.
+                Tibor gained early experience in pit orchestras led by his father until 1922, when
+                he returned to Budapest to attend the Liszt Academy. There, he studied violin with
+                Jenö Hubay, composition with Zoltán Kodály, and orchestration with Leó Weiner,
+                graduating in 1925 with highest honors. During his years in Budapest, Serly also
+                first made the acquaintance of his longtime mentor and friend, Béla Bartók. </p>
+            <p><!-- BIOGHIST REQUIRED -->Serly returned to the United States upon graduation and
+                held positions as a violinist and violist in leading American orchestras, including
+                the Philadelphia Symphony Orchestra under the baton of Eugene Ormandy and the NBC
+                Symphony Orchestra under Arturo Toscanini. He also became close friends with several
+                modernist poets, including William Carlos Williams, Louis Zukofsky, Basil Bunting,
+                and most notably Ezra Pound, whom Serly visited frequently at Pound's home in
+                Rapallo, Italy, arranging concerts there. In 1938, Serly retired from performing to
+                focus on composing and teaching. </p>
+            <p><!-- BIOGHIST REQUIRED -->In 1940, Béla Bartók and his wife emigrated from wartime
+                Hungary to New York. Until Bartók's death in 1944, Serly devoted his energies to
+                providing material and emotional support to the ailing exiled composer. Serly's
+                papers include intimate photographs of Bartók and himself, as well as a home movie
+                of an informal piano performance by Bartók. Serly arranged the <title render="italic">Mikrokosmos</title> suite for chamber orchestra, orchestrated
+                the <title render="italic">Third Concerto for Piano,</title> and posthumously
+                completed the master's <title render="italic">Concerto for Viola</title> from
+                sketches of the work. A talented decipherer and stylist, Serly also reconstructed a
+                duet by Liszt and a section of Schubert's unfinished <title render="italic">Eighth
+                    Symphony.</title>
+            </p>
+            <p><!-- BIOGHIST REQUIRED -->From the 1930s on, Serly engaged in serious theoretical
+                studies, developing a post-Schoenbergian enharmonic system called <title render="italic">Modus Lascivus,</title> which divides the twelve-tone scale into
+                two segments to create a multimodal chromatic scale system. Serly published two
+                advanced theoretical texts, <title render="italic">A Second Look at Harmony</title>
+                (1964) and <title render="italic">Modus Lascivus: The Road to Enharmonicism</title>
+                (1976), and had just completed a third, <title render="italic">The Rhetoric of
+                    Melody,</title> at the time of his death. Serly was also working on both a
+                personal memoir and a biography of Bartók, the unfinished typescripts of which are
+                included in these papers. </p>
+            <p><!-- BIOGHIST REQUIRED -->Towards the end of his life, Serly relocated with his
+                second wife, the pianist Miriam Molin, to Longview, Washington, where he continued
+                to teach and actively championed modernist music in the Pacific Northwest. At the
+                end of his career, Serly was better known for his famous friends and collaborators,
+                especially Bartók and Pound, than his own musical and theoretical work, a fact
+                about which he complained bitterly in later correspondence. He was, however,
+                indefatigable in his commitment to both innovation in modern music and preserving
+                the rich musical traditions in which he had played a central role. </p>
+            <p><!-- BIOGHIST REQUIRED -->Tibor Serly died on October 8, 1978 after being struck by a
+                car on a visit to London. His devoted wife Miriam, who kept his work alive through
+                her performances, compiled the papers in this collection.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>The collection is comprised of the papers in the possession of Serly upon his death
+                in 1978, as well as correspondence related to his career handled by his wife, Miriam
+                Serly, after his death. The content of the papers includes scores, manuscript
+                drafts, correspondence, and other materials related to Serly's career as a composer
+                and writer on music; typescripts, reviews, articles, correspondence, pamphlets,
+                translations, notes, and a 16mm film by and about Béla Bartók; and legal
+                documents, photographs, audio cassette recordings, printed materials, press
+                clippings, certificates, awards, and other memorabilia pertaining to Serly's
+                personal life.</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged into two series and six subseries: <list type="marked">
+                    <item>Series I: Writings and Music by Serly, 1905-1978 <list type="marked">
+                            <item>Subseries 1: Writings by Serly</item>
+                            <item> Subseries 2: Musical Scores</item>
+                        </list>
+                    </item>
+                    <item>Series 2: Personal and Business Materials, 1911-1992 <list type="marked">
+                            <item>Subseries 1: Correspondence</item>
+                            <item>Subseries 2: Business and Publicity Materials</item>
+                            <item> Subseries 3: Memorabilia</item>
+                            <item> Subseries 4: Photographs</item>
+                        </list>
+                    </item>
+                </list>
+            </p>
+        </arrangement>
+        <controlaccess><head>Subjects</head>
+            <corpname encodinganalog="610">Philadelphia Orchestra.</corpname>
+            <persname encodinganalog="600">Bartók, Béla, 1881-1945.</persname>
+            <persname encodinganalog="600">Bartók, Peter, 1924-</persname>
+            <persname encodinganalog="600">Frid, Géza.</persname>
+            <persname encodinganalog="600">Kodály, Zoltán, 1882-1967.</persname>
+            <persname encodinganalog="600">Laughlin, James, 1914-1997.</persname>
+            <persname encodinganalog="600">Ormandy, Eugene, 1899-1985.</persname>
+            <persname encodinganalog="600">Pound, Ezra, 1885-1972--Friends and associates.</persname>
+            <persname encodinganalog="600">Helmy Kresa Henry Pleasants.</persname>
+            <geogname encodinganalog="651">Longview (Wash.)--History.</geogname>
+            <subject encodinganalog="650">Chamber music--20th century--Scores.</subject>
+            <subject encodinganalog="650">Composers--Hungary--Biography.</subject>
+            <subject encodinganalog="650">Hungarian Americans--Music--History and criticism.</subject>
+            <subject encodinganalog="650">Modernism (Music)--United States.</subject>
+            <subject encodinganalog="650">Music theory--History--20th century.</subject>
+            <subject encodinganalog="650">Orchestral music--20th century--Scores.</subject>
+            <occupation encodinganalog="656" source="lcsh">Composers</occupation>
+        </controlaccess>
+        <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>This collection is located onsite. </p>
+            <p>This collection has no restrictions.</p>
+        </accessrestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>Deed of Gift, Barbara Munz, June 2004 2004-2005-M51</p>
+        </acqinfo>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known); Tibor Serly Papers, Box and Folder (if known);
+                Rare Book and Manuscript Library, Columbia University.</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+          
+            <p>This collection was processed by Jude Webre 2007 </p>
+            <p>Finding aid written by Jude Webre in May 2007</p>
+        </processinfo>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Single photocopies may be made for research purposes. Permission to publish material
+                from the collection must be requested from the Curator of Manuscripts, Rare Book and
+                Manuscript Library (RBML). The RBML grants permission to publish that which it
+                physically owns; the responsibility to secure copyright permission rests with the
+                patron.</p>
+        </userestrict>
+        <relatedmaterial encodinganalog="544">
+            <head>Selected Related Material-- at Columbia</head>
+            <p><extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/lweb/archival/collections/ldpd_4079017/index.html">Béla Bartók collection, 1940-1981</extref>
+                <repository>Columbia University<subarea>Rare Book &amp; Manuscript Library</subarea>
+                </repository>
+            </p>
+        </relatedmaterial>
+        <relatedmaterial encodinganalog="544">
+            <head>Selected Related Material-- Other Repositories</head>
+            <p><extref xlink:type="simple" xlink:href="http://catnyp.nypl.org/record=b2487312">Tibor Serly Papers [1906-1978]</extref> 
+            <repository>The New York Public Library, <subarea>Music Division</subarea>
+                </repository>
+            </p>
+        </relatedmaterial>
+      
+        <dsc><c level="series">
+                <did><unittitle>Series I: Writings and Music by Serly, <unitdate type="inclusive">1905-1978</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent><p>Series I includes unpublished drafts of books written by Serly, and musical scores and sketches in his personal collection. The series is arranged into two subseries: Writings by Serly and Musical Scores.</p>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries 1: Writings by Serly, <unitdate type="inclusive">1905-1978</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>Serly spent the better part of his last decade researching and writing a biography of Béla Bartók, a theory text about melody, and a personal memoir, all of which are included here in draft form. The extensive materials for the Bartók biography include: Serly’s translations from Hungarian of musical essays written by Bartók; interviews with friends and family of Bartók; and unpublished historical and musicological essays written by Serly about Bartók. The Bartók material also contains the only known copy of a 16mm color home movie, without sound, of an informal performance by Bartók from 1944; with documents and correspondence from the 1970s between Serly and the Bartók estate concerning ownership of the film. Subseries 1 also includes the final draft versions of the unpublished <title render="italic">Rhetoric of Melody,</title> with voluminous correspondence between Serly and his co-author, Norman Newton, on the development of the text.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Unfinished Bela Bartok Biography, Drafts and
+                            Notes</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">2</container>
+                                <unittitle>Typescript draft</unittitle>
+                                <physdesc><extent>(2 Folders)</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">2</container>
+                                <unittitle>Original Bartok writings, translated by Serly</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">2</container>
+                                <unittitle>Misc. research notes, interviews, and
+                                translations</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">2</container>
+                                <unittitle>Typescript draft essays for biography</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">2</container>
+                                <unittitle>Bartok 16mm home movie,
+                                <unitdate>1944</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">2</container>
+                                <unittitle>Correspondence and contracts related to Bartok
+                                film</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle><title render="italic">Rhetoric of Melody, </title>written
+                                with Norman Newton, <unitdate type="inclusive">1976-1978</unitdate>
+                            </unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>Bound final drafts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>Correspondence with Norman Newton and others</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">3</container>
+                                <unittitle>Notes and research</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Other Writings</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">3</container>
+                                <unittitle><title render="italic">Musings of an Angry
+                                    Musician</title> --notes and essays for memoir</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">3</container>
+                                <unittitle><title render="italic">Modus Lascivus</title> --notes,
+                                    drafts, microfilm, publicity</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">3</container>
+                                <unittitle>Miscellaneous program notes for Serly
+                                compositions</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Subseries 2: Musical Scores, <unitdate type="inclusive">1925-1978</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>A collection of original scores and arrangements from the entire length of Serly’s career. The works include ballets, songs, chamber music, symphonies,
+                    
+                        and experimental music, all in different states of completion: parts, conductor scores, revisions, sketches, microfilms, and transparencies. Several pieces also demonstrate Serly’s expertise as an arranger, with works by Bartók, Bach, Schubert, and his father, Lajos Serly.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <unittitle>Songs--manuscript and printed scores</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“Angie Mimey”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“Birthday Song”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“Forest Lullaby”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“Forget-Me-Not” (Lajos Serly, arr. by Tibor
+                                Serly)</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“Lady Alice”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“Longview Song”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“The Needle’s Eye”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“Oh, Miss Mary”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“The Old Man Who Lived in the Wood”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“The Old Woman and the Preacher”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“Slave Song”</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">5</container>
+                                <unittitle>“Two Little Sisters”</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><unittitle>Chamber, Orchestral, and Theatrical Works</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Adagio and Scherzo for Flute Solo</title>--score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">American Quodlibet</title>--score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Canonic Prelude for Four Harps</title>--scores</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Castout</title>--ballet score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Concerto for Viola and Orchestra</title>--score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Divertimento for Wind Instruments</title>--parts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Five Consovowels in Modus Lascivus</title>--notes, parts,
+                                score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Five Pieces for Trombone and Piano</title>--parts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Five Pieces for Violin and Piano</title>--parts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">40 Etudes</title>--score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Fughatta for Orchestra</title>--(Bach, arr. by Serly); manuscript
+                                    parts and score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Ghidonis Sonata for Strings</title>--score, parts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Instruments of the Symphony Orchestra</title>--notes, score,
+                                    parts, transparencies</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Into the Heavens (Celestial Music)</title>--score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Menuet in Bi-Modals</title>--printed score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Mischianza</title>--bound ballet score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Modus Lascivus</title>--chart</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Piano Sonata in Modus Lascivus</title>--parts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">The Pleiades</title>--score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Rondo Fantasy in Stringometrics</title>--score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Scherzo</title>--(Schubert, arr. by Serly); score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Sea-side Suite</title>--scores</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Sonata in B for Violin and Piano</title>--photocopied
+                                score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">String Quartet</title>--parts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Suite from Mikrokosmos</title>--(Bartok, arr. by Serly);
+                                parts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Symphony in Two Movements</title>--bound score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Tap Dance From Six Dance Designs</title>--parts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Twilight</title>--score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Viola Concerto</title>--(Bartok, arr. by Serly); microfilm and
+                                    printed score</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">The Wayworn Traveler</title>--score, parts</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Xmas Quodlibet</title>--score</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">5, 7</container>
+                            <unittitle>Miscellaneous parts and scores--manuscript and
+                            printed</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series II: Personal and Business Materials, <unitdate type="inclusive">1911-1992</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent><p>Series II contains business documents, correspondence, a scrapbook, and personal effects of Serly’s life and career. The series is arranged into four subseries: Correspondence, Business and Publicity Materials, Memorabilia, and Photographs.</p>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries 1: Correspondence, <unitdate type="inclusive">1931-1992</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>Personal and business-related correspondence, mostly from the 1970s, arranged alphabetically. Among the correspondents are Geza Frid, Lawrence Gilman, James Laughlin, and Peter Bartók. Subseries also includes the correspondence of Miriam Serly concerning Serly’s career with scholars, publishers, and the Bartók estate through the 1980s; and three folders of reproductions of Serly’s brief correspondence with Bartók and Zoltán Kodály, and more extensive correspondence with the music critic Henry Pleasant. These copies were obtained by Serly from other archives.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Arranged Correspondence, <unitdate type="inclusive">1937-1978</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Carbons and Photocopies of Replies, <unitdate type="inclusive">1931-1978</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Letters by Others, <unitdate type="inclusive">1936-1985</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Letters to Miriam Serly, <unitdate type="inclusive">1979-1992</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Serly/Bartók Letters, <unitdate type="inclusive">1939-1944</unitdate> (photocopies)</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Serly/Zoltán Kodály Letters, <unitdate type="inclusive">1930s-1966</unitdate> (photocopies)</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Serly/Henry Pleasant Letters, <unitdate type="inclusive">1931-1951</unitdate> (photocopies)</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Unidentified Correspondence</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Subseries 2: Business and Publicity Materials, <unitdate type="inclusive">1925-1988</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>Serly thoroughly documented his performing and composing career, best represented in an oversized scrapbook spanning his career, from music school concerts in Budapest from 1925; through his active period in the 1930s and 1940s, playing under Leopold Stokowski, Eugene Ormandy, and Arturo Toscanini; to his later years in the Pacific Northwest. Scrapbook includes an almost complete record in programs of performances of Serly’s work, as well as clippings, reviews, and personal letters. Also, provides a record of Bartók’s reception in New York during his exile and tributes to him after his death. Other notables in the scrapbook include Kodály, Ezra Pound, and Geza Frid. Subseries 2 also contains a file of newspaper clippings kept by Serly; a collection of clippings about Ezra Pound, mostly from the 1970s; a folder of orchestra programs from Serly’s career; and original copyright forms and contracts for his published work.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Flat Box">749</container>
+                            <unittitle>Scrapbook, <unitdate type="inclusive">1925-1978</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Copyright Forms and Contracts</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Orchestra Programs from Serly’s Career, <unitdate type="inclusive">1935-1988</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Newspaper Clippings about Serly</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Clippings on Ezra Pound, collected by Serly</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>General business and publicity materials</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Subseries 3: Memorabilia, <unitdate type="inclusive">1911-1978</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>A small collection of personal items including: certificates, awards, and medals presented to Serly; membership cards; the 1911 naturalization certificate of Lajos Serly and his family; postcards and items collected by Serly in Hungary; and official documents pertaining to Serly’s accidental death in London, including his death certificate.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Memorabilia, <unitdate type="inclusive">1911-1978</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Subseries 4: Photographs, <unitdate type="inclusive">1935-1978</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>Two folders of photographs and negatives: the first contains photographs related to Bartók and his family, including several excellent images of casual moments from Bartók’s time in America, as well as the last photograph (and negative) of Bartók, standing in front of Columbia University with his family. The second folder includes professional, publicity, and personal photographs, arranged chronologically, of Serly throughout his career, from 1930s orchestra photos through a 1976 trip to Hungary that Serly took with his wife to visit Kodály, and personal photographs of Serly at the end of his life in Longview, Washington.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Photographs related to the Bartók family</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Professional and personal photographs of Serly</unittitle>
+                        </did>
+                    </c>
+                                   </c>
+            </c>
+
+        </dsc>
+    </archdesc>
+</ead>

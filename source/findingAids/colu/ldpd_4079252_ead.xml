@@ -1,0 +1,2148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079252_ead//EN" mainagencycode="nnc-rb">ldpd_4079252_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+         <descrules>Finding aid adheres to that prescribed by <title render="italic">Describing
+               Archives: A Content Standard</title>
+            </descrules>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2012-08-09">2012-08-09</date>
+            <item>XML document instance created by Catherine C. Ricciardi</item>
+         </change>
+         <change><date normal="2012-08-14">2012-08-09</date>
+            <item>XML document revised by Megan Darlington</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Rapoport, Eda Rothstein, 1890-1968.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Papers,">Eda Rothstein Rapoport Papers, </unittitle>
+         <unitdate encodinganalog="245$f" normal="1915/1968" type="inclusive">[ca.
+            1915]-1968.</unitdate>
+         <physdesc><extent encodinganalog="300">10.85 linear ft. (24 music file boxes, 11 manuscript boxes,
+               and 1 oversized box)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079252</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English, Yiddish, and French.</language>
+         </langmaterial>
+         <abstract>Eda Rapoport was a Jewish American composer and pianist. Her papers are comprised
+            primarily of manuscripts of musical scores arranged by Rapoport, as well as
+            commercially-printed music. The collection also features vinyl recordings of concerts
+            given by Rapoport throughout her career.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Eda Rapoport was a Jewish American composer and pianist. Born
+            December 25, 1890 in Daugavpils, Latvia, she later immigrated to the United States,
+            where she lived much of her life in New York. Considered a prolific composer of her day,
+            she arranged several hundred compositions for piano, violin, voice, and symphony
+            orchestra. Rapoport died on May 9, 1968 at her home in Manhattan.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The Eda Rapoport Papers are comprised primarily of music manuscripts authored by
+            Rapoport, many of which are autographs. While most of the manuscripts are undated, they
+            are accompanied by bound albums, which contain vinyl recordings of concerts given by
+            Rapoport throughout her career. Most of the records are labeled according to the date
+            and piece performed, and span between 1939 and 1966. The collection also features a
+            small selection of printed music, originally intended for commercial distribution. Also,
+            diaries of her musical life, 1932-1948, kept by her husband, Boris Rapoport.</p>
+         <p/>
+         <p>The container list for Series I was compiled from the labels on the individual boxes;
+            there is a full list of items available in this series in the Manuscript Card Catalog
+            located in the Rare Book &amp; Manuscript Library.</p>
+      </scopecontent>
+      <arrangement><head>Arrangement</head>
+         <p>This collection is arranged in three series:<list type="marked">
+                    <item>Series I: Original
+                  Accession</item>
+                    <item>Series II: Later Accession- Scores<list type="marked">
+                     <item>Subseries II.1 Manuscript Music</item>
+                            <item>Subseries II.2 Printed
+                        music</item>
+                  </list>
+                    </item>
+                    <item>Series III: Sound recordings</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Rapoport, Boris.</persname>
+         <persname encodinganalog="600">Rapoport, Eda Rothstein, 1890-1968.</persname>
+         <subject encodinganalog="650">Jewish composers.</subject>
+         <subject encodinganalog="650">Music.</subject>
+         <subject encodinganalog="650">Women composers-- United States.</subject>
+         <genreform encodinganalog="655" source="aat">autographs (manuscripts).</genreform>
+         <genreform encodinganalog="655" source="aat">diaries.</genreform>
+         <genreform encodinganalog="655" source="aat">scores.</genreform>
+         <genreform encodinganalog="655" source="aat">sheet music.</genreform>
+         <genreform encodinganalog="655" source="aat">sound recordings.</genreform>
+      </controlaccess>
+      <accessrestrict><p>This collection is located on-site.</p>
+         <p>This collection has no restrictions. </p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1969 M-69 Rapoport, Dr. Boris and Eda Bequest</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Eda Rothstein Rapoport Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 08/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            both the physical property and copyright. To request permission to quote or publish,
+            please contact the RBML at rbml@columbia.edu.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Original Accession</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="box" label="Box"> R1</container>
+                  <unittitle>Diaries</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R2</container>
+                  <unittitle>Works,</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box"> R2</container>
+                     <unittitle>Clarinet</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R2</container>
+                     <unittitle>Piano A-R</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R3</container>
+                     <unittitle>Piano S-Z</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R3</container>
+                     <unittitle>Violin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R4</container>
+                     <unittitle>Violin and Piano</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R5</container>
+                     <unittitle>Violoncello</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R5</container>
+                     <unittitle>Violoncello and Piano</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R5</container>
+                     <unittitle>Violin and violoncello</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R6</container>
+                     <unittitle>Trios, Piano and String</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R6</container>
+                     <unittitle>Trios, Strings</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box"> R7</container>
+                     <unittitle>Flute</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R7</container>
+                  <unittitle>Quartet, Strings C major</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R8</container>
+                  <unittitle>Mysterious Forest</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R8</container>
+                  <unittitle>Pastoral Quartet</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R8</container>
+                  <unittitle>Quartet on Hebrew Themes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R8</container>
+                  <unittitle>Quartet, Piano, Flute, Violin, and Violoncello</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R8</container>
+                  <unittitle>Quartet, Piano and Strings</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R8</container>
+                  <unittitle>Quartet, strings, G Major</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R9</container>
+                  <unittitle>Adagietto</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R9</container>
+                  <unittitle>Indian Legend</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R9</container>
+                  <unittitle>Pastels</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R9</container>
+                  <unittitle>Quintet, Flute and String Quartet no. 2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R9</container>
+                  <unittitle>Quintet-suite, Piano and Strings</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R9</container>
+                  <unittitle>Suite (Hebrew)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R10</container>
+                  <unittitle>Works, Organ</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R10</container>
+                  <unittitle>Miscellaneous Chamber Music</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R10</container>
+                  <unittitle>Sketches</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R10</container>
+                  <unittitle>The Freudian Complex</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R11</container>
+                  <unittitle>Songs</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R12</container>
+                  <unittitle>Works, Chorus</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R12</container>
+                  <unittitle>The Raven</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R12</container>
+                  <unittitle>Saul and David</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R13</container>
+                  <unittitle>Children's Suite</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R13</container>
+                  <unittitle>Hebrew Dance</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R13</container>
+                  <unittitle>Lamentations</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R14</container>
+                  <unittitle>Country Scenes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R14</container>
+                  <unittitle>Echoes from a Chinese Village</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R14</container>
+                  <unittitle>Mulberry Bend</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R14</container>
+                  <unittitle>Petite Suite</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R15</container>
+                  <unittitle>Miniature Symphony</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R15</container>
+                  <unittitle>Revolt in the Warsaw Ghetto</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R16</container>
+                  <unittitle>Concerto, Piano</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R16</container>
+                  <unittitle>Quintet, Flute and String Quartet no.1</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R17</container>
+                  <unittitle>Concerto--Violin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R18</container>
+                  <unittitle>Israfel</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R18</container>
+                  <unittitle>Midrash</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R18</container>
+                  <unittitle>Song of Songs</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R19</container>
+                  <unittitle>The Fisherman and his Wife</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R20</container>
+                  <unittitle>G.I. Joe</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R21</container>
+                  <unittitle>The Hobo and the Old Maid</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R22</container>
+                  <unittitle>Little Symphony</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R23</container>
+                  <unittitle>The Mathmid</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box"> R24</container>
+                  <unittitle>Symphonic Dances</unittitle>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series II: Later Accession-Scores</unittitle>
+            </did>
+            <scopecontent><p> This series is comprised of musical scores authored by Rapoport, and includes
+                  both manuscript and printed material. </p>
+            </scopecontent>
+
+
+            <c level="subseries">
+               <did><unittitle>Subseries II.1. Manuscript music</unittitle>
+               </did>
+               <scopecontent><p>The bulk of the collection, this subseries contains manuscript musical scores,
+                     most of which are autographs. While most are not original manuscripts, the vast
+                     majority are engravings in Rapoport’s own handwriting. This subseries is
+                     arranged alphabetically by title.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">A December Day </title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">A Drinking Song</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">A Moment</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">A Study for unaccompanied violin</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">The Acrobat for piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Adagietto for strings and flute</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Adagio</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Adventure, Plateaus</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Air de Ballet</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">The Angel for voice and pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Andate</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Arabesque for violin and pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Arioso: Echo from the Canal</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Berceuse for violin and pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">The Broken Harp</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Butterfly for soprano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Caprice for violin alone</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Chant</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Chant Hebraique for violoncello or viola and
+                           pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Chinese Legend</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Classical Country Dance</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">The Clown for violin and pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Coastal Storm</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Concerto for violin and orchestra</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Concerto for violin and orchestra</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Concerto for violin and orchestra</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Concerto for violin and orchestra</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Conga for violin and pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Dance of the Clowns</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Dance Eccentrique</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Dance Fantastique</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Dance Fantastique</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Dance Oriental</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Dance Oriental</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Dark Skins and Voodoo Magic</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Dawn</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Deep Night</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Der Klesmer (Die Fiedel)</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Do I Love TheeÀ</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Drift Wood</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Du Fregst Mich</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Duo I</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Duo II</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Duo Atmospheric</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Duo Episode</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Duo for Violin and Cello, Abstract and
+                           Non-Objective</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Duo-Image</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Duo-Legend</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Dusk</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Echoes from the Forest for violin and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Eldorado</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Elegy for violoncello and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Erinnerung</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Essay for flute and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Etching for flute and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Explorations for clarinet and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Explorations</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Fallende Blatter</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Fantasia for saxophone and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Five Songs</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <container type="folder" label="Folder">6</container>
+                        <unittitle><title render="italic"> A Little Madness</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <container type="folder" label="Folder">6</container>
+                        <unittitle><title render="italic"> Autumn Leaves</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <container type="folder" label="Folder">6</container>
+                        <unittitle><title render="italic"> Foolish Birds</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <container type="folder" label="Folder">6</container>
+                        <unittitle><title render="italic"> If Plot Is Not</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <container type="folder" label="Folder">6</container>
+                        <unittitle><title render="italic"> To An Air Cadet</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Foolish Birds</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Four Episodes from the Life of Moses for
+                           pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Four Songs</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <container type="folder" label="Folder">6</container>
+                        <unittitle><title render="italic"> If Plot Is Not</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <container type="folder" label="Folder">6</container>
+                        <unittitle><title render="italic"> A Little Madness</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <container type="folder" label="Folder">6</container>
+                        <unittitle><title render="italic"> Autumn Leaves</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <container type="folder" label="Folder">6</container>
+                        <unittitle><title render="italic"> Foolish Birds</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Hebrew Dance</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Hebrew Legend and Dance</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Hindu Dance</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">The House on the Bay for pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">The House on the Hill</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Humoresque</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Imagination</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Impressions for solo flute</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Impressions for violin solo or violin and
+                           pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Interlude</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Invocation and Caprice for cello and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Israfel</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Israfel</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Israfel</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Israfel</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">It is a Dream</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">The Jeweled Tree</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">The Kiss</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Kol Nidrei, for violin alone</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Konnt ich eine Blume sein</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Lake Louise, The Grand Canyon</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">The Lamplighter</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Legend, for violin alone</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Liebe</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Little Mouse</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Looking Through My Window, for unaccompanied
+                           violin</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Lullaby</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Meditation, for violin alone</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Melodie, for violin and pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Momentum I</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Momentum II</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Moods, for violoncello and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Moods of the Past, for violin alone</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Mother and Child</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Mysterious Forest, for five strings and one
+                           flute</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Mystique, for flute alone</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Nei-Yor</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Night You Are a Gypsy, for soprano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Nigun</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Nocturne in E, for violin and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Nocturne No. 2</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Not Forgotten</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Nouvelle</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">The Old Castle, Air de Ballet</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">On the Azure Ocean</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">On the Grand Canal</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Pastoral</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Perpetuum Mobile, for violin and pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Petite Poem, for violin and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Petite Suite for Strings</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Petite Valse</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Poem</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Prelude for Organ</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Pourquoi</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Quartet</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Quartet in G</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Quartet No. 3</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Rendezvous, for violin and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Retort</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">The River</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">River Dree</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Rocks and Sea, for pianoforte solo</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Romanze, for violin and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Scenes of New York</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">6</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Melting Pot</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">6</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic">At Dusk on Brooklyn Bridge</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">6</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic">At the Playground</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">6</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Aeronautical Serenade</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Sea Fog, for violin and pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Sea Song</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Second Violin Sonata</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Serenade to a Doll</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Shepherd Song</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Sholom Aleichem Suite, for violin and
+                           pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Silhouette, for pianoforte solo</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Sonata, for cello and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Sonata No. 1, for pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Sonata No. 3, for pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Sonatina, for pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Sonatina No. 4, for pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Song and Dance, for violin alone</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Song of the Gondolier, for violin alone</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Song of the River, for cello and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">The Song of Songs</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Souvenir</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Space</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Spanish Serenade</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Staccato</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Stars</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">String Quartet No. 3</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Spring</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Student’s Song</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Summer</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">The Swallow</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Tango</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Tarantalla</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Tears in My Heart</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Three Dances</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">7</container>
+                        <container type="folder" label="Folder">5</container>
+                        <unittitle><title render="italic"> Air de Ballet</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">7</container>
+                        <container type="folder" label="Folder">5</container>
+                        <unittitle><title render="italic"> Hindu Dance</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">7</container>
+                        <container type="folder" label="Folder">5</container>
+                        <unittitle><title render="italic"> A La Valse</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">The Three Graces</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">7</container>
+                        <container type="folder" label="Folder">5</container>
+                        <unittitle><title render="italic"> Sara</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">7</container>
+                        <container type="folder" label="Folder">5</container>
+                        <unittitle><title render="italic"> Theresa</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">7</container>
+                        <container type="folder" label="Folder">5</container>
+                        <unittitle><title render="italic"> Eda</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Three Little Songs</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle><title render="italic"> A Moment</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle><title render="italic"> Three Visitors</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle><title render="italic"> I Only Laughed</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Three Pastels</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle><title render="italic"> A Weeping Willow</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">1</container>
+                        <unittitle><title render="italic"> In the Garden at Dawn</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic"> Three Patriarchs</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Three Pieces</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic"> Spanish Serenade</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic"> Impromptu</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic"> Recitativo</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Three Preludes</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Three Sketches</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic"> From the Terrace</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic"> Shepherd Song</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic"> Butterfly</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Three Songs</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic"> For a Friend</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic"> For a Friend</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">2</container>
+                        <unittitle><title render="italic"> Moonrise over Charleston</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Through My Window</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">To A Soldier Boy</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">To An Air Cadet</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">To Mrs. D</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Trio in A-minor</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Triple Play </title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Two Small Pieces</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Two Songs</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">4</container>
+                        <unittitle><title render="italic"> The Lark</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <container type="folder" label="Folder">4</container>
+                        <unittitle><title render="italic"> My Heart and Lute</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Valse</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Valse Pathetique</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Washerwoman’s Song</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">1</container>
+                     <unittitle><title render="italic">Welcome, Queen Sabbath</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Welcome, Queen Sabbath</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Wind and Sea</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Winter and April Woods</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">Wieg-Lied</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">2</container>
+                     <unittitle><title render="italic">You Do Not Care</title>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+
+
+            <c level="subseries">
+               <did><unittitle>Subseries II.2. Printed music</unittitle>
+               </did>
+               <scopecontent><p> This subseries contains printed reproductions of Rapoport’s works. Unlike
+                     Subseries I.1, they are not handwritten copies; rather, they are
+                     machine-produced and were intended for commercial distribution. This subseries
+                     is arranged alphabetically by title.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Agada, for violin or violoncello and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Berceuse Perpetuum Mobile, for violin and
+                           pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Drinking Song, words from the Russian, by Harry
+                           Fein</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Lamentations, based on Hebrew Themes, for violoncello
+                           and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Midrash, for violin and cello</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Nigun, for violin or violoncello and piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Quartet in G</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">The River, poem by Paul Eisman</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Sleep, Little Baby, song by Eda Rapoport</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">String Quartet, on Hebrew themes</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">5</container>
+                     <unittitle><title render="italic">Suite, for two pianos</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Thoughts in the Night, for violin or violoncello and
+                           piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Thoughts in the Night (Harhorey Lailah), poem by Ch.
+                           N. Bialik</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Three Etchings</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Three Impressions, for pianoforte</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Three Pastels, for piano</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">To A Cactus</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <container type="folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Vacation</title>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series II. Sound recordings</unittitle>
+            </did>
+            <scopecontent><p> This subseries features eight albums containing vinyl recordings of various
+                  concerts given by Rapoport throughout her career. Included also is a recording on
+                  magnetic tape. The albums are dated between 1939 and 1966 and are arranged in
+                  their original order. They are accompanied by an itemized list of the works
+                  performed and date recorded, though this information is not available for every
+                  recording. The albums are fragile and should be handled with care.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Album 1</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Album 2</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Album 3</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Town Hall recording (magnetic tape)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Album 5</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Album 6</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Album 8</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Album 7</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Album 9</unittitle>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

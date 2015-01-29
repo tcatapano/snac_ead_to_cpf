@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079541_ead//EN" mainagencycode="nnc-rb">ldpd_4079541_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Douglas Moore Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-17">2010-02-17</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Moore, Douglas, 1893-1969.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Douglas Moore Papers">Douglas Moore Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1907/1963" type="inclusive"/>
+         <unitdate encodinganalog="245$g" type="bulk">1907-1963</unitdate>
+         <physdesc><extent encodinganalog="300">21 linear ft. (ca. 6,200 items in 45 boxes and 1 flat box)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University,<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, N.Y. 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079541</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Composer, who was also professor of music at Columbia University from 1926-1962.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Professional and personal correspondence and original scores and sketches. In addition to the numerous original compositions, there are letters and related materials dealing with these works. These include production notes, librettos and data concerning the production and performances of such works as: "The Ballad of Baby Doe," "The Devil and Daniel Webster," "Giants in the Earth," and "White Wings." There is material relating to the curriculum and administration of Columbia's Music Department, of which Moore was chairman since 1926. His correspondence related to his membership of the Century Club, the McDowell Association, and the National Institute of Arts and Letters, and correspondence concerning his editorship of the Prentice Hall Music Series is also included. Of interest are several dozen printed scores and a few books written, inscribed, and signed by fellow composers such as Ernest Bloch, Vincent D'Indy, and Roger Sessions </p>
+         <p>1991 Addition: Correspondence with some related photographs and clippings. The majority of the letters are by Douglas Stuart Moore to his mother, Myra D. Moore. This correspondence, which spanned a 27 year period from the fall of 1906 to late 1933 represents perhaps the most comprehensive record of Moore's life, for it was his habit to write to his mother every Sunday, a ritual to which he was remarkably faithful. The various stages of Moore's life are apparent in his letters: his first experience away from home at the Hotchkiss School in Connecticut, his undergraduate years at Yale, time spent in a Maritime Academy in Maryland, his service in the Navy during the First World War, his tenure as Musical Director of the Cleveland Museum of Art, further travels in Europe, his position in the Music Department of Columbia University (1926-1962). The letters also follow the course of Myra Moore's life, where she lived in Brooklyn, Long Island, and finally Orange County California. There are some letters from other members of the family to Myra Moore. A few remaining letters that are not addressed to Moore's mother, are letters he wrote to other members of his family.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 6 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged Correspondence</item>
+               <item>Series II: Arranged Correspondence</item>
+               <item>Series III: Columbia Course Material</item>
+               <item>Series IV: Scores</item>
+               <item>Series V: Manuscripts Scores and Sketches in Moore's Hand</item>
+               <item>Series VI: Oversize Material</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University.--Music dept.</corpname>
+         <persname encodinganalog="600">Sessions, Roger, 1896-1985.</persname>
+         <subject encodinganalog="650">Music--Manuscripts.</subject>
+         <subject encodinganalog="650">Composition (Music)</subject>
+         <genreform encodinganalog="655" source="ftamc">Lectures.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Librettos.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Minutes.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Motion pictures.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Portraits.</genreform>
+         <genreform encodinganalog="655" source="aat">Sketches.</genreform>
+         <genreform encodinganalog="655" source="aat">Scores.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Sheet music.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Surveys.</genreform>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Composers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Musicians.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located on-site.</p>
+      </accessrestrict>
+        <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Papers Moore, Mrs. Douglas and family, etc. Gift </p>
+         <p>03/07/91 M-07-03-91 1991 Addition</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Mrs Douglas Moore &amp; family, 1971 &amp; 1973. </p>
+         <p>Gift of Mrs Bradford Kelleher &amp; Miss Sarah Moore, 1980, 1987 &amp; 1991.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Douglas Moore Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers Entered in AMC 11/06/90 </p>
+         <p>1991 Addition Updated 02/07/92 MK</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Adler, Kurt Herbert To Douglas Moore, San Francisco, <unitdate>2 May 1960</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page t.l.s.)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Barlow, Wayne </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bacon, Ernst </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Belmont, Eleanor Robson </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Benet, William Rose </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bing, Rudolph </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Borge, Victor </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Brooks, Van Wyck </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Butler, Nicholas Murray </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Cleland, Thomas Maitland </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Copland, Aaron </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Damrosch, Walter </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Eisenhower, Dwight David </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Fekete, Zolton </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Foss, Lukas </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Glanville-Hicks, Peggy </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Goossens, Eugene </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Graham, Martha </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Hanson, Howard </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Hartford, Huntington </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Langstaff, John Meredith </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>MacDowell, Marian Nevins (Mrs. Edward) </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>MacLeish, Archibald </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mannes, Leopold </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mason, Daniel Gregory </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mason, Gregory </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Menuhin, Yehudi </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Meyerowitz, Jan </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mitropoulos, Dimitri </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Partch, Harry </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rodzinski, Artur </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rudel, Julius </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Schoenberg, Arnold </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Schuman, William </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Sessions, Roger Huntington </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Szigeti, Joseph </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Weisgall, Hugo </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2 - 9</container>
+                        <unittitle>Moore, Douglas Stuart To Myra D. Moore</unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series II: Arranged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Moore Family Correspondence, <unitdate>1904 - 1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Adam was my Grandfather</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>American Academy in Rome , <unitdate>1949-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>American Academy of Arts and Letters Minutes</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>American Society of Composers and Publishers (A.S.C.A.P.) </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Ballad of Baby Doe -- Central City -- General Correspondence (Folders 1-1.) -- M.S. and I.S. Iscaas, Lucy Kroll, Michael Myerberg et. al. 1-3</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Ballade Of William Sycamore</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Biographical Material - with Portraits</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Carry Nation</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Century Association</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Clarinet Quintet</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Columbia University Extension -- Humanities -- Music -- Department Budget (Folders 1-2) -- Music Department Curriculum -- Music Department Reports</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Composers Survey - American Music Center</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Correspondence Referring To More Than One Work, <unitdate>1928 - 1936; 1941- 1944; 1945; 1946; 1947; 1948; 1949; 1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Correspondence, <unitdate>January 1951 - April 1951
+; May 1951 - August 1951
+; September 1951 - December 1951
+; 1952
+; 1953
+; 1956
+; 1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Correspondence, <unitdate>1958
+; 1959
+; 1960 (2 Folders)
+; 1961
+; 1962
+; 1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Cotollion
+ -- Dedication
+  -- Destroyer Life
+  -- Devil and Daniel Webster 
+ -- Documents - 1955 -1959 
+ -- Down East Suite
+ -- Farm Journal 
+ -- Gallantry and the Boor (See Also Box 31) 
+ -- General Information About Works
+ -- Giants in the Earth (Folders- l-2)
+ -- Giants in the Earth Libretto (Ditto Sheets)
+ -- Gook Night Poor Harvard
+ -- Headless Horseman
+ -- Lectures and California Trip - January 1950</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>MacDowell Association , <unitdate>1926 - 1928</unitdate>
+                        </unittitle>
+                        <physdesc>((Folders 1-2) )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>MacDowell Association , <unitdate>1947 - 1959</unitdate>
+                        </unittitle>
+                        <physdesc>((Folders 1-2) )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>McGraw-Hill
+ -- Mary's Player
+ -- Memorian
+ -- Miscellaneous Printed Material
+ -- Music in the Making (Folders 1-2)
+ -- Mysterious Cat
+ -- National Institute of Arts and Letters - 1948-1960 (Folders 1-4)
+ -- Old Song
+ -- Overture on an American Tune</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>The Pageant of P.T. Barum
+ -- Partch, Harry Oedipus
+ -- Prayer for the United Nations
+ -- Prentice Hall Correspondence - A-Z
+ -- Printed Materials
+ -- Programs and Advertisements
+ -- Puss in Boots</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Quartet 1933
+ -- Quintet for Winds
+ -- References and Recommendations 1948 -1950
+ -- Society for Music in the Liberal Arts College
+ -- Suite for Piano
+ -- Symphony in A Major
+ -- Vai-Choo-Loo
+ -- Village Music
+ -- White Wings
+ -- Wings of the Dove
+ -- Wonderful Violin
+ -- Yale Alumni Council 1948 -1954</unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series III: Columbia Course Material</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Grades
+ -- Student Papers
+ -- Course Outlines</unittitle>
+                        <physdesc>((Binders 1-3) )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>"GS Music I"
+ -- "Humanities"
+ -- "Modern Music"
+ -- "Music 107"
+ -- "20th Century Music"</unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series IV: Scores</unittitle>
+                </did>
+                <scopecontent><p>Printed scores and a few books inscribed and signed by the following composers to D. S. Moore</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">22 &amp; 23</container>
+                        <unittitle>Bacon, Ernst </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Barnett, David </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Binet, Jean </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Bloch, Ernest </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Carter, Elliott </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Daniels, Mable </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>D'Indy, Vicent His cours de composition musicale, Paris, <unitdate>1912</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[With annotations in Moore's hand]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Dupre, Marcel </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Helfer, Walter </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Maganini, Quinto </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Moore, Douglas </unittitle>
+                        <physdesc>((Folders 1-2) )</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Moore, Douglas </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Myers, Richard </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Parker, Horatio </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Saminsky, L. </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Sessions, Roger </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Shepherd, Arthur </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Spelman, Timothy Mather </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Thompson, Randall </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Trimble, Lester </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Vasco, Mariz </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Weisse, Hans </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Winternitz, Emanuel </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series V: Manuscripts Scores and Sketches in Moore's Hand</unittitle>
+                </did>
+                <scopecontent><p>Boxes 24 - 44</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>April Weather</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Ballad of Baby Doe</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Beethoven's Sonata Pathetique First Movement</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Bird Song</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Carry Nation</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Cat Sat</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Cello Sonata</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Choral Varie</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Class Song</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Cleopatra's Mother</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Copy Book</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Cruise</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Dear Dark Head</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Dedication</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Dedicatory Hymn</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Destroyer Life (Folders ~-2)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Discouraged Churchill</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Doughbcy S'eu , Fiche</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Down at the North Fork Country Club Cabaret</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Down East Suite</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Early Song</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Emperor's New Clothes (Folders 1-2)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Etude in Tenths</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Fall of the City</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Pantasie Polonaise</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Film Music No. A</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>First Composition 1907</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Fourth Calvary- Regiment March</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Friends, Elis Countrymen</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Gallantry (See Also Box 31)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Giants of the Earth</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Greek Games</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Greenfield Christmas Tree</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>He's Gone Away</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>I Followed Lonely Down the Marne</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>In a Glass of,Water Before Retiring</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>In Springtime</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Jesse James (Folders-1-3)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Jungle Heroes</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Kimogenor</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>King Lear</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Kitty-Cat Bird</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Lja ne</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Macleish Songs</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Manuscript Notebook No. 8</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>March</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Martha</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Miscellaneous (Folders 1-3)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Moby Dick (Folders 1-9)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Movie Music
+ -- Much Ado About Nothing
+ -- My Garden
+ -- Naomi
+ -- North Atlantic Suite
+ -- Notebook A-B
+ -- Not this Alone
+ -- Oh, Oh, Tennessee (Folders 1-2)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Oh, Oh, Tennessee
+ -- Old Gray Mare
+ -- Olympian Song
+ -- Overture L'Atlan-Itique
+ -- Overture Sketches
+ -- Parabalou (Folders 1-2)
+ -- Pelican Chorus
+ -- Piano Scores
+ -- Piano Sonata
+ -- Poor Wayfaring Stranter</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Power and the Land - Bass</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Power and the Land - Cello</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Power and the Land  - Viola</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Power and the Land - Violin (Yolders 1-4)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Power and the Land - Basson and Horn</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Power and the Land - Clarinet</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Power and the Land - Flute and Oboe</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Power and the Land - Trumpet, Trombone, Percussion and Tympani</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Power and the Land - Notes</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Power and the Land - Rest of Score</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Power and the Land - Suite</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Prayer for England
+ -- Prayer for U.N. (See also Flat Box)
+ -- Puss in Boots
+ -- Quartet Sketches
+ -- Rural Electrification Film Parts 1-4
+ -- Rutgers Marching Song
+ -- Snake Dance</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Soldier Song
+ -- Sonata for Piano and Violin 1-2
+ -- Sonata for Violincello
+ -- Summer Evening 1-2
+ -- Symphony in A Major - Sketches
+ -- Symphony of Autumn - Orchestral Score, a.ms.s (bound) 1980 Gift
+ -- Symphony of Autumn - Parts Score, Setting copy in copyist's hand. 1980 Gift</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Symphony of Autumn - Violin 1-7</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Symphony of Autumn - Viola 1-2</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Symphony of Autumn - Cello 1-2</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Symphony of Autumn - Bass</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Tale of a Carp
+ -- Then and Now
+ -- Trio
+ -- Trio for Violin, cello.and Piano, Score, a.ms. s. (See also Box 30) 1980 Gift
+ -- Twelfth Night
+ -- Twelfth Night and William Sycamore Sketche3
+ -- Valse Janet
+ -- Variations for String Quartet
+ -- White Wings 1-2</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>White Wings - Choral Parts (mimeographed) 1-5</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>White Wings - Choral Parts (mimeographed) .1-3</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>White Wings - Choral Parts</unittitle>
+                        <physdesc>(photocopy with handwritten annotations)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>White Wings 1-3
+ -- William Sycamore
+ -- Wings of the Dove
+ -- Yale Pageant
+ -- Yo Ho
+ -- Young People Record</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Youth get a Break - Manuscript Scores</unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series VI: Oversize Material</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 332</container>
+                        <unittitle>Devil and Daniel Webster</unittitle>
+                        <physdesc>(Score and Sketches 1-2)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 333</container>
+                        <unittitle>Down East Suite </unittitle>
+                        <physdesc>(Photocopy with handwritten Annotations)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 333</container>
+                        <unittitle>Devil and Daniel Webster
+ -- Giants in the Earth
+ -- Symphony, No. 2 in A Major - Two Pianos, Score, A.ms.s and 2 sets of blue prints
+ -- Tamara M. Bliss - The Tyger Rit, excursion for oboe and piano, Come Away Death
+ -- Trio for Violin, Cello and Piano, parts Score, 2 a.ms.s. (Violin and Cello only)
+ -- Master cories and extracts
+ -- White Wings and Simon Leg -- <title render="italic">Kimogenor</title>, A.ms. (fragment) score</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 336</container>
+                        <unittitle>Greenfield Christmas Tree</unittitle>
+                        <physdesc>(Score rolled up in a white folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 336</container>
+                        <unittitle>Gallantry as performed on CBS television program: Arias and Arabesques, <unitdate>Sept. 19, 1962</unitdate>
+                        </unittitle>
+                        <physdesc>(Film, 2 reels )</physdesc>
+                    </did>
+                    <scopecontent><p>[NOT TO BE USED WITHOUT PERMISSION OF THE LIBRARIAN FOR RARE BOOKS &amp; MANUSCRIPTS -- See related letters in Douglas Moore Office File.]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 334</container>
+                        <unittitle>Babitt</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 335</container>
+                        <unittitle>Prayer for the U.N.
+ -- White Wings</unittitle>
+                    </did>
+                </c>
+            </c>
+
+
+      </dsc>
+   </archdesc>
+</ead>

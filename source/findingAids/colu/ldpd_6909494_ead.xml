@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_6909494_ead//EN" mainagencycode="nnc-rb">ldpd_6909494_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Annie Stein Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-08-22">August 22, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-08-22">August 22, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-08-22">2009-08-22</date>
+            <item>xml document instance created by Carrie Hintz.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Stein, Annie.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Annie Stein papers,">Annie Stein Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1954/1993" type="inclusive">1954-1993</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1954-1981].</unitdate>
+         <physdesc><extent encodinganalog="300">13 linear ft. (31 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1481</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">6909494</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is in English. </language>
+         </langmaterial>
+         <abstract>These papers contain reports, newsletters, newspaper clippings, and statistical
+            analyses related to Annie Stein's career as an activist for integration in the New York
+            City public schools. </abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->"The average child in eighty-five percent of the Black and
+            Puerto Rican schools is functionally illiterate after eight years of schooling in the
+            richest city in the world. This is a massive accomplishment." These first sentences,
+            from an essay Annie Stein wrote for the <title render="italic">Harvard Educational Review</title> in 1971, encapsulate
+            a lifetime of radical activism, a career in statistical research, and a habit of
+            righteous anger. </p>
+         <p><!-- BIOGHIST REQUIRED -->For nearly 50 years-- working through labor unions, civil
+            rights committees, and community groups-- Stein used these energies to combat the
+            routines and institutions of racism. Her efforts could be structural or personal; she
+            wrote amicus briefs in crucial legal battles, and she rebuked individual vendors on
+            Coney Island for selling Confederate flags. She mobilized to defend the Scottsboro Boys
+            in the 1930s. During the 1940s, she helped lead the movement to integrate restaurants in
+            Washington, D.C. From the 1950s through the 1970s, she struggled to end segregation in
+            New York City's public schools. This was her greatest campaign-- involving thousands of
+            students, parents, teachers, researchers, and administrators-- but it was also her most
+            frustrating one. </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1954, the U.S. Supreme Court's ruling in <title render="italic">Brown v. Board of Education of Topeka</title> denied the legality of
+            "separate but equal" education. With varying degrees of enthusiasm, school districts
+            around the nation considered how to implement the new laws "with all deliberate speed."
+            But, in New York this blandishment hardly seemed necessary. The City-- northern,
+            liberal, wealthy-- was already ahead of schedule. The leaders of its school system had
+            issued their own statement in 1954, and it was even more ambitious than the federal
+            mandate. "It is now the clearly reiterated policy and program of the Board of Education
+            of the City of New York," it read, "to devise and put into operation a plan which will
+            prevent the further development of such [segregated] schools and would integrate the
+            existing ones as quickly as practicable." </p>
+         <p><!-- BIOGHIST REQUIRED -->That year, the City possessed 52 schools where all the
+            students were either Black or Puerto Rican. Classrooms in neighborhoods such as Harlem
+            and Bedford-Stuyvesant were overcrowded and dysfunctional, while excellent schools in
+            nearby white enclaves operated with hundreds of empty seats. For years, activists worked
+            to fix this imbalance. </p>
+         <p><!-- BIOGHIST REQUIRED -->Organizing with parents and community groups in the
+            underserved areas, Stein demanded mass transfers, bussing, open enrollment-- anything to
+            get children into the high-grade institutions. The School Board refused to offer more
+            than token concessions. Finding that racist fears were too powerful to allow existing
+            white schools to be segregated, Stein and others agreed that the Board should construct
+            new academies in mixed neighborhoods. Marshaling a huge investment, the City built 244
+            schools, but 57 percent of them were already completely segregated when their doors
+            first opened for operation. Administrators resorted to every expedient to ensure this.
+            In some instances, zoning lines ran right down the street where the school had been
+            built. Black and Puerto Rican students lived on one side-- they would attend classes in
+            the new building. On the other side of the street, the white side, students were zoned
+            for a different school, often miles away. </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1964, Stein joined community leaders and thousands of
+            parents to plan a one-day boycott. Mobilizing the tactics of the civil rights movement,
+            the organizers leafleted the city, focusing on "places where women gather-- beauty
+            shops, Laundromats, small groceries," and demanding strict discipline. "In keeping with
+            the dignity of our cause, picket lines should be carried out in a quiet and orderly
+            fashion," their instructions read. "Our appeal to people is a moral one. Under no
+            circumstances should anyone attempt physically to stop a person from entering a school."
+            On Freedom Day, Feb. 3, 1964, half a million students stayed home. It was a dramatic
+            action, but the fundamental problems remained. </p>
+         <p><!-- BIOGHIST REQUIRED -->Following a decade of policy vacillation, political
+            confrontations, and the investment of billions of dollars, New York found itself with
+            201 schools that only served Black and Puerto Rican students-- a fourfold increase over
+            1954. In 860 schools, there were only four Black principals. Integration had failed. The
+            City was forced to issue an embarrassing confession: "We must conclude that nothing
+            undertaken by the New York City Board of Education since 1954 has contributed or will
+            contribute in any meaningful degree to desegregating the public schools of the city." </p>
+         <p><!-- BIOGHIST REQUIRED -->The parents and communities in suffering neighborhoods changed
+            their strategy. Instead of trying to switch their children into white schools, they
+            attempted to gain autonomy over the segregated institutions that had been foisted on
+            them. They called the new tactic, "community control." But sovereignty over the schools
+            required power over hiring and firing. In Ocean Hill-Brownsville, the community board
+            attempted to terminate several white teachers. The United Federation of Teachers would
+            not allow this. In 1968, for several weeks, 50,000 union teachers and administrators
+            went on a series of strikes. The ensuing conflict degenerated in recriminations and
+            violence. The union played up instances of anti-Semitism and "Black extremist excesses,"
+            while community members spoke of racism and Apartheid. The conflict revealed fissures
+            that many liberals had believed were closed. New Yorkers had to choose between their
+            loyalty to labor or to civil rights. Annie Stein had ties to both movements. She had
+            never crossed a picket line in her life. But she did so in Ocean Hill-Brownsville, and
+            without hesitation. Her commitment was to the students and parents of the City. </p>
+         <p><!-- BIOGHIST REQUIRED -->"Let's shake these learned cobwebs from our eyes and look at
+            the reality," she once wrote. To achieve this, she contributed her energies, research,
+            and critical analysis to such groups as the Brooklyn NAACP, the Public Education
+            Association, and Parents Against Racism in Education. In her articles and polemics, she
+            was apt to cite Kenneth Clark or Franz Fanon, but most of her source material was
+            provided by her opponents. Jammed filing cabinets encroached from the walls in her
+            one-bedroom apartment. Over the years, she filled the drawers with clippings from
+            newspapers and magazines, official school board publications, and research reports.
+            Using these, she distilled the data into devastating accusations against the school
+            system. When liberal educators issued their findings, she was able to refute them with
+            their own evidence. Her rage transferred into columns and rows of pencil-scratched
+            numbers. But, even as she analyzed the minutiae of double-humped curves and numerical
+            "flip points," her work always kept focus on the larger issues. Racism in schools was
+            not a statistical problem. It was not even an educational problem. It was a social
+            problem. </p>
+         <p><!-- BIOGHIST REQUIRED -->In Stein's opinion, the racial divide in education reflected
+            basic economic relations. "Blacks and Puerto Ricans are needed to man the restaurant
+            kitchens, the hospital orderly jobs, the handtrucks and workrooms of the garment
+            district, the unskilled port jobs, and the draft calls," she wrote. Whites, on the other
+            hand, were "trained to fill the hundreds of thousands of office jobs in this financial
+            and commercial capital of the world." </p>
+         <p><!-- BIOGHIST REQUIRED -->Failure required everyone to contribute. "It took the effort
+            of 63,000 teachers, thousands more administrators, scholars, and social scientists, and
+            the expenditure of billions of dollars to achieve," Stein wrote. "Alone, however, the
+            'professional' educators could not have done it. They needed the active support of all
+            the forces of business, real estate interests, trade unions, willing politicians, city
+            officials, the police, and the courts." Teachers expected Black and Puerto Rican
+            students to fail. Sociologists predicted their families to be pathological.
+            Neighborhoods knew that integrated schools would not be able to teach effectively. </p>
+         <p><!-- BIOGHIST REQUIRED -->Stein challenged the City and its citizens to do better.
+            Educational injustice could only end if prejudice itself was defeated. And this could
+            only occur if the rising generations were raised together in tolerance. "If racism in
+            the society at large becomes reflected in school policies," she concluded in one report,
+            "remedy must be sought through continuing and extending the battle against racism in
+            society as a whole and by protecting the child from this racism. School policies and
+            attitudes cannot be permitted to continue to reflect society's racism." </p>
+         <p><!-- BIOGHIST REQUIRED -->Annie Stein's work remained unfinished when she died in May
+            1981. She was 68 years old.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The Annie Stein Papers contain research materials, newspaper clippings, publications and
+            reports related to the attempts to desegregate New York City's public schools.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>The material in the collection has been kept in its original order; an alphabetical list
+            is available.</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Ocean Hill-Brownsville Demonstration School District (New
+            York, N.Y.)</corpname>
+         <persname encodinganalog="600">Galamison, Milton A. (Milton Arthur), 1923-1988</persname>
+         <subject encodinganalog="650">Academic achievement--United States.</subject>
+         <subject encodinganalog="650">African Americans--Education.</subject>
+         <subject encodinganalog="650">African Americans--New York (State)--New York--Relations with
+            Jews.</subject>
+         <subject encodinganalog="650">African American students--Attitudes.</subject>
+         <subject encodinganalog="650">Discrimination in education--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Education--Political aspects--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Public schools--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Schools integration--New York (State)--New York--History.</subject>
+         <subject encodinganalog="650">Schools--Centralization--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Schools--Decentralization--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Strikes and lockouts--Teachers--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Teacher-student relationships--United States.</subject>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>The RBML received these papers in a transfer from Columbia Teachers College in 2009.</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>[Provenance]</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Annie Stein Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed by Thai Jones (Columbia GSAS 2013) in 2009. </p>
+         <p>Finding Aid written by Thai Jones (Columbia GSAS 2013) in May 2009.</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts/University
+            Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+            publish that which it physically owns; the responsibility to secure copyright permission
+            rests with the patron.</p>
+      </userestrict>
+      <otherfindaid encodinganalog="555">
+         <p>Finding aid in repository and online; folder level control.</p>
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Files</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1 to 3</container>
+                  <unittitle>Education Reports, <unitdate type="inclusive">1970-1984</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Science Clippings, <unitdate type="inclusive">1971-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>School District Analyses, <unitdate type="inclusive">1981-1985</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Clippings--1968 School Strike, <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Council on Interracial Books, <unitdate type="inclusive">1974-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Articles by Martin Deutsch, <unitdate type="inclusive">1964-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>CRMD, <unitdate type="inclusive">1970-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Summary Tables--Ethnic, <unitdate type="inclusive">1960-1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Articles--NYC Schools, <unitdate type="inclusive">1968-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Open Admissions and Community Colleges, <unitdate type="inclusive">1968-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle><title render="italic">Un Nuevo Dia</title> and other Publications, <unitdate type="inclusive">1978-1980</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>College Action, <unitdate>1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>CUNY, <unitdate type="inclusive">1965-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Community College, <unitdate type="inclusive">1969-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Rhetoric on Integrated Board of Education, <unitdate type="inclusive">1954-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Fuchs Shipman Ilich, <unitdate>1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Staten Island Community College, <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Harlem Parents Committee, <unitdate>1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Community District 2, <unitdate type="inclusive">1967-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Community District 3, <unitdate type="inclusive">1970-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Community District 5, <unitdate type="inclusive">1971-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Community District 6, <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Community District 8, <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Community District 10, <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Community District 11, <unitdate>1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Community District 12, <unitdate type="inclusive">1968-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Community District 13, <unitdate type="inclusive">1968-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Community District 14, <unitdate type="inclusive">1969-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>Community District 15, <unitdate type="inclusive">1968-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">15</container>
+                  <unittitle>Community District 18, <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">16</container>
+                  <unittitle>Community District 19, <unitdate type="inclusive">1969-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">17</container>
+                  <unittitle>Community District 20, <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">18</container>
+                  <unittitle>Community Districts 21 and 22, <unitdate type="inclusive">1967-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">19</container>
+                  <unittitle>Community District 23, <unitdate type="inclusive">1965-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">20</container>
+                  <unittitle>Community District 28, <unitdate type="inclusive">1970-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Accountability, <unitdate type="inclusive">1971-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">2 to 4</container>
+                  <unittitle>Brody-Jones et al. vs. Macchiarola et al., <unitdate type="inclusive">1977-1978</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Prescription Drugs in Class, <unitdate type="inclusive">1970-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Reports, <unitdate type="inclusive">1971-1980</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">1 to 2</container>
+                  <unittitle>Pamphlets and Notes, <unitdate type="inclusive">1971-1978</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>AERA Talk, <unitdate type="inclusive">1969-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Watchdog, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle><title render="italic">Science and Society</title> article, <unitdate type="inclusive">1972-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>High Schools</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>High School Bronx, <unitdate>1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Elite High School, <unitdate type="inclusive">1971-1977</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Alternative High School and Pushouts, <unitdate type="inclusive">1971-1973</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>High School Critical Studies--Data, <unitdate type="inclusive">1970-1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>High School Data, <unitdate type="inclusive">1966-1975</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>George Washington H.S. Data, <unitdate>1977</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>High School Protest, <unitdate type="inclusive">1967-1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Washington Irving High School, <unitdate>1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Andrew Jackson High School, <unitdate type="inclusive">1968-1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>John Jay High School, <unitdate type="inclusive">1969-1970</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>High School Diplomas, <unitdate type="inclusive">1969-1973</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>High School Finances, <unitdate type="inclusive">1970-1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle> “Disruption”--High School--Causes and Cures, <unitdate type="inclusive">1970-1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Rights of High School Students,
+                     <unitdate>1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Vocation High School and Satellite Academies, <unitdate type="inclusive">1969-1975</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Hunter College High School, <unitdate>1977</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Harlem Prep, <unitdate>1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Benjamin Franklin High School, <unitdate>1970</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Eastern District High School, <unitdate type="inclusive">1969-1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Canarsie High School, <unitdate type="inclusive">1969-1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Boys and Girls High School, <unitdate type="inclusive">1968-1975</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>High School Local Actions, <unitdate type="inclusive">1969-1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>Woodrow Wilson, <unitdate type="inclusive">1969-1970</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>New Utrecht, <unitdate>1975</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">18</container>
+                     <unittitle>New Park East High School, <unitdate>1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>Music and Art, <unitdate>1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">20</container>
+                     <unittitle>MLK High School, <unitdate>1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">21</container>
+                     <unittitle>August Martin High School, <unitdate>1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">22</container>
+                     <unittitle>Mark Twain High School, <unitdate>1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">23</container>
+                     <unittitle>Manhattan High School, <unitdate>1972</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">24</container>
+                     <unittitle>Long Island City High School, <unitdate type="inclusive">1972-1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">25</container>
+                     <unittitle>Francis K. Lane High School, <unitdate type="inclusive">1968-1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">26</container>
+                     <unittitle>New Harlem High School, <unitdate>1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">27</container>
+                     <unittitle>United Parents Association, <unitdate>1977</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">28</container>
+                     <unittitle>George Wingate High School, <unitdate>1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">29 to 30</container>
+                  <unittitle>110 Livington Street, <unitdate type="inclusive">1965-1976</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">31</container>
+                  <unittitle>Robinson Board, <unitdate type="inclusive">1971-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">32</container>
+                  <unittitle>High School Principals Association, <unitdate type="inclusive">1968-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">33</container>
+                  <unittitle>Community Board Powers, <unitdate type="inclusive">1970-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">34</container>
+                  <unittitle>Central Board vs. Local Boards, <unitdate type="inclusive">1970-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">35</container>
+                  <unittitle>School Board Election Procedures, <unitdate type="inclusive">1973-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">36</container>
+                  <unittitle>Redistricting, <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">37</container>
+                  <unittitle>Canarsie, <unitdate>1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">38</container>
+                  <unittitle>Integration Plans--Bronx, <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">39</container>
+                  <unittitle>Mixed Districts, <unitdate>1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <container type="Folder" label="Folder">40</container>
+                  <unittitle>Board of Education, <unitdate type="inclusive">1969-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">1 to 4</container>
+                  <unittitle>Data By Schools, <unitdate type="inclusive">1962-1965</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(4 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Integration Plans--Brooklyn, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Accountability Plan, <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Advocacy, <unitdate type="inclusive">1976-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Alternative Schools, <unitdate>1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">9 to 15</container>
+                  <unittitle>X Districts, <unitdate type="inclusive">1971-1978</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(7 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">16</container>
+                  <unittitle>Alternative Education, <unitdate type="inclusive">1968-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">17</container>
+                  <unittitle>Biblios, <unitdate type="inclusive">1971-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <container type="Folder" label="Folder">18</container>
+                  <unittitle>Bilingualism, <unitdate type="inclusive">1974-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Education Park, <unitdate type="inclusive">1963-1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Black Studies, <unitdate type="inclusive">1963-1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">3 to 4</container>
+                  <unittitle>Boston Zoning and Busing, <unitdate type="inclusive">1974-1975</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Breakfast Program, <unitdate>1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Budget Crisis, <unitdate type="inclusive">1970-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>The Bus, <unitdate type="inclusive">1972-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Regents--State, <unitdate>1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Maintenance and Repair, <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>NY State Education Department, <unitdate type="inclusive">1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Parochial, <unitdate type="inclusive">1966-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Church-State, <unitdate>1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>CSB Elections, <unitdate>1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>Dropout Hearing, <unitdate>1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">15</container>
+                  <unittitle>Community Control--Other Cities, <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <container type="Folder" label="Folder">16 to 17</container>
+                  <unittitle>Curriculum, <unitdate type="inclusive">1964-1970</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Curriculum-Promotion, <unitdate type="inclusive">1969-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Examiners, <unitdate type="inclusive">1964-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Career Education, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">4 to 6</container>
+                  <unittitle>Mexican-Americans and Chicanos, <unitdate type="inclusive">1967-1975</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Integration Cases--National, <unitdate type="inclusive">1970-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Lunch Program, <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Legal Action, <unitdate type="inclusive">1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Homework Helper, <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Manpower Training, <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Paraprofessionals, <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Construction--Educational Construction Fund,
+                  <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>CORE--Independent School District, <unitdate type="inclusive">1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">15</container>
+                  <unittitle>Program Summary--Edythe Babette Edwards,
+                  <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">16</container>
+                  <unittitle>Think Pieces--Editorials, <unitdate type="inclusive">1971-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">17</container>
+                  <unittitle>Repression--Crime, <unitdate type="inclusive">1975-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">18</container>
+                  <unittitle> “Shanker Says,” <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <container type="Folder" label="Folder">19</container>
+                  <unittitle>Elections, <unitdate>1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Compensatory Education, <unitdate type="inclusive">1962-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Council Data, <unitdate type="inclusive">1975-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>District Actions, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Attacks on Decentralization, <unitdate>1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Drugs, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">6 to 7</container>
+                  <unittitle>Indian, <unitdate type="inclusive">1970-1977</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>PEA Reports, <unitdate>1970s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Articles and Newsletters, <unitdate type="inclusive">1975-1978</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Clips--WC, <unitdate>1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">11 to 12</container>
+                  <unittitle>School Achievement Rankings, <unitdate type="inclusive">1972-1974</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>School Elections, <unitdate>1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">14 to 15</container>
+                  <unittitle>State Urban Education Proposals, <unitdate type="inclusive">1969-1970</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">16</container>
+                  <unittitle>State Integration Fund, <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">17</container>
+                  <unittitle>Integration Plans--Queens, <unitdate type="inclusive">1963-1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">18 to 19</container>
+                  <unittitle>Suspensions, <unitdate type="inclusive">1967-1972</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <container type="Folder" label="Folder">20 to 21</container>
+                  <unittitle>Students’ Rights, <unitdate type="inclusive">1972-1973</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Special Schools, <unitdate type="inclusive">1965-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle> “600” Schools, <unitdate type="inclusive">1964-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Special Education, <unitdate type="inclusive">1970-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Pupil Promotions--Junior High, <unitdate>1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Junior High School 8 Queens, <unitdate type="inclusive">1966-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Histories, <unitdate type="inclusive">1966-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Leacock, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Federal Agency Statements, <unitdate type="inclusive">1964-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Fiscal Crisis, <unitdate type="inclusive">1975-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Action on School Strike, <unitdate>1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Handicapped, <unitdate>1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Politicians--Statements on NYC Schools, <unitdate type="inclusive">1964-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Summary Data, <unitdate type="inclusive">1957-1959</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>Achievement--Junior High School Study,
+                  <unitdate>1959</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">15</container>
+                  <unittitle>Achievement Data Study--Elementary, <unitdate type="inclusive">1958-1959</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">16</container>
+                  <unittitle>Achievement Memo, <unitdate type="inclusive">1958-1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">17</container>
+                  <unittitle>Utilization of Schools Maps, <unitdate type="inclusive">1958-1960</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <container type="Folder" label="Folder">18 to 19</container>
+                  <unittitle>Data for PEA Schools, <unitdate type="inclusive">1954-1960</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Statistics, <unitdate type="inclusive">1957-1959</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Brooklyn Data Prior to <unitdate>1957, </unitdate>
+                            <unitdate type="inclusive">1954-1958</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">3 to 4</container>
+                  <unittitle>Pamphlets and Reports, <unitdate type="inclusive">1964-1976</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">5 to 6</container>
+                  <unittitle>Teachers Strike, <unitdate>1968</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle><title render="italic">Right to Education</title>--Draft, <unitdate>1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Notes for Autobiographical Cookbook,
+                  <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Accountability, <unitdate type="inclusive">1970-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Class Size, <unitdate>1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Rudolph--Toward Science, <unitdate>1954</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>MacDonald, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Wastnedge--“Learning” to Teach, <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Parents--Newson, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Galanter, Ruth <unitdate>1993</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Weber--“What is Prime,” <unitdate>1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Weber--“It is Winter,” <unitdate>1960</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Weber--On Schachtel, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Linear City--History, <unitdate type="inclusive">1967-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Linear City--Plans, <unitdate>1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">14 to 15</container>
+                  <unittitle>Clippings and Reports, <unitdate type="inclusive">1969-1993</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Brownsville Model Cities, <unitdate type="inclusive">1969-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>School Board 23, <unitdate>1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>History of Spring Creek Education Park, <unitdate type="inclusive">1963-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Brownsville Education Park, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Fruitless Negotiations, <unitdate type="inclusive">1964-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Peoples Center for the Arts--Gary,
+                  <unitdate>1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Title III--Umbrella Program, <unitdate type="inclusive">1966-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Women--Discrimination in Schools, <unitdate type="inclusive">1972-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Ethnicity Statistics, <unitdate type="inclusive">1963-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Growth of Segregation, <unitdate type="inclusive">1965-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Official Decentralization Plans, <unitdate type="inclusive">1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Rein, Dave <unitdate>1979</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle><title render="italic">Views</title>--Harlem Parents Committee, <unitdate type="inclusive">1966-1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Urban League Report--“A Study of the Problems of Integration in New
+                     York City Public Schools Since 1955,” <unitdate>1963</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Racism Reports, <unitdate type="inclusive">1958-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Schools vs. Community, <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Implementation--Allen Place, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Integration Plans--Not New York City, <unitdate type="inclusive">1955-1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Boycott, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">1 to 2</container>
+                  <unittitle>Achievement, <unitdate type="inclusive">1974-1975</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Indianapolis, <unitdate>1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Buffalo, <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>P.A.T. Boycott, <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Boycotts, <unitdate type="inclusive">1964-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Allen Plan, <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">8 to 9</container>
+                  <unittitle>Oklahoma City, <unitdate type="inclusive">1969-1977</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Reading Scores and Rank, <unitdate type="inclusive">1977-1978</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Achievement Scores, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Reading Scores, <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Rochester, <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>Philadelphia Title I Suit, <unitdate>1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">15</container>
+                  <unittitle>Milwaukee, <unitdate type="inclusive">1975-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <container type="Folder" label="Folder">16</container>
+                  <unittitle>Houston Reading Scores, <unitdate type="inclusive">1966-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Pontiac Michigan Study, <unitdate type="inclusive">1973-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Flint Michigan Report, <unitdate>1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Early Decentralization Debates, <unitdate type="inclusive">1960-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Strike Settlement Comment, <unitdate type="inclusive">1968-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Districting Problems, <unitdate type="inclusive">1969-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Board Decentralization Plan and Hearings, <unitdate type="inclusive">1968-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Open Enrollment--Integration--Official Documents, <unitdate type="inclusive">1968-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Brooklyn Museum, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">9 to 10</container>
+                  <unittitle>Teacher Action for Community Control, <unitdate type="inclusive">1967-1969</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>SCOPE Bulletin, <unitdate type="inclusive">1968-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>UFT Contract, <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>News Clips on Decentralization Debate, <unitdate type="inclusive">1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Short-Range Decentralization, <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Bundy Report, <unitdate type="inclusive">1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Reverse Open Enrollment, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Teachers’ Strike, <unitdate>1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Unemployment, <unitdate type="inclusive">1964-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Population Data--NY, <unitdate>1962</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Income, <unitdate type="inclusive">1970-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Reports and Statistics, <unitdate type="inclusive">1959-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Community Board Elections Protest,
+                  <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Training Teachers, <unitdate type="inclusive">1965-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>NY State Legislature, <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">13 to 14</container>
+                  <unittitle>Textbooks, <unitdate type="inclusive">1969-1974</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <container type="Folder" label="Folder">15 to 16</container>
+                  <unittitle>Evaluations--Title I, <unitdate type="inclusive">1968-1975</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Baum Case Appeal, <unitdate>1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>UFT Positions Before and After Strike,
+                  <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">3 to 4</container>
+                  <unittitle>Black Teachers and Staff, <unitdate type="inclusive">1970-1977</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Teachers--Composition and Placement, <unitdate type="inclusive">1967-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">6 to 7</container>
+                  <unittitle>Tests and Testing, <unitdate type="inclusive">1961-1973</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Education Technology, <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Citywide Council for Quality Education, <unitdate type="inclusive">1976-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>SESPA, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Community District 23, <unitdate type="inclusive">1970-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Data for Reading Failure Lecture, <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Course on Racism and Education, <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>District One, <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">3 to 4</container>
+                  <unittitle>Reading Crisis, <unitdate type="inclusive">1962-1972</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Integration, <unitdate type="inclusive">1963-1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Parents Workshop, <unitdate type="inclusive">1961-1962</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Commission on Integration--Reports, <unitdate type="inclusive">1956-1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Decentralization Debate--Post-strike,
+                  <unitdate>1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>More Effective Schools, <unitdate type="inclusive">1964-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Andrew Jackson High School, <unitdate type="inclusive">1974-1975</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Reports and Newsletters, <unitdate type="inclusive">1963-1978</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Intermediate School 201, <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Brownsville School Data, <unitdate type="inclusive">1965-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Commissioner’s Orders, <unitdate type="inclusive">1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Galamison Appeal Documents, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Brownsville Education Park Suit, <unitdate type="inclusive">1966-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <container type="Folder" label="Folder">3 to 4</container>
+                  <unittitle>Utilization Reports, <unitdate type="inclusive">1963-1969</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">23</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Utilization Reports, <unitdate type="inclusive">1969-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">23</container>
+                  <container type="Folder" label="Folder">2 to 4</container>
+                  <unittitle>Fact Books and Reports, <unitdate type="inclusive">1968-1975</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Fact Books and Reports, <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Business and Administrative Curriculum, <unitdate type="inclusive">1971-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Hobson Case, <unitdate>1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Harlem Parents Suit, <unitdate type="inclusive">1975-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Reverse Discrimination, <unitdate type="inclusive">1974-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>School Board Elections, <unitdate>1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>School Construction Scandals, <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Education Parks, <unitdate type="inclusive">1965-1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Integration Construction Budget, <unitdate type="inclusive">1963-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Allen Plan, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Official Documents--Open Enrollment, <unitdate type="inclusive">1957-1962</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Official Statements, <unitdate type="inclusive">1962-1963</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Community Control--Bills and Formal Actions, <unitdate type="inclusive">1965-1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>School Year, <unitdate type="inclusive">1979-1980</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Parents’ Rights, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <container type="Folder" label="Folder">8 to 9</container>
+                  <unittitle>Students’ Rights, <unitdate>1969</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Students’ Rights, <unitdate type="inclusive">1969-1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Public School Ethnic Composition--Tabular Data,
+                     <unitdate>1963</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Legal Action, <unitdate type="inclusive">1969-1970</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <container type="Folder" label="Folder">4 to 6</container>
+                  <unittitle>Puerto Rican Data, <unitdate type="inclusive">1963-1971</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Ritalin, <unitdate type="inclusive">1971-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Fleischman, <unitdate>1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Reports, <unitdate type="inclusive">1958-1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">27</container>
+                  <container type="Folder" label="Folder">1 to 2</container>
+                  <unittitle>Reports, <unitdate type="inclusive">1962-1973</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">27</container>
+                  <container type="Folder" label="Folder">3 to 5</container>
+                  <unittitle>Legal Action, <unitdate type="inclusive">1960-1983</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">27</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Capitalism and Crisis, <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">28</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Learn English Campaign, <unitdate>1963</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">28</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Staff Survey, <unitdate>1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">28</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Reports, <unitdate type="inclusive">1962-1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">28</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Legal Action, <unitdate type="inclusive">1969-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Baum, Jeanne Case, <unitdate type="inclusive">1973-1978</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Baum, Jean Video, <unitdate>1973</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">1 to 3</container>
+                     <unittitle>Baum Trial Testimony, <unitdate>1975</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Legal Documents, <unitdate>1975</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <container type="Folder" label="Folder">1 to 3</container>
+                     <unittitle>Legal Documents, <unitdate type="inclusive">1975-1978</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Achievement--Reading, <unitdate>1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">31</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>East New York Educational Complex--Master Plan,
+                     <unitdate>1973</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Staff Data--Department of Health Education and Welfare, <unitdate type="inclusive">1971-1979</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">31</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>H.E.W.--NY Schools, <unitdate type="inclusive">1977-1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">31</container>
+                     <container type="Folder" label="Folder">3 to 5</container>
+                     <unittitle>Reports, <unitdate type="inclusive">1971-1979</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Stein, Annie--Personal</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">31</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Resume, <unitdate>1970</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">31</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Car Accident, <unitdate>1980</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">31</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Career Ed, <unitdate>1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle/>
+               </did>
+            </c>
+         </c>
+
+
+      </dsc>
+   </archdesc>
+</ead>

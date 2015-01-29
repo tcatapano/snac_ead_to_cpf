@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079650_ead//EN" mainagencycode="nnc-rb">ldpd_4079650_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the John Bartlet Brebner
+               Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Brebner, John Bartlet, 1895-1957.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="John Bartlet Brebner Papers">John Bartlet
+            Brebner Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1937/1957" type="inclusive">1937-1957.</unitdate>
+         <physdesc><extent encodinganalog="300">11 linear ft (26 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079650</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Gouverneur Morris Professor of History at Columbia University
+            (Ph.D. 1927).</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, notes, and printed materials. This collection consists of
+            his correspondence (1937-1957) in four boxes; manuscripts, notes, and printed copies of
+            speeches and periodical articles and the manuscripts of "North Atlantic Triangle" and
+            "Making of Modern Canada". Included also are the notes for a number of courses given by
+            him at Columbia University as well as three boxes of student seminar papers. Most of the
+            materials in the collection relate to some phase of Canadian life and history.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Collection is arranged into two series: <list type="marked">
+                    <item>Series I:
+                  Correspondence</item>
+               <item>Series II: Manuscripts and Documents</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <geogname encodinganalog="651">Canada--Civilization.</geogname>
+         <geogname encodinganalog="651">Canada--History.</geogname>
+         <genreform encodinganalog="655" source="ftamc">Addresses.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Articles.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Diplomas.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Examinations.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Maps.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Reports.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Scripts.</genreform>
+         <genreform encodinganalog="655" source="ftamc.">Speeches.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Syllabi.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Historians.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1958 M-1958 Brebner, Elliot J. Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Elliot J. Brebner, 1958.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>[Collection Name]. Rare Book and Manuscript Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Processed 02/--/85 RL</p>
+      </processinfo>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>Box 1 of this collection is onsite.  The remainder of this collection is located off-site. You will need to request this material at least two
+            business days in advance to use the collection in the Rare Book and Manuscript Library
+            reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); John Bartlett Brebner Papers; Box and
+            Folder (if known); Rare Book and Manuscript Library, Columbia University Libraries.</p>
+      </prefercite>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence</unittitle>
+            </did>
+            <c level="file">
+               <did><unittitle>Cataloged Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle> Lester Bowles Pearson Correspondence</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1-4</container>
+                  <unittitle>Correspondence, <unitdate type="inclusive">1937-1957</unitdate>
+                     (arranged by year)</unittitle>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series II: Documents</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Memoranda on Upper College, Columbia College</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Memoranda on Bard College</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>H. A. Innis: cuttings (obituaries, etc) and correspondence about
+                     him</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Business concerning North Atlantic Triangle--mostly with Yale
+                     University Press</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Address, "Man's Right to Knowledge," at Ottawa, 1954--copy and
+                     offprints</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Address, "Keystone in the Arch, Centenary, University College, Toronto,
+                        <unitdate type="inclusive">1956</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Bicentennial Oration, "The Common Ground in Humility"--correspondence
+                     and clippings</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle> Stockholm address, "Man's Right to Knowledge," <unitdate type="inclusive">1954</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle> Essay on Elie Halevy--drafts and copy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle><title render="italic">Encyclopedia Americana</title>, article on
+                     Canada since <unitdate type="inclusive">1867</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Chapter in U.N Volume on Canada: Drafts and correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>"Laissez-faire and State Intervention," draft and
+                     correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle> Draft AHA comment on L. H. Gipson's paper on "The American Revolution
+                     as an Aftermath of the Great War for Empire," <unitdate type="inclusive">1948</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>General Staff Course, Washington, notes, address, and correspondence,
+                        <unitdate type="inclusive">1948</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle> Informal talk to English-Speaking Union, "Democratic Foundations of
+                     Government," <unitdate type="inclusive">1948</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle> CBC Talk, "The Canadian Personality," 1948--copy and
+                     correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle> Economic History Association, <unitdate type="inclusive">1947</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Address at Winnipeg, "History and Current Social Trends," <unitdate type="inclusive">1946</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle><title render="italic">North Atlantic Triangle</title>--correspondence
+                     and reviews </unittitle>
+                  <physdesc><extent>(2 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle><title render="italic">Scholarship for Canada</title>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Convocation Address, McMaster University--"General Education and
+                     Research," <unitdate type="inclusive">1945</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Canadian Universities Materials</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Reports, Canadian Universities, <unitdate type="inclusive">1944</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle><title render="italic">Making of Modern Britain</title>
+                     correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Correspondence on G.L. Beer's MSS</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Canadian Historical Association Presidential
+                     Address--"Canadianism"--Notes, Copy, and Correspondence, <unitdate type="inclusive">1940</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>Toronto Conference, United States and World Organization</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>"The British Social Welfare State"--OWI talk, <unitdate type="inclusive">1943</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>ERPI film on Early North American discovery: script and correspondence,
+                        <unitdate type="inclusive">1942</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>"Tadoussac, Kingdom of the Saguenay," <unitdate type="inclusive">1942</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>"The United States, Canada's Problem," Notes and copy, PTA, <unitdate type="inclusive">1940</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle> "Canadian-American Relations in a Changing World"--address to U.M.C.A.
+                     at Couchiching, <unitdate type="inclusive">1940</unitdate>
+                  </unittitle>
+               </did>
+               <scopecontent><p>(contains draft, copy, and correspondence)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>"The Ogdensburg Agreement between Canada and the United States"--<title render="italic">Inter-American Quarterly</title>, <unitdate type="inclusive">1940</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">8</container>
+                  <unittitle>Correspondence concerining Hanson's<title render="italic">Mingling of
+                        the Canadian and American Peoples</title>, completed by Brebner</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Correspondence concerning map for<title render="italic">Neutral
+                        Yankees</title> .</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>"Canada, the Anglo-Japanese Alliance and the Washington Conference PSQ
+                        <unitdate type="inclusive">1935</unitdate>
+                  </unittitle>
+               </did>
+               <scopecontent><p>(contains notes,draft, offprint, and correspondence)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>CHR--Dr. Andrew Brown MSS: draft, copy, and correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>DAB--Samuel Vetch (1668-1732), first military and second colonial
+                     governor of Nova Scotia</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Louis Delisle de la Croyere MSS--correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Kingston National Defence College, <unitdate type="inclusive">1948</unitdate>
+                     <unitdate type="inclusive">1950</unitdate>
+                     <unitdate type="inclusive">1953</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Canadian Social Science Research Councils correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Correspondence concerning Carnegie series on relations of Canada and
+                     the United States, <unitdate type="inclusive">1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Reviews, etc., for <title render="italic">Explorers</title>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Materials for Neutral Yankees</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Correspondence and Materials for New England's Outpost.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">11</container>
+                  <unittitle>Mingling of Canadian and American Peoples Manuscript</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Criticisms of <title render="italic">North Atlantic
+                     Triangle</title>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle><title render="italic">North Atlantic Triangle</title>
+                     Manuscript</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Outlines of plan for Canadian-American series, <unitdate type="inclusive">1933</unitdate> (2 brochures)_</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">13</container>
+                  <unittitle>Notes for Canada in North American History, the Columbia
+                     course</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle>Draft, <title render="italic">Making of Modern
+                     Canada</title>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Canadian-American maps.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>British historical materials before 1850--offprints, clippings, notes,
+                     etc.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>"Under George III," Conference on British Studies, <unitdate type="inclusive">1955</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>British Constitutional History</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Cambridge lectures on Anglo-American relations</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Fulbright seminar on migration, <unitdate type="inclusive">1951</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Boxes">16, 17, 18, 35</container>
+                  <unittitle>Britain since <unitdate type="inclusive">1776</unitdate> the Columbia
+                     course and basis of proposed book on industrial Britain</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>3 x 5 cards--notes on Nova Scotia (<title render="italic">Neutral
+                        Yankees</title> )</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">19</container>
+                  <unittitle>Industrial Britain, MS, four chapters</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Paul Mascarene</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>"Collectivist Britain" ms. notes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>"Some aspects of Great Britain between wars" ms. notes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Canada-2 course outlines</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Rockefeller grant: correspondence Etc.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Recommendations for scholarship &amp; fellowship awards:
+                     correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Seminar information</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>Examination questions in history</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">21</container>
+                  <unittitle>Candidacies <unitdate type="inclusive">1938-1946</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Boxes">22-24</container>
+                  <unittitle>Student Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Boxes">22-24</container>
+                  <unittitle>Diplomas of John Bartlet Brebner</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Boxes">25-26</container>
+                  <unittitle>Periodicals with articles by John Bartlet Brebner</unittitle>
+               </did>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

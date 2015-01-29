@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078584_ead//EN" mainagencycode="nnc-rb">ldpd_4078584_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Harry J. Carman Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-01-20">2010-01-21</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Carman, Harry J. (Harry James), 1884-1964.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Papers,">Harry J. Carman Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1900/1964" type="inclusive">1900-1964</unitdate>
+         <physdesc><extent encodinganalog="300">47 linear ft (633,000 items in 105 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078584</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Moore Professor of History, 1939-1964, and Dean of Columbia College, 1943-1950. Harry James Carman was a student at Syracuse and Columbia Universities, Principal of the Rhinebeck High School, Rhinebeck, N.Y., 1903-1913, taught history and political science at Syracuse University, 1914-1917, and was on the faculty of Columbia University for 46 years.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Papers of Carman spanning his entire career beginning with his student days at Syracuse and Columbia Universities. His Columbia files include professional correspondence, lecture notes, course-related materia, and a bibliographical card index of American and European history. Dean Carman's abiding interest both in the academic and general communities is reflected in numerous special files which include correspondence to him as book review editor of HISTORICAL OUTLOOK, 1925-1929, as participant in Columbia's AMERICAN CULTURE SERIES, ca. 1935-1942, and STUDIES IN THE HISTORY OF AMERICAN AGRICULTURE, ca. 1935-1945. There are numerous files relating to his membership on the New York City Board of Higher Education, 1938-1964, the New York State Board of Mediation, 1941-1955, and the Japan American Committee on Intellectual Exchange. The many folders on American colleges attest to the Dean's concern for the quality and improvement of undergraduate education in the United States. Included are some of the working papers for PREPARATION FOR MEDICAL EDUCATION IN THE LIBERAL ARTS (published 1953), and THE RESURVEY OF PREPROFESSIONAL EDUCATION IN THE LIBERAL ARTS COLLEGE (published 1961). Among the few and incomplete book manuscripts there is a typescript of LINCOLN AND PATRONAGE (published 1943) with handwritten addition and correction.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 8 series:</p>
+         <p><list type="marked">
+               <item>Cataloged Correspondence</item>
+               <item>Series I: 1900 - 1945</item>
+               <item>Series II: 1940 - 1950</item>
+               <item>Series III: 1950-1956</item>
+               <item>Series IV: 1955-1959</item>
+               <item>Series V: 1955-1960</item>
+               <item>Series VI: 1959-1964</item>
+               <item>Series VII: Miscellaneous</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">New York (N.Y.).--Board of Higher Education.</corpname>
+         <corpname encodinganalog="610">New York (State).--Board of Mediation and Arbitration.</corpname>
+         <corpname encodinganalog="610">Columbia College (New York, N.Y.)--Administration.</corpname>
+         <corpname encodinganalog="610">Columbia University--Students.</corpname>
+         <corpname encodinganalog="610">Columbia University--Faculty.</corpname>
+         <corpname encodinganalog="610">Syracuse University--Students.</corpname>
+         <corpname encodinganalog="610">Japan American Committee on Intellectual Exchange.</corpname>
+         <corpname encodinganalog="610">Rhinebeck High School (Rhinebeck, N.Y.).--Principal.</corpname>
+         <geogname encodinganalog="651">United States--History.</geogname>
+         <geogname encodinganalog="651">Europe--History.</geogname>
+         <subject encodinganalog="650">Universities and colleges--United States.</subject>
+         <subject encodinganalog="650">Universities and colleges--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Universities and colleges--New York (State)--Syracuse.</subject>
+         <subject encodinganalog="650">High schools--New York (State)--Rhinebeck.</subject>
+         <subject encodinganalog="650">Agriculture--United States--History.</subject>
+         <subject encodinganalog="650">History--Study and teaching.</subject>
+         <subject encodinganalog="650">Political science--Study and teaching.</subject>
+         <subject encodinganalog="650">Education--United States.</subject>
+         <genreform encodinganalog="655" source="ftamc">Bibliographies.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Lecture notes.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Scrapbooks.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Slides.</genreform>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College administrators.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: 2-29. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1965 M-65 Carman, Margaret C. Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Mrs Margaret C. Carman, 1965.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Harry J. Carman Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 04/17/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron..</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><unittitle>Cousins, Norman To Carman,   <unitdate>1952-1954</unitdate>
+                        </unittitle>
+                        <physdesc>(3 t.1.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><unittitle>Eisenhower, D. W. To Carman,   <unitdate>1955</unitdate>
+                        </unittitle>
+                        <physdesc>(1 t.1.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><unittitle>Roosevelt, Eleanor To Carman,   <unitdate>1952-1953</unitdate>
+                        </unittitle>
+                        <physdesc>(7 t.l.s., 1 t.l.)</physdesc>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series I: 1900 - 1945</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Syracuse University ,   <unitdate>ca. 1900 - l914</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Syracuse University Continued</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Early Financial Records,   <unitdate>(ca. 1900 - 1920)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Rhinebeck High School , New York, <unitdate>(ca. 1910 - 1912)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Columbia University Student Days,   <unitdate>1914 - 1918</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Correspondence: <title render="italic">Historical Outlook</title>,   <unitdate>l925 - 1929</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Correspondence,   <unitdate>(ca. 1928 - 1930)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Correspondence, A - C,   <unitdate>(1930 - 1932)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Correspondence, D - Z,   <unitdate>1930 - 1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Correspondence Under Special Headings:<lb/>Association of History Teachers<lb/>Columbia University Press:<lb/>Freeland:<lb/>Heath and Company:<lb/>
+                            <title render="italic">Historical Outlook</title>:<lb/>League of Nations:<lb/>Positions Wanted,   <unitdate>1930 - 1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Agriculture and <title render="italic">Studies in the History of American Agriculture</title> (1935 - 1945)<lb/>Correspondence: (1935 - 1945)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Agriculture:<lb/>Subject Files: A - Farm Labor Reports</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Agriculture:<lb/>Subject Files: Farm Population and Employment - W</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Agriculture:<lb/>1) Correspondence: (1941)<lb/>2) Misc. Unsorted Materials</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Agriculture:<lb/>Misc. Unsorted Materials continued</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Agriculture<lb/>Scrapbooks</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Misc. Correspondence,   <unitdate>(ca. 1935 - 1940)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>American Culture Series,   <unitdate>(ca. l935 - 1942)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Columbia: Contemporary Civilization &amp; Departmental Affairs,   <unitdate>(ca. 1935 - 1945)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Misc. Files: Correspondence, Course Exams, etc.,   <unitdate>(ca. 1937)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Misc. Correspondence:<lb/>1) Unfinished Business: A - Z<lb/>2) Letters from Students,   <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series II: 1940 - 1950</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>A - B</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>C -  Conference of Christians</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Conference on 500 -  E (misc.) </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Ea - F</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>G..Hi</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>I - J</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>K - L</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Labor Relations (Mediation): History of Labor Series, ., <unitdate>(ca. 1942)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Labor, J - N</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Labor, P - W and New York State Board of Mediation/ Jules Freund</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>M</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>N.Y.C. Board of Higher Education ,   <unitdate>(l939 - 1943)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>N.Y.C. Board of Higher Education General File,   <unitdate>1942 - 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>N.Y. C. Board Brooklyn College,   <unitdate>l942 - 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>N. Y. C. Board City College<lb/>Hunter College<lb/>Queens College,   <unitdate>1942 - 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>N - Pr</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Pr - S (general) (folder 3) </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>S (general) (folder 4) - Si</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Sp - V</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>W - Z and Misc. Unsorted Material</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Correspondence: (1944 - 1945)<lb/>1) Letters of Congratulations on Appointment as Dean of Columbia College<lb/>2) Letters of Condolence on Death of Mrs. Cathryne M. Barrett Carman</unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series III: 1950 - 1956</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>A - American Assembly</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>American Council on Education (1) </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>American Council on Education (2) </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>American Council on Education (3) </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Ar - Bard College (l950 - 1952)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Bard College(l953 - 1955) - Board of Higher Education(l)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Board of Higher Education(2) - Colgate University</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Columbia University - Coss</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>D - Earl Hall</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Earlham College - Emigrée</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>F</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Labor</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Law - Ma</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Mediation Board: Individual Cases, A - F</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Mediation Board: Individual Cases, H - Z - National Concerts</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>National Conference Sub-Committee on Preprofessional Education of the Survey of Medical Education: Financial Records,   <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>National Scholarship - Pa</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Pe - Pres</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Pu - S (general)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Sa - Sy</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>T - Whitney Foundation,   <unitdate>1950 - 1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Whitney Foundation (l952-1955) - Z and Misc. Unsorted Material</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Japan Committee on Intellectual Exchange Committee(ca.1950-1960)<lb/>General Files:<lb/>1) Folders 1 - 12<lb/>2)A - Ca</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Japan Committee:<lb/>1) General Files: Co - P:<lb/>2) Visitors to Japan: American Personal Name File</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Japan Committee:<lb/>Correspondence: Japanese Personal Name File, A - Ta</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Japan Committee:<lb/>1) Correspondence: Japanese...Name File, Ta - S<lb/>2) Account Books<lb/>3) Printed Matter </unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series IV: 1955-1959</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>A - C</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>D - Mac</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Man - R</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>The Resurvey of Preprofessional Education in the Liberal Arts College Conference on the Resurvey... (1958):<lb/>1) Correspondence<lb/>2) Working Papers (l)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>The Resurvey ...:<lb/>1) Working Papers(2) <lb/>2) Colleges Visted by Dean Carman (A - Z) <lb/>3) Pre-medical Material<lb/>4) Miscellaneous Material</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>S - Z and Misc. Unsorted Material</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Ethics (Institute of Ethics for the Institute for Religious and Social Studies of the Jewish Theological Seminary)</unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series V: 1955-1960</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>A - K</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>M - Z and Misc. Unsorted Material: (1956-1958 [1])</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Misc. Unsorted Material,   <unitdate>l958[2] - 1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series VI: 1959 - 1964</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>A - B</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>C</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>D - G</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>H - N</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>O - T.</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>1) U - Z and Misc. Unsorted Material,   <unitdate>1961 - 1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>2) Correspondence re: Carman's 75th birthday,   <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series VII: Miscellaneous</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><title render="italic">Lincoln and Patronage</title>
+                        </unittitle>
+                        <physdesc>(  manuscript and typescript with ms. corrections)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><title render="italic">Lincoln and Patronage</title>
+                        </unittitle>
+                        <physdesc>(  Typescript (without t. - p.))</physdesc>
+                    </did>
+                    <scopecontent><p>[On Patronage in N.Y. State]</p>
+                    </scopecontent>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Mss.: Misc manuscripts and typescripts, including some speeches</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Mss.: Misc. typescripts submitted to Carman (1)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Mss.: Misc. typescripts submitted to Carman (2)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Mss.: Misc. typescripts submitted to Carman (3) </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Lecture Notes (includes: clippings; reprints; course-related material):<lb/>American History (l)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Lecture Notes: American History (2)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Lecture Notes: American History (3)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Lecture Notes: American History(4)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Lecture Notes: Economics</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Lecture Notes: European History(l) (Europe: 1500 - 1800)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Lecture Notes: History 15 - 16</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Lecture Notes: European History (2) (Europe: 1800 - 1921)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Lecture Notes: European History(3): *1) History 20; 2) Geographical File(1): A - Germany</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Lecture Notes: European History(4): 1) Geographical File; 2) Gt. Brit. - Scand</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Lecture Notes: World History: 1) Asia; 2) Africa</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Lecture Notes: Government and Politics (l)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Lecture Notes: Government and Politics (2)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>Lecture Notes: History of Science (l)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Lecture Notes: History of Science (2)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Lecture Notes: Miscellaneous Files</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Columbia University Course - Related Material: Course Syllabi</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Columbia University History Exams</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Columbia University History 90 Exams</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Columbia University 1) History 182</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Columbia University 2) History 187</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Columbia University 3) Misc Notes</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Card Files:<lb/>1) Contemporary Civilization A1 - A2: Lecture Notes<lb/>2) Bibliography: A - Z</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Card Files:<lb/>American History Bibliography (1)</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Card Files:<lb/>1) American History Bibliography (2)<lb/>2) European History Bibliography<lb/>3) Memorabilia</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Miscellaneous:<lb/>1) Personal Documents<lb/>
+                            <lb/>2) Inscribed Reprints<lb/>3) WMCA Radio Editorials: ca. l958-1959<lb/>4) Misc. Notes and Bibliographies</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Miscellaneous:<lb/>1) Columbia role books<lb/>2) Memorabilia</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Black and white glass slides depicting environment and life of farm laborers (i.e., share croppers, tenant farmers, and migrant laborers) during the 1930 depression years.</unittitle>
+                    </did>
+                </c>
+            </c>
+   
+   
+   
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-ua_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078769_ead//EN" mainagencycode="nnc-rb">ldpd_4078769_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Henry Michael Foley
+                    Papers</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+                    Manuscript Library; machine readable finding aid created by Columbia University
+                    Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+                    University Libraries</publisher>
+                <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+                <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT
+                conversion <date normal="2009-06-26">June 26, 2009 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2012-06-25">2012-06-25</date>
+                <item>xml document created by Judith Zupnick.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Foley, Henry Michael, 1917-1982.</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="Henry Michael Foley Papers">Henry Michael
+                Foley Papers</unittitle>
+            <unitdate encodinganalog="245$f" normal="1913/1982" type="inclusive">1913-1982.</unitdate>
+            <physdesc><extent encodinganalog="300">10.5 linear ft. (circa 3,000 items in 22
+                    boxes).</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+                </corpname>
+                <address><addressline/>
+            </address>
+            </repository>
+            <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+            <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078769</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng">In English</language>
+            </langmaterial>
+            <abstract>This collection consists of correspondence, manuscripts, student papers,
+                research notes, and printed materials including Foley's professional and
+                departmental files, lecture and laboratory notes, his file of research projects and
+                student papers, and his research for the JASON Division of the Institute for Defense
+                Analyses (later of Stanford Research Institute).</abstract>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p><!-- BIOGHIST REQUIRED -->Physicist. Foley was professor of physics at Columbia
+                University, 1948-1982, and a consultant to the U.S. Dept. of Defense.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>Correspondence, manuscripts, student papers, research notes, and printed materials
+                including Foley's professional and department files, lecture and laboratory notes,
+                his file of research projects and student papers, and his research for the JASON
+                Division of the Institute for Defense Analyses (later of the Stanford Research
+                Institute).</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in three series: <list type="simple">
+                    <item>Series I: Departmental and professional files</item>
+                    <item>Series II: Class notes: notebooks and loose folders</item>
+                    <item>Series III: Research notes</item>
+                </list>
+            </p>
+        </arrangement>
+        <controlaccess><head>Subjects</head>
+            <corpname encodinganalog="610">Stanford Research Institute.</corpname>
+            <corpname encodinganalog="610">Institute for Defense Analyses.--JASON
+                Division.</corpname>
+            <corpname encodinganalog="610">United States.--Dept. of Defense.</corpname>
+            <corpname encodinganalog="610">Columbia University--Faculty.</corpname>
+            <subject encodinganalog="650">Physics--Research.</subject>
+            <subject encodinganalog="650">Physics--Study and teaching.</subject>
+            <genreform encodinganalog="655" source="ftamc">Laboratory notes.</genreform>
+            <occupation encodinganalog="656" source="lcsh">Physicists.</occupation>
+            <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+        </controlaccess>
+        <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>This collection is located off-site. You will need to request this material at least
+                twenty-four (24) hours in advance to use the collection in the Rare Book and
+                Manuscript Library reading room.</p>
+            <p>This collection has no restrictions.</p>
+        </accessrestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>1982 M-82 Foley, Mrs. Henry M. Gift</p>
+        </acqinfo>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known); Henry Michael Foley Papers; Box and
+                Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Cataloged 06/--/1989 Christina Hilton Fenn</p>
+        </processinfo>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+                the physical material only. Copyright remains with the creator and his/her heirs.
+                The responsibility to secure copyright permission rests with the patron.</p>
+        </userestrict>
+        <dsc><c level="series">
+                <did><unittitle>Series I: Departmental and professional files</unittitle>
+                </did>
+                <c level="subseries">
+                    <did><unittitle>Subseries I: Columbia University. Department of Physics
+                 </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Correspondence, <unitdate type="inclusive">1969-1982</unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent><p>Chronological.</p>
+                        </scopecontent>
+                    </c>                    
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Applied Physics</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Atomic Physics</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Columbia Energy Research Center</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Executive Committee of the Graduate School of Arts and
+                                Sciences</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Faculties Revision Committee (Committee to Study the
+                                Organization of the Arts and Sciences: Woodring
+                                Committee)</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Financial</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Graduate Admissions, 1977-1978</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Likins, Peter William - Tenure Committee</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>New appointments</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Pupin Symposium</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Qualifying examinations</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Research Policy Advisory Council</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Serber, Robert</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Teaching assignments</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Subseries II: Professional file:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>The American Physical Society</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle><title render="italic">Comments on Atomic and Molecular
+                                    Physics</title>; a journal of critical discussion…</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Division of Electron and Atomic Physics (The American
+                                Physical Society)</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>International Conference on Atomic Physics</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Institutional Scientific Research Pool</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Jewish Theological Seminary</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Line shape book</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>National Aeronautics and Space Administration
+                                (NASA)</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>National Science Foundation</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Reviews of manuscripts, papers, etc.</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Hanan Rosenthal Memorial Fund</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series II: Class notes: notebooks and loose folders</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">5-7</container>
+                        <unittitle>Class notes: notebooks and loose folders</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series III: Research notes</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Acid rain</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Alfvén waves</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>American Physical Society - List of members,
+                                <unitdate>1913</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Applied Physics Laboratory, The Johns Hopkins
+                            University</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Atmospheric pollution, etc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Atomic and molecular spectra</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Au, C.K.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Bahcall, John Norris</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Bardsley, J.N.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Bersohn, R.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Bethe-Salpeter equation for helium</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Breit, G.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Brodsky, Stanley J.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Broecker, W.S.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Byron, Fred</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Casimir, H.B.G.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Chang, David</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Chen, Chengjun</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Cohen-Tannoudji, C.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Condon, E.U.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Daitch, P.B.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Dennison, David M.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Dessler, A.J.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Dyson, Freeman J.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Eck, T. G.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Elliott, J.P.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Exotic atoms</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Feinberg, G.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Ferrell, Richard A.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Foley, Henry Michael</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Frosch, Robert A.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Fuel allocation</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Gallagher, Alan</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Gavrila, Mihai</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Gersten, Joel I.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Gilbert, Arnold</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Glassgold, A.E.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Glauber, R.J.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Griem, Hans R.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>h-ordering</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Hagedorn, R.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Hameed, Sultan</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Happer, W.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Hartmann, S.R.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Hessel, M.M.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Huestis, David L.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Iddings, C.K.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Induced absorption</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Interstellar medium, etc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Jackson, J.D.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Kelly, Hugh P.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>King, K.M.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Kocher, Carl A.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Kramers, H.A.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Kroll, N.M.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Kurath, Dieter</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Lambropoulos, P.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Landman, Donald</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Lee, Yuan</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Levitt, Morris R.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Lindgren, Ingvar</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Low, Francis E.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Löwdin, Per-Olov</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Manassah, J.T.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Manson, Steven Trent</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Margenau, Henry</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Michels, E. Harvey</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Microwaves</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Minkowski, Hermann</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Miller, Bennett</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Muon catalysts</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Muons</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>NASA</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Novick, R.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Nuclear dipole</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Nuclear spin moment phenomena</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Omon, Alain</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Onsager, Lars</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Photon echoes</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Photon theory</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Pietenpol, Jerry L.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Pike, E.R.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Pressure broadening</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Pyykkö, P.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Quantumelectrodynamics</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Reinhardt, William P.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Rosen, Richard A.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Rosenthal, Hanan</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Sakurai, J.J.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Schwartz, Charles</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Schwinger, Julian</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Sessler, Andrew M.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Sinanoğlu, Oktay</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Sucher, J.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Sudarshan, E.C.G.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Teich, Malvin Carl</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Thaddeus, Patrick</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Thallium, etc.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Thorndike, Frances</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Tritium decay</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Tsuruta, Sachiko</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Uhlenbeck, G.E.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Van Vleck, J.H.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Venus atmosphere</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Wallace, John M.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Wilkinson, D. H.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15-22</container>
+                        <unittitle>Research notes - Jason</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><unittitle>The Jason Division of the Institute for Defense Analysis; The
+                                Jason Division of the Stanford Research Institute.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+
+
+
+
+
+
+
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079751_ead//EN" mainagencycode="nnc-rb">ldpd_4079751_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Carlos Federico Diaz Alejandro Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-05-29">2012-05-29</date>
+            <item>XML document instance created by Alison Rhonemus.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Díaz Alejandro, Carlos Federico.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Carlos Federico Diaz Alejandro Papers">Carlos Federico Diaz Alejandro Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1957/1985" type="inclusive">1957-1985.</unitdate>
+         <physdesc><extent encodinganalog="300">40 linear ft (ca.33,000 items in 82 boxes, 1 card file box,
+               &amp; 1 oversize box).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0344</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079751</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains correspondence, manuscripts, notes, research materials,
+            theses, course materials, subject files, printed matter and photographs, 1957-1985,
+            pertaining to American economist,  Carlos Federico Diaz Alejandro.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->American economist. Born in Cuba in 1937, he obtained a Ph.D.
+            in economics at M.I.T. in 1961, was a U.S. resident since 1964 and U.S. citizen since
+            1974. He taught at Minnesota, Yale, Rio Catholic University, and Columbia University. He
+            was a member of the National Bipartisan Commission on Central America (also known as the
+            Kissinger Commission).</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts (some unpublished), annotated manuscripts written by other
+            authors, notes and research materials, documents, theses and course materials, subject
+            files, photographs, and printed materials. Among the cataloged correspondents are:
+            Belisario Betancur, Jimmy Carter, Jack Kemp, Henry Kissinger, Ronald Reagan, and Jim
+            Wright. In addition, there are substantial files relating to the National Bipartisan
+            Commission on Central America including transcripts of testimony, publications, drafts
+            of the Commission's reports, his dissenting positions as well as the agenda and other
+            internal Commission documents. He was a specialist on the economy of Latin America,
+            particularly Argentina and Brazil, as reflected in the many articles and papers he wrote
+            as well as in those by other economists whose manuscript drafts, with comments by Díaz
+            Alejandro, are in this collection.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in ten series: <list type="marked">
+               <item>Series I: Catalogued Correspondence, Personal and Biographical File</item>
+               <item>Series II: Arranged Correspondence and Subject Files</item>
+               <item>Series III: Manuscripts</item>
+               <item>Subseries III.1: By C. Diaz-Alejandro</item>
+               <item>Subseries III.2: By Others</item>
+               <item>Series IV: Notes</item>
+               <item>Series V: Kissinger Commission</item>
+               <item>Series VI: Theses and Course Materials</item>
+               <item>Series VII: Printed Materials</item>
+               <item>Series VIII: Subject Files by Country</item>
+               <item>Series IX: Name and Address File</item>
+               <item>Series X: Oversize</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">United States.--National Bipartisan Commission on Central
+            America.</corpname>
+         <persname encodinganalog="600">Alejandro, Ramon.</persname>
+         <persname encodinganalog="600">Betancur, Belisario, 1923-</persname>
+         <persname encodinganalog="600">Carter, Jimmy, 1924-</persname>
+         <persname encodinganalog="600">Carter, Rosalynn.</persname>
+         <persname encodinganalog="600">Fielding, Fred F.</persname>
+         <persname encodinganalog="600">Kemp, Jack.</persname>
+         <persname encodinganalog="600">Kissinger, Henry, 1923-</persname>
+         <persname encodinganalog="600">Reagan, Ronald.</persname>
+         <persname encodinganalog="600">Wright, Jim, 1922-</persname>
+         <geogname encodinganalog="651">Argentina--Economic policy.</geogname>
+         <geogname encodinganalog="651">Brazil--Economic policy.</geogname>
+         <geogname encodinganalog="651">Central America--Economic conditions.</geogname>
+         <geogname encodinganalog="651">Latin America--Economic policy.</geogname>
+         <geogname encodinganalog="651">Latin America--Economic conditions.</geogname>
+         <subject encodinganalog="650">Economics--Study and teaching.</subject>
+         <subject encodinganalog="650">International cooperation.</subject>
+         <subject encodinganalog="650">International finance.</subject>
+         <genreform encodinganalog="655" source="ftamc">Agenda.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Appointments.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Articles.</genreform>
+         <genreform encodinganalog="655" source="aat">Audio cassettes.</genreform>
+         <genreform encodinganalog="655" source="aat">Card files.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Curricula vitae.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Drawings.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Festschriften.</genreform>
+         <genreform encodinganalog="655" source="lctgm">Frontispieces.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Lists.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Notes.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Reports.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Reviews.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Testimony.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Theses.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Transcripts.</genreform>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Economists.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>01/12/85 M-85-12-01 Papers C.U. Dept.of Economics via the Business Library Transfer</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Transferred from the Department of Economics via the Business Library, 1985.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known);  Carlos Federico Diaz Alejandro Papers;
+            Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 2-82. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers Processed 01/--/91</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Catalogued Correspondence, Personal and Biographical
+               File</unittitle>
+            </did>
+            <c level="subseries">
+               <did><unittitle>Subseries I.1: Cataloged Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Betancur, Belisario</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Carter, Jimmy and Rosalynn</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Fielding, Fred F.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Kemp, Jack</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Kissinger, Henry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Reagan, Ronald</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Wright, Jim</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries I.2: Personal and Biographical File</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Personal and Biographical File</unittitle>
+                  </did>
+                  <scopecontent><p>Includes Landscape drawing by Jose Ramon Diaz-Alejandro - frontispiece for
+                        book entitled <emph render="italic">Foreign Trade Regimes:
+                     Colombia</emph>
+                            </p>
+                  </scopecontent>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Arranged Correspondence and Subject Files</unittitle>
+            </did>
+            <scopecontent><p>This series includes teaching, course work and files on students.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>A - AID</unittitle>
+                  <physdesc><extent>(6 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>Am - Ar</unittitle>
+                  <physdesc><extent>(5 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>B - Ba</unittitle>
+                  <physdesc><extent>(6 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <unittitle>Be - Bu <title render="italic">(</title> 14 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle>C general</unittitle>
+                  <physdesc><extent>(6 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Ca - Conf</unittitle>
+                  <physdesc><extent>(13 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Conf - Cu</unittitle>
+                  <physdesc><extent>(20 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>D</unittitle>
+                  <physdesc><extent>(8 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>E</unittitle>
+                  <physdesc><extent>(9 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>F - Ford</unittitle>
+                  <physdesc><extent>(6 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>Ford - Guggenheim</unittitle>
+                  <physdesc><extent>(10 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <unittitle>H - Hutcheson</unittitle>
+                  <physdesc><extent>(10 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14a</container>
+                  <unittitle>I - Inter-American</unittitle>
+                  <physdesc><extent>(9 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14b</container>
+                  <unittitle>Inter-American - Journal</unittitle>
+                  <physdesc><extent>(12 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <unittitle>K</unittitle>
+                  <physdesc><extent>(11 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>L</unittitle>
+                  <physdesc><extent>(11 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17</container>
+                  <unittitle>M - Me</unittitle>
+                  <physdesc><extent>(6 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <unittitle>Me - N</unittitle>
+                  <physdesc><extent>(11 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <unittitle>O - P</unittitle>
+                  <physdesc><extent>(8 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <unittitle>Pa - R-</unittitle>
+                  <physdesc><extent>(15 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <unittitle>Ram - Roc</unittitle>
+                  <physdesc><extent>(11 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <unittitle>Rog - S</unittitle>
+                  <physdesc><extent>(6 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">23</container>
+                  <unittitle>S - Sw</unittitle>
+                  <physdesc><extent>(15 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <unittitle>T</unittitle>
+                  <physdesc><extent>(9 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <unittitle>U - W</unittitle>
+                  <physdesc><extent>(16 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <unittitle>W - Z</unittitle>
+                  <physdesc><extent>(18 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">27</container>
+                  <unittitle>Felipe Pazos's Festschrift</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Manuscripts</unittitle>
+            </did>
+            <scopecontent><p>This series includes manuscripts by 153 authors annotated by Diaz-Alejandro.
+                  Authors included, among others: Bacha, Edmar L.; Bishop; Furtado, Celso; Kareken,
+                  John H.; Lewis, W. Arthur; Moreno Fraginals, Manuel; Ocampo, Jose Antonio; Pelaez,
+                  C. M.; Rosenstein-Rodan, P. N.; Triffin, Robert; Thorp, Rosemary; Vernon, Raymond;
+                  Wallich, Henry.</p>
+            </scopecontent>
+            <c level="subseries">
+               <did><unittitle>Subseries III.1: By C. Diaz-Alejandro</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>A - F: 16 Manuscripts, 13 Book Reviews</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>G - La: 11 Manuscripts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <unittitle>Le - R: 18 Manuscripts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">31</container>
+                     <unittitle>S - U: 8 Manuscripts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <unittitle>Unpublished Manuscripts: 6 Folders, includes a copy of <title render="italic">The Latin American Economy from 1929 to the Early 1950s
+                        </title> (With additions and corrections in his hand)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries III.2: By Others</unittitle>
+               </did>
+               <scopecontent><p>Authors included, among others: Bacha, Edmar L.; Bishop; Furtado, Celso;
+                     Kareken, John H.; Lewis, W. Arthur; Moreno Fraginals, Manuel; Ocampo, Jose
+                     Antonio; Fela,ez, C M .; Rosenstein-Rodan, P. N.; Triffin, Robert; Thorp,
+                     Rosemary; Vernon, Raymond; and Wallich, Henry.</p>
+               </scopecontent>
+
+               <c level="file">
+                  <did><container type="Box" label="Box">33</container>
+                     <unittitle>Alvarez - Betancourt (12 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Bhagwati - Calvo (11 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">35</container>
+                     <unittitle>Bishop (1 author)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">36</container>
+                     <unittitle>Campos - Drake (17 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">37</container>
+                     <unittitle>Eckaus - Fishlow (7 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">38</container>
+                     <unittitle>Fraga - Gonzalez (14 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>Griffith - Joshi (16 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">40</container>
+                     <unittitle>Kareken - Maddison (15 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">41</container>
+                     <unittitle>Maier - Ocampo (19 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">42</container>
+                     <unittitle>Ohlin - Rodriguez (16 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">43</container>
+                     <unittitle>Rosenstein-Rodan - Tobin (16 authors)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">44</container>
+                     <unittitle>Triffin - Zorn (15 authors)</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IV: Notes</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">45-52</container>
+                  <unittitle>Notes and Research Material</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">53</container>
+                  <unittitle>Conferences</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series V: Kissinger Commission</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">54</container>
+                  <unittitle>General Correspondence, photos, audio-cassette</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">55-56</container>
+                  <unittitle>Commission drafts</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57-59</container>
+                  <unittitle>Bound Volumes Working Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">60-62</container>
+                  <unittitle>Testimony &amp; Related Documents</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">63-64</container>
+                  <unittitle>Supporting Documents</unittitle>
+               </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">65</container>
+                     <unittitle>Supporting Documents and Notes</unittitle>
+                  </did>
+               </c>            
+            <c level="file">
+               <did><container type="Box" label="Box">66</container>
+                  <unittitle>Printed Materials relating to the Commission</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series VI: Theses and Course Materials</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">67-69</container>
+                  <unittitle> (Minnesota, Yale, Columbia)</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series VII: Printed Materials</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">70</container>
+                  <unittitle>By C. F. Diaz-Alejandro or about him. Book reviews.
+                  Comments.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">71</container>
+                  <unittitle>Inscribed books</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">72</container>
+                  <unittitle><title render="italic">Pensamiento Iberoamericano</title> (Associate
+                     Editor)</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series VIII: Subject Files by Country</unittitle>
+            </did>
+            <c level="file">
+               <did><unittitle>Reports and Papers</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">73</container>
+                     <unittitle>On Argentina and comparison of development of Argentina and
+                     Australia</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">74-75</container>
+                     <unittitle>On Argentina</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">76</container>
+                     <unittitle>On Brasil</unittitle>
+                  </did>
+               </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">77</container>
+                        <unittitle>On Brasil and Chile</unittitle>
+                     </did>
+                  </c>               
+               <c level="file">
+                  <did><container type="Box" label="Box">78-79</container>
+                     <unittitle>On Cuba</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">80</container>
+                     <unittitle>On Colombia, Mexico, Puerto Rico, Uruguay</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">81</container>
+                  <unittitle>Publications from Andean Pact Board (Lima)</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IX: Name and Address File</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">82</container>
+                  <unittitle>Card file</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series X: Oversize</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box">Map Case 14-P-4</container>
+                  <unittitle>Document, Reagan, Ronald Washington, D.C., 10 August 1983. p.d.s., lp.
+                    </unittitle>
+               </did>
+               <scopecontent><p> (appointment of Carlos Diaz-Alejandro to National Bipartisan Commission on
+                     Central America: also signed by George Shultz)</p>
+                    </scopecontent>
+            </c>
+         </c>
+      </dsc>
+
+   </archdesc>
+</ead>

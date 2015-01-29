@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078565_ead//EN" mainagencycode="nnc-rb">ldpd_4078565_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Eveline Mabel Burns Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-03-20">2012-03-20</date>
+            <item>Xml document instance created by Alison Rhonemus.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Burns, Eveline Mabel Richardson, 1900-1985</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Eveline Mabel Burns Papers">Eveline Mabel
+            Burns Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1930/1985" type="inclusive">[ca. 1930]-1985.</unitdate>
+         <physdesc><extent encodinganalog="300">41.5 linear ft (ca. 50,000 items in 99 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0171</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078565</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains correspondence, manuscripts, notes, documents, student
+            files and printed material relating to social worker, Eveline Mabel Richardson Burns,
+            [ca. 1930]-1985.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Eveline Mabel Richardson Burns (1900-1985) was Professor of
+            Social Work, New York School of Social Work, 1946-1967.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts of books, articles, book reviews and speeches, course
+            materials, students' files, file reflecting a broad range of activities in the field of
+            social welfare such as Social Security, unemployment, health care, and social work
+            education. Also, an extensive file of printed materials.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected materials cataloged; remainder arranged. This collection is arranged in four
+            series: <list type="marked">
+               <item>Series I: Catalogued Correspondence</item>
+               <item>Series II: Correspondence, Manuscripts and Related Material</item>
+               <item>Series III: Subject File</item>
+               <item>Series IV: Printed Material, Student Files and Miscellaneous</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University.--School of Social Work--Faculty.</corpname>
+         <subject encodinganalog="650">Social work education.</subject>
+         <subject encodinganalog="650">Public welfare.</subject>
+         <subject encodinganalog="650">Unemployment insurance.</subject>
+         <subject encodinganalog="650">Social security.</subject>
+         <genreform encodinganalog="655" source="ftamc">Reviews.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Speeches.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Economists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Women college teachers.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1970 M-70 New York School of Social Work Transfer</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Transferred from the New York School of Social Work, 1970 &amp; 1978; transferred
+            from the Columbia University Department of Economics, 1987.</p>
+      </custodhist>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 1-99. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Eveline Mabel Burns Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 04/14/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Catalogued Correspondence</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Angell, James R.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Angell, James W.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Barzun, Jacques</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Bernays, Edward L.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Bradley, Omar Nelson</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Bunche, Ralph Johnson</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Caine, Sir Sydney</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Canfield, Cass</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Cornmager, Henry Steele</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Douglas, Paul Howard</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Dulles, Eleanor Lansing</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Eisenhower, Dwight David</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Folks, Homer</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Friedman, Milton</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Galbraith, John Kenneth</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Garrett, Garet</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Gardner, John William</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Gifford, John Sherman</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Goldberg, Arthur Joseph</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Hanks, Nancy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Harriman, William Averell</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Javits, Jacob Koppel</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Kennedy, Robert Francis</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Lenroot, Katharine Fredrica</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Lindsay, John Vliet</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Meyer, Agnes Ernst (Mrs Eugene)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Myrdal, Alva Reimer (Mrs Gunnar)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Myrdal, Gunnar Karl</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Pearson, Lester Bowles</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Reuther, Walter Philip</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Rockefeller, Nelson Aldrich</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Roosevelt, Eleanor Roosevelt</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Rusk, Dean</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Samuelson, Paul Anthony</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Smathers, George A.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Sparkman, John</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Stevenson, Adlai Ewing</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Sulzberger, Arthur Hays</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Taussig, Frank William</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Van Doren, Carl Clinton</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Wilkins, Roy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Wirtz, William Willard</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Wootton of Abinger, Barbara Frances Adam Wootton, Baroness</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">A</container>
+                  <unittitle>Young, Whitney Moore, Jr.</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Correnspondence, Manuscripts and Related Material</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">1-5</container>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Chronological, 1939-1970</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1939-1948</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <unittitle><unitdate>1949-1952</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle><unitdate>1953-1961</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle><unitdate>1961-1965</unitdate> 
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle><unitdate>1965-1970</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>              
+                  <c level="file">
+                     <did><container type="Box" label="Box">6</container>
+                        <unittitle>Topics--A - Z</unittitle>
+                     </did>
+                  </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7-10</container>
+                  <unittitle>Manuscripts and Related Material <unitdate>, 1948-1964</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle>Miscellaneous Manuscripts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle>Printed Material by E. M. Burns</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle>Cards for Index to <title render="italic">The American Social
+                           Security System</title> by E. M. Burns</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Subject File</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Aid to Dependent Children</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Aid to Families with Dependent Children</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Alabama Unemployment Commission</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>American Assembly</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>American Association of Schools of Social Work</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <unittitle>American Association of Social Workers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <unittitle>American Association of University Professors, <unitdate>1958-1960</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <unittitle>American Association of University Professors, <unitdate>1961-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <unittitle>American Association of University Women, <unitdate>1949-1952 </unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <unittitle>American Economic Association, <unitdate>1945-1948</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>A. E. A., <unitdate>1950-1957</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>American Federation of Labor</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>American Jewish Tercentenary</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>American Public Welfare Association </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <unittitle><unitdate>1951-1952</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <unittitle><unitdate>1952-1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <unittitle><unitdate>1961-1964</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">95</container>
+                     <unittitle><unitdate>1961-1962</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <unittitle>American Sociological Society</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <unittitle>Arden House Conference, <unitdate>1957-1958</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">95</container>
+                  <unittitle>Area Redevelopment Administration, <unitdate>1961-1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <unittitle>Bell, Winifred</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <unittitle>Birnberg Study - re: British Health Service</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <unittitle>British Social Security</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <unittitle>Brookings Institution</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">18</container>
+                  <unittitle>Bureau of the Budget</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19</container>
+                  <unittitle>E. M. Burns - Personal File</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <unittitle>Appointments</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <unittitle>Calendar of Dates</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <unittitle>Documents Ordered or Requested</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <unittitle>Personal Folder</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Engagements</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">19</container>
+                        <unittitle>Fulfilled, <unitdate>1948-1960</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">20</container>
+                        <unittitle>Refused, <unitdate>1949-1960</unitdate> 
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">20</container>
+                        <unittitle>Schedule</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle>Papers, Publicity, Etc.</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <unittitle>California Institute of Industrial Relations, <unitdate>1961</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">96</container>
+                  <unittitle>Canada</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <unittitle>Canadian Labour Congress, <unitdate>1965</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <unittitle>Child Labor</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">20</container>
+                  <unittitle>Citizens' Committee for Children, <unitdate>1964-1965</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <unittitle>C. C. C. , <unitdate>1967-1969</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">21</container>
+                  <unittitle>Citizens Union</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Columbia University</unittitle>
+                  <container type="Box" label="Box">21-22</container>
+               </did>    
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <unittitle>Commerce, Dept. of</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <unittitle>Commission on the Delivery of Personal Health Services, <unitdate>1967</unitdate>
+                    </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <unittitle>Commission on the Status of Women, <unitdate>1962-1963</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <unittitle>Committee on Social Insurance and Taxes, <unitdate>1962</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <unittitle>Community Council of New York, <unitdate>1964-1965 </unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <unittitle>Comparative Economic Organization</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">23</container>
+                  <unittitle>Conference on Financing Health Care - Aged, <unitdate>1956</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">23</container>
+                  <unittitle>Congressional Joint Committee on the Economic Report, <unitdate>1955</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">23</container>
+                  <unittitle>Consumers League of America, <unitdate>1948-1950 </unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <unittitle>C. L. A. , <unitdate>1948-1950</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">24</container>
+                  <unittitle>Consumers League of New York, <unitdate>1948-1951</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <unittitle>Council on Social Work Education, <unitdate>1952-1963</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <unittitle>Denmark - Social Security</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <unittitle>Desmond Hearings - <unitdate>1949</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">25</container>
+                  <unittitle>Disability Insurance</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <unittitle>Economic Development Administration, <unitdate>1966</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <unittitle>Eleanor Roosevelt Memorial Foundation</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <unittitle>Family Life Conference, <unitdate>1957</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <unittitle>Family Service Association of America, <unitdate>1948-1964 </unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Federal Advisory Council</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle><unitdate>1949-1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle><unitdate>1952-1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle><unitdate>1958-1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">96-97</container>
+                     <unittitle><unitdate>1951-1965</unitdate>
+                            </unittitle>                  
+                  </did>
+               </c>           
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">29</container>
+                  <unittitle>Federal Security Agency</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>1950 - H.R. 6000</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Ford Foundation - Problems re Older Citizens</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Fox, Martin J. ,<unitdate>1961</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Fraser, Hazel</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Gerontology</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Guggenheim Application Material</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Harriman Lecture, <unitdate>1961-1962</unitdate> 
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Hathaway Memorial Committee, <unitdate>1956</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Health and Welfare Council, Inc.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Health, Education and Welfare, Dept. of </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <unittitle><unitdate>1956-1963</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+
+               <c level="file">
+                  <did><container type="Box" label="Box">31</container>
+                     <unittitle><unitdate>1963-1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <unittitle><unitdate>1964-1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">33</container>
+                     <unittitle><unitdate>1964-1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle><unitdate>1966-1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Health Insurance Plan, N. Y.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Health Program, U. S.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Health Services Research Project, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Hobby Consultants Group, <unitdate>1953</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Housing Conference - Chicago, <unitdate>1960</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Illinois Are Redevelopment Administration</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Industrial and Labor Relations</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Industrial Relations Research Association, <unitdate>1959-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Institutes, Committee on, <unitdate>1946-1947</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Institute for Religous and Social Studies</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>International Conference of Social Work, <unitdate>1956, 1960-1962</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Italian Social Insurance Article</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>King - Anderson Bill, <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">98</container>
+                  <unittitle>Labor Department</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">35</container>
+                  <unittitle>Lasker Lectures, <unitdate>1952, 1953, 1960</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>League of Women Voters, <unitdate>1937</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Lenox Hill Neighborhood Association, <unitdate>1962</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>London School of Economics, <unitdate>1963</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>McConnell - Ford Proposals</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Maine Welfare Association</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Marshall Plan</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Mayo, Leonard</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Means Test Conference</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Michigan State University</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Milk - Orange Juice</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Minnesota, University of</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>National Advisory Commission on Health Manpower</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>National Association of Social Workers, <unitdate>1959-1963</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>National Bureau of Economic Research, <unitdate>1967-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">37</container>
+                  <unittitle>National Conference on Public Health Training, <unitdate>1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>National Conference on Social Work/Welfare - Name changed in
+                  1956.</unittitle>
+               </did>
+
+               <c level="file">
+                  <did><container type="Box" label="Box">37</container>
+                     <unittitle><unitdate>1951-1956</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">38</container>
+                     <unittitle><unitdate>1956-1958</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle><unitdate>1958-1959</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">40</container>
+                     <unittitle><unitdate>1959-1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">41</container>
+                     <unittitle><unitdate>1949-1958</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">42</container>
+                  <unittitle>National Council on the Aging, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">42</container>
+                  <unittitle>National Council on Social Work Education, <unitdate>1948-1951</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">42</container>
+                  <unittitle>National Public Advisory Committee, <unitdate>1961-1966</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">43</container>
+                     <unittitle><unitdate>1966-1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">43</container>
+                  <unittitle>National Social Welfare Assembly, <unitdate>1949-1954, 1959-1963</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">43</container>
+                  <unittitle>National Urban League, <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">43</container>
+                  <unittitle>New Hampshire</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">43</container>
+                  <unittitle>New Jersey</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">44</container>
+                  <unittitle>New York Academy of Medicine, <unitdate>1965, 1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">44</container>
+                  <unittitle>New York School of Social Work, <unitdate>1946-1967</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">44</container>
+                     <unittitle>Ad Hoc Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">44</container>
+                     <unittitle>Administration Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">44</container>
+                     <unittitle>Advanced Programs</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">45</container>
+                     <unittitle>Advanced Programs</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">45</container>
+                     <unittitle>Advisory Committee of the Faculties</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">45</container>
+                     <unittitle>Alumni Association</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">45</container>
+                     <unittitle>Board - Faculty Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">45</container>
+                     <unittitle>Burns, E. M. - Memos, Correspondence</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">45</container>
+                     <unittitle>Bush's Seminar for the Faculty</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">45</container>
+                     <unittitle>Curriculum Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>Curriculum Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>Curriculum in Social Policy</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>Curriculum Study Project</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>Development</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>Doctoral Program History</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>Educational Policy</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>Executive Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>Faculty Council</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>Faculty - Student Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Government and Social Welfare</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Grading</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Library Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Papers</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Personnel Practices Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Project Requirement</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Public Relations and Development Office</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Publications Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Replacement Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>Research Area Committee</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">48</container>
+                     <unittitle>Research Center</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">48</container>
+                     <unittitle>Salary Adjustment</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">48</container>
+                     <unittitle>School Council</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">48</container>
+                     <unittitle>School Organization</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">48</container>
+                     <unittitle>Social Service Area</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">48</container>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">49</container>
+                  <unittitle>New York State Department of Social Welfare</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">49</container>
+                  <unittitle>New York University</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">49</container>
+                  <unittitle>North Carolina Conference of Social Work, <unitdate>1956</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Ohio State University, <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Ohio Welfare Conference, <unitdate>1957</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Old Age Survivors Insurance</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Peace Corps Training Program for India, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Pennsylvania, University of</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Pittsburgh, University of</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Policy Advisory Committee, <unitdate>1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Poor Peoples Campaign</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>President's Commission on the Status of Women, <unitdate>1962-1963</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Princeton Lectures, <unitdate>1951</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Public Administration</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Public Assistance</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Public - Private</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">98</container>
+                  <unittitle>Public Welfare</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">50</container>
+                  <unittitle>Puerto Rico</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">51</container>
+                  <unittitle>Regional Advisory Group</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">51</container>
+                  <unittitle>Rein, Martin</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">51</container>
+                  <unittitle>The Role of Government in Health. Services</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">51</container>
+                  <unittitle>Saint Bonaventure University</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">51</container>
+                  <unittitle>The Seeing Eye - Study of the Blind</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">51</container>
+                  <unittitle>Shaw Lectures</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">51</container>
+                  <unittitle>Smith College, <unitdate>1946, 1960</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">51</container>
+                  <unittitle>Social Insurance Terminology</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Social Security Administration</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">52</container>
+                     <unittitle><unitdate>1946-1947, 1960-1965</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">53</container>
+                     <unittitle><unitdate>1967-1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">53</container>
+                  <unittitle>Social Security Appropriations</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">53</container>
+                  <unittitle>Social Security Board, <unitdate>1937-1938</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">53</container>
+                  <unittitle>Social Security in America</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">53</container>
+                  <unittitle>Social Security - Miscellaneous</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">53</container>
+                  <unittitle>Social Welfare - Miscellaneous</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">54</container>
+                  <unittitle>Social Work Research Group</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">54</container>
+                  <unittitle>Social Work - Miscellaneous</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>State Department</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">54</container>
+                     <unittitle><unitdate> 1962-1963</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">55</container>
+                     <unittitle><unitdate>1963-1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">55</container>
+                  <unittitle>Task Force on Income Maintenance</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">55</container>
+                  <unittitle>Toronto Research Conference, <unitdate>1953-1954</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">55</container>
+                  <unittitle>Toronto Round Table on Social Security, <unitdate>1948</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">55</container>
+                  <unittitle>Training Institute - Mobilization for Youth, Inc., <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">55</container>
+                  <unittitle>Treasury Department, <unitdate>1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">56</container>
+                  <unittitle>Twentieth Century Fund, <unitdate>1950-1954</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">56</container>
+                  <unittitle>Unemployment Committee</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">56</container>
+                  <unittitle>Unemployment Insurance</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">98</container>
+                  <unittitle>Unemployment--Miscellaneous</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">56</container>
+                  <unittitle>United Automobile Workers of America</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">98</container>
+                  <unittitle>United Auto Workers Social Security Committee, <unitdate>1949</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>United Nations</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">56</container>
+                     <unittitle>Educational, Scientific and Cultural Organization, <unitdate>1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">56</container>
+                     <unittitle>Seminar on Social Welfare, <unitdate>1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">56</container>
+                     <unittitle>Study on Social Services, <unitdate>1964</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>U. C. L. A., <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Upjohn Institute, <unitdate>1968-1969</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Veterans - Research Project</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Weld, W. E.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Welfare Administration, <unitdate>1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Welfare and Health Council, NYC, <unitdate>1948-1956</unitdate>
+                        </unittitle>
+                  <container type="Box" label="Box">98-99</container>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Welfare State</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Western College for Women, <unitdate>1962</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Western Michigan University, <unitdate>1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Western Reserve University, <unitdate>1962, 1963,
+                  1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>White House Conference on Aging</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>White House Conference on Children and Youth</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Withers Report on Relief Financing, <unitdate>1937</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Women's City Club</unittitle>
+               </did>        
+               <c level="file">
+                  <did><container type="Box" label="Box">99</container>
+                     <unittitle><unitdate>1948-1949</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">57</container>
+                     <unittitle><unitdate>1950-1952</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Miscellaneous Loose Materials</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IV: Printed Material, Student Files and Miscellaneous</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">58-63</container>
+                  <unittitle>Course Materials and Student Files</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">64</container>
+                  <unittitle>Student Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">65</container>
+                  <unittitle>Miscellaneous Notes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">65</container>
+                  <unittitle>Memorabilia</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">65</container>
+                  <unittitle>Printed Material</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">66-87</container>
+                  <unittitle>Printed Materials, including Mimeographs</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">88</container>
+                  <unittitle>Printed Materials with Correspondence or Notes Attached</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">89</container>
+                  <unittitle>Printed Materials - Agendas and Materials for Conferences</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">90-92</container>
+                  <unittitle>Printed Materials by E. M. Burns</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">90</container>
+                     <unittitle><unitdate>1930</unitdate> - 59</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">91</container>
+                     <unittitle><unitdate>1960</unitdate> - 61</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">92</container>
+                     <unittitle><unitdate>1962</unitdate> - 69</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">93</container>
+                  <unittitle>Manuscripts and Typescripts by E. M. Burns</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">93</container>
+                  <unittitle>Publicity and Reviews of Books by E. M. Burns</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">93</container>
+                  <unittitle>Miscellaneous Typescripts</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">93</container>
+                  <unittitle>Memoranda and Typed Papers</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">93</container>
+                  <unittitle>Galley Proofs</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">94</container>
+                  <unittitle>Miscellaneous Correspondence (Not with E. M. Burns)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">94</container>
+                  <unittitle>Notes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">94</container>
+                  <unittitle>Clippings</unittitle>
+               </did>
+            </c>
+         </c>
+      </dsc>
+
+   </archdesc>
+</ead>

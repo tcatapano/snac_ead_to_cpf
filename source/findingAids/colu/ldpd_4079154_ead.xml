@@ -1,0 +1,4603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079154_ead//EN" mainagencycode="nnc-rb">ldpd_4079154_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Allan Nevins Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-07-07">July 7, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-07-07">July 7, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-18">2010-02-18</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Nevins, Allan, 1890-1971.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Allan Nevins Papers">Allan Nevins Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1912/1992" type="inclusive">1912-1992</unitdate>
+         <physdesc><extent encodinganalog="300">104 linear ft. (ca.40,700 items in 207 boxes; 8 oversize items; 6 record storage cartons of books).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079154</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->American historian and editor.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Approximately 12,000 letters to Allan Nevins from various correspondents including James Truslow Adams, Franklin Delano Roosevelt, Harry S. Truman, Willa Cather, Mrs. Grover Cleveland, Van Wyck Brooks, Robert Frost, Newton D. Baker, Archibald MacLeish, John D. Rockefeller, Jr., Carl Sandburg, and Henry Wallace; notes and typescripts for Nevins' books including <title render="italic">Emergence of Lincoln</title>, <title render="italic">The Ordeal of Democracy</title>, <title render="italic">Rockefeller</title>, and <title render="italic">History and Historians</title>, with notes by editor Ray A. Billington; miscellaneous transcripts, clippings, newspapers, and photographs. Also, autograph letters and manuscripts by presidents, Civil War figures, financiers, politicians, and authors. There are also the Brand Whitlock World War I Diaries and letters to him by such people as Herbert Hoover, Gen. John J. Pershing, and others.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 5 series:</p>
+         <p><list type="marked">
+               <item>Series I: Historical Correspondence</item>
+               <item>Series II: Professional Correspondence</item>
+               <item>Series III: Manuscripts, Diaries etc.</item>
+               <item>Series IV: 1982 Gift</item>
+               <item>Series V: Oversize Material</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Standard Oil Company.</corpname>
+         <persname encodinganalog="600">Adams, James Truslow, 1878-1949.</persname>
+         <persname encodinganalog="600">Bryce, James Bryce, Viscount, 1838-1922.</persname>
+         <persname encodinganalog="600">Cleveland, Grover, 1837-1908.</persname>
+         <persname encodinganalog="600">Commager, Henry Steele, 1902-1998.</persname>
+         <persname encodinganalog="600">Cortissoz, Royal, 1869-1948.</persname>
+         <persname encodinganalog="600">Fish, Hamilton, 1808-1893.</persname>
+         <persname encodinganalog="600">Ford, Henry, 1863-1947.</persname>
+         <persname encodinganalog="600">Frémont, John Charles, 1813-1890.</persname>
+         <persname encodinganalog="600">Hewitt, Abram S. (Abram Stevens), 1822-1903.</persname>
+         <persname encodinganalog="600">Hone, Philip, 1780-1851.</persname>
+         <persname encodinganalog="600">Lincoln, Abraham, 1809-1865.</persname>
+         <persname encodinganalog="600">Roosevelt, Franklin D. (Franklin Delano), 1882-1945.</persname>
+         <persname encodinganalog="600">Rowse, A. L. (Alfred Leslie), 1903-1997.</persname>
+         <persname encodinganalog="600">Truman, Harry S., 1884-1972.</persname>
+         <persname encodinganalog="600">Whitlock, Brand, 1869-1934.</persname>
+         <persname encodinganalog="600">Cather, Willa, 1873-1947.</persname>
+         <persname encodinganalog="600">Cleveland, Frances Folsom, 1864-1947.</persname>
+         <persname encodinganalog="600">Brooks, Van Wyck, 1886-1963.</persname>
+         <persname encodinganalog="600">Frost, Robert, 1874-1963.</persname>
+         <persname encodinganalog="600">Wallace, Henry A. (Henry Agard), 1888-1965.</persname>
+         <persname encodinganalog="600">Billington, Ray Allen, 1903-1981.</persname>
+         <persname encodinganalog="600">Baker, Newton Diehl, 1871-1937.</persname>
+         <persname encodinganalog="600">MacLeish, Archibald, 1892-1982.</persname>
+         <persname encodinganalog="600">Rockefeller, John D. (John Davison), 1874-1960.</persname>
+         <persname encodinganalog="600">Sandburg, Carl, 1878-1967.</persname>
+         <geogname encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+         <geogname encodinganalog="651">United States--History--Revolution, 1775-1783.</geogname>
+         <subject encodinganalog="650">Women authors.</subject>
+         <subject encodinganalog="650">Women authors, American.</subject>
+         <subject encodinganalog="650">Poets, American.</subject>
+         <subject encodinganalog="650">Presidents--United States.</subject>
+         <subject encodinganalog="650">Capitalists and financiers.</subject>
+         <subject encodinganalog="650">Politicians.</subject>
+         <subject encodinganalog="650">Authors, American.</subject>
+         <genreform encodinganalog="655" source="ftamc">Autographs.</genreform>
+         <genreform encodinganalog="655" source="aat">Awards.</genreform>
+         <genreform encodinganalog="655" source="aat">Certificates.</genreform>
+         <genreform encodinganalog="655" source="aat">Clippings.</genreform>
+         <genreform encodinganalog="655" source="aat">Diaries.</genreform>
+         <genreform encodinganalog="655" source="aat">Diplomas.</genreform>
+         <genreform encodinganalog="655" source="aat">Dissertations.</genreform>
+         <genreform encodinganalog="655" source="aat">Essays.</genreform>
+         <genreform encodinganalog="655" source="aat">Lectures.</genreform>
+         <genreform encodinganalog="655" source="aat">Lists.</genreform>
+         <genreform encodinganalog="655" source="aat">Manuscripts.</genreform>
+         <genreform encodinganalog="655" source="aat">Memorabilia.</genreform>
+         <genreform encodinganalog="655" source="aat.">Notes.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="aat">Scrapbooks.</genreform>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Historians.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located off-site. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1953 M-53 Nevins, Allan Gift </p>
+         <p>12/04/1992 M-92-12-04 Papers Mayer, Meredith Nevins Gift</p>
+      </acqinfo>
+      <altformavail encodinganalog="530">
+         <head>Alternate Formats</head>
+         <p>Lord Bryce letters are on microfilm. </p>
+         <p>Willa Cather letters are on microfilm. </p>
+         <p>Royal Cortissoz letters are on microfilm. </p>
+         <p>Elizabeth Benton Fremont diary is on microfilm.</p>
+      </altformavail>
+      <custodhist encodinganalog="561">
+         <p>Gift of Allan Nevins, 1953 &amp; 1954. </p>
+         <p>Bequest of Alan Nevins, 1971. </p>
+         <p>Gift of Anne Nevins Loftis &amp; Meredith Nevins Mayer, 1982. </p>
+         <p>Gift of Meredith Nevins Mayer, 1992.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Allan Nevins Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 08/--/1989 Christina Hilton Fenn </p>
+         <p>Papers Processed 10/05/1992 HR</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Historical Correspondence</unittitle>
+                </did>
+                <scopecontent><p>In Boxes 1-6 of the collection</p>
+                </scopecontent>
+                <c level="file">
+                    <did><unittitle>Adams, Charles Francis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Adams, Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Adams, Jane </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ade, George </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Albert, King of Belgium </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Albert I, King of the Belgians </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Allen, Margaret V. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Alliot, Hector </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ames, Oakes </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Anderson, Henry James </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Arnot, N.D. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Arschot Schoonhoven, Guil1aume </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Asquith, Herbert Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Astor, Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Athlone, 1st Earl of </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Atkins, John DeWitt Clinton </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Babcock, O.E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Baker, Newton D. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bancroft, George </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Barnard, Frederick Augustus Porter </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Barnum, William H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Beard, Charles A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Beauregard, Pierre Gustave Toutant </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Belford, R.J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Benton, Thomas Hart </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Benzon, E.I.S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Birren, Joseph P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Black, Alexander </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Blaine, James G. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Blair, Sherman </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bliss, Tasker H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bok, Edward William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Boker, George H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Briggs, William H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Broat, J.B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Brown, Lewellen A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bryan, William Jennings </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bryant, William Cullen </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bryce, James   MICROFILM </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bynum, William D. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cadwalder, John L. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Canda, Charles J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Carnegie, Andrew </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Carter, James Coolidge </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Chamberlain, Daniel Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Childs, George W., et al. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Claroye, Ida B. (Mrs. W. D.) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Clemenceau, Georges </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cleveland, Grover </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Clews, Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cobb, Howell </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cockran, William Bourke </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Colfax, Schuyler </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Conkling, Roscoe / </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Commager, Henry S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cooke, Jay </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cooper, Edward A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cooper, Peter </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cooper, Peter &amp; Cyrus H. Field </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cooper &amp; Hewitt </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cattenet, F. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Coxa, Cleveland </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Creel, George </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Crey, Marie de </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Curzon, George Nathaniel, Lord </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cushing, Caleb </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dana, Charles A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dana, Richard Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Darrow, Clarence S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dart, Matilda S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>David, Sgt. Robert B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Davie, George M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Davis, Jefferson </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Davis, John Chandler Bancroft </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Davis, John W. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Davis, Robert H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dellenbaugh, Frederick Samuel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Denstan, Charles </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Depew, Chauncey M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dewey, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dewitt, Charles </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>DeWolf, Philip </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Di Wiart, Mme. Carton </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dix, John A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dodge, William Earl </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Duer, William A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dunbar, Paul Laurence </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dunne, Mary Kate </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Eames, Emma </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ebbets, William Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Edmunds, George F. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Elisabeth, Queen of Belgium </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Eisenhower, Dwight David </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Einstein, Albert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Einstein, Margot </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Evarts, William M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Evvard, John M., et al. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ewing, W.G. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fesseden, William P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Field, Cyrus </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Field, Wlater T. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fish, Hamilton </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fish, Stuyvesant </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fisk, James, Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Flagler, Henry M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Flagler, D.W. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Flexner, Abraham </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ford, Worthington C. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fox, G.A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frederic, Harold </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frelinghuysen, Frederick Theodore </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frémont, Elizabeth Benton </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frémont, Francis P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frémont, Jack </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frémont, Jessie Benton </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frémont, John Charles </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frémont, John Charles, Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frémont, Sally A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frenzel, John P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frost, Robert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fuller, Henry Blake </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Garland, Hamilin </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Gentry, Mary (Mrs. Thomas Benton) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Gibson, Hugh </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Gilson, S.D. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Godwin, Parke </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Gompters, Samuel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Gould, Jay </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Grant, Thomson V. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Grant, Ulysses S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Greeley, Horace </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Green, Andrew H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Green, Anne Bosworth </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Grenier, G.C. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Grosvenor, Victor Alexander, Earl of (1853-1884) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Guard, William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Guthrie, James </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hanna, Marcus Alonzo </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Harison, William H., Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Harper, William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hartnell, Mary E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hay, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hay, Lucy (Mrs. Logan) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hendrix, Joseph C. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Herbert, Hilary A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Herrick, Myron T. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hewitt, Abram S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hewitt, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hill, David B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hitchcock, J.S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Humphrey, Hubert Horatio </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hoar, Ebenezer Rockwood </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hodgson, Richard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Holmon, William S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hoover, Herbert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Houdini, Harry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>House, Edward M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Howells, Abby </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Howells, Mildred </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Howells, William Dean </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hubbard, Gardner G. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hudson, Joseph </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Huntington, J.W. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hunton, Eppa </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hurst, Fannie </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Jaffrey, Robert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Jehay, F. van den Steen de, Comtesse </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Johnson, Lyndon Baines </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Johnson, Reverdy </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Johnson, Tom </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Johnston, William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Jones, E.B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Jones, Samuel M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Jowett, Benjamin </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Julian, George W. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Jusserand, Jean Adrien Antione Jules </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kendall, Amos </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kennedy, John F. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kerr, Sophie </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ketchum, Hiram </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Knap, Charles </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lament, Daniel Scott </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lansing, Robert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lee, Arthur Hamilton, Vicsount Lee of Fareham </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lindbergh, Charles A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lindsay, Vachel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lindsay, Nicholas Vachel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lindsey, Ben B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lipton, Sir Thomas </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lodge, Henry Cabot </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lossing, Benson J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Low, Seth </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lummis, Charles F. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>McAdoo, William Gibbs </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Mac Arthur, Robert Stuart </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>McClellan, George B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>McClure, T.C. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>McCutcheon, John T. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>McKain, Emma Jane </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Marbury, F.F. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>March, Alden </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Marshall, Thomas R. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Martin, William J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Masefield, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Masters, Edgar Lee </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Meade, Robert D. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Mencken, Henry Louis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Mercier, Désiré-Joseph, Cardinal </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Merriam, Kibtie </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Milner, Alfred </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Milner, Alfred </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Mitchell, Henry S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Morgan, J. Pierpont </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Morrow, William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Morton, Levi P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Motley, J.L. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Nicholson, Meredith </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Nimitz, Chester William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Nordhoff, Charles </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Morton, Levi P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Orendorff, S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ottendorf, Oswald </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Page, Thomas Nelson </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Paine, Albert Bigelow </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Palmer, Loren </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Peabody, Elisabeth P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Pershing, John J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Phillips, William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Pinchot, Clifford </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Pitkin, Timothy </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Pound, Ezra </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Pratt, Orvill G. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Pritchett, Henry S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Putnam, Herbert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Randall Samuel J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Rhodes, James Ford </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Richey-Borrodaile corres. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Riley, James Whitcomb </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Robeson, George M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Roebling, John A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Roosevelt, Theodore </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Root, Elihu </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Rose, Sir John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Rose, Wickliffe </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ross, Nathaniel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Rowse, A.L. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sadler &amp; Sands </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Salisbury, James Edward Hubert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Gascoyne-Cecil, 4th Marquess of </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Schurz, Carl </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Scott, William H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Seelye, Julius H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Seymour, Charles </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Seward, William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Seymour, Horatio </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sherman, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Silliman, Benjamin </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Smith, Henry H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Smith, Marshall </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sothern, Julia Marlowe </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sparks, William A.J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stahl, John M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stanford, Fannie E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stanton, Edwin M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stefansson, Vilhjalmur </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stephens, Alexander H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Steffens, Lincoln </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stetson, Francis Lynde </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stevenson, Adlai Ewing </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stewart, Alexander T. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Storrs, Richard Salter </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Strachey, Evelyn John St. Lee </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Straus, Isidor </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sutter, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Swan, Benjamin L. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sykes, W.L. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Taft, Abby </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Taylor, Fred </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Thomson, J. Edgar </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Thornton, Edward </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Thornton, W.A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Thruston, R.C. Ballard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Thurman, Allen Granberry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Tilden, Samuel J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Towne, Charles Hanson </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Tree, Herbert (Beerbohm) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Treichel, Charles </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Tucker, Nathaniel Beverley </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Tucker, Beverley </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Tuthill, Anna B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Underwood, John Cox </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Underwood, Warner Lewis, </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Utley, George B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Van Dyke, Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Van Meter, Lt. L.M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wallace, Henry Agard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Walsh, Richard J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ward, William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Warren, N.W. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Washbourne, Elihu </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Watkins, Gora B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Watson, P.H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Webster, Daniel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Webster, Sidney </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Weed, Thurlow </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Weitenkampf, Frank </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Welles, Gideon </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wharton, Edith </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wheeler, E.J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>White, George </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>White, William Allen </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Whitlock, Brand </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Whitney, Eli </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Whitney, Henrietta F. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Whittier, John Greenleaf </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wilcox, Charles G. Finney </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Williams, James H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Williams, John L.B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wilson, Edith Bolling (Mrs. Woodrow) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wilson, Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wilson, Woodrow </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wise, H.A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wister, Owen </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wood, Eugene </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wood, Fernando </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series II: Professional Correspondence</unittitle>
+                </did>
+                <scopecontent><p>In Boxes 18-31 of the collection</p>
+                </scopecontent>
+                <c level="file">
+                    <did><unittitle>Acheson, Dean </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Adamic, Louis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Adams, Charles Francis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Adams, J. Donald </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Adams, Samuel Hopkins </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Agar, Herbert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Alden, Raymond M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Allen, Hervey </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Anderson, Maxwell </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Angell, Normal </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Arvin, Newton </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Astor, Nancy, Viscountess </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Atkinson, Brooks </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Auchincloss, Louis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Auerbach, Joseph S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Baker, Newton D. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Baker, Ray Stannard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bancroft, Frederic </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Baruch, Bernard M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Beard, Charles A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Becker, Carl </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Benedict, Ruth </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Benét, Stephen Vincent </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Benét, William Rose </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Benton, Thomas Hart </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Benton, William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bercovici, Konrad </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bergman, Lewis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bingham, Millicent Todd </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Björkman, Edwin August </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bliven, Bruce </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Boorstin, Daniel J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bowen, Catherine Drinker </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bowers, Claude G. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Boynton, Genry Walcott </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bradford, Gamaliel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Braithwaite, William Stanley </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Brodie, Fawn M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Brogan, Denis William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bromfield, Louis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Brooks, Cleanth, Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Brooks, Van Wyck </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Brucker, William Hepburn </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Bunche, Ralph J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Burnett, Whit </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Butler, Nicholas Murray </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Byrd, Richard E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cain, James M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Calverton, Victor Francis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Canby, Henry Deidel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cane, Melville </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Carmer, Carl </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cather, Willa S.  MICROFILM </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Chase, Mary Ellen </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cherne, Leo </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Chute, Marchette </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Colum, Mary M. (Mrs. Padraic Colum) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Colum, Padraic </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Colvin, Sir Sidney </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Commager, Henry S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Connally, John B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Connelly, Marc </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cortissoz, Royal   MICROFILM </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Costain, Thomas B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cousins, Norman </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Cowley, Malcolm </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Craven, Avery C </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Creel, George </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Daniels, Jonathan Worth </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Daniels, Josephus </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Davis, Elmer </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>De Voto, Bernard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dewey, Thomas E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dippel, Philip Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dirksen, Everett McKinley </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dobie, J. Frank </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dos Passos, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Douglas, Paul H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dreyfuss, Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Duffus, R.L. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Dulles, Foster Rhea </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Duveen, Joseph </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Eaton, W.P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Edel, Leon </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Eden, Anthony, Earl of Avon </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Eisenhower, Dwight David </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Eisenhower, Mamie </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Eisenhower, Milton S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Erskine, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Evans, Ernestine </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Farrand, Beatrix </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Farley, James A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Farrar, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Farrell, James T. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fast, Howard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ferber, Edna </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Finley, John Huston </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fish, Hamilton, Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fish, Stuyvesant </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Fisher, Dorothy Canfield </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Flexner, Abraham </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Foote, Shelby </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ford, Worthington C. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frankfurter, Felix </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Franke, William Birrell </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Franklin, Fabian </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Franklin, Margaret Ladd </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Frost, Robert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Galbraith, John Kenneth </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Gannett, lewis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ghent, William James </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Gibbs, Norman H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Gildersleeve, Virginia C. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Green, Paul </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Grew, Joseph C. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hand, Learned </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hansen, Harry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Harriman, Averell </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Harriman, Mary H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Harriman, W.R. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hazlitt, Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hellman, Dillian </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Henderson, Archibald </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Herring, Pendleton </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hersey, John </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Heubsch, Ben W. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hicks, Cranville </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hill, Frank Ernest </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hillyer, Robert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Holt </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hoover, Herbert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>House, Edward Mandell </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Howe, M.A. DeWolfe </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hughes, Charles Evans </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hulbert, Murray </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hull, Cordell </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Humphrey, Hubert H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hutchins, Robert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Husley, Julian </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Irwin, Will </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Isaacs, Stanley M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ives, Irving N. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Joad, C.E.M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Johnson, Lyndon Baines </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Johnson, Robert Underwood </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Johnston, Eric </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Jones, Howard Mumford </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Josephson, Matthew </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Jusserand, Jean Adrien Antione Jules </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kalternborn, Hans V. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kazin, Alfred </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kellogg, Vernon Lyman </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kennan, George </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kennedy Ethel Skakel (Mrs. Robert F.) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kennedy, John Fitzgerald </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kennedy, Joseph P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kennedy, Robert Francis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Keynes, John Maynard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Knight, Goodwin J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Knollenberg, Bernhard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Knoof, Alfred A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Knopf, Blanche W. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Komroff, Manuel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Krock, Arthur </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Krutch, Joseph Wood </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kuchel, Thomas H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Kandon, Alf M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>La Farge, Oliver </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>La Follette, Fola </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lasky, Melvin J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Leach, Margaret Kernochan </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lehman, Edith Altschul </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lehman, Herbert H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lerner, Max </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lilienthal, David E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lindbergh, Charles A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lippman, Walter </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Liverright, Horace B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Longone, Pierre </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lord, Chester S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lovemann, Amy </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Low, Will H. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lowell, Amy </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Lowell, Robert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>McClure, Samuel Sidney </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>MacLeish, Archibald M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Macmillan, Harold </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Masters, Edgar Lee </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Matthews, Brander </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>McCutcheon, John T. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>McFee, William </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Menninger, Karl </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Meyner, Robert B. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Moore, Douglas </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Moore, Marianne C. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Moore, Merill </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>More, Paul E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Morgan, J. Pierpont </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Morgenthau, Henry, Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Morison, Samuel Eliot </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Morley, Christopher </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Morley, Frank Vigor </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Murrow, Edward R. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Myers, Gustavus </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Nathan, Robert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Neuberger, Richard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Newton, A. Edward </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Nicolay, Helen </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Niebuhr, Reinhold </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Nixon, Thelma Catherine Ryan (Mrs. Richard Mulhouse) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Nock, Albert Jay </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>North, Sterling </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>O'Connor, Flannery </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ogden, Rollo </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Orton, Vrest </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Overton, Grant </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Parsons, Geoffrey </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Pepper, George Wharton </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Perkins, Dexter </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Perkins, Frances </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Perkins, Maxwell E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Piston, Walter </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Prendergast, William A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Pulitzer, Joseph </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Putnam, George Haven </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Ransom, John Crowe </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Roberts, Kenneth </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Rockefeller, David </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Rockefeller, John D., Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Rockefeller, Nelson Aldrich </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Roosevelt, Franklin Delano </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Roosevelt, Mr. &amp; Mrs. Franklin Delano </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Roosevelt, Nicholas </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Roosevelt, Theodore, Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Root, Elihu </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Rothermere, Esmond Cecil Harmsworth, 2nd Viscount of Hemstead </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Rowse, Alfred Leslie </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sadlair, Michael E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sandburg, Carl </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Schlesinger, Arthur M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Schlesinger, Arthur, Jr. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Schulberg, Budd </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Schwengel, Fred Delbert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Seldes, Gilbert </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sessions, Roger </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Seymour, Charles </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sherman, Stuart P. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sherwood, Robert E. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Shotwell, James T. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sinclair, Upton </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sitwell, Edith </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Smith, Margaret Chase </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sorensen, Theodore C. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stefanson, Vilhjalmur </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Steffens, Lincoln </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stevens, Roger </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stevenson, Adlai Ewing </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stone, Irving </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Stout, Rex </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Street, Julian </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sullivan, Mark </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Sulzberger, Arthur Hays </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Taft, Henry W. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Taft, Robert A. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Tarbell, Ida M. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Tawney, Richard Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Teasdale, Sara </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Thomas, Lowell </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Thomas, Norman </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Thorndike, Ashley Horace </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Towne, Charles Hanson </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Toynbee, Arnold Joseph </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Trevelyan, George Macaulay </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Trilling, Lionel </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Truman, Harry S. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Turner, Frederick J. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Untermeyer, Louis </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Van Doren, Carl </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Van Doren, Irita </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Van Doren, Mark </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Van Dyke, Henry </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Van Loon, Hendrik Willem </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Villard, Oswald Garrison </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wagner Robert F. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wallace, Henry Agard </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wallace, Irving </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Walling, Anna Strunsky </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Warde, Beatrice L. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Warren, Robert Penn </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Webb, Walter Prescott </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wedgwood, Josiah Clement </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Welles, Sumner </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wescott, Glenway </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wheelock, John Hall </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>White, Sallie L. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>White, William Allen </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wickard, Claude R. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wilson, Edmund </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Winter, Ella (Mrs. Lincoln Steffens) </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Winterick, John T. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Wyeth, Andrew </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Yarboroug, Ralph W. </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Young, Stark </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Books</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series III: Manuscripts, Diaries etc.</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Manuscripts</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Whitlock, Brand Diaries, Vols. 1-13, <unitdate>1915-Jan. 1918</unitdate>
+                        </unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[8]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Whitlock, Brand Diaries, Vols. l4-25, <unitdate>Feb. l915-1921</unitdate>
+                        </unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[9]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Fish, Hamilton Diplomatic Crafts: Instruction and notes, Vol. I: Argentina - Italy, <unitdate>March 5, 1873-June 30, 1874 </unitdate>
+                        </unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[10]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Fish, Hamilton Diplomatic Crafts: Instruction and notes, Vol. 2: Spain - Venezuela, <unitdate> July 1, 1874-October 31, 1876</unitdate>
+                        </unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[11]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Harry Truman   Memoirs , Vols. 1-2</unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[12]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Harry Truman Memoirs, Vols. 3-4</unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[13]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Carl Sandburg  Always the Young Strangers [advance mimeographed copy]</unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[14]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Upton Sinclair Lanny Budd Rides Again [advance mimeographed copy]</unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[15]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Brand Whitlock Misc.</unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[16]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>Misc. uncataloged :
+ A.S. Hewitt; Peter Cooper; Cleveland, Grover; Chester, Arthur; William T. Coggeshall; Post Wheeler-Hallie E. Rivers Wedding Book</unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[17]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Hone, Philip Memoirs</unittitle>
+                        <physdesc>(3 loose volumes)</physdesc>
+                    </did>
+                    <scopecontent><p>[vols. 17, 18, 19 ]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Memoir and letters of George W. Strong to John N. Lloyd and miscellaneous letters from George W. Strong to and from others (than Mr. Lloyd) and from them to him</unittitle>
+                        <physdesc>(1 looseleaf binder (loose))</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Books</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Strongbox of Brand Whitlock</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>1 large soft-cover book entitled "Declaration of Independence - Evolution of the Text", Washington, D.C., Library of Congress, <unitdate>1943</unitdate>
+                        </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Diaries</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">33 &amp; 34b</container>
+                        <unittitle>Biographical and personal (contain some photographs)</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">34a &amp; 34b</container>
+                        <unittitle>Oxford visit, <unitdate>1965</unitdate>
+                        </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>National Book Award, [n.p.], <unitdate>1971 (Given 13 Aprl 1972)</unitdate>
+                        </unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[On top of diaries, Box 32]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Jose Rizal National Centennial Commission - Manila (Scrapbook of photos)</unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[On top of Diaries, Box 32]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Transcript of essays for History and Historians with notes by Roy A. Billington, editor</unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[Gift of Mrs. Allan Nevins]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Civil War Lectures</unittitle>
+                        <physdesc/>
+                    </did>
+                    <scopecontent><p>[Gift, 1973]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Misc. Essays and Lectures (used by R.A. Billington)</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Misc. notes and reflections:  Articles, printed material and Manuscript of "The Free Negro in New York" (used by R.A. Billington)</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">39 - 80</container>
+                        <unittitle>Correspondence chronologically arranged, [v.p.], <unitdate>1912-1975</unitdate>
+                        </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">81 &amp; 82</container>
+                        <unittitle>Correspondence Files</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>Miscellaneous Correspondence</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">84</container>
+                        <unittitle>Subject Correspondence; letters to family; letters from A. Nevins</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">85</container>
+                        <unittitle>Adlai Stevenson Correspondence, James T. Farrell Correspondence, Subject Correspondence</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">86</container>
+                        <unittitle>American Academy of Arts and Letters</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">87 &amp; 88</container>
+                        <unittitle>Civil War Centennial Commission</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">89 - 91</container>
+                        <unittitle>The American States During the Revolution:  Notes and Manuscripts</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">92 &amp; 93</container>
+                        <unittitle>The American States During and After the Revolution: Notes and Manuscripts</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">94</container>
+                        <unittitle>Ford Manuscript</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">95 - 100</container>
+                        <unittitle>Ford Biography</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">101 - 105</container>
+                        <unittitle>Cleveland</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">106</container>
+                        <unittitle>Cleveland Notes</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">107</container>
+                        <unittitle>Cleveland</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">108-123</container>
+                        <unittitle>Rockefeller Notes</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>2 flat pictures (on top of above)</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Scrapbook of clippings</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">124-125</container>
+                        <unittitle>Rockefeller Manuscript</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">126-133</container>
+                        <unittitle>Rockefeller notes</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">134-139</container>
+                        <unittitle>Standard Oil</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">140-148</container>
+                        <unittitle>Emergence of Lincoln notes</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">149-153</container>
+                        <unittitle>Ordeal of Union notes; Book reviews, 149</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">154</container>
+                        <unittitle>Ordeal of the Union Manuscript</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">155</container>
+                        <unittitle>Ordeal of the Union Vol. 7 Ms. notes and drafts</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">156</container>
+                        <unittitle>Ordeal of the Union Vol. 7 Notes an Ms. (Chap. 9-13)</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">157-160</container>
+                        <unittitle>Ordeal of the Union Vols. 7 and 8</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">161</container>
+                        <unittitle>Ordeal of the Union Vol. 8 Ms.</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">162</container>
+                        <unittitle>Ordeal of the Union Vol. 8 Misc. notes and drafts (Chap. 8-14)</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">163</container>
+                        <unittitle>Ordeal of the Union Vol. 8 Misc. notes and drafts (Chap. 1-7)</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">164-165</container>
+                        <unittitle>War for the Union Ms.</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">166-169</container>
+                        <unittitle>Civil War notes</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">170</container>
+                        <unittitle>Newspaper clippings on Civil War</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">171</container>
+                        <unittitle>Newspaper clippings on Civil War period</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">172</container>
+                        <unittitle>Civil War notes</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">173</container>
+                        <unittitle>Newspaper on Civil War</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">l74</container>
+                        <unittitle>Gateway to History Manuscript</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">174-177</container>
+                        <unittitle>Fremont materials revised edition (proposed) 1973; Royalties,1927 ed.</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">178-179</container>
+                        <unittitle>Hamilton Fish materials </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">181</container>
+                        <unittitle>Nevins writings on Hamilton Fish</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">182</container>
+                        <unittitle>Hamilton Fish</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">183-184</container>
+                        <unittitle>Thos. J. Brady scrpbooks</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">185-186</container>
+                        <unittitle>Franklin Roosevelt scrapbooks</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">187</container>
+                        <unittitle>Printed materials by Nevins</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">188</container>
+                        <unittitle>Printed materials by and about Nevins [MICROFILM]</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">189-190</container>
+                        <unittitle>Misc. writings</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">191-194</container>
+                        <unittitle>James Truslow Adams material</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">195</container>
+                        <unittitle>Brand Whitlock materials</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">196</container>
+                        <unittitle>Grover Cleveland materials</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">197</container>
+                        <unittitle>Rockefeller materials</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">198</container>
+                        <unittitle>Dudley materials</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">199-200</container>
+                        <unittitle>Dissertations and writings by Nevins' students; List of CU students</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">201</container>
+                        <unittitle>Microfilm</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">202</container>
+                        <unittitle>Railroad notes: M.L. Daly's <title render="italic">Union Democrat's Diary</title>
+                        </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">203</container>
+                        <unittitle>Misc. notes, clippings, printed materials</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><unittitle>Misc. unidentified manuscripts</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">204</container>
+                        <unittitle>Memorabilia (awards, certificates, degrees)</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series IV: 1982 Gift</unittitle>
+                </did>
+                <scopecontent><p>Correspondence, manuscripts, notes, photographs, obituaries, memorials, and scrapbooks.   Included are three letters from Van Wyck brooks and one letter from Willa Cather.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">205</container>
+                        <unittitle>1. Two AN letters (2) to Roland Baines written while abroad, 1912 -- 2. xerox of letter to AN from Ashley Thorndike, September 1, 1913, inviting AN to accept an instructorship in English Department, Columbia. -- 3. Cablegrams (5) sent by AN from England, 1940 (while he was Harmsworth professor at Oxford). -- 4. ANs description of an evening with Vishinsky, undated letter to Pete and Barbara Long. -- 5. AN letter to Pete and Barbara Long concerning work on volumes 8 and 9 of Ordeal. Undated but probably 1969. -- 6. Letters from Lillian Bean to AN (2) (included with other Bean letters) -- 7. AN letter to Norman Cousins concerning possible reviewing work after his stroke. (1969?) -- 8. Letter from Henry Commager to Anne Loftis, March, 1992. -- 9. Publication: ”The City of Mansoul“ an address of AN delivered on Founders Day, 1956, at Huntington Library. Publ. May, 1956. -- 10. Letters (25) to Mary Richardson Nevins:  A. A.L. Rouse (2); B. Herbert Nicholson (1); C. Henry Commager (18); D. Lillian Bean (3); E. Louis Starr (2); F. E.M. flier (1); 11. Letter from Lillian Bean to Joseph G.E. Hopkins, editor, Scribners 1970; 12. A collection of photographs (41), 1930s to l971.</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series V: Oversize Material</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Flatbox">340</container>
+                        <unittitle>Two scrapbooks of newspaper clippings; </unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">340</container>
+                        <unittitle>Two scrapbooks of newspaper clippings -- Photo Album: "Dr. Allan Nevins, Personal Rep. of Pres. Kennedy to the Rizal Centennial Celebration..."</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">341</container>
+                        <unittitle>One scrapbook of newspaper clippings; memorabilia</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">342</container>
+                        <unittitle>Scrapbook (disbound)</unittitle>
+                        <physdesc/>
+                    </did>
+                </c>
+            </c>
+
+
+   
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_9025181_ead//EN" mainagencycode="nnc-rb">ldpd_9025181_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Maxwell Bodenheim papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2012-02-09">February 9, 2012 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2012-02-09">February 9, 2012 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-02-09">2012-02-09</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Bodenheim, Maxwell, 1893-1954.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Maxwell Bodenheim papers,">Maxwell Bodenheim
+            papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1917/1981" type="inclusive">1917-1981</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1917-1938].</unitdate>
+         <physdesc><extent encodinganalog="300">1.68 linear ft. (4 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1590</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">9025181</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is in English </language>
+         </langmaterial>
+         <abstract>Maxwell Bodenheim (1892-1954) was a poet and novelist who was pervasive
+            throughout the bohemian scenes in Chicago and New York's Greenwich Village in the first
+            half of the 20th century. The collection consists of a broad scope of materials produced
+            by Bodenheim from 1917 to the mid 1930s, including correspondence (mostly with his wife
+            Minna), drafts of talks and writings, and records of business dealings with publishers
+            and legal issues surrounding his divorce and an obscenity suit against him.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Maxwell Bodenheim was born Maxwell Bodenheimer in May of 1892
+            in Hermanville, Mississippi. At the age of nine he moved with his family to Chicago. In
+            1908 Bodenheim was expelled from high school and joined the army. Following an attempted
+            desertion he was caught and jailed at Ft Leavenworth, Kansas where he served the rest of
+            his tour of duty. After completing his service he spent time traveling around the
+            Southwestern United States.</p>
+         <p>In 1912 Bodenheim moved back to Chicago and worked to establish himself in the literary
+            scene there, developing a friendship with novelist and screenwriter Ben Hecht. The two
+            would continue to collaborate and quarrel through the end of Bodenheim's life. It was
+            also in Chicago that he met critic and editor Harriet Monroe, and published poems in her
+            journal Poetry, as well as in <title render="italic">The Little Review.</title>
+            </p>
+         <p>Bodenheim moved to New York in 1916 and settled in Greenwich Village. He established a
+            friendship with poet Alfred Kreymborg with whom he had been in ongoing correspondence,
+            and continued to publish poetry. Between 1916 and 1918 his poems appeared in journals
+            the <title render="italic">New Republic</title>, the <title render="italic">Seven
+               Arts,</title> the <title render="italic">Pagan,</title> and the <title render="italic">Egoist,</title> and he edited the magazine the <title render="italic">Others.</title> As an <title render="italic">Others</title> editor he became friend
+            with poets William Carlos Williams and Marianne Moore, who contributed frequently to the
+            writing and editing of the magazine. <title render="italic">Minna and Myself,</title>
+            his first book of poems, was published in 1918 and he married Minna Schein, for whom the
+            book is titled, in November of that year. In 1920 she gave birth to their only son
+            Solbert.</p>
+         <p>Throughout the 1920s Bodenheim continued to write and publish prolifically, finishing
+            six books of poetry and eight novels by 1930. His 1925 novel <title render="italic">Replenishing Jessica</title> brought obscenity charges against himself and publisher
+            Horace Liveright, however both were easily acquitted. The trial brought a brief surge in
+            Bodenheim's popularity and book sales, but he was dismayed by the damage to his
+            reputation and wrote to friends that he felt "neglected" and "isolated." Though he
+            remained married to Minna he had become notorious after a 1928 string of highly
+            publicized suicides by former and current girlfriends, all apparently spurred by his
+            rejection, and by the end of the decade Bodenheim had firmly established himself as a
+            resident and colorful, if poorly-behaved and sometimes recalcitrant, Greenwich Village
+            bohemian. </p>
+         <p>By the 1930s Bodenheim was becoming increasingly destitute but he continued to write and
+            publish through the first half of the decade, and by 1934 he had put out another seven
+            novels and one more book of poetry. A 1932 stint in Hollywood however, left him sick and
+            and his financial condition unimproved and in 1935 he marched with a small group on city
+            hall to protest the dwindling writer's relief funds on which he depended to live.
+            Bodenheim was divorced by Minna in 1938, and married his second wife Grace Finan shortly
+            after in 1939. Finan was quickly bedridden with cancer and Bodenheim--when he was
+            able--nursed her until her death in 1950.</p>
+         <p>Throughout most of his second marriage Bodenheim was a regular in Village bars and
+            streets, where he would sell poems for money to buy drinks. He lived mostly on the
+            streets when he was not otherwise bouncing from room to room. In 1951 Bodenheim married
+            his third wife, Ruth Fagan who was almost 30 years his younger, and the two of them
+            slept on benches and panhandled for a living. Finally on the night of February 6 1954,
+            Bodenheim and Fagan accepted an invitation to spend the night at the apartment of Harold
+            Weinberg, who they had known for about a year. In an argument over the sexual
+            relationship between Ruth and Weinberg, Weinberg shot Bodenheim in the chest, killing
+            him, and stabbed Ruth to death with a hunting knife.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The collection consists of correspondence to and from Bodenheim and his wife Minna, a
+            few files on individuals, and manuscripts and typescripts of Bodenheim's poetry, novels,
+            plays, essays, and talks. Correspondence to Bodenheim is mostly from publishers with a
+            few items from friends. Some personal correspondence from friends to Minna Bodenheim is
+            also included. The vast majority of the correspondence is from from Maxwell Bodenheim to
+            Minna Bodenheim, and runs from the 1920s to the mid 1930s.</p>
+         <p>Most of the collection is made up of the manuscript and typescript drafts of Bodenheim's
+            novels, poems, and plays. Covering the period between 1917 and the mid 1930s, the drafts
+            contain material that Bodenheim would go on to publish both as novels and books of
+            poetry, as well as various essays and talks that would be published in journals over the
+            course of Bodenheim's life. The manuscripts for <title render="italic">Georgie
+               MayM</title> (1928), <title render="italic">Crazy Man</title> (1924), and <title render="italic">Sixty Seconds</title> (1929) are included, as well as some of the
+            material from Bodenheim's first published book of poetry, <title render="italic">Minna
+               and Myself</title> (1918).</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in 3 series <list type="marked">
+                    <item>Series I:
+                  Correspondence, 1917-1981</item>
+               <item>Series II: People, 1920-1966</item>
+                    <item>Series III: Writings,
+               1917-1932</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Bodenheim, Maxwell, 1893-1954.</persname>
+         <persname encodinganalog="600">Putnam, Samuel, 1892-1950.</persname>
+         <geogname encodinganalog="651">Greenwich Village (New York, N.Y.)--Intellectual life--20th
+            century.</geogname>
+         <subject encodinganalog="650">Modernism (Literature)--New York (State)--New York.</subject>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located on-site. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Glenn Howowitz Purchase, 9/20/2011 2011-2012-M036</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Maxwell Bodenheim Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed 11/--/2011 Charles Macquarie, Pratt Institute 2012. </p>
+         <p>Findign aid written 11/--/2011 Charles Macquarie, Pratt Institute 2012.</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML approves permission to
+            publish that which it physically owns; the responsibility to secure copyright permission
+            rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence, <unitdate type="inclusive">1917-1981</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains correspondence that was exchanged between Bodenheim and his
+                  wife Minna, letters sent to Bodenheim from friends, colleagues, and publishers,
+                  and letters sent to Minna Bodenheim from individuals other than Maxwell Bodenheim
+                  The material is arranged chronologically by year. The series also includes
+                  correspondence about Bodenheim's divorce and the suit brought against him for
+                     <title render="italic">Replenishing Jessica,</title> along with royalty
+                  statements and contracts from publishers.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>To Maxwell Bodenheim--General, <unitdate type="inclusive">1919-1935</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>To Minna Bodenheim</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>General, <unitdate type="inclusive">1930-1954</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">3 to 12</container>
+                     <unittitle>From Maxwell Bodenheim, <unitdate type="inclusive">1917-1939</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(19 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">1 to 9</container>
+                     <unittitle>From Maxwell Bodenheim, <unitdate type="inclusive">1917-1939</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(19 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Legal Proceedings, <unitdate type="inclusive">1935-1981</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Contracts and Royalty Statements, <unitdate type="inclusive">1929-1934</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: People, <unitdate type="inclusive">1920-1966</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series consists of two folders containing materials on Bodenheim's son
+                  Solbert and on Louis Grudin, respectively. Some materials relating to Solbert's
+                  childhood are included. Included in the Grudin folder are several letters from
+                  Bodenheim as well as an outline for the <title render="italic">Seven Sneers
+                     Manifesto</title> which Bodenheim proposed to Grudin, drafts of several poems
+                  sent by Bodenheim, and Grudin's eulogy for Bodenheim, which was never read.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Bodenheim, Solbert, <unitdate type="inclusive">1920-1932</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Grudin, Louis, <unitdate type="inclusive">1924-1966</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Writings, <unitdate type="inclusive">1917-1932</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series is arranged into seven subdivisions by type of material--essays, novels,
+                  plays, poems, reports, shorts stories, and talks. These subdivisions are arranged
+                  alphabetically, and except for the poetry file which is arranged
+                  chronologically, the folders and materials within them are arranged alphabetically
+                  by title. The essays file contains critical essays, published and
+                  unpublished, written between the mid 1920s and 1930s. The novels file
+                  contains typescripts and manuscripts of published and unpublished novels from 1924
+                  to 1932, including <title render="italic">Georgie May,</title> 
+                  <title render="italic">Crazy Man,</title> 
+                  <title render="italic">Six A.M.,</title> and <title render="italic">Sixty Seconds.</title> The plays
+                  file includes manuscripts and typescripts of various plays by Bodenheim, all
+                  of which are unpublished. The poems file contains manuscripts and typescripts
+                  of poem drafts and translations written between 1917 and the 1930s. Included are
+                  poems for <title render="italic">Minna and Myself</title> and poems from the unpublished collection <title render="italic">Tenderly.</title> The
+                  reports subseries contains drafts of undated reports by Bodenheim on Fyodor
+                  Dostoevsky and Karl Wasserman. The short stories file is made up of
+                  manuscripts and typescripts of 3 undated short stories--"Alarm Clock", "Paris
+                  Negro", and "The Silver Locket." The talks file contains Bodenheim's text for
+                  several undated talks and discussions.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">14</container>
+                  <unittitle>General</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Essays</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>"The American Menagerie" and "Crime and the Underworld",
+                           <unitdate>1929</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>"Georgie May Answers the 'Virtuous' Critics", circa
+                           <unitdate>1928</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">1 to 7</container>
+                     <unittitle><title render="italic">Laughing at Bombast,</title> circa
+                           <unitdate>1930s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(7 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>"The Relation of Economics to Poetry", "Should Sex Dominate American
+                        Literature?", and "What's Wrong with American Literature", circa
+                           <unitdate>1930s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Novels</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle><title render="italic">Crazy Man</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Manuscript, circa <unitdate>1924</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">10 to 11</container>
+                        <unittitle>Typescript, circa <unitdate>1924</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle><title render="italic">Georgie May</title> manuscript, circa
+                           <unitdate>1928</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>"Incredible Manuscript", <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle><title render="italic">Six A.M.</title> typescript, circa
+                           <unitdate>1932</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle><title render="italic">Sixty Seconds</title> manuscript, circa
+                           <unitdate>1929</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">1 to 2</container>
+                     <unittitle><title render="italic">Strange Girl</title> typescript, circa
+                           <unitdate>1930</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">3</container>
+                     <unittitle>General manuscript, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Dream, Boy!</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Manuscript, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Typescript, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><title render="italic">Georgie May</title> typescript, circa
+                           <unitdate>1928</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><title render="italic">The Kitchen Absurd</title> typescript,
+                           <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><title render="italic">Love in Greenwich Village</title> manuscript,
+                           <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><title render="italic">The Merry Priest</title> typescript,
+                           <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><title render="italic">One Street</title> manuscript,
+                           <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle><title render="italic">What's it all About?</title> manuscript,
+                           <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">12</container>
+                     <unittitle>Typescript and manuscript, <unitdate>1917</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Typescript, Li Po Translations, circa
+                        <unitdate>1917</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>From <title render="italic">Minna and Myself,</title> typescript and
+                        manuscript, circa <unitdate>1918</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>typescript and manuscript, "Minna Poems", <unitdate type="inclusive">1918-1919</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>Typescript and manuscript, <unitdate type="inclusive">1921-1928</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>From <title render="italic">Tenderly</title> typescript and
+                        manuscript, <unitdate type="inclusive">1928-1929</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">18</container>
+                     <unittitle>"Gray Rivers" published, circa
+                        <unitdate>1930s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">19</container>
+                  <unittitle>Reports--"Karl Wasserman" manuscript and typescript and "Fyodor
+                     Dostoevsky" manuscript, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Short Stories</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">20</container>
+                     <unittitle>"Alarm Clock" typescript, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">21</container>
+                     <unittitle>"Paris Negro" manuscript, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">22</container>
+                     <unittitle>"The Silver Locket" typescript,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Talks</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">23</container>
+                     <unittitle>Untitled manuscript and "Poetry and Greenwich Village" manuscript,
+                           <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">24</container>
+                     <unittitle>"Poetry and Sex" manuscript, "What's Wrong with American Novels"
+                        typescript, and untitled manuscript pages,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

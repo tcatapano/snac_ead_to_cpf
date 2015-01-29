@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078422_ead//EN" mainagencycode="nnc-rb">ldpd_4078422_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the John H. Backer Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+            </change>
+         <change><date normal="2011-11-15">2011-11-15</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Backer, John H., 1902-</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="John H. Backer Papers">John H. Backer Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1945/1985" type="inclusive">1945-1985</unitdate>
+         <physdesc><extent encodinganalog="300">11 linear ft (17000 items in 25 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078422</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">
+    In English and German.
+  </language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biography</head>
+         <p><!-- BIOGHIST REQUIRED -->Author and diplomat John H. Backer, 1902-1985, (Columbia M.A., 1955), served in the Economic Divivion of General Lucius D. Clay's Military Government in Germany (OMGUS) from 1945 to 1948. As a member of the U.S. Foreign Service he held important posts in Germany and in the Soviet Union. His publications include: "Priming the German Economy: American Occupational Policies," "The Decision to Divide Germany: America's Foreign Policy in Transition," and "Winds of History: the German Years of Lucius DuBignon Clay."</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, reports, research files, audiotapes, and photographs documenting Backer's research and writing on General Clay and post war German affairs; his service in the military government, as a member of the Foreign Service, and as the supervisor of the U.S. Information Agency officer in numerous German cities. In researching his three books, Backer interviewed a number of public and military figures on audiotapes. There are several letters each from W. Averell Harriman, John Kenneth Galbraith, George Kennan, and John J. McCloy. The collection includes several boxes of photocopies of documents from various sources.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected items cataloged; remainder arranged. Boxes 1-10: Winds of History; Boxes 11-14: Priming the German Economy; Boxes 15-19: The Decision to Divide Germany; Boxes 20-23: Misc.; Box 24: Lecture notes &amp; microfilms; Box 25: Tapes.</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Clay, Lucius D. (Lucius DuBignon), 1897-1978.</persname>
+         <geogname encodinganalog="651">Germany--History--1945-1955.</geogname>
+         <subject encodinganalog="650">Reconstruction (1939-1951)--Germany.</subject>
+         <genreform encodinganalog="655" source="ftamc.">Photoprints</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors</occupation>
+         <occupation encodinganalog="656" source="lcsh.">Diplomats</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>12/30/85 M-85-12-30 Papers Backer, Mrs. John Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Mrs. John H. Backer, 1985.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>John H. Backer Papers. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers Processed 08/06/86 AR/BRC</p>
+      </processinfo>
+      <accessrestrict><head>Restrictions on Access</head>
+            <p>Boxes 2-25 are located off-site. You will need to request this material at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+        </accessrestrict>
+      <userestrict encodinganalog="540">
+           <head>Restrictions on Use</head>
+         <p>Permission to publish materials must be obtained in writing from the Librarian for Rare Books and Manuscripts.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Winds of History</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Catalogued Correspondence:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Couve de Murville, M.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Dulles, Eleanor</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Eisenhower, Milton S.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Galbraith, John Kenneth</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Harriman, W. Averell</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Hayakava, Samuel I</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Javits, Jacob K.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Kennan, George</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>McCloy, John Jay</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Correspondence, arranged</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Research Material</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bibliography</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Research Files:</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle>Interviews:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Bennett, Jack</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Dr. Bowie</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Boyd, Col. James</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>General Casey</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Clay, Lucius D. III</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Donnan, Edloe</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Feeny &amp; Lemley</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle>Graeber, Bill</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Interviews:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Allen, Margaret</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Ambassador Riddleberger</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Bierman, Franz</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Boyle, Lt. Gen. A.J.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Donnan, Edloe</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Hallock, Richard</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Hill, Russ</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Howley, Gen. Frank</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Humphrey, Don</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Jacobs, George R.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Keenan, Joseph</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Kennan, George</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>McCloy, John J.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>McLean, Donald, Jr.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>O'Donnell, James P.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle>Rubin, Seymour</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Interviews:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Saltzman, Charles</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Trudeau, Gen. Arthur</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Smith, Jean</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Werts, Leo</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Stratton, Gen. James</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Wiesner, Louis</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Sundquist, James</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle>Wilkinson &amp; Wedemeyer, Albert C.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Other interviews and memoirs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Photographs used in the book (one oversized Folder shelved on top of Box 5)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Coal, Bizonia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Papers of Dr. Charles Kindleberger</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Denazification</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Decartelization</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>War Crimes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Laenderrat</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Photocopies of official documents from National Archives and other source</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Photocopies of official documents from National Archives and other sources</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Book Excerpts (photocopies)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Clippings from New York Times</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Excerpts from periodicals and books</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Priming the German Economy</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Research Files, Chapters 1 &amp; 2 (Photostatic copies of official documents)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Research Files, Chapters 2 (con't) &amp; 3 (Photostatic copies of official documents)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Research Files, Chapter k (Photostatic copies of official documents)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Research Files, Chapters 5 &amp; 6 (Photostatic copies of official documents)</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series III: The Decision to Divide Germany</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Typed manuscript</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Research Files, Chapters 1-3</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>Research Files, Chapters 4-7</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Research Files, Chapters 8-11</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Research Files, Chapters 12-13</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series IV: Miscellaneous</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>German Historical Institute</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Articles by J. Backer</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Research Files, misc.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Research Files</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>"Organized Labor in Postwar Germany" by Louis- Wiesner</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>"The Denazification Program in the U.S. Zone of Germany" by Wm. E. Griffith</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Lecture notes relating to Marxism, Soviet Studies and other topics</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Microfilms of documents from various military archives</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Tapes - 76 total</unittitle>
+                    </did>
+                </c>
+            </c> 
+
+   
+   
+      </dsc>
+   </archdesc>
+</ead>

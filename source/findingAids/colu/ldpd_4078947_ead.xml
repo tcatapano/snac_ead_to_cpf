@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078947_ead//EN" mainagencycode="nnc-rb">ldpd_4078947_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the John Jay Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-07-07">July 7, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-07-07">July 7, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-15">2010-02-15</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Jay, John, 1745-1829.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="John Jay Papers">John Jay Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1668/1862" type="inclusive">1668-[ca. 1862]</unitdate>
+         <physdesc><extent encodinganalog="300">ca. 10,500 items (69 boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078947</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->American Chief Justice, diplomat.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Letters, manuscripts, documents, and letterbooks of Jay and of many members of his family. The letters touch on every aspect of American life and government of the period, and contain correspondence from such prominent individuals as John Adams, George Clinton, James Duane, Benjamin Franklin, Alexander Hamilton, Thomas Jefferson, Rufus King, John Paul Jones, Marquis de Lafayette, Robert B. Livingston, William Livingston, Gouverneur Morris, Robert Morris, Edmund Randolph, Philip Schuyler, and George Washington. There are approximately 500 letters from Jay, primarily drafts of correspondence to the persons listed above, as well as his correspondence as Secretary of Foreign Affairs, 1784-1789. The manuscripts and documents include many reports, commissions, and diplomas, as well as a draft copy of <title render="italic">The Federalist</title> Number 5 and Jay's oath of office as Chief Justice of the United States Supreme Court; also included are manumission documents, and a group of documents from Trinity Church, where his father was a vestryman from 1715 to 1785. The collection includes copies of Jay's letter book as Secretary of State, 10 Oct. 1788-25 Dec. 1792, and of four letters from John Armstrong, 19 June-27 Dec. 1810; and a copy of the pair of silverplated candlesticks from the Treaty of Paris, 3 Sept. 1783, reproduced by the Smithsonian Institution.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 4 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged Correspondence</item>
+               <item>Series II: Cataloged Manuscripts and Documents</item>
+               <item>Series III: Miscellaneous Materials</item>
+               <item>Series IV: Oversized, Encased and Bound Materials</item>
+             </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">United States.--Supreme Court.</corpname>
+         <corpname encodinganalog="610">United States.--Dept. of Foreign Affairs.--Office of the Secretary.</corpname>
+         <corpname encodinganalog="610">United States.--Dept. of State.</corpname>
+         <corpname encodinganalog="610">Trinity Church.</corpname>
+         <persname encodinganalog="600">Adams, John, 1735-1826.</persname>
+         <persname encodinganalog="600">Clinton, George, 1739-1812.</persname>
+         <persname encodinganalog="600">Duane, James, 1733-1797.</persname>
+         <persname encodinganalog="600">Franklin, Benjamin, 1706-1790.</persname>
+         <persname encodinganalog="600">Hamilton, Alexander, 1757-1804.</persname>
+         <persname encodinganalog="600">Jefferson, Thomas, 1743-1826.</persname>
+         <persname encodinganalog="600">King, Rufus, 1755-1827.</persname>
+         <persname encodinganalog="600">Jones, John Paul, 1747-1792.</persname>
+         <persname encodinganalog="600">Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834.</persname>
+         <persname encodinganalog="600">Livingston, Robert Burr, 1918-</persname>
+         <persname encodinganalog="600">Livingston, William, 1723-1790.</persname>
+         <persname encodinganalog="600">Morris, Gouverneur, 1752-1816.</persname>
+         <persname encodinganalog="600">Morris, Robert, ca. 1745-1815.</persname>
+         <persname encodinganalog="600">Randolph, Edmund, 1753-1813.</persname>
+         <persname encodinganalog="600">Schuyler, Philip John, 1733-1804.</persname>
+         <persname encodinganalog="600">Washington, George, 1732-1799.</persname>
+         <geogname encodinganalog="651">United States--Social life and customs.</geogname>
+         <geogname encodinganalog="651">United States--Foreign relations.</geogname>
+         <geogname encodinganalog="651">United States--History--Colonial period, ca. 1600-1775.</geogname>
+         <geogname encodinganalog="651">United States--History--Revolution, 1775-1783.</geogname>
+         <geogname encodinganalog="651">United States--Politics and government--1783-1789.</geogname>
+         <subject encodinganalog="650">African Americans--History.</subject>
+         <subject encodinganalog="650">Families--New York (State)</subject>
+         <subject encodinganalog="650">Slaves--Emancipation.</subject>
+         <occupation encodinganalog="656" source="lcsh">Judges.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Statesmen.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located on-site.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1948 M-48 Gifts, purchases</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Identification of specific item; Date (if known); John Jay Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</head>
+         <p>Identification of specific item; Date (if known); John Jay Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 07/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>A</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Ba - Banyer, M., <unitdate>1792 - 1815]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Banyer, M.   <unitdate>[1816 - 1851 &amp; n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Bar - Bl</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Bo - Ca</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Ce - Cla</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Cli - Cu</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>D</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>E - F</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>G - Ham</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Han - Jar</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Jay, A.</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Jay, E. - Jay, John , <unitdate> [n.d. &amp; 1765 - 1777]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Jay, John  , <unitdate>[1778 - July 1780]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Jay, John , <unitdate>[Aug. 1780 - Aug. 1781]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Jay, John , <unitdate>[Sept. 1781 - 1782]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>Jay, John  , <unitdate>[1783 - April 1784]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Jay, John  , <unitdate>[May 1784 - Sept. 1785]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Jay, John , <unitdate> [Oct. 1785 - 1786]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Jay, John , <unitdate> [1787 - 1788]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Jay, John  , <unitdate>[1789 - July 1794]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Jay, John , <unitdate> [Aug. 1794 - March 1795]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Jay, John  , <unitdate>[April 1795 - 1798]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Jay, John  , <unitdate>[1799 - 1804]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Jay, John  , <unitdate>[1805 - 1809]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Jay, John  , <unitdate>[1810 - 1812]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Jay, John  , <unitdate>[1813 - 1817]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Jay, John  , <unitdate>[1818 - 1821]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Jay, John  , <unitdate>[1822 - 1828]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Jay, John Jr. - Jay, Peter </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Jay, Peter Augustus  , <unitdate>[1781 - 1804]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Jay, Peter Augustus  , <unitdate>[1805 - 1813]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Jay, Peter Augustus  , <unitdate>[1814 - 1823]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Jay, Peter Augustus  , <unitdate>[1824 - 1839]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Jay, Peter Augustus  , <unitdate>[1840 - 1843]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Jay, Sarah Livingston (Mrs. John) , <unitdate>[1774 - 1776]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Jay, Sarah Livingston (Mrs. John) , <unitdate> [1787 - 1802]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Jay, Sarah Louise &amp;  Jay, William  , <unitdate>[1808 - 1832]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Jay, William , <unitdate> [1833 - 1840]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Jay, William , <unitdate> [1841 - 1855]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Jay, William [1856 - 1858] - Kent </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Ki - Le</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Li - Livingston, P.V.B.</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Livingston, R.R. - Livingston, W. </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Lo - Mad</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Man - Morris, G. </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Morris, J. - Mu </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>N - Pic </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Pie - Rom </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>Roo - Sc </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Se - St </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle>Su - Tro </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Tru - Va </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Ve - end </unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series II: Cataloged Manuscripts and Documents</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle>A - Cl</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Co - Jay, James </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Jay, John (1745 - 1829)  , <unitdate>[n.d. - 1789]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Jay, John (1745 - 1829)  , <unitdate>[1790 - 1800]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle>Jay, John (1745 - 1829)  , <unitdate>[1801 - end]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>Jay, John (1817 - 1894) - Jay, William [ - 1883] </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Jay, William [1884 - end] - P </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>R - end </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>Documents in the Case Hunt v. Underhill</unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series III: Miscellaneous Materials</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>Uncataloged Manuscripts and Documents -- Printed Material -- Portraits</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>Monaghan Purchase Inventory</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle>Treaty of Paris Candlesticks</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Card File Box">66</container>
+                        <unittitle>Genealogical file, A-O</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Card File Box">67</container>
+                        <unittitle>Genealogical file, P-Z &amp; Miscellaneous</unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series IV: Oversized, Encased and Bound Materials</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><unittitle>Mayor's Court Ledger, <unitdate>1758-1776</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>John Jay Letterbook, <unitdate>24 Dec. 1779 - 19 Nov. 1782</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>John Jay Letterbook, <unitdate>10 Sept. 1782 - 25 July 1784 (and Appendix 20 - 27 Dec. 1779)</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>John Jay Letterbook, <unitdate>5 Feb. 1785 - 16 Sept. 1788</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>John Jay Letterbook, <unitdate>29 Sept. 1779 - 12 July 1780</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Copies of letters by others]</p>
+                    </scopecontent>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>John Jay Letterbook, <unitdate>19 Oct. 1779 - 11 June 1780</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>John Jay Letterbook, <unitdate>2 July 1781 - 16 March 1782</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>John Jay Letterbook, <unitdate>21 May 1785 - 4 Oct. 1789</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Copies of correspondence regarding negotiations of Treaty with Spain]</p>
+                    </scopecontent>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>John Jay Letterbook, <unitdate>9 April 1794 - 5 March 1795</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>John Jay Letterbook, <unitdate>29 May 1787 - 8 July 1830</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>John Jay Letterbook, <unitdate>11 July 1795 - 29 Feb. 1896</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>John Jay Circuit Court Diary, <unitdate>16 April 1790 - 4 Aug. 1792</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>John Jay Manuscripts Pertaining to Peace with Britain</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>John Jay Account Book of Letters Received, <unitdate>15 Nov. 1781 - 1 Oct. 1782</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>John Jay Receipt Book, <unitdate>1789 - 1802</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>John Jay Account Book of Jay's Mission to London, <unitdate>1794</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Peter Jay Letterbook, <unitdate>30 Dec. 1724 - 10 July 1735</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>Peter Jay Letterbook, <unitdate>9 Nov. 1745 - 16 Jan. 1748/9</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Peter Jay Letterbook, <unitdate>17 Dec. 1748 - 20 Dec. 1772</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Sarah Livingston Jay (Mrs. John) Letterbook, <unitdate>[30 Dec. 1779] - 14 March 1783</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Sarah Livingston Jay (Mrs. John) Letterbook, <unitdate>1779 - 1781</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Peter Jay Receipt Book, <unitdate>1766 - 1782</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>New York City Mayor's Court Ledger of Court Fees and Cases, <unitdate>1758 -1776</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+   
+   
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078688_ead//EN" mainagencycode="nnc-rb">ldpd_4078688_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the The Defenders - Scripts and Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+            </change>
+         <change><date normal="2011-11-10">2011-11-
+            10</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><unittitle encodinganalog="245$a" altrender="The Defenders - Scripts and Papers">
+                <title render="italic">The Defenders</title>- Scripts and Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1960/1965" type="inclusive">1960-1965.</unitdate>
+         <physdesc><extent encodinganalog="300">6 linear ft (in 34 volumes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078688</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>A collection of 132 scripts written by Reginald Rose and other playwrights for the popular television series <title altrender="italic">The Defenders.</title> The scripts are contained in 34 volumes, and accompanying them are cast lists, shooting schedules, and allied notes and papers. Most of the scripts are mimeographed and the rest are in typescript.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Arranged.</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="700">Rose, Reginald.</persname>
+         <subject encodinganalog="650">Television series.</subject>
+         <subject encodinganalog="650">Dramatists.</subject>
+         <genreform encodinganalog="655" source="lcsh">Television scripts.</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room.This collection has no restrictions </p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1965 M-65 Rose, Reginald Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Reginald Rose, 1965.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>The Defenders Scripts. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 06/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>This collection has no restrictions on use.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle><title altrender="italic">The Defenders</title> Scripts</unittitle>
+                </did>
+                <scopecontent><p> (Accompanying each script is a cast list, shooting schedule and allied notes and papers.)</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Volume" label="Volume">1</container>
+                        <unittitle>Presentation and Synopses</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">2</container>
+                        <container type="Script" label="Script">1</container>
+                        <unittitle>Death Across The Counter, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">2</container>
+                        <container type="Script" label="Script">2</container>
+                        <unittitle>The Accident, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">2</container>
+                        <container type="Script" label="Script">3</container>
+                        <unittitle>The Crusader, by Jerome Ross</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">2</container>
+                        <container type="Script" label="Script">4</container>
+                        <unittitle>The Riot, by Max Ehrlich</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">3</container>
+                        <container type="Script" label="Script">5</container>
+                        <unittitle>The Man With The Concrete Thumb, by Ernest Kinoy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">3</container>
+                        <container type="Script" label="Script">6</container>
+                        <unittitle>The Trial Of Jenny Scott, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">3</container>
+                        <container type="Script" label="Script">7</container>
+                        <unittitle>The Boy Between, by Robert Thorn</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">3</container>
+                        <container type="Script" label="Script">8</container>
+                        <unittitle>The Hundred Lives Of Harry Simms, by Alvin Boretz</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">4</container>
+                        <container type="Script" label="Script">9</container>
+                        <unittitle>Killer Instinct, by John Vlahos</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">4</container>
+                        <container type="Script" label="Script">10</container>
+                        <unittitle>Perjury, by Adrian Spies</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">4</container>
+                        <container type="Script" label="Script">11</container>
+                        <unittitle>The Bedside Murder, by Max Ehrlich</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">4</container>
+                        <container type="Script" label="Script">12</container>
+                        <unittitle>The Best Defense, by Ernest Kinoy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">5</container>
+                        <container type="Script" label="Script">13</container>
+                        <unittitle>The Young Lovers, by John Vlahos</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">5</container>
+                        <container type="Script" label="Script">14</container>
+                        <unittitle>The Quality Of Mercy, by Reginald Rose^</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">5</container>
+                        <container type="Script" label="Script">15</container>
+                        <unittitle>The Treadmill, by Peter Stone</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">5</container>
+                        <container type="Script" label="Script">16</container>
+                        <unittitle>The Empty Chute, by Max Ehrlich</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">6</container>
+                        <container type="Script" label="Script">17</container>
+                        <unittitle>Storm At Birch Glen, by Jerome Ross</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">6</container>
+                        <container type="Script" label="Script">18</container>
+                        <unittitle>The Prowler, by David Shaw</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">6</container>
+                        <container type="Script" label="Script">19</container>
+                        <unittitle>The Benefactor, by Peter Stone</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">6</container>
+                        <container type="Script" label="Script">20</container>
+                        <unittitle>The Search, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">7</container>
+                        <container type="Script" label="Script">21</container>
+                        <unittitle>The Iron Man, by Albert Sanders (David Davidson)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">7</container>
+                        <container type="Script" label="Script">22</container>
+                        <unittitle>The Point Shaver, by Mann Rubin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">7</container>
+                        <container type="Script" label="Script">23</container>
+                        <unittitle>The Attack, by John Bloch</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">7</container>
+                        <container type="Script" label="Script">24</container>
+                        <unittitle>The Locked Room, by Ernest Kinoy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">8</container>
+                        <container type="Script" label="Script">25</container>
+                        <unittitle>Gideon's Follies, by Robert Crean</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">8</container>
+                        <container type="Script" label="Script">26</container>
+                        <unittitle>The Hickory Indian, by David Karp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">8</container>
+                        <container type="Script" label="Script">27</container>
+                        <unittitle>The Tarnished Cross, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">8</container>
+                        <container type="Script" label="Script">28</container>
+                        <unittitle>The Last Six Months, by Max Ehrlich</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">9</container>
+                        <container type="Script" label="Script">29</container>
+                        <unittitle>The Naked Heiress, by Alvin Boretz</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">9</container>
+                        <container type="Script" label="Script">30</container>
+                        <unittitle>Reunion With Death, by David Shaw</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">9</container>
+                        <container type="Script" label="Script">31</container>
+                        <unittitle>Along Came A Spider, by Peter Stone</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">9</container>
+                        <container type="Script" label="Script">32</container>
+                        <unittitle>The Broken Barrelhead, by David Karp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">10</container>
+                        <container type="Script" label="Script">33</container>
+                        <unittitle>Blood County, by Ernest Kinoy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">10</container>
+                        <container type="Script" label="Script">34</container>
+                        <unittitle>Seven Ghosts Of Simon Gray, by Stanley Greenberg</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">10</container>
+                        <container type="Script" label="Script">35</container>
+                        <unittitle>The Voices Of Death, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">10</container>
+                        <container type="Script" label="Script">36</container>
+                        <unittitle>Indelible Silence, by Charles Garment</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">11</container>
+                        <container type="Script" label="Script">37</container>
+                        <unittitle>The Avenger, by James Lee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">11</container>
+                        <container type="Script" label="Script">38</container>
+                        <unittitle>Grandma TNT, by David Karp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">11</container>
+                        <container type="Script" label="Script">39</container>
+                        <unittitle>The Unwanted, by Robert Thorn</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">11</container>
+                        <container type="Script" label="Script">40</container>
+                        <unittitle>The Hidden Jungle, by Stanley Greenberg</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">12</container>
+                        <container type="Script" label="Script">41</container>
+                        <unittitle>The Madman (Part I), by Robert Pendlebury (Robert Thorn)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">12</container>
+                        <container type="Script" label="Script">42</container>
+                        <unittitle>Death Takes The Stand, by David Davidson</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">12</container>
+                        <container type="Script" label="Script">43</container>
+                        <unittitle>The Bigamist, by David Karp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">12</container>
+                        <container type="Script" label="Script">44</container>
+                        <unittitle>The Invisible Badge, by William Woolfolk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">13</container>
+                        <container type="Script" label="Script">45</container>
+                        <unittitle>The Apostle, by Stanley Greenberg</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">13</container>
+                        <container type="Script" label="Script">46</container>
+                        <unittitle>The Madman (Part II), by Ed Tashley (Reginald Rose)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">13</container>
+                        <container type="Script" label="Script">47</container>
+                        <unittitle>Kill Or Be Killed, by Larry Cohen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">13</container>
+                        <container type="Script" label="Script">48</container>
+                        <unittitle>Man Against Himself, by Raphael Hayes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">14</container>
+                        <container type="Script" label="Script">49</container>
+                        <unittitle>The Savage Infant, by David Karp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">14</container>
+                        <container type="Script" label="Script">50</container>
+                        <unittitle>Poisoned Fruit Doctrine, by A. J. Russell</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">14</container>
+                        <container type="Script" label="Script">51</container>
+                        <unittitle>The Poltergeist, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">14</container>
+                        <container type="Script" label="Script">52</container>
+                        <unittitle>Ordeal, by David Shaw</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">15</container>
+                        <container type="Script" label="Script">53</container>
+                        <unittitle>The Traitor, by Larry Cohen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">15</container>
+                        <container type="Script" label="Script">54</container>
+                        <unittitle>Eye Of Fear, by Stanley Greenberg</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">15</container>
+                        <container type="Script" label="Script">55</container>
+                        <unittitle>Metamorphosis, by Stanley Greenberg</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">15</container>
+                        <container type="Script" label="Script">56</container>
+                        <unittitle>Hour Before Doomsday, by William Woolfolk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">16</container>
+                        <container type="Script" label="Script">57</container>
+                        <unittitle>The Last Illusion, by William Woolfolk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">16</container>
+                        <container type="Script" label="Script">58</container>
+                        <unittitle>The Heathen, by Ernest Kinoy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">16</container>
+                        <container type="Script" label="Script">59</container>
+                        <unittitle>Taste Of Vengeance, by A. J. Russell</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">16</container>
+                        <container type="Script" label="Script">60</container>
+                        <unittitle>A Book For Burning, by William Woolfolk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">17</container>
+                        <container type="Script" label="Script">61</container>
+                        <unittitle>The Colossus, by Larry Cohen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">17</container>
+                        <container type="Script" label="Script">62</container>
+                        <unittitle>Judgment Eve, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">17</container>
+                        <container type="Script" label="Script">63</container>
+                        <unittitle>The Brother Killers, by David Karp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">17</container>
+                        <container type="Script" label="Script">64</container>
+                        <unittitle>The Noose, by Larry Cohen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">18</container>
+                        <container type="Script" label="Script">65</container>
+                        <unittitle>Everybody Else Is Dead, by James Lee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">18</container>
+                        <container type="Script" label="Script">66</container>
+                        <unittitle>Trial Of 22, by Stanley Greenberg</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">18</container>
+                        <container type="Script" label="Script">67</container>
+                        <unittitle>Loophole, by A. E. Hotchner</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">18</container>
+                        <container type="Script" label="Script">68</container>
+                        <unittitle>Conspiracy Of Silence, by Roger Lewis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">19</container>
+                        <container type="Script" label="Script">69</container>
+                        <unittitle>The Cruel Hook, by Andrea Russo (A.J. Russell)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">19</container>
+                        <container type="Script" label="Script">70</container>
+                        <unittitle>The Crowd Pleaser, by Charles Garment</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">19</container>
+                        <container type="Script" label="Script">71</container>
+                        <unittitle>The Empty Heart, by Stanley Greenberg</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">19</container>
+                        <container type="Script" label="Script">72</container>
+                        <unittitle>Claire Cheval Died In Boston, by Ernest Kihoy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">20</container>
+                        <container type="Script" label="Script">73</container>
+                        <unittitle>The Weeping Baboon, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">20</container>
+                        <container type="Script" label="Script">74</container>
+                        <unittitle>The Captive, by Larry Cohen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">20</container>
+                        <container type="Script" label="Script">75</container>
+                        <unittitle>The Bagman, by Roger Lewis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">20</container>
+                        <container type="Script" label="Script">76</container>
+                        <unittitle>The Star Spangled Ghetto, by Reginald Rose</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">21</container>
+                        <container type="Script" label="Script">77</container>
+                        <unittitle>Fugue For Trumpet And Small Boy, by David Rintels</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">21</container>
+                        <container type="Script" label="Script">78</container>
+                        <unittitle>Seal Of Confession, by Ian McLellan Hunter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">21</container>
+                        <container type="Script" label="Script">79</container>
+                        <unittitle>Who'll Dig His Grave, by William Woolfolk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">21</container>
+                        <container type="Script" label="Script">80</container>
+                        <unittitle>The Gentle Assassin, by David Karp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">22</container>
+                        <container type="Script" label="Script">81</container>
+                        <unittitle>The Man Who Saved His Country, by Albert Ruben</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">22</container>
+                        <container type="Script" label="Script">82</container>
+                        <unittitle>Old Lady Ironsides, by Robert Van Scoyk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">22</container>
+                        <container type="Script" label="Script">83</container>
+                        <unittitle>Death Watch, by Allan Chase</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">22</container>
+                        <container type="Script" label="Script">84</container>
+                        <unittitle>Blacklist, by Ernest Kinoy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">23</container>
+                        <container type="Script" label="Script">85</container>
+                        <unittitle>All The Silent Voices, by William Woolfolk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">23</container>
+                        <container type="Script" label="Script">86</container>
+                        <unittitle>The Secret, by Larry Cohen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">23</container>
+                        <container type="Script" label="Script">87</container>
+                        <unittitle>A Taste Of Ashes, by David Rintels</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">23</container>
+                        <container type="Script" label="Script">88</container>
+                        <unittitle>The Pill Man, by Albert Ruben and Charles Eckhart (Garment</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">24</container>
+                        <container type="Script" label="Script">89</container>
+                        <unittitle>Die Laughing, by Roger Lewis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">24</container>
+                        <container type="Script" label="Script">90</container>
+                        <unittitle>Drink Like A Lady, by Ellen Violett</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">24</container>
+                        <container type="Script" label="Script">91</container>
+                        <unittitle>Survival, by William Woolfolk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">24</container>
+                        <container type="Script" label="Script">92</container>
+                        <unittitle>Moment OF Truth, by David Karp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">25</container>
+                        <container type="Script" label="Script">93</container>
+                        <unittitle>The Hidden Fury, by George Baxt</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">25</container>
+                        <container type="Script" label="Script">94</container>
+                        <unittitle>May Day! May Day!, by Larry Cohen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">25</container>
+                        <container type="Script" label="Script">95</container>
+                        <unittitle>The Thief, by Robert Crean</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">25</container>
+                        <container type="Script" label="Script">96</container>
+                        <unittitle>Yankee Come Home, by Albert Ruben</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">26</container>
+                        <container type="Script" label="Script">97</container>
+                        <unittitle>Mind Over Murder, by Roger Lewis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">26</container>
+                        <container type="Script" label="Script">98</container>
+                        <unittitle>The Sixth Alarm, by William Woolfolk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">26</container>
+                        <container type="Script" label="Script">99</container>
+                        <unittitle>The Fine Line, by Harold Gast</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">26</container>
+                        <container type="Script" label="Script">100</container>
+                        <unittitle>The Non-Violent, by Ernest Kinoy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">27</container>
+                        <container type="Script" label="Script">101</container>
+                        <unittitle>Stowaway, by Edward DeBlasio</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">27</container>
+                        <container type="Script" label="Script">102</container>
+                        <unittitle>Hollow Triumph, by Howard Fast</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">27</container>
+                        <container type="Script" label="Script">103</container>
+                        <unittitle>The Uncivil War, by Roger Lewis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">27</container>
+                        <container type="Script" label="Script">104</container>
+                        <unittitle>The 700-Year-Old Gang, by David Karp Part I</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">28</container>
+                        <container type="Script" label="Script">105</container>
+                        <unittitle>The 700 Year-Old Gang, by David Karp Part II</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">28</container>
+                        <container type="Script" label="Script">106</container>
+                        <unittitle>Hero Of The People, by William Woolfolk &amp; Rod Sylvester</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">28</container>
+                        <container type="Script" label="Script">107</container>
+                        <unittitle>Comeback, by Edward DeBlasio</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">28</container>
+                        <container type="Script" label="Script">108</container>
+                        <unittitle>Conflict Of Interest, by Ellen Violett</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">29</container>
+                        <container type="Script" label="Script">109</container>
+                        <unittitle>Turning Point, by James Lee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">29</container>
+                        <container type="Script" label="Script">110</container>
+                        <unittitle>King Of The Hill, by Robert Crean</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">29</container>
+                        <container type="Script" label="Script">111</container>
+                        <unittitle>Go-Between, by Larry Cohen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">29</container>
+                        <container type="Script" label="Script">112</container>
+                        <unittitle>The Seige, by Ian Hunter and Robert Goldman</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">30</container>
+                        <container type="Script" label="Script">113</container>
+                        <unittitle>The Man Who, by Ernest Kinoy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">30</container>
+                        <container type="Script" label="Script">114</container>
+                        <unittitle>Whitewash, by Roger Lewis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">30</container>
+                        <container type="Script" label="Script">115</container>
+                        <unittitle>A Voice Loud And Clear, by Robert Crean</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">30</container>
+                        <container type="Script" label="Script">116</container>
+                        <unittitle>Eyewitness, by David Karp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">31</container>
+                        <container type="Script" label="Script">117</container>
+                        <unittitle>Whipping Boy, by Edward DeBlasio</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">31</container>
+                        <container type="Script" label="Script">118</container>
+                        <unittitle>Silent Killer, by William Woolfolk &amp; Martin Donaldson</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">31</container>
+                        <container type="Script" label="Script">119</container>
+                        <unittitle>Death On Wheels, by George Bellak (Don Mankiewicz)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">31</container>
+                        <container type="Script" label="Script">120</container>
+                        <unittitle>The Unwritten Law, by Larry Cohen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">32</container>
+                        <container type="Script" label="Script">121</container>
+                        <unittitle>The Objector, by Harold Gast</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">32</container>
+                        <container type="Script" label="Script">122</container>
+                        <unittitle>Fires Of The Mind, by Joel Carpenter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">32</container>
+                        <container type="Script" label="Script">123</container>
+                        <unittitle>No-Knock, by Peter Achilles (Paul Jarrico)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">32</container>
+                        <container type="Script" label="Script">124</container>
+                        <unittitle>The Merry-Go-Round Mender, by Robert Crean</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">33</container>
+                        <container type="Script" label="Script">125</container>
+                        <unittitle>Nobody Asks What Side You're On, by Ellen Violett</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">33</container>
+                        <container type="Script" label="Script">126</container>
+                        <unittitle>Impeachment, by Stanley Greenberg</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">33</container>
+                        <container type="Script" label="Script">127</container>
+                        <unittitle>The Sworn Twelve, by Edward DeBlasio</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">33</container>
+                        <container type="Script" label="Script">128</container>
+                        <unittitle>A Matter Of Law And Disorder, by Roger Lewis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">34</container>
+                        <container type="Script" label="Script">129</container>
+                        <unittitle>Youths And Maidens On An Evening Walk, by Robert Crean</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">34</container>
+                        <container type="Script" label="Script">130</container>
+                        <unittitle>The Prosecutor, by David Shaw</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">34</container>
+                        <container type="Script" label="Script">131</container>
+                        <unittitle>The Bums Rush, by Alvin Boretz</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Volume" label="Volume">34</container>
+                        <container type="Script" label="Script">132</container>
+                        <unittitle>Only A Child, by Ellen Violett</unittitle>
+                    </did>
+                </c>
+            </c> 
+
+   
+   
+      </dsc>
+   </archdesc>
+</ead>

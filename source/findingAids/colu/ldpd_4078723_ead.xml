@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078723_ead//EN" mainagencycode="nnc-rb">ldpd_4078723_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Anne Thaxter Eaton Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+            </change>
+            <change><date normal="2012-01-13">2012-01-13</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Eaton, Anne Thaxter, 1881-1971.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Anne Thaxter Eaton Papers">Anne Thaxter Eaton Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1917/1969" type="inclusive">1917-1969.</unitdate>
+         <physdesc><extent encodinganalog="300">6 linear ft. (ca. 3,500 items in 12 boxes &amp; 1 flat).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline/>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078723</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Librarian of The Lincoln School of Teachers' College, Columbia University, from its beginning in 1917 until 1946. The Lincoln School developed an experimental program in which library skills were taught as a part of each subject on the primary and secondary levels. Miss Eaton was involved in many phases of the school activities. After her retirement, she taught at the library school of St. John's University and reviewed books for children.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Manuscripts of Eaton's poetry anthologies for children, and other works on children's literature, many articles, book reviews, papers, reports, and lecture notes.</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">St. John's University (New York, N.Y.)</corpname>
+         <corpname encodinganalog="610">Columbia University.--Teachers College.--Lincoln School--Faculty.</corpname>
+         <corpname encodinganalog="610">Columbia University.--Teachers College.</corpname>
+         <subject encodinganalog="650">Library education.</subject>
+         <subject encodinganalog="650">Children's literature.</subject>
+         <subject encodinganalog="650">Children's poetry.</subject>
+         <genreform encodinganalog="655" source="ftamc">Poems.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Women college teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Women librarians.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>Available for faculty, students, and researchers engaged in scholarly or publication projects. </p>
+         <p>This collection is located off-site. You will need to request this material at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1974 M-74 School of Library Service Transfer</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Anne Thaxter Eaton Papers. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 06/--/1989 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Permission to publish materials must be obtained in writing from the Librarian for Rare Books and Manuscripts.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Box List</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Correspondence, <unitdate type="inclusive">1917-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Correspondence -letters from children</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Book reviews by A.T. Eaton</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Book manuscripts:</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>The Animal’s Christmas</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>history or children's literature. Part II.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Reading with children.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>A round dozen -Louisa May Alcott.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>School library service. (printed copies)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Treasure for the taking</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Treasure for the taking. Rev. ed.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Welcome Christmas!</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Articles, reports, papers, etc.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Lectures, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Lectures, <unitdate type="inclusive">1918-1967</unitdate>  &amp; <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Miscellaneous:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>Adele Bennett. Master’s essay on A.T.E.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>St. John's University .course mteria1s</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>The Viking Press, Inc. -publicity materials</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <unittitle>Misc. &amp; printed materials</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>The Lincoln School:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>bookplate –drawing</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>bookplate -3 printer's plates</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>German class -correspondence with Gerhardt Hauptmann</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>lists, etc.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>Literary Club</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>staff lists</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>students' work</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>The Lincoln School Library:</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>Annual reports, etc.</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <unittitle>Library: closing (1948)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Clippings</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Clippings re. alumni</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Dramatic productions</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <unittitle>Printed materials (see also: oversized Folder)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <unittitle>Printed materials - periodicals of The Lincoln School</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Photographs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Glass slides</unittitle>
+                    </did>
+                </c>
+            </c>
+   
+      </dsc>
+   </archdesc>
+</ead>

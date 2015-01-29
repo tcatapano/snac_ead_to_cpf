@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079522_ead//EN" mainagencycode="nnc-rb">ldpd_4079522_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Carolyn Horton and Associates Records</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2011-12-13">2011-12-13</date>
+            <item>xml document instance created by Catherine C. Ricciardi</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><corpname encodinganalog="110">Carolyn Horton and Associates.</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Carolyn Horton and Associates Records">Carolyn
+            Horton and Associates Records</unittitle>
+         <unitdate encodinganalog="245$f" normal="1931/1987" type="inclusive">1919-1988.</unitdate>
+         <physdesc><extent encodinganalog="300">16.5 linear ft (ca. 21,000 items in 41 boxes &amp; 2
+               card file boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University,<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079522</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Bookbinding and restoration; Document restoration including
+            manuscripts, maps and works of art on paper.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, subject files, business, personnel, biographical files and financial
+            records. The correspondence files deal with clients: individuals, libraries, museums and
+            book dealers. The chronological files are letters with individual clients, while the
+            alphabetical clients files contain folders for institutional clients, and also include
+            topical subject headings such as "Libraries", "Museums", and headings for specific books
+            and works of art. The subject files contain manuscripts, notes for seminars and lectures
+            given by Carolyn Horton on the preservation of books and paper documents and include
+            files on floods, particularly the 1966 flood in Florence, Italy, wet books, form
+            letters, rubbings of books and sample paper. The business records consist of detailed
+            worksheets arranged by client, describing condition of items bound or restored and the
+            type of work done on these items; and complete financial records, i.e., bills, receipts,
+            accounts and personnel records, including payroll, taxes, health insurance and other
+            benefits, which document the operations of a bindery and paper restoration firm. The
+            card file boxes contain details of work done arranged by artist name and by genre, i.e.,
+            music, portraits, newspapers, vellum, etc. The biographical files consist of
+            correspondence, notebooks and newspaper clippings relating to Horton's career including
+            her discovery that freezing wet books prevents their molding.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Series 1. Box 1-9: correspondence files; Box 10-11: subject files (conservation
+            &amp; restoration topics); Box 12-21: business records; Box 22-28: financial
+            records; Box 29-31: personnel records; Card file box 1-2: artist &amp; genre files. </p>
+         <p>Series 2. Box 32: correspondence files; financial records; biographical files A-B; Box
+            33: biographical files C-P; Boxes 34-37: subject files A-Y; Box 38: subject
+            files--lectures; Box 39: business files.</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <subject encodinganalog="650">Bookbinding--United States--20th century.</subject>
+         <subject encodinganalog="650">Manuscripts--Conservation and restoration.</subject>
+         <subject encodinganalog="650">Art--Conservation and restoration.</subject>
+         <genreform encodinganalog="655" source="ftamc">Financial records.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Lectures.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Personnel records.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Rubbings.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Bookbinders--United States--20th century</occupation>
+         <occupation encodinganalog="656" source="dot">Document restorers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and
+            Manuscript Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>07/27/87 records Horton, Carolyn Gift </p>
+         <p>05/16/90 M-90-05-16 Correspondence, financial records, subject files, lectures, business
+            records and biographical meterial. 4 linear ft (ca. 3,000 items in 8 boxes) Horton,
+            Carolyn Gift, 1990</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Carolyn Horton, 1987, 1989, &amp; 1990.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Carolyn Horton and Associates Records. Rare Book and Manuscript Library. Columbia
+            University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>records Cataloged 11/15/89 HR </p>
+         <p>Correspondence, financial records, subject files, lectures, business records and
+            biographical meterial. 4 linear ft (ca. 3,000 items in 8 boxes) Processed 06/18/90</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts and University
+            Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+            publish that which it physically owns; the responsibility to secure copyright
+            permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I</unittitle>
+            </did>
+            <c level="file">
+               <did><unittitle>Correspondence Files</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Chronological</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate type="inclusive">1932-1961</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <unittitle><unitdate type="inclusive">1962-1979</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle><unitdate type="inclusive">1980-1987</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Clients</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>A-Coo</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>Cor-F</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">6</container>
+                        <unittitle>G-L</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <unittitle>M-National Agricultural Library (NAL)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <unittitle>National Library of Medicine (NLM)-S</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <unittitle>Universities</unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Subject Files</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <unittitle>Conservation paper, Form letters, Floods, Rubbings of books, Sample
+                        paper, Seminars &amp; lectures, Wet books, <unitdate type="inclusive">1931-1980</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle>Florence Flood, <unitdate type="inclusive">1966-1970</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Business Records</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Client Sheet Bindery</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">12</container>
+                        <unittitle>A-M, <unitdate type="inclusive">1966-1984</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">13</container>
+                        <unittitle>N-Z, <unitdate type="inclusive">1966-1984</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">14</container>
+                        <unittitle>Corning, National Agricultural Library (NAL), Northwestern
+                           University Dental School, New York Public Library <unitdate type="inclusive">1973-1982</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">15</container>
+                        <unittitle>A-G, <unitdate type="inclusive">1972-1984</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">16</container>
+                        <unittitle>H-Z, <unitdate type="inclusive">1971-1984</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Fine Hand Binding (restoration of books worksheets)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">17</container>
+                        <unittitle>A-D, <unitdate type="inclusive">1973-1982</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">18</container>
+                        <unittitle>E-L, <unitdate type="inclusive">1973-1982</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">19</container>
+                        <unittitle>L-R, <unitdate type="inclusive">1974-1979</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">20</container>
+                        <unittitle>S-Z, <unitdate type="inclusive">1973-1982</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <unittitle>Insurance Policies, <unitdate type="inclusive">1973-1982</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Financial Records</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Bills, Receipts, and Accounts</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <unittitle>A-F, <unitdate type="inclusive">1968-1980</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <unittitle>G-R, <unitdate type="inclusive">1974-1979</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">24</container>
+                        <unittitle>S-Z, <unitdate type="inclusive">1976-1983</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Business bills, receipts, <unitdate type="inclusive">1972-1984</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Clients' bills, <unitdate type="inclusive">1955-1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Payroll journal, payroll books, <unitdate type="inclusive">1976-1983</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>Sales slips, sales journal, A - Z, <unitdate type="inclusive">1981-1984</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Personnel Records</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Benefits and Insurance, <unitdate type="inclusive">1971-1984</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">30</container>
+                     <unittitle>Employees and applicants, 1976-
+                     <unitdate>1983</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">31</container>
+                     <unittitle>Time Sheets, 1974- <unitdate>1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Card File Boxes</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Artists</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="">Card File Box 1</container>
+                        <unittitle>A-S, <unitdate type="inclusive">1971-1984</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="">Card File Box 2</container>
+                        <unittitle>T-Z, <unitdate type="inclusive">1971-1984</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  </c>
+               <c level="file">
+                  <did><container type="Box" label="">Card File Box 2</container>
+                     <unittitle>Untreated genre file (i.e. autographs, books, diaries, duckstamps,
+                        maps, photographs, etc.)</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">32</container>
+                  <unittitle>Correspondence Files, <unitdate type="inclusive">1971-1986</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">32</container>
+                  <unittitle>Financial Records, <unitdate type="inclusive">1940-1978</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Biographical Files</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <unittitle>A-B, <unitdate type="inclusive">1952-1984</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">33</container>
+                     <unittitle>C-P, <unitdate type="inclusive">1933-1984</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Subject Files</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>A, <unitdate type="inclusive">1935-1983</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">35</container>
+                     <unittitle>B, <unitdate type="inclusive">1936-1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">36</container>
+                     <unittitle>C-Mi, <unitdate type="inclusive">1965-1987</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">37</container>
+                     <unittitle>Mo-Y, <unitdate type="inclusive">1936-1981</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">38</container>
+                     <unittitle>Lectures, <unitdate type="inclusive">1961-1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">39</container>
+                  <unittitle>Business Files-- Schedules, insurance forms, contracts, etc., <unitdate type="inclusive">1919-1988</unitdate>
+                        </unittitle>
+               </did>
+            </c>         
+         </c>
+      </dsc>
+
+   </archdesc>
+</ead>

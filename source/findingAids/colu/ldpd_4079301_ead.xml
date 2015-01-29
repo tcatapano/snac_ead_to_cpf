@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-ua_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079301_ead//EN" mainagencycode="nnc-rb">ldpd_4079301_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Leonard R. Sayles Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2012-07-20">2012-07-20</date>
+            <item>xml document created by Catherine C. Ricciardi.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Sayles, Leonard R.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Leonard R. Sayles Papers">Leonard R. Sayles
+            Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1950/1962" type="inclusive">1950-1962.</unitdate>
+         <physdesc><extent encodinganalog="300">2.52 linear feet (6 manuscript boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079301</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains research work which formed the basis of two of Sayles'
+            books, <title render="italic">The Local Union</title> and <title render="italic">Behavior of Industrial Work Groups</title>. The collection includes interviews, case
+            studies, and observation analyses.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Leonard Robert Sayles (b. 1926), Professor Emeritus of
+            Business Administration, first came to Columbia University in 1956. The interviews in
+            this collection represent the most intensive, nondirective explorations of manufacturing
+            workers' relationships to their local unions and their families and jobs of the period.
+            The interviews grew out of a foundation-sponsored (Grant Foundation) study of local
+            unions directed by W.F. Whyte of Cornell University. Professor Sayles worked with George
+            Strauss.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Interviews and observation analyses which formed the basis of his two books, <title render="italic">The Local Union</title> and <title render="italic">Behavior of
+               Industrial Work Groups</title>. Most of the interviews were conducted in the period
+            1950-1952 in local unions in upstate New York. The largest number are from the Allegheny
+            Ludlum Steel Workers local in Dunkirk, N.Y. and they include descriptions of various
+            kinds of meetings (grievance, union, political) as well as interviews and observation
+            notes involving the membership, their families, and relationships with management. He
+            also studied several other steel worker locals, less intensively, in upstate New York
+            and western Pennsylvania. There are also interviews with a local of the Amalgamated
+            Clothing Workers in Rochester, N.Y. (Michaels-Sterns factory); and copies of George
+            Strauss' work in an American Can plant in Fairport, N.Y. and in a variety of building
+            trades locals in the Rochester, N.Y. area.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in two series:<list type="simple">
+               <item>Series I: Allegheny Ludlum Steelworkers, 1950-1954</item>
+               <item>Series II: Other Interviews and Related Materials, 1950-1962</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Michaels-Stearns (Rochester, N.Y.)</corpname>
+         <corpname encodinganalog="610">Allegheny Ludlum Industries.</corpname>
+         <corpname encodinganalog="610">Columbia University--Faculty.</corpname>
+         <corpname encodinganalog="610">Cornell University--Faculty.</corpname>
+         <corpname encodinganalog="610">United Steelworkers of America.</corpname>
+         <corpname encodinganalog="610">Amalgamated Clothing Workers of America.</corpname>
+         <corpname encodinganalog="610">American Can Company.</corpname>
+         <corpname encodinganalog="610">William T. Grant Foundation.</corpname>
+         <persname encodinganalog="600">Strauss, George, 1923-</persname>
+         <persname encodinganalog="600">Whyte, William Foote, 1914-2000.</persname>
+         <subject encodinganalog="650">Working class families.</subject>
+         <subject encodinganalog="650">Social groups.</subject>
+         <subject encodinganalog="650">Psychology, Industrial.</subject>
+         <subject encodinganalog="650">Industrial management.</subject>
+         <subject encodinganalog="650">Industrial relations.</subject>
+         <subject encodinganalog="650">Building trades--Employees--Labor unions--New York
+            (State)--Rochester.</subject>
+         <subject encodinganalog="650">Clothing workers--Labor unions--New York
+            (State)--Rochester.</subject>
+         <subject encodinganalog="650">Iron and steel workers--Labor unions--New York
+            (State)--Dunkirk.</subject>
+         <subject encodinganalog="650">Iron and steel workers--Labor unions--Pennsylvania.</subject>
+         <subject encodinganalog="650">Labor union locals--New York (State)--Dunkirk.</subject>
+         <subject encodinganalog="650">Labor union locals--New York (State)--Rochester.</subject>
+         <subject encodinganalog="650">Clothing workers--New York (State)--Rochester.</subject>
+         <subject encodinganalog="650">Iron and steel workers--New York (State)--Dunkirk.</subject>
+         <subject encodinganalog="650">Iron and steel workers--Pennsylvania.</subject>
+         <subject encodinganalog="650">Container industry--New York (State)--Fairport.</subject>
+         <subject encodinganalog="650">Construction workers--New York (State)--Rochester.</subject>
+         <subject encodinganalog="650">Building trades--New York (State)--Rochester.</subject>
+         <subject encodinganalog="650">Industries--New York (State)--Rochester.</subject>
+         <subject encodinganalog="650">Industries--New York (State)--Dunkirk.</subject>
+         <subject encodinganalog="650">Industries--New York (State)</subject>
+         <subject encodinganalog="650">Industries--Pennsylvania.</subject>
+         <subject encodinganalog="650">Industries--New York (State)--Fairport.</subject>
+         <genreform encodinganalog="655" source="ftamc">Interviews.</genreform>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1977 M-77 Sayles, Leonard R. Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Leonard R. Sayles Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 09/--/89 Christina Hilton Fenn</p>
+         <p>Papers processed by HR, 1977, with additional work done by Kellie Walsh (Rutgers University) and Catherine C. Ricciardi,
+            2011-2012.</p>
+      </processinfo>
+      <otherfindaid encodinganalog="555">
+         <p>Finding aid in repository and online. </p>
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Allegheny Ludlum Steelworkers, <unitdate type="inclusive">1950-1954</unitdate>
+                  <unitdate type="inclusive">Undated</unitdate>
+                    </unittitle>
+            </did>
+            <c level="subseries">
+               <did><unittitle>Subseries I.1: General</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Clippings, <unitdate type="inclusive">1951-1953</unitdate>
+                        <unitdate type="inclusive">Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries I.2: Executive Board Studies, <unitdate type="inclusive">1950-1952</unitdate>
+                     <unitdate type="inclusive">Undated</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Executive Board Study I, <unitdate type="inclusive">1950-1951</unitdate>
+                        <unitdate type="inclusive">Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Executive Board Study II, circa <unitdate type="inclusive">1950-1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Executive Board Study III, <unitdate type="inclusive">1950-1952</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries I.3: Interviews, Case Studies, and Related Notes, <unitdate type="inclusive">1950-1954</unitdate>
+                     <unitdate type="inclusive">Undated</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Centerless Grinders, <unitdate type="inclusive">1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Fine Wire Mill</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">1</container>
+                        <unittitle>Correspondence--Joe Granto, <unitdate type="inclusive">Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">1</container>
+                        <unittitle>Interviews, <unitdate type="inclusive">1951</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">1</container>
+                        <unittitle>Drafts and Notes, <unitdate type="inclusive">Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Hammershop</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">1</container>
+                        <unittitle>Interviews and Case Study, <unitdate type="inclusive">1950-1951</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">1</container>
+                        <unittitle>Analysis Notes, <unitdate type="inclusive">Undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">2</container>
+                        <unittitle>Writing, circa <unitdate type="inclusive">1952</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Officers (Union), <unitdate type="inclusive">1950-1952</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Pennsylvania Unions--Local Chapters, <unitdate type="inclusive">1951-1952</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Projective Pictures--Union and Plant, circa <unitdate type="inclusive">1950s</unitdate>
+                     </unittitle>
+                  </did>
+                  <scopecontent><p>(Photographs of USA Local 2693, Dunkirk, New York (Allegheny Ludlum Plant)
+                        )</p>
+                  </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Union Administration--Statistics, circa <unitdate type="inclusive">1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Union Meetings, <unitdate type="inclusive">1950-1951</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Study Reports, <unitdate type="inclusive">1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Other Topics, <unitdate type="inclusive">1950-1951</unitdate>
+                        <unitdate type="inclusive">1954 Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Other Interviews and Related Materials, <unitdate type="inclusive">1950-1962</unitdate>
+                  <unitdate type="inclusive">Undated</unitdate>
+                    </unittitle>
+            </did>
+            <c level="file">
+               <did><unittitle>Amalgamated Clothing Workers of America (ACWA)</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>Interviews, <unitdate type="inclusive">1953</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>The Shop Chairman: Clothing Worker’s Study I &amp; II, circa
+                           <unitdate type="inclusive">1953</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>American Can Company</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>General, <unitdate type="inclusive">1953</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Fairport International Association of Machinists</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <unittitle>General, <unitdate type="inclusive">1953</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <unittitle>Report, circa <unitdate type="inclusive">1953</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>In-Plant, <unitdate type="inclusive">1952</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>Sayles, <unitdate type="inclusive">1952-1953</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>American Locomotive</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>Case, circa <unitdate type="inclusive">1952</unitdate>
+                     </unittitle>
+                  </did>
+                  <scopecontent><p>(Mostly clippings)</p>
+                  </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Interviews, <unitdate type="inclusive">1950-1952</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Building Trades</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Rochester and Central Trades, <unitdate type="inclusive">1952-1953</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Strauss Interviews, circa <unitdate type="inclusive">1953</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Completed Reports--Union Study, <unitdate type="inclusive">1950-1952</unitdate>
+                     <unitdate type="inclusive">Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Incomplete Reports</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Steward and Work Group Studies, <unitdate type="inclusive">1950-1952</unitdate>
+                        <unitdate type="inclusive">Undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Leaders, Union Study, circa <unitdate type="inclusive">1950s</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4-5</container>
+                  <unittitle>Interviews--Miscellaneous, <unitdate type="inclusive">1953</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Miscellaneous</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>International Association of Machinists (IAM) Rochester District,
+                        Sm. Locals, <unitdate type="inclusive">1952-1953</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Unions--Toy, Postal, Railroad, Office Workers, <unitdate type="inclusive">1952-1953</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>New Material for Industrial Relations 207 (Columbia University Graduate
+                     School of Business), <unitdate type="inclusive">1960-1962</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Pfaudler, <unitdate type="inclusive">1953</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Printing Trades--Rochester Typographers and Photoengravers, <unitdate type="inclusive">1950-1952</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Prudential Insurance Agents, <unitdate type="inclusive">1952-1953</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Rank and File, 1953</unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Relations with the National Union, circa <unitdate type="inclusive">1950s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Sayles Research Project, <unitdate type="inclusive">1954
+                        Undated</unitdate>
+                  </unittitle>
+               </did>
+               <scopecontent><p>(Interviews)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Survey Methods--Fairport, Chicago, Elmira, <unitdate type="inclusive">1950-1954</unitdate>
+                     <unitdate type="inclusive">Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Unfiled Interviews, Primarily Union Research, <unitdate type="inclusive">1951-1952</unitdate>
+                     <unitdate type="inclusive">Undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Union Community Activities, circa <unitdate type="inclusive">1950s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

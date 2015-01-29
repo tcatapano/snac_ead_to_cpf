@@ -1,0 +1,2092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://appdev.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_8386417_ead//EN" mainagencycode="nnc-rb">ldpd_8386417_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Alfred J. Kahn Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2011-01-25">January 25, 2011 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2011-01-25">January 25, 2011 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2011-01-26">2011-01-26</date>
+            <item>xml document instance created by Lea Osborne</item>
+         </change>
+         <change><date normal="2011-04-21">2011-04-21</date>
+            <item>xml document instance updated by Catherine C. Ricciardi</item>
+         </change>
+         <change><date normal="2011-04-21">2011-04-21</date>
+            <item>xml document instance updated by Carrie Hintz (reflects integration of 2011
+               accession) </item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Kahn, Alfred J., 1919-2009</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Alfred J. Kahn Papers,">Alfred J. Kahn
+            Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1920/2009" type="inclusive">1920-2009</unitdate>
+         <physdesc><extent encodinganalog="300">11.76 linear ft. (28 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book &amp; Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>Butler Library, 6th Fl. East, 535 West 114th St., New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1549</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">8386417</unitid>
+         <abstract label="abstract">This collection consists of papers relating to the personal
+            life, military service, and academic career of Columbia University professor Alfred J.
+            Kahn.</abstract>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> In English. </language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Alfred J. Kahn was a pioneer in the field of social work and
+            served as a member of the Columbia University faculty for fifty-seven years. Born in
+            Williamsburg, Brooklyn, in 1919, Kahn spent much of his early life in the Bensonhurst
+            neighborhood. His parents, Meyer and Sophie Kahn, raised their children in the Jewish
+            faith. Kahn remained interested in his Jewish heritage through his college years,
+            enrolling concurrently in the secular City College and in the Jewish Theological
+            Seminary and graduating from both programs by 1940. </p>
+         <p><!-- BIOGHIST REQUIRED -->Kahn's interest in social work as a field of study developed
+            during his college years. At City College, Kahn became active in the Zionist student
+            organization called Avukah. As a student leader of Avukah, Kahn organized a national
+            survey of Jewish college students in an effort to understand the particular needs and
+            challenges of that community. This experience, along with a few courses in social work,
+            convinced Kahn that this would be his vocation. After an initial rejection, Kahn was
+            accepted into the M.S. program at the New York School of Social Work in 1941. He also
+            remained engaged with the Jewish community through an administrative role in Avukah and
+            a post as a Hebrew Sunday school teacher. </p>
+         <p><!-- BIOGHIST REQUIRED -->Kahn studied at the School of Social Work until 1942, when he
+            entered the military. Stationed at the Air Force Drew Field Mental Health Unit in
+            Florida-the first unit of its kind in the United States military-Kahn screened incoming
+            patients and observed their patterns of adjustment and maladjustment. He also provided
+            informal advice to soldiers (and occasionally their wives) through a column entitled
+            "What's Your Problem?" Ultimately, he published a scholarly article based on his
+            experiences at Drew and collected material that would help to launch his early career. </p>
+         <p><!-- BIOGHIST REQUIRED -->Upon his discharge from the military at the end of World War
+            II, Kahn completed his M.S. at the New York School of Social Work and began his doctoral
+            studies at Columbia University. He would maintain an affiliation with Columbia for the
+            rest of his life. Kahn received the first doctorate in social work to be conferred at
+            Columbia and, indeed, in the state of New York. He remained at Columbia, helping to
+            develop the doctoral program and to shape the academic field of social work,
+            particularly in the areas of family and child welfare, social service planning, and
+            comparative international analysis. </p>
+         <p><!-- BIOGHIST REQUIRED -->In addition to his work as a professor, Alfred Kahn served as
+            a consultant for federal, state, and local agencies as well as philanthropic
+            organizations, in the development of social policy. His work in this capacity began very
+            early in his career at the Citizen's Committee for Children (CCC). Kahn contributed to
+            the CCC from 1948 to 1972, publishing a number of major studies on juvenile justice
+            under CCC auspices. These publications drew Kahn onto the national stage in the 1950s as
+            an expert on juvenile delinquency. He continued to serve as a policy advisor through the
+            1960s and 1970s, contributing to the shaping of Lyndon Johnson's Great Society programs. </p>
+         <p><!-- BIOGHIST REQUIRED -->Kahn remained interested in children and family structure
+            throughout his long career. Over time, the geographic scope of his interest expanded.
+            Along with his frequent collaborator Sheila Kamerman, Kahn embarked on comparative
+            studies of European and American families and social policies. This research provided
+            the basis for Kahn's increasingly frequent critiques of United States policies in the
+            late 1970s and 1980s, and his advocacy for European-style socialized services to aid
+            underprivileged Americans. At Columbia, Kahn and Kamerman established and co-chaired the
+            Cross-National Studies research program, promoting comparative international
+            scholarship. </p>
+         <p><!-- BIOGHIST REQUIRED -->Alfred Kahn received numerous honors and awards throughout his
+            career and received several honorary degrees. Kahn retired in 1989 and continued to
+            teach as a Professor Emeritus until 2004. He died in 2009, survived by his daughter,
+            Nancy.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This collection consists of a range of materials, relating primarily to Alfred Kahn's
+            education, military service, and professional life. The materials include lesson plans
+            and drafts, publications, reviews, research notes, conference proceedings, and
+            correspondence. There is also one box of digital video tapes, probably documenting some
+            of Kahn's lectures at Columbia. In addition, the collection includes a small amount of
+            personal correspondence and several photographs</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in three series.</p>
+         <list type="marked">
+            <item>Series I: Personal, 1920-2009</item>
+            <item>Series II: Professional, 1942-2008</item>
+            <item>Series III: Audiovisual Material, 1977-2004</item>
+         </list>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Avukah, American Student Zionist Organization.</corpname>
+         <corpname encodinganalog="610">Citizens' Committee for Children of New York
+            City.</corpname>
+         <corpname encodinganalog="610">Columbia University.--School of Social Work.</corpname>
+         <corpname encodinganalog="610">Columbia University.--School of Social Work.--Cross-National
+            Studies Research Program.</corpname>
+         <corpname encodinganalog="610">Jewish Board of Guardians.</corpname>
+         <persname encodinganalog="600">Kahn, Alfred J., 1919-2009.</persname>
+         <persname encodinganalog="600">Kamerman, Sheila B.</persname>
+         <subject encodinganalog="650">Child welfare--Government policy--New York.</subject>
+         <subject encodinganalog="650">Child welfare--Government policy--United States.</subject>
+         <subject encodinganalog="650">Conference proceedings.</subject>
+         <subject encodinganalog="650">Congressional committee records.</subject>
+         <subject encodinganalog="650">Family policy--United States.</subject>
+         <subject encodinganalog="650">Judaism and social problems--United States.</subject>
+         <subject encodinganalog="650">Juvenile delinquency--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Juvenile delinquency--United States.</subject>
+         <subject encodinganalog="650">Social work education.</subject>
+         <subject encodinganalog="650">Social policy--United States.</subject>
+         <subject encodinganalog="650">Social policy--New York.</subject>
+         <subject encodinganalog="650">Soldiers--Mental health--United States.</subject>
+         <genreform encodinganalog="655" source="aat">Clippings (information artifacts)</genreform>
+         <genreform encodinganalog="655" source="aat">Military records.</genreform>
+         <genreform encodinganalog="655" source="aat">Syllabi.</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room. </p>
+         <p>Files concerning consultations are restricted. Please see container list for exact box
+            and folder.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Nancy V. Kahn, Gift 2010</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Alfred J. Kahn Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed and finiding aid written in December 2010 by Eve Mayer, Pratt SILS
+            2011. </p>
+         <p>Cataloged in January 2011 by Lea Osborne.</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Personal, <unitdate type="inclusive">1920-2009</unitdate>
+               </unittitle>
+            </did>
+            <scopecontent><p>This series contains mixed materials relating to the family life, education, and
+                  military service of Alfred J. Kahn. The subjects covered include awards and
+                  honors, including honorary degrees. There are also personal records from Kahn's
+                  college and graduate career, including early statements of his interest in social
+                  work and documentation of his participation in the Avukah Zionist student
+                  organization. There are also materials pertaining to Kahn's family life, several
+                  photographs, and transcripts of eulogies from Kahn's memorial services in
+                  2009.</p>
+               <p>The series also documents Kahn's military service at the Air Force Drew Field
+                  Mental Health Unit during World War II. The Drew MHU, in Florida, was the first of
+                  its kind, and the material included from this period of Kahn's life provides
+                  insight into the early diagnosis and treatment of mental illness among soldiers.
+                  Kahn began research at Drew that contributed directly to his professional
+                  development and, as a result, some of the materials in this section are of a
+                  professional as well as a personal nature. One folder of patient interview notes
+                  has been restricted due to the personal nature of its contents.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>General, <unitdate type="inclusive">1941-1989</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">2 to 3</container>
+                  <unittitle>Awards and Honors, <unitdate type="inclusive">1967-2005</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders) </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Education</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate type="inclusive">1939-1945</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate type="inclusive">1946-1949</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1950</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate>1951</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>1952-1953</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Family, undated, <unitdate type="inclusive">1920-1984</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Memorial, <unitdate>2009</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Military, <unitdate type="inclusive">1942-1945</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>"What the Soldier Thinks," <unitdate>1944</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">12 to 13</container>
+                     <unittitle>Personal Records, <unitdate type="inclusive">1942-1945</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders) </extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Articles, <unitdate>1944</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>"What's Your Problem?," <unitdate type="inclusive">1944-1945</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Drew MHU Study, <unitdate type="inclusive">1944-1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Drew MHU Manual, <unitdate>1944</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Drew MHU Consultations, <unitdate>1945</unitdate>
+                     </unittitle>
+                  </did>
+                  <accessrestrict><p>[Restricted until 2050] </p>
+                  </accessrestrict>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">27</container>
+                  <unittitle>Avukah Manual, <unitdate>1941</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Professional, <unitdate type="inclusive">1942-2008</unitdate>
+               </unittitle>
+            </did>
+            <scopecontent><p>This series consists of materials documenting Alfred J. Kahn's career and
+                  professional activities. The content includes published writing as well as drafts,
+                  lecture notes, press clippings, and conference proceedings. Kahn's associations
+                  with non-academic organizations and his contributions to city, state, and federal
+                  policy are also documented here. </p>
+               <p>The majority of materials in this series pertain to Kahn's teaching and research
+                  activities, as well as his professional publications. Syllabi and lecture notes
+                  provide insight into Kahn's teaching methods. The series also includes records of
+                  Kahn's televised lectures on CBS as part of a 1968 Columbia University public
+                  education initiative.</p>
+               <p>Many of the publications that Kahn produced over the course of his career are also
+                  present in this series, either in draft or final form. The series also includes
+                  some of the raw material Kahn collected in the form of notes from his research
+                  trips to Europe with frequent collaborator Sheila Kamerman. </p>
+               <p>In addition to teaching and research, Kahn contributed to public discourse about
+                  social policy in an advisory role. These include community organizations such as
+                  the Citizens' Committee for Children (CCC). The series features extensive records
+                  of CCC communications and publications, including some of the work that Kahn
+                  published under CCC auspices. The series also features records of Kahn's
+                  congressional testimony and his contributions to official reports and committees.
+                  One issue of note is juvenile delinquency, an early area of expertise for Alfred
+                  Kahn that initiated his involvement with federal policy in the 1950s. </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">6 to 8</container>
+                  <unittitle>General, <unitdate type="inclusive">1953-2001</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(3 Folders) </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Biographies, undated, <unitdate type="inclusive">1959-2008</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Photographs, <unitdate type="inclusive">1953-1980</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Publication Lists, <unitdate>undated, </unitdate>
+                     <unitdate type="inclusive">1953- 2004</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Resumes, <unitdate>undated, </unitdate>
+                     <unitdate type="inclusive">1959-1963</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">4 to 6</container>
+                  <unittitle>"Growth and Development of AICP and COS," <unitdate>1942</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(3 Folders) </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Citizens' Committee on Children</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">7 to 8</container>
+                     <unittitle>General, <unitdate>undated</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders) </extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1949-1950</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><unitdate type="inclusive">1951-1953</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Proposal to Judge John Warren Hill, <unitdate>1951</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate>1954</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate>1955</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate>1956</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">4 to 7</container>
+                     <unittitle>"Major CCC Documents 1956-1957," <unitdate type="inclusive">1956-1957</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(4 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1957 January-April</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1957 May-December</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>"For Children in Trouble," <unitdate>1957</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">2 to 4</container>
+                     <unittitle>"Major CCC Documents 1957-1958," <unitdate type="inclusive">1957-1958</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate>1958</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>"The Planning and Coordination of Services for Children and Youth in
+                        New York City," <unitdate>1957</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate>1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>"When Children Must Be Committed," <unitdate>1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><unitdate>1961</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle><unitdate>1962</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>"New York City Schools and Children Who Need Help,"
+                           <unitdate>1962</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate>1963</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1964 January-February</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate type="inclusive">1964 March December</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">4 to 5</container>
+                     <unittitle>"Creating an Informed Community Presence," <unitdate>1964</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders) </extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate type="inclusive">1965-1967</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate type="inclusive">1968-1970</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1971-1972</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1973-1974</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Basic CCC Documents, <unitdate type="inclusive">1953-1956</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Conferences and Lectures, <unitdate>undated, </unitdate>
+                     <unitdate type="inclusive">1945-2004</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>General, <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle><unitdate type="inclusive">1945-1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle><unitdate>1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate>1948</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1949-1952</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate type="inclusive">1953-1954</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate type="inclusive">1955-1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>"Social Science Theory and Social Work Research,"
+                           <unitdate>1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate type="inclusive">1961-1962</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">8 to 9</container>
+                     <unittitle>"Panel Meeting on the Development of New Approaches to Community
+                        Mental Health Services," <unitdate>1962</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate>1963</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate>1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>"Key Services for Unmarried Mothers," <unitdate>1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">4 to 6</container>
+                     <unittitle>Institute for Training in Community Psychiatry,
+                           <unitdate>1964</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate>1965</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">8 to 10</container>
+                     <unittitle>"Daycare as a Social Instrument," <unitdate>1965</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(3 Folders) </extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1966 January-August</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1966 September-December</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate>1967</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>"After Fifty Years" Minnesota School of Social Work,
+                           <unitdate>1967</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate>1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>"Income Maintenance Alternatives," <unitdate>1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>La Programmazione Sociale, <unitdate>1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate>1970</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1971-1972</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate>1973</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate type="inclusive">1974-1976</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate>1977</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>"Cleveland's Human Services," <unitdate>1977</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Conference on Family Policy Proceedings, <unitdate>1977</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate type="inclusive">1978-1979</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Family Policy Conference, <unitdate>1979</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate>1980</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate>1981</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>"The 80's: A New Decade For Social Work," <unitdate>1982</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate type="inclusive">1982-1983</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate>1984</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1985</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate>1986</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1987-1988</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1989 January-May</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1989 June-December</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1990-1991</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate>1992</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate type="inclusive">1993-1994</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate type="inclusive">1995-1997</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1998</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate>1999</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">2000-2004</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>"Towards An Australian Family Policy," <unitdate>1980</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1939-1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><unitdate type="inclusive">1960-1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1970-1979</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1980-1989</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate type="inclusive">1990-2006</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Jewish Board of Guardians</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>General, <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate type="inclusive">1944-1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Press</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>General, <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1950-1952</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate>1953</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">10 to 12</container>
+                     <unittitle><unitdate>1954</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1955-1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1960-1962</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate>1963</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate>1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate type="inclusive">1965-1966</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate type="inclusive">1967-1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate>1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1970-1971</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1972-1973</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><unitdate type="inclusive">1974-1975</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle><unitdate>1976</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle><unitdate>1977</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate>1978</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate>1979</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate>1980</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate>1981</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate>1982</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1983</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate type="inclusive">1984-1985</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1986-1987</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate>1988</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><unitdate>1989</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle><unitdate type="inclusive">1990-1994</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle><unitdate type="inclusive">1995-2002</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Reports</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1940-1949</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1950-1954</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate>1955</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>"The Use of Dog Guides in the Rehabilitation of the Blind,"
+                           <unitdate>1956</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate type="inclusive">1956-1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>"New York City Boys Committed to State Training Schools in
+                           <unitdate>1957</unitdate> and 1958," <unitdate>1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>New Jersey Youth Study Commission, <unitdate>1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1960-1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate>1965</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate>1966</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1967-1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>"Development of Social Work Manpower and Knowledge in Relation to
+                        Critical Illness," <unitdate>1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>"Social Planning in Pittsburgh," <unitdate>1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>"Social Policy and the Distribution of Income," U.N. Report,
+                           <unitdate>1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">6 to 7</container>
+                     <unittitle>Interim Report to the Ford Foundation, <unitdate>1970</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders) </extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1970-1971</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">17</container>
+                     <container type="Folder" label="Folder">9 to 10</container>
+                     <unittitle><unitdate>1972</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1973-1975</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>"Social Services in New York City," <unitdate>1973</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Task Force on "State of the Child," Report,
+                           <unitdate>1974</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate>1976</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate type="inclusive">1977-1979</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate type="inclusive">1980-1982</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate type="inclusive">1983-1984</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">8 to 9</container>
+                     <unittitle><unitdate>1985</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">18</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>"Tax Policies: How Do Families Fare?," <unitdate>1985</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1986-1987</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>"Mother-Only Families in Western Europe," <unitdate>1987</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate>1988</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Federal Role In Child Care Hearing, <unitdate>September 22,
+                           1988</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate>1989</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>"Hearings Before the Committee on Education and Labor,"
+                           <unitdate>1989</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>"Social Services for Children, Youth and Families in the U.S.,"
+                           <unitdate>1989</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>"Social Services for Children, Youth and Families: The New York City
+                        Study," <unitdate>1990</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1990-2002</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>"Mental Health and Social Services," <unitdate>1975</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Research, undated, <unitdate type="inclusive">1946-2000</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>General</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle><unitdate>1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">19</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>"A Program of Research in Juvenile Delinquency,"
+                           <unitdate>1956</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">1 to 3</container>
+                     <unittitle><unitdate>1959</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate type="inclusive">1963-1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate type="inclusive">1972-1973</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Bound Interviews and Reports--Europe, <unitdate> 2000
+                           March</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">28</container>
+                     <unittitle>Europe, <unitdate>1999 Summer</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Teaching</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>General, <unitdate>undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1947-1950</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate>1951</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><unitdate type="inclusive">1952-1965</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <container type="Folder" label="Folder">11 to 12</container>
+                     <unittitle><unitdate>1966</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate>1966</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1966-1967</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">3 to 5</container>
+                     <unittitle><unitdate>1968</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate type="inclusive">1970-1976</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1977-1978</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate>1979</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><unitdate>1980</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle><unitdate type="inclusive">1981-1982</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle><unitdate>1983</unitdate> Binder</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">1 to 2</container>
+                     <unittitle><unitdate>1983</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate>1983</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate>1984</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate>1985</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>1986</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate>1987</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1988-1989</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1990-1995</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1998-1999</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <container type="Folder" label="Folder">2 to 3</container>
+                     <unittitle><unitdate>2000</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate type="inclusive">2001-2002</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate>2004</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Writings</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <container type="Folder" label="Folder">6 to 8</container>
+                     <unittitle>"Miscellaneous Reprints or Unpublished Papers," <unitdate type="inclusive">1944- 1995</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1938-1944</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><unitdate type="inclusive">1945-1949</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>"The Psychopath in the Armed Forces," <unitdate>1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate>1950</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate type="inclusive">1951-1953</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate type="inclusive">1954-1955</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate type="inclusive">1956-1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate type="inclusive">1960-1961</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate type="inclusive">1962-1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1965-1966</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1967-1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1970-1972</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1973-1974</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate type="inclusive">1975-1977</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>"European Family Policy Currents"--Draft, <unitdate>1976</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>"Government and Family in the U.S."--Draft,
+                           <unitdate>1977</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>"Government Structure Versus Family Policy"--Draft,
+                           <unitdate>1979</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate type="inclusive">1978-1979</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle><unitdate type="inclusive">1980-1982</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><unitdate type="inclusive">1983-1984</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><unitdate type="inclusive">1985-1989</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>"Contracting for Child &amp; Family Services,"
+                           <unitdate>1999</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle><unitdate type="inclusive">1990-2008</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Audiovisual Material, <unitdate>1977-2004</unitdate>
+               </unittitle>
+            </did>
+            <scopecontent><p>This Series consists of digital videotapes, labeled "8801 2004" and a number of audiotapes. The
+                  videotapes most likely document Kahn's lectures from Columbia University course 8801,
+                  "Comparative Histories of Social Welfare and Social Work," during his last year of
+                  teaching. The audiotapes contain a number of taped lectures.  At the time of processing, these tapes had not been reviewed by RBML
+                  staff.</p>
+            </scopecontent>
+           <c level="file">
+              <did><unittitle>Videotapes</unittitle>
+              </did>
+               <c level="file">
+               
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>"Comparative Histories of Social Welfare and Social Work,"
+                        <unitdate>2004</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(52 videotapes)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>"Necessary Lightness," <unitdate>1993</unitdate>
+                            </unittitle>
+                     <physdesc>(VHS tape)</physdesc>
+                  </did>
+               </c>
+           </c>
+            <c level="file">
+               <did><unittitle>Audio Cassettes</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Perspectives on National Family Policy, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Conversations About Children: International Developments, <unitdate>1977</unitdate>
+                            </unittitle>
+                  </did>
+                    </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Center for Philadelphia Studies, Health and Human Services, <unitdate>1981</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 tapes)</extent>
+                            </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>CW Lecture, <unitdate>1984</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Public Social Services, Philadelphia, <unitdate>1988</unitdate>
+                            </unittitle>
+                        </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Child Care, <unitdate>1996</unitdate>
+                            </unittitle>
+                  </did>
+                  <scopecontent><p>(Tape is marked 3 of 4)</p>
+                        </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Child Welfare and Welfare Reform, <unitdate>1998</unitdate>
+                            </unittitle>
+                  </did>
+                 <scopecontent><p>(Tape is marked 1 of 3)</p>
+                        </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Cleveland Case Study, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+                        <scopecontent><p>(Tape is marked 3 of 3)</p>
+                        </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">29</container>
+                     <unittitle>Unmarked Tapes</unittitle>
+                            <physdesc><extent>(4 Tapes)</extent>
+                            </physdesc>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

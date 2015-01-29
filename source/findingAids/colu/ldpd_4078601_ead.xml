@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078601_ead//EN" mainagencycode="nnc-rb">ldpd_4078601_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Chilmark Press Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-03-27">2012-03-27</date>
+            <item> xml document instance created by Alison Rhonemus.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><corpname encodinganalog="110">Chilmark Press (New York, N.Y.)</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Chilmark Press Papers">Chilmark Press
+            Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1960/1976" type="inclusive">1960-1976.</unitdate>
+         <physdesc><extent encodinganalog="300">7 linear ft (ca. 9,100 items in 16 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0219</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078601</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains correspondence, memoranda, manuscripts, documents,
+            photographs, printed art works, and printed material, 1960-1976, of Chilmark
+            Press.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Historical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->A small publishing house which specialized in contemporary
+            English literature and in printing fine editions of classics. The president and editor
+            of Chilmark Press was Louis G. Cowan (1909-1976).</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, memoranda, manuscripts, documents, photographs, printed art works, and
+            printed material of Chilmark Press. The files are mainly those kept by Louis G. Cowan.
+            Correspondents include Roy Jenkins, David Jones, (John) Frank Kermode, J.B. Priestley,
+            John Sparrow, and Stephen Spender. Among the files are copies of paintings, engravings,
+            graphic designs, and other works of art by David Jones, Will Carter, Henry Moore,
+            Anthony Gross, Paul Standard, and others.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected Materials cataloged; remainder arranged. This collection is arranged in three
+            series: <list type="marked">
+                    <item>Series I: Catalogued Correspondence </item>
+               <item>Series II: Author Files</item>
+               <item>Series III: Business Files</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Cowan, Louis G.</persname>
+         <persname encodinganalog="600">Jenkins, Roy.</persname>
+         <persname encodinganalog="600">Jones, David.</persname>
+         <persname encodinganalog="600">Kermode, Frank, 1919-</persname>
+         <persname encodinganalog="600">Priestley, J. B. (John Boynton), 1894-1984.</persname>
+         <persname encodinganalog="600">Sparrow, John.</persname>
+         <persname encodinganalog="600">Spender, Stephen, 1909-1995.</persname>
+         <persname encodinganalog="600">Carter, Will, 1912-2001.</persname>
+         <persname encodinganalog="600">Moore, Henry, 1898-1986.</persname>
+         <persname encodinganalog="600">Gross, Anthony, 1905-</persname>
+         <persname encodinganalog="600">Standard, Paul, 1900-</persname>
+         <subject encodinganalog="650">English literature--20th century.</subject>
+         <subject encodinganalog="650">Literature publishing--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Art.</subject>
+         <subject encodinganalog="650">Publishers and publishing--New York (State)--New
+            York.</subject>
+         <genreform encodinganalog="655" source="lctgm">Art reproductions.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Engravings.</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 2-16. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1981 M-81 Shulman, Holly Cowan Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Holly Cowan Shulman, 1981.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Chilmark Press Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 04/17/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+
+      <dsc><c level="series">
+            <did><unittitle>Series I: Catalogued Correspondence</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Barzun, Jacques</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Evans, Bergen</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Gingrich, Arnold</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Howe, Irving</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Jenkins, Roy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Jones, David</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Kermode, (John) Frank </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Kredel, Fritz</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Pearson, Norman Holmes</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Phillips, William</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Priestley, J(ohn) B.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Roethke, Theodore</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Sevareid, Eric</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Sparrow, John</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Spender, Stephen</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Standard, Paul</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Trilling, Lionel</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Author Files</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Berkeley, Humphrey</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle><title render="italic">The Power of the Prime Minister</title>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Coleridge, Samuel Taylor</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle><title render="italic">The Rime of the Ancient Mariner</title> (Douglas
+                Cleverdon, ed.; David Jones, illus.)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Craig, Edward Gordon</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>[Limited Edition, Will Carter, ed.]</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>Douglas, Keith</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle><title render="italic">Alamein to Zem Zem</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle><title render="italic">Collected Poems</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle><title render="italic">Selected Poems</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Dunn, Douglas</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle><title render="italic">Terry Street</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Jenkins, Roy</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3-4</container>
+                     <unittitle><title render="italic">Asquith</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle><title render="italic">Mr. Balfour's Poodle</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle><title render="italic">Profiles</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle><title render="italic">Victorian Scandal</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Johnson, B.S</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle><title render="italic">Poems</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Johnson, Samuel</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle><title render="italic">The Vanity of Human Wishes</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6</container>
+                  <unittitle>Jones, David</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle><title render="italic">Anathemata</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle><title render="italic">Epoch and Artist</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle><title render="italic">The Fatigue</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle><title render="italic">In Parenthesis</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>General</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle><title render="italic">Agenda</title> (Magazine)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Pamphlet</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Profile</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>Photographs</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Kermode, (John) Frank</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle><title render="italic">Puzzles and Epiphanies</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle><title render="italic">Romantic Image</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Marrin, Albert</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle>[Poster Book]</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Milton, John</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <unittitle><title render="italic">Areopagitica</title> (Henry Moore, illus.)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Morgan, Edward</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>Murphy, Richard</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <unittitle><title render="italic">Sailing to an Island</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <unittitle><title render="italic">The God Who Eats Corn</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <unittitle>U.S. Tour</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Phillips, William</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <unittitle><title render="italic">A Sense of the Present</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Piper, David</unittitle>
+               </did>
+               
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <unittitle><title render="italic">I Am Well, Who Are You?</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <unittitle><title render="italic">Listener</title> pieces</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <unittitle><title render="italic">Shades</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <unittitle><title render="italic">Trial by Battle</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Priestley, J.B.</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <unittitle><title render="italic">All England Listened</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Reed, Henry</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle><title render="italic">Lessons of the War</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Righter, William</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle><title render="italic">Logic and Criticism</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle><title render="italic">Rhetorical Hero</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Sparrow, John</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle><title render="italic">After the Assassination</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <unittitle><title render="italic">Controversial Essays</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>Stein, Norman</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <unittitle><title render="italic">Nothing Will be Restrained</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <unittitle>General</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Stokes, Adrian</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <unittitle><title render="italic">Invitation in Art</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Svolinsky, Karel</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <unittitle>Illustrations</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Theocritus</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <unittitle><title render="italic">Sixe Illylia</title> (Anthony Gross, illus.)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <unittitle>Trypanos, Constantine</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <unittitle>General</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <unittitle><title render="italic">Elegies of a Glass Adonis</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <unittitle><title render="italic">Grooves in the Wind</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <unittitle><title render="italic">Oedipus</title> Translation</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <unittitle><title render="italic">Pompeian Dog</title> 
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <unittitle><title render="italic">Sophocles</title> 
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Business Files</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <unittitle>General</unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <unittitle>Addresses</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <unittitle>Catalogue copy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <unittitle>Copyright forms</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <unittitle>Cowan, Louis - Notes and memos</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <unittitle>Distribution</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Financial</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <unittitle>Bills</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <unittitle>Deposits</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <unittitle>Reports</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <unittitle>Fulfillment Center</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <unittitle>Knopf Ad - 50th Birthday</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <unittitle>Lecture Bureau</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <unittitle>Legal</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>Limited Editions</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>Mailing lists</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>Promotion and Publicity</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Random House</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <unittitle>Fact Sheets</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <unittitle>Catalogue Copy</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <unittitle>Royalty Statements</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <unittitle>Transfers</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>Royalty Statements</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>Shipping</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Warehouse Printed</unittitle>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079656_ead//EN" mainagencycode="nnc-rb">ldpd_4079656_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Eli Cantor Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-10-26">2012-10-26</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Cantor, Eli.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Eli Cantor Papers">Eli Cantor
+            Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1935/1985" type="inclusive">1935-1985.</unitdate>
+         <physdesc><extent encodinganalog="300">21.5 linear feet (46 document boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0190</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079656</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->American author, lawyer, &amp; printer.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Manuscripts, notes, correspondence, printed materials, and books.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Material is arranged into three series: <list type="marked">
+               <item>Series I: Manucripts</item>
+               <item>Series II: Printed Material</item>
+               <item>Series III: Research Institute of America</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Research Institute of America, inc.</corpname>
+         <subject encodinganalog="650">Authors, American.</subject>
+         <subject encodinganalog="650">Economics.</subject>
+         <genreform encodinganalog="655" source="ftamc">Articles.</genreform>
+         <genreform encodinganalog="655" source="aat">Contracts.</genreform>
+         <genreform encodinganalog="655" source="aat">First drafts.</genreform>
+         <genreform encodinganalog="655" source="aat">Galley proofs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Manuscripts.</genreform>
+         <genreform encodinganalog="655" source="aat">Memorandums.</genreform>
+         <genreform encodinganalog="655" source="aat">Notes.</genreform>
+         <genreform encodinganalog="655" source="aat">Novels.</genreform>
+         <genreform encodinganalog="655" source="aat">Proofs.</genreform>
+         <genreform encodinganalog="655" source="aat">Reports.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Scripts.</genreform>
+         <genreform encodinganalog="655" source="aat">Theses.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Economists.</occupation>
+         <occupation encodinganalog="656" source="dot">Lawyers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Novelists.</occupation>
+         <occupation encodinganalog="656" source="dot">Printers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least two
+            business days in advance to use the collection in the Rare Book and Manuscript Library
+            reading room. </p>
+
+         <p>"Brass Ring" correspondence in Box 1 and "Enemy in the Mirror" correspondence in Box 9
+            are closed.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1986 M-1986 Cantor, Eli Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Eli Cantor, 1984 &amp; 1986.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Eli Cantor Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library. </p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Processed 08/--/1986 TC</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Manuscripts</unittitle>
+            </did>
+                <scopecontent><p>The collection
+               contains typescript manuscripts with handwritten corrections of Cantor's novels, "Enemy
+               in the Mirror" (N.Y.: Crown Books, 1977) and "Love Letters" (N.Y.: Crown Books, 1980);
+               printed works composed by Gallery 33 of the Composing Room, which Cantor headed from
+               196l to 1971; and articles by Cantor from various magazines, including "Esquire" and
+               "Coronet". Also included are typescript manuscripts of "The Rite" (N.Y.: Zebra Books,
+               1979) and "The Nest" (N.Y.: Zebra Books, 1980), novels written by Cantor under the
+               pseudonym Gregory A. Douglas.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>"Black Market"(1942)</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Typescript (carbon)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>Related Material</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>"Blue Bird of Happiness"--Typescript (photocopy)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle><title render="italic">The Brass Ring</title>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>1st Version (1980)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">1</container>
+                        <unittitle>Typescript with notes </unittitle>
+                        <physdesc><extent>(9 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">1</container>
+                        <unittitle>Related Correspondence</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>2nd Version (1981-1982)--Typescript with notes </unittitle>
+                     <physdesc><extent>(6 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>3rd Version (1982)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">2</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(8 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <unittitle>Additional titlepage, etc.</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>4th Version (1982-1983)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(7 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <unittitle>Outage </unittitle>
+                        <physdesc><extent>(4 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">3</container>
+                        <unittitle>Related Items</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>5th Version (1983).</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">4</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(6 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">4</container>
+                        <unittitle>Typescript with notes </unittitle>
+                        <physdesc><extent>(6 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">4</container>
+                        <unittitle>Flap-copy</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">4</container>
+                        <unittitle>Miscellaneous notes</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>6th Version (1985).Typescript </unittitle>
+                     <physdesc><extent>(8 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>7th Version (1985).Typescript </unittitle>
+                     <physdesc><extent>(5 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle><title render="italic">Candy Store</title>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Version I (1945). Typescript</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Version II (1945) Typescript </unittitle>
+                     <physdesc><extent>(2 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>3rd version Typescript, <unitdate type="inclusive">1948</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Working Draft</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Synopsis</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>The Case of the Warrens (1943).--Typescript</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>Cookbook Project</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>"The Curving Road"(1945) Typescript </unittitle>
+                  <physdesc><extent>(2 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle><title render="italic">Enemy in the Mirror</title>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>1st version (1971-1972)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">7</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(14 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">7</container>
+                        <unittitle>Typescript (photocopy) </unittitle>
+                        <physdesc><extent>(7 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <unittitle>Notes</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <unittitle>Related Correspondence</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <unittitle>Articles and Clippings</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>2nd version (1972)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">8</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(14 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">9</container>
+                        <unittitle>Outage </unittitle>
+                        <physdesc><extent>(6 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9</container>
+                     <unittitle>3rd version (1973)--typescript (carbon) </unittitle>
+                     <physdesc><extent>(12 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>4th version (1974-1975)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">9</container>
+                        <unittitle>Typescript (folders 1-3)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">10</container>
+                        <unittitle>Typescript (folders 4-9)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">10</container>
+                        <unittitle>Typescript (photocopy) </unittitle>
+                        <physdesc><extent>(9 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">10</container>
+                        <unittitle>Notes and Clippings</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">10</container>
+                        <unittitle>Notes and Revisions</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Edited 4th version (1976)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">10</container>
+                        <unittitle>Typescript with corrections (folders 1-5)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">11</container>
+                        <unittitle>Typescript with corrections (folders 6-13)</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>5th version (1976)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">11</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(10 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">11</container>
+                        <unittitle>Photocopies</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">12</container>
+                        <unittitle> Photocopies</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>6th version (1977)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">12</container>
+                        <unittitle>Typescript (l4 folders)</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Production manuscript, (1977)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">12</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(7 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">13</container>
+                        <unittitle>Typescript (continued) </unittitle>
+                        <physdesc><extent>(6 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>"Insurance" copy (1977)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">13</container>
+                        <unittitle>Typescript (l)-(l6)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">13</container>
+                        <unittitle>Notes and clippings</unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">14</container>
+                  <unittitle><title render="italic">The Golden Goblet</title>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">14</container>
+                     <unittitle>1st version (1961).--Typescript</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">14</container>
+                     <unittitle>New version (1962).--Typescript mimeo </unittitle>
+                     <physdesc><extent>(2 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">14</container>
+                     <unittitle>1st musical version (1972-1973).Typescript </unittitle>
+                     <physdesc><extent>(2 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>2nd musical version (1978).</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">14</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(2 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">14</container>
+                        <unittitle>Related correspondence</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">14</container>
+                     <unittitle>3rd musical version (1978).-Typescript </unittitle>
+                     <physdesc><extent>(2 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">15</container>
+                  <unittitle>Love Letters</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Author's Original (1978)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">15</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(6 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">15</container>
+                        <unittitle>Notes and Clippings</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">15</container>
+                     <unittitle>2nd version (1978). Typescript.(photocopy) </unittitle>
+                     <physdesc><extent>(6 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">15</container>
+                     <unittitle>3rd version (1978).Typescript (l)-(6)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">16</container>
+                     <unittitle>4th version (1978).Typescript (l)-(7)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">16</container>
+                     <unittitle>5th version (1978).Typescript (l)-(8)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">17</container>
+                     <unittitle>Production manuscript. (1978).</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">17</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(7 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">17</container>
+                        <unittitle>Uncorrected proof (1979)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">17</container>
+                        <unittitle>Film Contract, </unittitle>
+                        <physdesc><extent>(2 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">17</container>
+                     <unittitle>Screenplay. 1st draft (1978). </unittitle>
+                     <physdesc><extent>(3 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">17</container>
+                  <unittitle>"The Methodology of Bergson and Spengler." (M.A. Philosophy thesis,
+                     N.Y.U.)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">18</container>
+                  <unittitle><title render="italic">The Nest</title>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>1st version (1979-1980)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">18</container>
+                        <unittitle>Typescript (l2 folders)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">18</container>
+                        <unittitle>Notes and revisions</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">18</container>
+                        <unittitle>Research material</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>2nd version (1980)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">18</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(7 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">19</container>
+                        <unittitle>t.ms.(photocopy) (l)-(7)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">19</container>
+                        <unittitle>Photocopies</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">19</container>
+                        <unittitle>Page Proofs, (l)-(5)</unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">20</container>
+                  <unittitle>The Rite</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Draft (1973).</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">20</container>
+                        <unittitle>Clippings and Notes</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">20</container>
+                        <unittitle>Draft of first approach</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">20</container>
+                        <unittitle>First approach (July 1973)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">20</container>
+                        <unittitle>typescript </unittitle>
+                        <physdesc><extent>(3 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">20</container>
+                        <unittitle>Notes</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">20</container>
+                        <unittitle>Outage </unittitle>
+                        <physdesc><extent>(4 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Author's Original (1974)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">20</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(5 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">21</container>
+                        <unittitle>Typescript, continued </unittitle>
+                        <physdesc><extent>(2 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">21</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(7 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">21</container>
+                        <unittitle>Typescript (carbon) </unittitle>
+                        <physdesc><extent>(7 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">21</container>
+                        <unittitle>Notes, clippings &amp; correspondence</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>3rd version (1975).</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">21</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(4 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">22</container>
+                        <unittitle>Typescript, continued </unittitle>
+                        <physdesc><extent>(2 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">22</container>
+                        <unittitle>Outage </unittitle>
+                        <physdesc><extent>(3 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>4th version (1975)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">22</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(5 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">22</container>
+                        <unittitle>Outage </unittitle>
+                        <physdesc><extent>(5 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">22</container>
+                     <unittitle>Revision of 4th version</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">22</container>
+                     <unittitle>4th-5th revisions--Notes and clippings</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">23</container>
+                     <unittitle>5th version (1977)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">23</container>
+                        <unittitle>Typescript </unittitle>
+                        <physdesc><extent>(7 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">23</container>
+                        <unittitle>Outage </unittitle>
+                        <physdesc><extent>(9 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>6th version (1979)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">23</container>
+                        <unittitle> Typescript (photocopy) (folders l-3)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">24</container>
+                        <unittitle>Typescript, continued (photocopy) (folders 4-8)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">24</container>
+                        <unittitle>Out-takes</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">24</container>
+                        <unittitle>Page-proofs </unittitle>
+                        <physdesc><extent>(4 folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">24</container>
+                        <unittitle>Insert to Galleys</unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>White Hat with Trumpets</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">24</container>
+                     <unittitle>Typescript (carbon)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">24</container>
+                     <unittitle>Typescript with notes</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Yes, There are Buffalo in Italy</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">24</container>
+                     <unittitle>Typescript (mimeo) with notes</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">24</container>
+                     <unittitle>Typescript (mimeo)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">24</container>
+                     <unittitle>Related items</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">24</container>
+                  <unittitle>Miscellaneous Notes </unittitle>
+                  <physdesc><extent>(2 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series II: Printed Matter</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"Adventure in the Morning." Story XIX, no. 92 (Nov-Dec</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"America <unitdate type="inclusive">1975</unitdate> The Corporation."
+                     Challenge 4 no. 7 (April 1956)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"Black Artists in Graphics." Ideal 10U</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"Corporations in Tomorrow's World." Management Review (June
+                     1956)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"Day of Days," Esquire (June I9U0)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>CGraphic AnnouncementsD Gallery 33 (The Composing Room)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"Holiday Greetings." Ideal 94</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"Perils of the Typographic Market in 1972." Typographical Journal l6l,
+                     no. 1</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>The Research Institute </unittitle>
+               </did>
+               <scopecontent><p> (Articles in The Atlantic &amp; the Saturday Review)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"Songs for the Times, i-xiii." Poetry xlix, no. 1 (1936)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"Take Me, Missus, Take Me." Accent (Winter</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"You Can Make Music." Coronet (December 1939)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">25</container>
+                  <unittitle>"You, The People." Coronet (November 1939)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>The Devils Pi. Illustrated by Milton Glaser. N.Y.: The Composing Room,
+                     1967.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Enemy in the Mirror. New York: Crown Publishers, <unitdate type="inclusive">1977</unitdate> (hardcover)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Enemy in the Mirror. New York: Zebra Books, <unitdate type="inclusive">1977</unitdate> (paperback)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Love Letters. New York: Crown Publishers, 1979. (hardcover)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Love Letters. New York: Zebra Books, <unitdate type="inclusive">1979</unitdate> (paperback)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>[Gregory A. Douglas, pseud.]</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">26</container>
+                     <unittitle> The Nest. N.Y.: Zebra Books, 1980. (paperback)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">26</container>
+                     <unittitle>The Rite. N.Y.: Zebra Books, 1979. (paperback)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>Typefaces. New York: The Composing Room, <unitdate type="inclusive">undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">26</container>
+                  <unittitle>User's Guide to Phototypography. New York: The Composing
+                     Room.</unittitle>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series III: Research Institute of America</unittitle>
+            </did>
+                <scopecontent><p>This series of the collection contains 59 bound volumes of
+               publications, edited by Cantor, from the "Research Institute of America", a New York
+               based organization devoted to economic affairs.</p>
+                </scopecontent>
+
+
+            <c level="subseries">
+               <did><unittitle>Series III.1: Research Institute of America Files</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">27</container>
+                     <unittitle>Analysis</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">27</container>
+                        <unittitle><unitdate type="inclusive">1942-1944</unitdate>
+                        </unittitle>
+                     </did>
+                     <scopecontent><p>(includes special analysis of the American War Economy)</p>
+                     </scopecontent>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">28</container>
+                        <unittitle><unitdate type="inclusive">1945-1956</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">29</container>
+                        <unittitle><unitdate type="inclusive">1957-1959</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">29</container>
+                     <unittitle>Foreign Cables, <unitdate type="inclusive">1945</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">29</container>
+                     <unittitle>Research Institute Letters, <unitdate type="inclusive">1945-1946</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Research Institute Recommendations</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">30</container>
+                        <unittitle><unitdate type="inclusive">1951-1954</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">31</container>
+                        <unittitle><unitdate type="inclusive">1955-1959</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Research Institute Reports</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">31</container>
+                        <unittitle><unitdate type="inclusive">1944</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">32</container>
+                        <unittitle><unitdate type="inclusive">1945-1947</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">33</container>
+                        <unittitle><unitdate type="inclusive">1948-1949</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">34</container>
+                        <unittitle><unitdate type="inclusive">1950-1955</unitdate>
+                        </unittitle>
+                     </did>
+                     <scopecontent><p>(1951-1953 missing)</p>
+                     </scopecontent>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">35</container>
+                        <unittitle><unitdate type="inclusive">1956-1959</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">35</container>
+                     <unittitle>Research Institute Studies, <unitdate type="inclusive">1954-1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">35</container>
+                     <unittitle>Research Institute's Letter to Accountants, <unitdate type="inclusive">1951-1952</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+
+
+            <c level="subseries">
+               <did><unittitle>Subseries III.2: Executive Membership</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Executive Policy Letter</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">36</container>
+                        <unittitle><unitdate type="inclusive">1944-1948</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">37</container>
+                        <unittitle><unitdate type="inclusive">1949-1950</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">38</container>
+                        <unittitle><unitdate type="inclusive">1951-1952</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">39</container>
+                        <unittitle><unitdate type="inclusive">1953</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">39</container>
+                     <unittitle>Policy Memoranda, <unitdate type="inclusive">1944-1953</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Reports</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">39</container>
+                        <unittitle><unitdate type="inclusive">1944</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">40</container>
+                        <unittitle><unitdate type="inclusive">1945-1946</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">41</container>
+                        <unittitle><unitdate type="inclusive">1946-1949</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">42</container>
+                        <unittitle><unitdate type="inclusive">1950-1951</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">43</container>
+                        <unittitle><unitdate type="inclusive">1952-1953</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Staff Reports to Members</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">44</container>
+                        <unittitle><unitdate type="inclusive">1954-1955</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">45</container>
+                        <unittitle><unitdate type="inclusive">1956-1957</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">46</container>
+                        <unittitle><unitdate type="inclusive">1958-1960</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

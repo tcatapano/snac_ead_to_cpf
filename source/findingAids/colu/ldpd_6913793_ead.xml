@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_6913793_ead//EN" mainagencycode="nnc-rb">ldpd_6913793_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the James H. Sheldon Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2012-07-17">July 17, 2012 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2012-07-17">July 17, 2012 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+         <descrules> Finding aid adheres to that prescribed by <title render="italic">Describing
+               Archives: A Content Standard</title>
+         </descrules>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-07-17">2012-07-17</date>
+            <item>xml document instance created by Megan Darlington.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Sheldon, James H.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="James H. Sheldon Papers,">James H. Sheldon
+            Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1945/1971" type="inclusive">1945-1971</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1958-1964].</unitdate>
+         <physdesc><extent encodinganalog="300">8.85 linear ft. (13 boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1617</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">6913793</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Materials are in English. </language>
+         </langmaterial>
+         <abstract> The James H. Sheldon Papers document a lengthy portion of the author’s career,
+            though its bulk corresponds with the years between 1958 and 1964. While Sheldon was
+            involved in a number of diverse pursuits, his papers emphasize his professional activity
+            in the Nationalities Division of the Democratic National Committee, the American
+            Association of United Nations, and the now-defunct newspaper, the <title render="italic">American Examiner</title> The collection is comprised of an array of materials such
+            as: correspondence, drafts of press releases and speeches, handwritten notes, reports,
+            programs, pamphlets, clippings, and scrapbooks. Sheldon’s papers are arranged in eight
+            series and six subseries. </abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->James H. Sheldon was born on May 15, 1907 in Marietta, Ohio to
+            his father, an attorney, and his mother, a schoolteacher. Due to chronic illness, he was
+            home-schooled for much of his life before receiving a scholarship to attend Marietta
+            College. Graduating in 1927, he went on to earn a Master degree in Political Science
+            from Harvard University in 1928, followed by a stint as an assistant professor at Boston
+            University. There, Sheldon taught international law, constitutional law, and general
+            American government courses until the Great Depression turned his attention to public
+            service. </p>
+         <p>Working on the administrative staff of the Emergency Relief Administration, he left in
+            1938 to run for Congress in Massachusetts. Though defeated, he gained respect within the
+            Democratic Party, and returned to the Emergency Relief Administration in 1939 as
+            coordinator of the statistics department. In 1941, Sheldon moved to New York to begin
+            work as Director of the Non-Sectarian Anti-Nazi League, of which he previously served as
+            Administrative Chairman.</p>
+         <p>The mission of the Anti-Nazi League was to counter Nazi, anti-ethnic propaganda. For
+            example, the organization operated radio programs in both Italian and German to
+            challenge fascist propaganda targeted at the Italian- and German-American communities.
+            Sheldon’s experience directing the Anti-Nazi League reinforced his concern for ethnic
+            groups, and he became an authority on political views within American ethnic groups.
+            This led to his involvement with the Nationalities Division of the Democratic National
+            Committee, in which he was active between 1948 and 1968. </p>
+         <p>Formally established in 1952, the Nationalities Division canvassed ethnic and racial
+            groups of American voters to determine their individual political interests. This
+            information was used to develop campaign strategies for appealing to an increasingly
+            diverse voter population. From its inception, Sheldon served as the Public Relations
+            Director, a role that entailed the drafting of press releases, radio programs, speeches,
+            and other publicized information on behalf of various campaigns. Ultimately, he was
+            responsible for those sections of the Democratic platform which related to ethnic and
+            minority affairs as well as civil rights. As Public Relations Director of the
+            Nationalities Division, Sheldon worked for Adlai Stevenson’s 1952 and 1956 presidential
+            campaigns, John F. Kennedy’s 1960 presidential campaign, and Robert F. Kennedy’s
+            senatorial campaign, among others.</p>
+         <p>In addition to his position as Public Relations Director of the Nationalities Division,
+            Sheldon was an active journalist who wrote mostly on foreign affairs, serving as a
+            foreign correspondent as well as an officer of the Overseas Press Club of America.
+            Beginning in 1950 and for about twenty years thereafter, he contributed a twice-monthly
+            column on inter-group relations to the <title render="italic">American Examiner</title>,
+            a newspaper with an approximate circulation of 200,000 at the time.</p>
+         <p>Sheldon was also actively involved with the American Association of United Nations,
+            serving two terms as Chairman of its Manhattan Chapter. Other organizations with which
+            Sheldon was affiliated include the United Church of Christ Committee on International
+            Affairs, the Christian Social Action Department of the New York Conference, and the
+            Protestant Council of the City of New York.</p>
+         <p>Sheldon died in 1975 at the age of 68. His legacy is in his enduring commitment to human
+            rights, both at home and abroad. </p>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>By and large, the collection is comprised of materials relating to Sheldon's activities
+            in the Democratic National Committee, the American Association of the United Nations,
+            and the <title render="italic">American Examiner</title>. The material is diverse and
+            includes, but is not limited to, correspondence, drafts of press releases and speeches,
+            handwritten notes, reports, programs, pamphlets, clippings, and scrapbooks. The
+            collection spans between 1945 and 1971, but its bulk is concentrated between 1958 and
+            1964. Series I and II are arranged thematically, while Series III, IV, V, and VI are
+            arranged chronologically.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in six series<list type="marked">
+                    <item>Series I. Democratic
+                  National Conventions, 1960, 1964<list type="marked">
+                            <item>Subseries I.1 1960 Democratic
+                        National Convention, 1960</item>
+                            <item>Subseries I.2 1964 Democratic National
+                        Convention, 1964</item>
+                        </list>
+                    </item>
+               <item>Series II. Campaigns, 1958-1954<list type="marked">
+                            <item>Subseries II.1 John F. Kennedy
+                        Presidential campaign, 1960</item>
+                     <item>Subseries II.2 Robert F. Kennedy Senatorial campaign, 1964
+                        </item>
+                            <item>Subseries II.3 W. Averell Harriman campaign for NYS Governor,
+                        1958</item>
+                     <item>Subseries II.4 Robert F. Wagner, Jr. campaign for NYC Mayor, 1961</item>
+                  </list>
+                    </item>
+               <item>Series III. Democratic National Committee - Nationalities Division, General
+                  files, 1952-1961</item>
+               <item>Series IV. American Association of the United Nations, 1956-1965</item>
+               <item>Series V. General files, 1952-1960</item>
+               <item>Series VI. Scrapbooks, 1951-1970</item>
+                </list>
+            </p>
+      </arrangement>
+      <relatedmaterial><head>Selected Related Material-- at Columbia</head>
+         <p>Non-Sectarian Anti-Nazi League Records</p>
+         <p><extref xlink:type="simple" xlink:href="http://oralhistoryportal.cul.columbia.edu/document.php?id=ldpd_4073260">Reminiscences of James H. Sheldon : oral history, 1972.</extref>
+         </p>
+      </relatedmaterial>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Democratic National Committee (U.S.)</corpname>
+         <corpname encodinganalog="610">Democratic Party (U.S.)</corpname>
+         <corpname encodinganalog="610">United Nations.</corpname>
+         <corpname encodinganalog="611">Democratic National Convention (1960 :--Los Angeles,
+            Calif.)</corpname>
+         <corpname encodinganalog="611">Democratic National Convention (1964 :--Atlantic City,
+            N.J.)</corpname>
+         <persname encodinganalog="600">Sheldon, James H.</persname>
+         <persname encodinganalog="600">Harriman, W. Averell (William Averell),
+            1891-1986.</persname>
+         <persname encodinganalog="600">Keating, Kenneth B. (Kenneth Barnard), 1900-1975.</persname>
+         <persname encodinganalog="600">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+         <persname encodinganalog="600">Kennedy, Robert F., 1925-1968.</persname>
+         <persname encodinganalog="600">Wagner, Robert F. (Robert Ferdinand), 1910-1991.</persname>
+         <geogname encodinganalog="651">United States--Politics and
+            government--1945-1989.</geogname>
+         <subject encodinganalog="650">Human rights.</subject>
+         <subject encodinganalog="650">Immigrants--United States--History--20th century.</subject>
+         <subject encodinganalog="650">Presidents--United States--Election--1960.</subject>
+         <genreform encodinganalog="655" source="aat">newspaper clippings.</genreform>
+         <genreform encodinganalog="655" source="aat">pamphlets.</genreform>
+         <genreform encodinganalog="655" source="aat">scrapbooks.</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>James H. Sheldon Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); James H. Sheldon Papers; Box and
+            Folder (if known); Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed 5/15/2012 Megan Darlington, University of Michigan, School of
+            Information 2013 </p>
+         <p>Finding aid written 5/15/2012 Megan Darlington</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle> Series I: Democratic National Conventions</unittitle>
+            </did>
+            <scopecontent><p> This series is comprised of various materials relating to the 1960 and 1964
+                  Democratic National Conventions.</p>
+            </scopecontent>
+
+            <c level="subseries">
+               <did><unittitle> Subseries I.1: <unitdate type="inclusive">1960</unitdate> Democratic
+                     National Convention, <unitdate type="inclusive">1960</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>Held in Los Angeles, CA in July 1960, this subseries contains papers relating
+                     the convention. It includes, but is not limited to: programs, pamphlets,
+                     correspondence, speeches, and press releases. While much of the material
+                     pertains to the event itself, a sizable portion relates to potential political
+                     issues to highlight in the upcoming 1960 Democratic Party platform.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="Box">1 </container>
+                     <unittitle> Democratic National Convention </unittitle>
+                     <physdesc><extent>(2 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+
+
+            <c level="subseries">
+               <did><unittitle> Subseries I.2: <unitdate type="inclusive">1964</unitdate> Democratic
+                     National Convention, <unitdate type="inclusive">1964</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>Held in Atlantic City, NJ in August 1964, this subseries contains papers
+                     relating to the convention. Unlike I.1, however, I.2 is comprised primarily of
+                     publicity-related papers, especially press releases. </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="Box">1 </container>
+                     <unittitle> 1964 Democratic National Convention </unittitle>
+                     <physdesc><extent>(3 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle> Series II: Campaigns, <unitdate type="inclusive">1958-1964</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>A majority of the papers relating to the Democratic National Committee document
+                  Sheldon’s work with various campaigns. Although he worked for additional campaigns
+                  not documented by this collection, this series contains materials concerning JFK’s
+                  1960 presidential campaign, RFK’s 1964 senatorial campaign, Averell Harriman’s
+                  1958 campaign for New York State governor, and Robert Wagner’s 1961 campaign for
+                  mayor of New York City. </p>
+            </scopecontent>
+
+            <c level="subseries">
+               <did><unittitle> Subseries II.1: JFK Presidential Campaign, <unitdate type="inclusive">1960</unitdate> August -November </unittitle>
+               </did>
+               <scopecontent><p>The bulk of this subseries is constituted by press releases and speeches, many
+                     of which Sheldon wrote to explicitly address various ethnic groups such as
+                     Germans, Italians, Poles, and Chinese. In addition, the subseries also contains
+                     handwritten notes, correspondence, and pamphlets pertaining to JFK’s
+                     presidential campaign between the months of August and November, 1960. Of all
+                     the campaigns documented by this collection, the material relating to JFK’s is
+                     the most voluminous. </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="Box">1 </container>
+                     <unittitle> JFK Presidential Campaign, <unitdate type="inclusive">1960</unitdate> August -November (2 folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2 </container>
+                     <unittitle> JFK Presidential Campaign, <unitdate type="inclusive">1960</unitdate> August -November (8 folders)</unittitle>
+                  </did>
+               </c>
+            </c>
+
+
+            <c level="subseries">
+               <did><unittitle> Subseries II.2: RFK Senatorial Campaign, <unitdate type="inclusive">1964</unitdate> September -November </unittitle>
+               </did>
+               <scopecontent><p>Similar to II.1, II.2 is comprised mainly of press releases and speeches, but
+                     also features some handwritten notes and correspondence. In addition, the
+                     subseries contains a rather lengthy booklet entitled “The Myth of Keating’s
+                     Liberalism,” which refers to RFK’s opponent, Senator Kenneth Barnard Keating.
+                     Serving as Senator of New York between 1959 and 1965, he ran for re-election
+                     against RFK in 1964. Considered a moderate Republican, the aforementioned
+                     booklet challenges his self-proclaimed liberalism, and was likely used by
+                     Sheldon for reference in drafting publicity statements on behalf of RFK’s
+                     campaign. </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="Box">3 </container>
+                     <unittitle> RFK Senatorial Campaign, <unitdate type="inclusive">1964</unitdate>
+                        September -November (5 folders)</unittitle>
+                  </did>
+               </c>
+            </c>
+
+
+            <c level="subseries">
+               <did><unittitle> Subseries II.3: Harriman campaign, <unitdate type="inclusive">1958</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>Like II.1 and II.2, II.3 also contains speeches and press releases relating to
+                     Harriman’s 1958 campaign; however, this subseries is comprised more heavily by
+                     campaign-related ephemera, mainly in the form of pamphlets. There is also some
+                     campaign material generated by Harriman’s Republican opponents. </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="Box">3 </container>
+                     <unittitle> Harriman campaign, <unitdate type="inclusive">1958</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+
+
+            <c level="subseries">
+               <did><unittitle> Subseries II.4: Wagner campaign, <unitdate type="inclusive">1961</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>The least voluminous of the four documented campaigns, this subseries is
+                     comprised mostly of publicity-related material and some ephemera relating to
+                     Wagner’s 1961 campaign. </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="Box">3 </container>
+                     <unittitle> Wagner campaign, <unitdate type="inclusive">1961</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(1 folder)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle> Series III: Democratic National Committee-Nationalities Division, General
+                  files, <unitdate type="inclusive">1952-1960</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>While the majority of material pertaining to the Democratic National Committee is
+                  directly associated with conventions and campaigns, the collection also contains
+                  material related to the general business of the Nationalities Division between
+                  1952 and 1961, the bulk of which spans between January and December 1958. This
+                  series is comprised mostly of publicity-related material, correspondence,
+                  handwritten notes, clippings, meeting agendas, and newsletters. </p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle> DNC General files</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4 </container>
+                     <unittitle> 1952-1957</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4 </container>
+                     <unittitle> 1958</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4 </container>
+                     <unittitle> 1959 January -October </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4 </container>
+                     <unittitle> 1959 November </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4 </container>
+                     <unittitle> 1959 November -December </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4 </container>
+                     <unittitle> 1960</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle> Series IV: American Association of United Nations, <unitdate type="inclusive">1956-1965</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>A considerable portion of the collection pertains to Sheldon’s work with the
+                  American Association of the United Nations, and documents his activities within
+                  the organization between 1956 and 1965, with heavy emphasis on the years 1963 and
+                  1964. This series is comprised of papers relating to the AAUN, most of which are
+                  correspondence, handwritten notes, meeting agendas, and membership lists. The
+                  series also features a booklet entitled “Manhattan Ethnic Group Distribution
+                  Statistics and Data,” which is a detailed account of the ethnic demographics of
+                  Manhattan in 1960. While Sheldon may have consulted this booklet during JFK’s
+                  campaign, it was found amongst his AAUN papers and has thus been included in this
+                  series. </p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle> AAUN</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5 </container>
+                     <unittitle> 1956-1957</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5 </container>
+                     <unittitle> 1958</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5 </container>
+                     <unittitle> 1959</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5 </container>
+                     <unittitle> 1960</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5 </container>
+                     <unittitle> 1961 January -March</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5 </container>
+                     <unittitle> 1961 April -December </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6 </container>
+                     <unittitle> 1962 January </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6 </container>
+                     <unittitle> 1962 February</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6 </container>
+                     <unittitle> 1962 March</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6 </container>
+                     <unittitle> 1962 April </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6 </container>
+                     <unittitle> 1962 May </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6 </container>
+                     <unittitle> 1962 May </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6 </container>
+                     <unittitle> 1962 June </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6 </container>
+                     <unittitle> 1962 July </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6 </container>
+                     <unittitle> 1962 August </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7 </container>
+                     <unittitle> 1962 September </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7 </container>
+                     <unittitle> 1962 October </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7 </container>
+                     <unittitle> 1962 November </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7 </container>
+                     <unittitle> 1962 November </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7 </container>
+                     <unittitle> 1962 December </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7 </container>
+                     <unittitle> 1963 January </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7 </container>
+                     <unittitle> 1963 February</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8 </container>
+                     <unittitle> 1963 March</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8 </container>
+                     <unittitle> 1963 April </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8 </container>
+                     <unittitle> 1963 May </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8 </container>
+                     <unittitle> 1963 June </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8 </container>
+                     <unittitle> 1963 July -August </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8 </container>
+                     <unittitle> 1963 September </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8 </container>
+                     <unittitle> 1963 October (2 folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9 </container>
+                     <unittitle> 1963 November </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9 </container>
+                     <unittitle> 1963 December </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9 </container>
+                     <unittitle> 1964 January -April </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9 </container>
+                     <unittitle> 1964 May -December </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9 </container>
+                     <unittitle> 1965 January -August </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9 </container>
+                     <unittitle> 1965 September -December </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">9 </container>
+                     <unittitle> Membership Lists, <unitdate type="inclusive">1962-1963</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle> Series V: General files, <unitdate type="inclusive">1948-1971</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>In addition to material relating directly to specific organizations, there is a
+                  very small series of general files which are unrelated and span between 1945 and
+                  1971. It includes papers relating the Metropolitan Council on Fair Employment
+                  Practice, the Non-Sectarian Anti-Nazi League, and a biographical letter written
+                  upon request to the president of Morris Brown College, among others. </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="box" label="Box">9 </container>
+                  <unittitle> General files, <unitdate type="inclusive">1948-1971</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(1 folder)</extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle> Series VI: Scrapbooks, <unitdate type="inclusive">1951-1970</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>The collection includes 5 bound scrapbooks and 20 loose pages containing clippings
+                  of Sheldon’s twice-monthly column in the <title render="italic">American Examiner</title> between December 1951
+                  and October 1970. It should be noted that that the newspaper was formally known as
+                  the <title render="italic"> American Hebrew </title> until 1956, the year it was changed to the <title render="italic">American Examiner</title>;
+                  thus, the scrapbooks pertain to the same publication.</p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle><title render="italic">American Hebrew</title>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">10 </container>
+                     <unittitle> 1951 December -1953 December </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">11 </container>
+                     <unittitle> 1954 January -1956 September </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle><title render="italic">American Examiner</title>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">12 </container>
+                     <unittitle> 1957 January -1967 December </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13 </container>
+                     <unittitle> 1968 January -1970 October </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+
+
+      </dsc>
+   </archdesc>
+</ead>

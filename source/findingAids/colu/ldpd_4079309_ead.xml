@@ -1,0 +1,3212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079309_ead//EN" mainagencycode="nnc-rb">ldpd_4079309_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the A. Arthur Schiller Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+            </change>
+            <change><date normal="2011-01-20">2012-01-20</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Schiller, A. Arthur, 1902-1977.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="A. Arthur Schiller Papers">A. Arthur Schiller Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1897/1977" type="inclusive">1897-1977.</unitdate>
+         <physdesc><extent encodinganalog="300">ca. 30,000 items (64 boxes, 21 card file boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079309</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Abraham Arthur Schiller (1902-1977) was professor of law at Columbia University from 1928 until his death. He specialized in Roman law, African law, the law of developing countries, and military law. (Columbia University J.D., 1932).</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, notes, notebooks, photographs, printed materials, computer print-outs and tapes, key-punched cards, and card files of Schiller. The collection includes correspondence with his professional colleagues, foundations, and learned societies, and some personal correspondence. There are manuscripts and drafts of his books, articles, book reviews, lectures, and abstracts, his papers as a student, notebooks of readings and drafts, appointment books, mimeographed course materials, photostats, photographs, and materials relating to his computer studies of Roman law texts. Correspondents include Sir Harold Idris Bell, W.W. Buckland, W.E. Crum, Gilbert Highet, H.F. Jolowicz, Owen Lattimore, and Harold Medina.</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University--Faculty.</corpname>
+         <persname encodinganalog="600">Bell, H. Idris (Harold Idris), Sir, b. 1879.</persname>
+         <persname encodinganalog="600">Buckland, W. W. (William Warwick), 1859-1946.</persname>
+         <persname encodinganalog="600">Crum, W. E. (Walter Ewing), 1865-1944.</persname>
+         <persname encodinganalog="600">Highet, Gilbert, 1906-1978.</persname>
+         <persname encodinganalog="600">Jolowicz, H. F.</persname>
+         <persname encodinganalog="600">Lattimore, Owen, 1900-1989.</persname>
+         <persname encodinganalog="600">Medina, Harold R. (Harold Raymond), 1888-1990.</persname>
+         <geogname encodinganalog="651">Developing countries--Law and legislation.</geogname>
+         <subject encodinganalog="650">Law--Study and teaching.</subject>
+         <subject encodinganalog="650">Roman law--Research.</subject>
+         <subject encodinganalog="650">Law--Africa.</subject>
+         <subject encodinganalog="650">Military law.</subject>
+         <subject encodinganalog="650">Law--Societies, etc.</subject>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Lawyers.</occupation>
+      </controlaccess>
+        <accessrestrict><head>Restrictions on Access</head>
+            <p>Boxes 2-65 of this collection are located off-site. You will need to request this material at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room.This collection has no restrictions </p>
+        </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1983 M-83 Schiller, Erna Kaske Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>A. Arthur Schiller Papers. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 09/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Correspondents</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Barr, Stringfellow</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Barzun, Jacques</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bell, Sir Harold Idris</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Berle, Adolf Augustus, Jr.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Borton, Hugh</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Buckland, William Warwick</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Budge, Sir Ernest Alfred Thompson Wallis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Butler, Nicholas Murray</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Capart, Jean François</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Chamberlain, Joseph Perkins</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Crum, Walter Ewing</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Douglas, William Orville</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Ervin, Sam James, Jr.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Guidi, Ignazio</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Hailey, Malcolm Hailey, Baron</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Highet, Gilbert</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Jackson, Abraham Valentine Wi1.liams</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Jessup, Philip Caryl</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Johnson, livin Saunders</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Jolowicz, Herbert Felix</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lasker, Bruno</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lattimore, Owen</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lynd, Robert Staughton</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mabbott, Thomas Ollive</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>McMurray, Orrin Kip</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Malone, Dumas</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Medina, Harold R.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Meek, Charles Kingsley</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Moon, Parker Thomas</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Moore, John Bassett</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Nelson, Benjamin Nathaniel</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>O'Leary, DeLacy Evans</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Pound, Roscoe</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Powciermaker, Hortense</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rogers, Lindsay</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rusk, Dean</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Winlock, Herbert Eustis</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Uncataloged Correspondence</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>A -Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Abel, Richard</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Allott, Anthony M.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Anderson, J. N. D.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Asante, Samuel K.B.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>B (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>B (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Beinart, Ben Z.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Berger, Adolf</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Cass, Lucien</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Caplan, Harry</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Carrubba, Robert W.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Casson. Lionel</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Chabot, H.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>D</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Daube, David</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>de Dominicis, Mario</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Duff, Patrick W.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>E</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Erim</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>F</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Feenstra, Robert</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Finley, M. I.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>G</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gilliam, J. Frank</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Gluckman, Max</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>H (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>H (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Hazard, John</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>I</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>J</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>K (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>K (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Katzoff, Ranon</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Keddy, Edwin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Kirschenbaum. Aaron</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>L (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>L (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Levy, Ernst</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lewin, Julius</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lewis, Naphatali</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Lubtow, Ulrich Von</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>M (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>M (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Margadant, Guillermo Floris</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Metropolitan Museum of Art</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Modrzejewski, Joseph</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>N</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>O</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>P-Q (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>P-Q (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>R</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Radin, Max</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Rheinstein, Max</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>S (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>S (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Seidel, Erwin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Simon, Jean</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Smith, Thomas B.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Stein, Peter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Steinwenter, Arthur</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Supomo, R.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>T</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Thomas, J.A.C.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Thompson, Cliff F.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>U</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Unidentified</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>V</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Volterra, Edoardo</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>W (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>W (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Welles, C. Bradford</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Wenger, Leopold</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Wieacker, Franz</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Worrell, William H.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>y -Z</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Yntema, Hessel E.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Youtie, Herbert</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series III: Personal Files</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>A. Arthur Schiller</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Correspondence A. Arthur Schiller</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Correspondence re: Displaced and Oppressed Foreign Scholars late 30s early 40s</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Family Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Family Correspondence Schiller, Mrs. George M. Estate of</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Correspondence re: Schiller home in the Village of Larchmont</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Miscellaneous family documents</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Letter to a Pagan Notable</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Luncheon for Hays and Schiller</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Miscellaneous and family correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Address Beaks</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Appointment Books</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Financial Books</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series IV: Miscellaneous Mss., Lectures and Early Writing</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Boston University Lecture</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Early Writing and Lectures</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Free University of Berlin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Interpretative Juris</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Jurists Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Legal Education, Univ. Istanbul</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Mediaeval Classification</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Miscellaneous Lectures</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Nature-of Jurists Law-</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>The Role of Roman Citizenship and Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Spanish Lecture 16th century Jurists</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Manual of the stamps of Netherlands</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Postmarks and cancellations of Curacao</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Netherlands and Colonial Philately</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series V: Manuscripts</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Roman Law, am.s. (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Roman Law, am.s. (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Roman Law, am.s, (3)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Roman Law, Carbon Copy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Roman Law, Mimeograph Edition. 2nd Edition (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Roman Law, 2nd Edition (2)</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series VI: Manuscripts Articles Book reviews with related Correspondence</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Amelotti-Luzzatto Rev.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>American Historical Review</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>American Journal of Comparative Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>American Journal of Legal History</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>American Scholarship in Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Bibliography of A. Arthur Schiller</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Book Reviews</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Book Reviews and Reprints <unitdate type="inclusive">1928-1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Catholic Encyclopedia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Columbia Journal of Transnational Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Copyright Forms</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Encyclopedia Social Sciences</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Istanbul Institute</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Ivra</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Jolowicz-Nicholas Rev.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Kaser-Rabel</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Languages and their Relation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Lawgivers</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Miscellaneous Publishing Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Miscellany</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Ocena</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Smith, Munroe</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Social Science Abstracts</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Studies in Legal History</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>West Publishing Company</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>Notebooks (numbered), 1-33</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series VII: Columbia University</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Administration-Controller</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Advisory Committee on Educational Policy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>American Indian Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>ANC Mediterranean Studies</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Appointments</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Appointment Committee re Charles Donahue, Jr.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Bartolus Seminar</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Civil Law Institute</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Civil Law Institute Page 1-195</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Columbia Law Review</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Computer Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle>Correspondence -Law Library (classification):</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Correspondence (l)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Correspondence (2)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Course records of A. Schiller</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Disturbances <unitdate>1968</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Exam Question Sample</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>History Department</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>History of Legal and Political Thought</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Law Library</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Law Library Classification (1)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Law Library Classification (2)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Law Library Committee-Policies 1950/1</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Law of Trade Marks and Unfair Competition (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Law School</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Library</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>McGil, William</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>N.D.E.A. Fellowship  <unitdate type="inclusive">1966/67</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>School International Affairs <unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Sovern, Michael</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>University Seminar Bureaucracy (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>University Seminar Bureaucracy (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle>Warren. William</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series VIII: Foundations</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Africa Ford Federation Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Brasilies-Guggenheim Project</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Correspondence re Council for Research in the Social Science</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Ford Foundation (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Ford-Foundation (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Foreign Academic Institute</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Guggenheim Fellow</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Guggenheim Foundation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>International Legal Center</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Miscellaneous Foundation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Rockefeller</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series IX: Learned Societies</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Accademia Costantiniana</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Accademia Nazionale Dei Lincei</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Africa Conference Princeton University</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Assoc. of Law Libraries</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Assoc. of Univ. Professors</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Classical League</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Council Conference Law and Humanities</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Foreign Law Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American History Association December 28. <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Research Center</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Research Center Egypt</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Society for Legal History</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Society for Legal History Meeting, September 73</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Society for Legal History Meeting November 71</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Society for Legal History Publisher Committee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Society for Legal History Roman Law Conference</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>American Society of Papyrologists 1-5</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Ancient Civil Group (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Ancient Civil Group (2)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Asia Society Lecture</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Association Internationale de Papyrologues</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Association Papyrologues Providence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Association of American Law School</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Association of American Law School Roman and African Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Center for Research Libraries</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Class Studies -Madrid <unitdate>September 1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Comité Internationale de Papyrologie</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Conference of Jewish Relations -Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Conference of Jewish Relations -Immigration Study</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Conference on Foreign Realtions 1-4</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Council for Research in Social Science 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Council for Research in Social Science -Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>East Indies Institute of America</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Foundation Egypt</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>International Africa Law Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>International Africa Law Association -Economic of African Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>International Association of Coptic Studies</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>International Association of Legal Science</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>International Commission of Jurists</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>International Juridical Organization</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Institute for Advanced Study -Princeton</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Institute for Comparative Lew -Uppsala <unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Institute of' Pacific Relations -Conference January 19~5Islamic</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Culture Seminar</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Learned Societies M -S</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Oriental Club</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Parker School Conference</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Riccobino Seminar 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Roman Law Congress -Mexico City</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Roman Law Workshop</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Social Science Research Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Societa Italians di Storia del Diritto</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Societa Italians di Storia del Diritto - trip <unitdate>1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Société D'Histories des Draits de l'Antiquite 1-5</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Société DeVisscher</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Société Jean Bodin Meeting</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Société meeting</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Society for the Promotion of Roman Studies</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series X; Papyri</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Classic</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Columbia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Columbia Coptic -Preliminary Reading</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Columbia Coptic -with Lewis</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Coptic</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Council Project 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Demotic - Egyptian</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Fineburg Odyssey</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Greek Egyptian</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Orientale</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Papyri on Microfilm</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Photo's of Papyri 1-2</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series XI: African Law Abel-African Law Material</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Abel. Richard L.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Africa Law Bibliography</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Africa. Maps</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Africa Materials</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Africa Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Africa Trip Correspondence <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African Law Association in America Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African Law Association in America Directory</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African Law Association in America Newsletter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African Law Center At Columbia University</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African Law Center Project</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African Law Center Publicity</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African Law Correspondence and Materials (large format)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African Law Digest</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African Law Lectures 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>African. Law Material (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Law Materials 2-3</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Law Television</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association Archives Libraries Committee 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association Archives Libraries Committee  <unitdate type="inclusive">1965/67</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association Archives Libraries Committee <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association Archives Libraries Committee Washington Meeting</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association Archives Libraries Committee Boxton Meeting</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association Correspondence 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association Los Angles Meeting <unitdate>1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association New York Meeting <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>African Studies Association Political Sub-committee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Algeria Self-Government</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Alphabet</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <unittitle>Arrowhead Conference</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Bentsi - Enchill</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Bibliography</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Bibliography of African Law in the Association of American Law School</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Bibliography on Greek and Egyptian Papyri</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Bibliography N.E.I.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Briefs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Bruce, John</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Camp</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Center for Research Libraries</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Classification of Foreign Law Books</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Cortini - Integration Law Somalia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Cooperative African Microfilm Project</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Correspondence on African Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">28</container>
+                        <unittitle>Correspondence on Schiller, A.A.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Deutsche Institut für Afrika</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>East Africa Law Journal</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>East Indies Institute</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>East Landing Meeting</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Encyclopedia of African Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Encyclopedia of the Social Sciences</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Eritrea</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Eritrea -Correspondence and Speeches</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Eritrean Customary Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Eritrean 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Fetha Project Cordier</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Formation of Federal Indonesia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Fulbright Africa</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Future of African Law Center</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Hopkins African Papers</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Hopkins, Elizabeth</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>International African Law Association</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>International African Institute</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Law of Adkeme Melegai</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Julius Lewin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Library classification Africa</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>List of African Studies</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Marriage and Family Law in East Africa</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Members African Law Association in America</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Milner, Alan</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Preface -Salacurs's Book</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Primitive Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Sailer Meeting September 9</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Jes Salacuse</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Seminar on Africa</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Seminar in African Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Seminar in African Law 1-3</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Seminar in the Spring <unitdate>1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Somali Peace Corps</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>South Africa Lectures <unitdate>1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Thompson, Cliff</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Unesco African Project</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Univ. London Talk -Anderson</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Xerox</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series XII: Byzantine Egyptian Law; Coptic Law</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Egyptian Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Imperial Legislation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Imperial Legislation in late Byzantine Egypt 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Materials for Imperial Legislation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Volterra</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Coptic Law Arbitration 1-3</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Ausstellung Kiptisch Kunst</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>British Museum</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Budge Papyrus 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Columbia Coptica</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Columbia Copica and Michigan Coptica</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Columbia Coptica Publishing</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Coptic Bibliography</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Coptic Charm</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Coptic Dictionary</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">33</container>
+                        <unittitle>Coptic Law English Version 1-3</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Coptic Law German Version 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Coptic Legal Papyrus</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Coptic Names -Budge</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Coptic Ostraca Brooklyn Museum</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Coptic Ostraca Columbia University</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Coptic Ostraca New York Historical Society</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Coptic• Text</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Coptic Texts</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Coptic Words</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Correspondence about Research Material</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>English Translation Coptic Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>English Translation Speculum reviews</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>F.C.D and Coptic Texts</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Hephaistos</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Introduction of Walter Ewing Crum</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Legal Nature of the Narratio texts</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Legal Rules and Economic Factors of Property in the Coptic Monasteries</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Liber</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>Library Committee</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">34</container>
+                        <unittitle>List of Scholars</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Methods of Investigation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Michigan Coptic Papyri</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Miscellaneous Coptic Notes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Narratio Notes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Narratio Texts</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>No Court No Council</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Plates Coptic Houses</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Reflection on P. Yale</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Shaort Articles</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Studies Daube</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Studies Hoebel</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Studies Honor Khaddur</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Till</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Wisconsin Law review article and press</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">35</container>
+                        <unittitle>Youtie Fest Schrift</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series XIII: Ethiopian Law</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Agricultural Land Reform in Ethiopia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Contributo all Conoscenza del dirritto Consuetudinario</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Costanzo</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Customary Law Project</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Ethiopia Project (Testa Zim)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Ethiopian</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Ethiopian Application</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Ethiopian Materials</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Fisher's, Stanley Z. - Traditional Criminal Procedure in Ethopia -Land</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+                        <unittitle>Development and Reform in Ethiopia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Karnescim tentative classification</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>L'experience ethiopienne en matiére de Successions</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Law of Saharti, Lamza, Nekerti and Danibo</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Origins of Ethiopian Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Photographs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Seraat Dembezun tentative</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Serat Logociawo</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <unittitle>Written Law of Habsellus, Ghebrekristos, Deketeshim</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series XIV: Greek Law</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Notebooks 1-12</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <unittitle>Notes on Greek and Roman Law with Bibliography on Jewish Law</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series XV: Indonesian Law A-W; Military Law</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Adat</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Adat and Netherland East Indies Report</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Adat Law circles and Native legal Communities</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Adat Law notes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Geography and Adat Law-Chicago <unitdate>March 1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Ter Haar's book on Indonesian Adat</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Dutch and Indonesian correspondence <unitdate type="inclusive">1949-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Indonesian Law Lecture notes for <unitdate>March 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Microfilm materials Netherlands Indies-Indonesia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Netherlands Indies is divided</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Netherlands East Indies Course</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Outline for Netherlands East Indies Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Project Council for Research in the Social Science</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Project-IPR-Law and Government Indonesia</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Social Science Research Council Application ~Jov. <unitdate>1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Talks in Indonesia <unitdate type="inclusive">1949-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Volleuhoveu, Adat Law Circles and Native Legal Communities</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>War Resources of the Netherland East Indies</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Military Law-Correspondence</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <unittitle>Reviews of Texts on Military Law</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series XVI: Roman Law</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Abels, works and workmen in Rome</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>American Council Learned Socities-Roman Law Crum</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>American Council Learned Socities Roman Law Teaching</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>American Experience in Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>American Experience -Sale</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Anglo-American Bibliography of Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>ANRW Study</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Apokrimata 1-4</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Apokrimata-Letter</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Apokrimata-Revision with Youtie</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Arbitration and Adjudication</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Architectural terms in Digest</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <unittitle>Association of American Law Schools</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Basilica materials</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Bibliography and Classification of Ancient Roman Lae</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Bibliography Publication</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Budge. Papyrus. for Jarce</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Bureaucracy Bibliography</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Bureaucracy in the Roman Principate</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Byzantine Papyri</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Cases of Resolution of Controversies Discovered in Julian</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Civil Law Institutions</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <unittitle>Civil Law Institutions 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Civil Procedure with class notes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Chapter XII-XIII</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Collected Digest Materials</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Collected Works Publication</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Collected Works Reviews</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Comparative Law Congress 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Computer Projects</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Correspondence Courts are No More</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Crum, W.E.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Crum materia1s re Introduction</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Current</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Custom in Roman Classical Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Digest XIX.2-translation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Encyclopedia of Social Science</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <unittitle>Family Archive from Jeme</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Festschrift Oertel</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Festschrift David</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Festschrift Seidl</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Festschrift Von Lübtow</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Imperial Legislation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Interpreatatio Iuris</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Jurists and the Praefects of the City</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Jurists and the Praefects of !1:o!lle 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Levtures</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Levy, Ernst</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Lex Aquilia-C1ass Spring <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Medieval Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>New York Univ. Lecture on Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Notebooks</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Notes on Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <unittitle>Notes on Roman Law and Classical Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Permission for Republication</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Perugia Talk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Proposal re Undergraduate Gourde in Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Publish Roman Law Book</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Riccobono Lecture</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Reviews of Articles on Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Roman Bureaucracy</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Roman Law Syllabus</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Sale of Roman Law Books</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Schecter, Martha</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Studi in Onore di Giuseppe Grosso</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Studies in Caplan</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Survey of the Roman Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Tabula Banasitana</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Tabula Banasitana Oriental Club</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Tabula Banasitana Washington Oriental Club</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Texts and Commentary Book III Classical Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Thirteen Reponsa of Septimius Severus</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Vindication of repudiated text-Venice Speech</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Vulgar Law-Labeo</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series XVII: Computer Projects</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>General Files</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Brockport Computer Conference</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Columbia Computer Center Materials</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Computer Correspondence Center Project Abstract <unitdate type="inclusive">1971-1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Computer and Humanities</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Computer Project</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <unittitle>Computer Project for Venice</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>African Concordance</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Valeus Concordance</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>Celsus Concordance 1-2</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <unittitle>Julianus Concordance</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>Pomponius Concordance</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <unittitle>Sententia Hadriani Concordance</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series XVIII: Printed Materials</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <unittitle>Books by and with contributions by A.A. Schiller (1)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <unittitle>Books by and with contributions by A.A. Schiller (2)</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series XIX: Microfilms. Card Files</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <unittitle>Roman and Greek Law</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">53</container>
+                            <unittitle>Roman and Greek Law</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <unittitle>Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">54</container>
+                            <unittitle>Roman and Greek Law</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">55</container>
+                            <unittitle>Roman and Greek Law</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <unittitle>Roman and Greek Law</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <unittitle>Slips and Outline Roman Law</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">57</container>
+                            <unittitle>Roman and Greek Law</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">57</container>
+                            <unittitle>T&amp;C Bibliography and Sources</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle>Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">58</container>
+                            <unittitle>Roman and Greek Law</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">58</container>
+                            <unittitle>T&amp;S</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">59</container>
+                            <unittitle>Roman Law</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">59</container>
+                            <unittitle>Greek Law</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">60</container>
+                            <unittitle>African Law</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>61.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <unittitle>Papyri Budge Indexes</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">61</container>
+                        <unittitle>62.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <unittitle>Key-Punched Cards; Program</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>63.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">62</container>
+                            <unittitle>Key-punched cards; Pomponius (1)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>64.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">62</container>
+                            <unittitle>Key-Punched; Pomponius (2)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <unittitle>65.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">62</container>
+                            <unittitle>Key-Punched Cards;.Pliny</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>66.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle>Key-Punched Cards; African Roman Complete</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle>Key-Punched Cards;.:Julianus (1)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>67.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle>Key-Punched Cards; Julianus (2)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">63</container>
+                        <unittitle>68.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle>Key-Punched Cards; Julianus (3)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>69.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">64</container>
+                            <unittitle>Key-Punched Cards; Julianus (4)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>70.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">64</container>
+                            <unittitle>Key-Punched Cards; Julianus (5)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">64</container>
+                        <unittitle>71.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">64</container>
+                            <unittitle>Key-Punched Cards; Julianus (5)</unittitle>
+                        </did>
+                    </c>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">65</container>
+                        <unittitle>72.  Card Files:</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">65</container>
+                            <unittitle>Key-Punched Cards Julianus (7)</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">65</container>
+                            <unittitle>Sententiae Hadriani</unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                        <did><container type="Box" label="Box">65</container>
+                            <unittitle>Miscellaneous Program</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c> 
+
+    
+    
+    
+      </dsc>
+   </archdesc>
+</ead>

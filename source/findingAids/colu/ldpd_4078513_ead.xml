@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078513_ead//EN" mainagencycode="nnc-rb">ldpd_4078513_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Paul Baerwald Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2010-08-28">August 28, 2010 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2010-08-28">August 28, 2010 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-08-28">2010-08-28</date>
+            <item>xml document instance created by Carolyn Smith</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Baerwald, Paul, 1871-1961.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Paul Baerwald Papers,">Paul Baerwald Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1925/1961" type="inclusive">1857-1961</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk: 1907-1950].</unitdate>
+         <physdesc><extent encodinganalog="300">1.69 linear ft (4 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book an Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0059</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078513</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"/>
+                <language langcode="ger"/> Material is in English and German. </langmaterial>
+         <abstract>This collection documents the life of Paul Baerwald, a banker and philanthropist
+            who served as chairman of the American Jewish Joint Distribution Committee from
+            1932-1961. It also includes materials by and about Baerwald's father, Hermann Baerwald,
+            a German educator and historian.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Paul Baerwald was born in 1871 in Frankfurt, Germany. His
+            father, Hermann Baerwald, was director of the Philanthropin, a Jewish high school in
+            Frankfurt, for 31 years. Baerwald left Germany at nineteen to join the investment firm
+            Speyer &amp; Brothers in London, and in 1895 he was sent to work in New York City.
+            Baerwald became a partner at Lazard Freres in 1907. He met Edith Jacobi in New York, and
+            they were married in 1909. The couple would have four children, Pauline, Jane, Florence,
+            and Herman. </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1914, Paul Baerwald helped found the American Jewish Joint
+            Distribution Committee (JDC), an international relief organization that provides help to
+            Jews suffering as a result of poverty, persecution, natural disaster, or war. He retired
+            from Lazard Freres in 1930 to devote his full attention to philanthropic work, and would
+            serve with the JDC for 45 years, first as treasurer, and then as chairman in 1932 and
+            honorary chairman from 1945 until his death. In 1949, JDC opened a school in Versailles,
+            France, to train social workers. The school was transferred to Hebrew University in
+            Jerusalem in 1958 and was named the Paul Baerwald School of Social Work in his honor. </p>
+         <p><!-- BIOGHIST REQUIRED -->In addition to his extensive work with JDC, Baerwald served on
+            President Franklin Roosevelt's Advisory Committee on Political Refugees during World War
+            II. He was a close friend of New York governor and senator Herbert H. Lehman, and they
+            collaborated on JDC projects as well as other public and philanthropic works. Baerwald
+            was also a trustee and founder of the New York Foundation; trustee of the Palestine
+            Economic Corporation; treasurer of the Wollman Foundation; and trustee and treasurer of
+            the Soloman and Better Loeb Convalescent Home. </p>
+         <p><!-- BIOGHIST REQUIRED -->Paul Baerwald died in New York on July 2, 1961.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This collection documents the work of Paul Baerwald, particularly in his capacity as
+            chairman of the American Jewish Joint Distribution Committee from 1932 to 1961. It also
+            holds material by and about Baerwald's father, Hermann Baerwald (1828-1907) a German
+            historian and director of the Philanthropin, a Jewish high school in Frankfurt, Germany.
+            Materials include correspondence, photographs, speeches, reports, and clippings.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection has been arranged into three series: <list type="marked">
+               <item>Series I: General, 1916-1961</item>
+               <item>Series II: Correspondence, 1924-1961</item>
+               <item>Series III: Hermann Baerwald, 1857-1960
+               <list type="marked">
+                            <item>Subseries III.1: Published Works and Manuscripts, 1857-1960</item>
+                     <item>Subseries III.2: Published Works about Hermann Baerwald, 1893-1951</item>
+                  </list>
+                    </item>
+                </list>
+         </p>
+        </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">American Jewish Joint Distribution Committee.</corpname>
+         <corpname encodinganalog="610">Herbert H. Lehman Collections (Columbia University).</corpname>
+         <corpname encodinganalog="610">Philanthropin (Frankfurt am Main, Germany).</corpname>
+         <corpname encodinganalog="610">Bet ha-sefer la-'avodah sotsyalit 'a. sh. Pa'ul Berṿald.</corpname>
+         <persname encodinganalog="600">Baerwald, Hermann, 1828-1907.</persname>
+         <persname encodinganalog="600">Baerwald, Paul, 1871-1961.</persname>
+         <subject encodinganalog="650">Educators--Germany.</subject>
+         <subject encodinganalog="650">Historians--Germany.</subject>
+         <subject encodinganalog="650">Jews--Charities.</subject>
+         <subject encodinganalog="650">International relief.</subject>
+         <subject encodinganalog="650">Refugees.</subject>
+         <subject encodinganalog="650">Social service.</subject>
+         <genreform encodinganalog="655" source="aat.">Photographs</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1968 M-40 Faulk, Mrs. Myron S., Jr. Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Mrs. Myron S. Faulk, Jr., daughter of Paul Baerwald, in 1968.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Paul Baerwald Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Correspondence, manuscripts, notes, speeches, reports, clippings, printed material
+            Surveyed 05/--/87 by Julie Miller </p>
+         <p>Papers processed in 2009 by Elena Locascio, Geneseo College 2012 </p>
+         <p>Finding aid written in September 2009 by Carolyn Smith</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts/University
+            Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+            publish that which it physically owns; the responsibility to secure copyright permission
+            rests with the patron.</p>
+      </userestrict>
+      <otherfindaid encodinganalog="555">
+         <p><extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/libraries/inside/projects/findingaids/scans/pdfs/03_AS-BARN_14.pdf">PDF available.</extref>
+         </p>
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Series I: General, <unitdate type="inclusive">1916-1961</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains a variety of materials, including biographical information,
+                  letters from Baerwald to his children and extended family, business papers, and
+                  drafts of speeches given at conferences and meetings. </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="box" label="box">1</container>
+                  <container type="folder" label="folder">1</container>
+                  <unittitle>Autobiographical and Biographical Papers, <unitdate type="inclusive">1952-1954</unitdate> (contains photographs)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">1</container>
+                  <container type="folder" label="folder">2</container>
+                  <unittitle>Business/Career--Memoirs and Papers, <unitdate type="inclusive">1916-1954</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">1</container>
+                  <container type="folder" label="folder">3</container>
+                  <unittitle>Letters to His Children, <unitdate type="inclusive">1941-1951</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">1</container>
+                  <container type="folder" label="folder">4 to 5</container>
+                  <unittitle>Memoranda, Articles, and Correspondence, <unitdate type="inclusive">1920-1961</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">1</container>
+                  <container type="folder" label="folder">6 to 10</container>
+                  <unittitle>Speeches, <unitdate type="inclusive">1932-1959</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(5 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Correspondence, <unitdate type="inclusive">1924-1961</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series holds a small amount of personal and business correspondence, as well
+                  as associated reports, articles, and pamphlets. Some files contain letters from
+                  prominent individuals such as Albert Einstein, Herbert Lehman, and John D.
+                  Rockefeller, while others concern organizations and committees Baerwald worked
+                  closely with. Many of the conversations relate to the JDC. There are also several
+                  files on the Baerwald School of Social Work, which include photographs taken at
+                  the school's original building in France and biographies of some of the first
+                  students. The series is arranged alphabetically. </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">1</container>
+                  <unittitle>Brandeis, Louis D., <unitdate>1940</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">2</container>
+                  <unittitle>Butler, Nicholas Murray, <unitdate type="inclusive">1940-1945</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">3</container>
+                  <unittitle>Coolidge, Calvin, <unitdate type="inclusive">1927-1931</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">4</container>
+                  <unittitle>Einstein, Albert, <unitdate type="inclusive">1933-1950</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">5</container>
+                  <unittitle>Forrestal, James, <unitdate type="inclusive">1944-1948</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">6</container>
+                  <unittitle>Hebrew Union College, <unitdate type="inclusive">1941-1948</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">7</container>
+                  <unittitle>Hoover, Herbert, <unitdate>1940</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">8</container>
+                  <unittitle>Jewish Theological Seminary, <unitdate type="inclusive">1942-1951</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">9</container>
+                  <unittitle>Johns Hopkins University, <unitdate>1932</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">10</container>
+                  <unittitle>Joint Distribution Committee, <unitdate type="inclusive">1927-1961</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">11</container>
+                  <unittitle>Lazard Freres, <unitdate type="inclusive">1927-1949</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">12</container>
+                  <unittitle>Lehman, Herbert H., <unitdate type="inclusive">1933-1946</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">13</container>
+                  <unittitle>Lehman, Herbert H., <unitdate>1933</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">14</container>
+                  <unittitle>Lincoln School--Teachers College, at Columbia University, <unitdate type="inclusive">1924-1929</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">15</container>
+                  <unittitle>London, Fritz, <unitdate type="inclusive">1946-1954</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">2</container>
+                  <container type="folder" label="folder">16</container>
+                  <unittitle>New York Foundation, <unitdate>1961</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="folder" label="folder">17</container>
+                  <unittitle>Paul Baerwald School of Social Work</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="box">1</container>
+                     <container type="folder" label="folder">18</container>
+                     <unittitle>General, <unitdate type="inclusive">1950-1951
+                     April</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">2</container>
+                     <container type="folder" label="folder">19</container>
+                     <unittitle>General, <unitdate type="inclusive">1950 February-1951
+                        March</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">2</container>
+                     <container type="folder" label="folder">20</container>
+                     <unittitle>General, <unitdate type="inclusive">1948 October-1949
+                        December</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">3</container>
+                     <container type="folder" label="folder">1</container>
+                     <unittitle>Photographs, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">3</container>
+                     <container type="folder" label="folder">2</container>
+                     <unittitle>ROBO, <unitdate type="inclusive">1949-1950</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">3</container>
+                     <container type="folder" label="folder">3</container>
+                     <unittitle>Klein, Philip, <unitdate>1950</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">3</container>
+                     <container type="folder" label="folder">4</container>
+                     <unittitle>Israel, 1950-161</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">5</container>
+                  <unittitle>President's Advisory Committee on Political Refugees, <unitdate type="inclusive">1936-1959</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">6</container>
+                  <unittitle>Rockefeller, Dr. John. D, <unitdate type="inclusive">1926-1937</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">7</container>
+                  <unittitle>Roosevelt, Franklin D., <unitdate type="inclusive">1938-1945</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">8</container>
+                  <unittitle>Roosevelt Committee to Check the Reorganization of the Bank of the
+                     United States, <unitdate type="inclusive">1931-1932</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">9</container>
+                  <unittitle>Selective Service Committee, New York City, <unitdate type="inclusive">1940-1941</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">10</container>
+                  <unittitle>Shotwell, James T., <unitdate>1927</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">11</container>
+                  <unittitle>Taylor, Myron C., <unitdate type="inclusive">1938-1953</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">12</container>
+                  <unittitle>Warburg, Edward M. M., <unitdate type="inclusive">1939-1948</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">13</container>
+                  <unittitle>Warburg, Max M., <unitdate type="inclusive">1940-1946</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">14</container>
+                  <unittitle>Watson, Thomas J., <unitdate>1938</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">15</container>
+                  <unittitle>Weizmann, Chaim, <unitdate type="inclusive">1947-1948</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">16</container>
+                  <unittitle>Welles, Sumner, <unitdate type="inclusive">1939-1943</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">17</container>
+                  <unittitle>William J. Wollman Foundation, <unitdate type="inclusive">1956-1961</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">18</container>
+                  <unittitle>William J. Wollman Foundation, <unitdate>1956</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="box">3</container>
+                  <container type="folder" label="folder">19</container>
+                  <unittitle>Young, Owen, <unitdate>1925</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Hermann Baerwald Papers, <unitdate type="inclusive">1857-1960</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>Files in this series relate to Paul Baerwald's father, Hermann Baerwald, and
+                  pertain mainly to education in Jewish communities. </p>
+            </scopecontent>
+            <c level="subseries">
+               <did><unittitle>Subseries III.1: Published Works and Manuscripts, <unitdate type="inclusive">1857-1960</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>This subseries holds published articles, drafts, and notes by Hermann Baerwald.
+                     Most are about education and the history of the Philanthropin high school in
+                     Frankfurt, Germany, and are written in German. There is also a small amount of
+                     correspondence and a file of family papers. </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">1</container>
+                     <unittitle>Biographical, Autographical, and Assorted Family Papers, <unitdate type="inclusive">1926-1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">2</container>
+                     <unittitle>Papers and Correspondence, <unitdate>1907</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">3</container>
+                     <unittitle>Assorted Writings, <unitdate type="inclusive">1858-1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">4</container>
+                     <unittitle>"Historische Miszellen…"--Photostats,
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">5</container>
+                     <unittitle>"Zur Geschichte der Schule--Erster Teil: Das Philanthropin,
+                        1804-1913," <unitdate>1869</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">6</container>
+                     <unittitle>"Zur Geschichte der Schule--Zweiter Teil, 1804-1812,"
+                        <unitdate>1875</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">7</container>
+                     <unittitle>"Der Alt Freidhof der israelitischen Gemeinde ze Frankfurt a.M.,"
+                           <unitdate>1883</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">8</container>
+                     <unittitle>Leopold Ranke, <unitdate type="inclusive">1857-1885</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries III.2: Published Works About Herman Baerwald, <unitdate type="inclusive">1893-1951</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>This subseries contains articles about Hermann Baerwald's life and work,
+                     including articles on his years as a school director, a bibliography, memorial
+                     speeches, and biographical clippings.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">9</container>
+                     <unittitle>Manheimer, Adolf--"Festspiel zu Ehren des Direktors der Realschule
+                        der Israelitischen," <unitdate>1893</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">10</container>
+                     <unittitle>Dobriner, Hermann--"Abschiedsfeier fur den Direktor Hernn Dr.
+                        Baerwald," <unitdate>1900</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">11</container>
+                     <unittitle>Adler, S.--"Zur Erinnerung der Realschule der Israel,"
+                           <unitdate>1907</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">12</container>
+                     <unittitle>Adler, S.--"In Memoriam Dr. Hermann Baerwald…"
+                        <unitdate>1907</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">13</container>
+                     <unittitle>Adler, S.--"Direktor Dr. Hermann Baerwald,"
+                        <unitdate>1907</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">14</container>
+                     <unittitle>Baerwald, Paul, ed.--"Dr. Hermann Baerwald, 1828-1907,"
+                           <unitdate>1950</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">15</container>
+                     <unittitle>Baerwald, Paul, ed.--"Dr. Hermann Baerwald, 1828-1907" Reviews,
+                           <unitdate>1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">16</container>
+                     <unittitle>Kisch, Guido--"Bibliography of Publications by and on Hermann
+                        Baerwald, 1828-1907," <unitdate>1950</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">17</container>
+                     <unittitle>Articles about Hermann Baerwald, <unitdate type="inclusive">1907-1951</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="box">4</container>
+                     <container type="folder" label="folder">18</container>
+                     <unittitle>Photograph, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

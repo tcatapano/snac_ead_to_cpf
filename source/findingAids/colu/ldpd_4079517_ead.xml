@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079517_ead//EN" mainagencycode="nnc-rb">ldpd_4079517_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Brown, K./NYS Library School Register
+               Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-03-20">2012-03-20</date>
+            <item>Xml document instance created by Alison Rhonemus.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Brown, Karl, 1895-1970.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Brown, K./NYS Library School Register Papers">Brown, K./NYS Library School Register Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1955/1960" type="inclusive">1955-1960.</unitdate>
+         <physdesc><extent encodinganalog="300">1.5 linear ft (ca. 1,500 items in 3 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0155</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079517</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains correspondence and documents relating to <title render="italic">New York State Library School Register</title>, 1955-1960.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Historical Note</head>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>File of biographical data on the alumni of the New York State Library School, kept by
+            Karl Brown, editor of the <title render="italic">NEW YORK STATE LIBRARY SCHOOL
+               REGISTER</title>, while preparing the 1959 revised edition. There is some
+            correspondence about Brown's biographical sketch of James I. Wyre to whom this edition
+            was dedicated.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in one series: <list type="marked">
+                    <item>Series I: NYS
+                  Library School Register Papers, 1955-1960</item>
+                </list>.</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">New York State Library.--School--Alumni and
+            alumnae.</corpname>
+         <persname encodinganalog="600">Wyre, James I.</persname>
+         <subject encodinganalog="650">Librarians--New York (State)--Registers.</subject>
+         <genreform encodinganalog="655" source="ftamc">Biographies.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Editors.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1974 M-74 School of Library Service Library Transfer</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Transferred from the Columbia University School of Library Service, 1974.</p>
+      </custodhist>
+
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Brown, K./NYS Library School Register
+            Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University
+            Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>School of Library Service Library Cataloged 04/12/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+
+      <dsc><c level="series">
+                <did><unittitle>Series I: NYS Library School Register Papers, <unitdate type="inclusive">1955-1960</unitdate>
+                    </unittitle>
+                </did>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>A-G</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>H-Q </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>R-Z</unittitle>
+                    </did>
+                </c>
+         </c> 
+      </dsc>
+      
+   </archdesc>
+</ead>

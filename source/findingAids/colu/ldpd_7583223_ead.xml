@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_7583223_ead//EN" mainagencycode="nnc-rb">ldpd_7583223_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Vladimir Ussachevsky papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2010-06-30">June 30, 2010 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2010-06-30">June 30, 2010 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-06-30">2010-06-30</date>
+            <item>XML document instance created by Catherine N. Carson.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Ussachevsky, Vladimir, 1911-1990.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Vladimir Ussachevsky papers,">Vladimir
+            Ussachevsky Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1932/1969" type="inclusive">1932-1969</unitdate>
+         <physdesc><extent encodinganalog="300">8.25 linear ft. ( 14 document boxes and 1 flat box
+            ).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1492</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">7583223</unitid>
+         <langmaterial encodinganalog="546">The material is in <language langcode="eng">English, </language>
+            <language langcode="fre">French, </language>
+            <language langcode="ger">German, </language>
+            <language langcode="spa">Spanish,</language> and <language langcode="rus">Russian.</language>
+         </langmaterial>
+         <abstract>The Vladimir Ussachevsky Papers document the academic and professional career of
+            pioneering electronic-music composer Vladimir Ussachevsky. This collection contains
+            teaching and administrative materials, correspondence with other composers, writings and
+            compositions by Ussachevsky and others, and programs, publicity materials, and personal
+            documents.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Vladimir Ussachevsky was born in 1911 in the Russian province
+            of Outer Manchuria, where his father was serving as a career officer in the Russian
+            Army. Ussachevsky's mother performed and gave lessons on the piano, and she became her
+            son's first teacher, initiating his musical education in piano and Russian Orthodox
+            choral music. After playing in restaurants and vaudeville theaters as a teenager in
+            Manchuria, Vladimir emigrated to California with his mother and siblings in 1930.
+            Although he had intended to study electrical engineering, he became fascinated with
+            composition while at Pomona College, where he received his B.A. in 1935. Ussachevsky
+            then pursued graduate studies at the Eastman School of Music in Rochester, New York,
+            studying with Howard Hanson among others. Ussachevsky returned briefly to California in
+            the early 1940s after receiving his Ph.D. to care for his ailing mother. He taught
+            high-school and junior-college music classes there before enlisting in the United States
+            Army in September 1942 for the duration World War II. </p>
+         <p><!-- BIOGHIST REQUIRED -->After the war Ussachevsky began his long association with
+            Columbia University, coming to New York in the fall of 1947 as an instructor and
+            post-doctoral student under Otto Luening. At first, he taught introductory courses and
+            continued to compose chamber, piano, and choral works in what he later called a
+            "pseudo-Romantic Russian style." Ussachevsky's longstanding interest in electrical
+            engineering, however, led him to pursue a radical new direction in composition. As his
+            student Robert Moog recalled, "The department had acquired its first tape recorder, an
+            Ampex 400, and Vladimir was assigned to care for it. After using it extensively to
+            record live performances, he began looking for new ways to use the tape machine. He
+            created new musical sounds by speed changing, playing segments of tape backwards,
+            splicing, looping, and electronic processing, and then assembled the sounds into
+            experimental compositions." His tape compositions, many of them collaborations with
+            Luening, were first performed in 1952, garnering Ussachevsky acclaim among both the New
+            York musical community and the emerging transnational network of electronic music
+            composers. </p>
+         <p><!-- BIOGHIST REQUIRED -->Inspired by his contacts with Pierre Schaefer, the creator of
+            musique concrete, and electronic music composers in Russia, Ussachevsky along with
+            fellow composers Luening, Milton Babbitt, and Roger Sessions founded in 1959 the
+            Columbia-Princeton Electronic Music Center (CPEMC), which was modeled on Schaefer's
+            Centre d'Etudes Radiophoniques in Paris. According to Moog, himself a major innovator in
+            the field, Ussachevsky and engineer Peter Mauzey built equipment and developed technical
+            practices of the highest possible quality, assisted by the funding of the Rockefeller
+            Foundation and technical support from Bell Laboratories. Until his retirement from
+            Columbia in 1980, Ussachevsky directed the CPEMC and mentored hundreds of students in
+            theory and composition, most notably Moog and the composer Wendy Carlos. Ussachevsky
+            also became a tireless crusader in the promotion of electronic music, presenting
+            lecture-demonstrations at colleges and universities across the United States and Canada. </p>
+         <p><!-- BIOGHIST REQUIRED -->Outside of Columbia, Ussachevsky continued actively to pursue
+            a composing career, writing scores of works for orchestras and choral groups, almost all
+            of them incorporating the tape medium. Ussachevsky contributed musical settings for
+            film, television, theater and poetry, collaborating with Clifton Fadiman, John Houseman,
+            Stan Brakhage, Louis Zukofsky, Orson Welles, Alfred Hitchcock, and Burgess Meredith
+            among others. He also played an active role in several artist organizations, principally
+            the American Composers' Alliance and the MacDowell Colony, and served as editor for the
+            journal New Music Edition. </p>
+         <p><!-- BIOGHIST REQUIRED -->After retiring from Columbia in 1980, he remained as a tenured
+            professor at the University of Utah, where he had been Composer-in-Residence since 1970.
+            He was married to the poet Elizabeth ("Betty") Kray from 1947 until her death in 1987.
+            The couple had no children. Ussachevsky died on January 4, 1990 in New York City,
+            remembered as a seminal figure in the development of electronic music in the United
+            States.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This collection consists primarily of teaching and administrative materials from
+            Ussachevsky's tenure as a professor at Columbia, including materials related to the
+            Columbia-Princeton Electronic Music Center: equipment catalogs, memos, correspondence,
+            schematics, intellectual content, and grant requests. There are also documents of
+            Ussachevsky's professional activities outside of Columbia including: correspondence,
+            board minutes, and newsletters from composer organizations; and programs, press
+            releases, and news clippings that document performances of his works as well as concerts
+            he attended, especially among the post-war American avant-garde. A sub-series of
+            Ussachevsky's writings contains his published articles and notes for articles on
+            musicology and tape music, and notebooks from his graduate studies. </p>
+         <p>The collection also includes several draft scores in manuscript of Ussachevsky's
+            compositions, supplemented with sketches, notebooks, and textual sources that informed
+            his works. There is also an extensive selection of music journals collected by
+            Ussachevsky during the 1950s and 1960s, including rare foreign-language items that he
+            acquired in his European travels. A series dedicated to personal files contains a
+            cross-section of personal and professional correspondence that depicts the networks of
+            composers, writers, artists, and technicians that made up Ussachevsky's milieu. There
+            are a few folders of personal items, mostly related to the finances of him and his wife.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in five series. <list type="simple">
+               <item>Series I. Academic Activities, 1937-1969 <list type="simple">
+                     <item>Subseries I.1. Academic Career, 1937-1969 </item>
+                     <item>Subseries I.2. Columbia-Princeton Electronic Music Center,
+                     1949-1968</item>
+                  </list>
+               </item>
+               <item>Series II. Professional Activities, 1932-1969 <list type="simple">
+                     <item>Subseries II.1. Associations, 1938-1969 </item>
+                     <item>Subseries II.2. Publicity and Performances, 1949-1969 </item>
+                     <item>Subseries II.3. Writings, 1932-1964 </item>
+                  </list>
+                    </item>
+               <item>Series III. Compositions, 1937-1960s <list type="simple">
+                     <item>Subseries III.1. Compositions, 1937-1960s </item>
+                     <item>Subseries III.2. Compositions by Others, 1950s</item>
+                  </list>
+               </item>
+               <item>Series IV. Personal Files, 1934-1968 </item>
+               <item>Series V. Printed Material, 1936-1969 [Bulk Dates: 1949-1969]</item>
+            </list>
+            </p>
+      </arrangement>
+      <relatedmaterial><head>Related Material--Other Institutions</head>
+         <p>Vladimir Ussachevsky Collection, Music Division, Library of Congress [unprocessed].</p>
+      </relatedmaterial>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University</corpname>
+         <corpname encodinganalog="610">Eastman School of Music</corpname>
+         <corpname encodinganalog="610">MacDowell Colony (Petersborough, N.H.)--History</corpname>
+         <corpname encodinganalog="610">Rockefeller Foundation</corpname>
+         <persname encodinganalog="600">Babbitt, Milton, 1916-</persname>
+         <persname encodinganalog="600">Bartok, Bela, 1881-1945--Criticism and
+            interpretation--Congresses</persname>
+         <persname encodinganalog="600">Berio, Luciano, 1925-2003</persname>
+         <persname encodinganalog="600">Brakhage, Stan--Friends and associates</persname>
+         <persname encodinganalog="600">Luening, Otto, 1900-1996</persname>
+         <persname encodinganalog="600">Schaeffer, Pierre, 1910-1995</persname>
+         <persname encodinganalog="600">Seeger, Charles, 1886-1979</persname>
+         <persname encodinganalog="600">Ussachevsky, Vladimir, 1911-1990</persname>
+         <persname encodinganalog="600">Zukofsky, Louis, 1904-1978--Musical Settings</persname>
+         <subject encodinganalog="650">Audio amplifiers</subject>
+         <subject encodinganalog="650">Composers--France</subject>
+         <subject encodinganalog="650">Composers--United States--Biography</subject>
+         <subject encodinganalog="650">Composers--United States--Societies, etc.</subject>
+         <subject encodinganalog="650">Composition (Music)--20th century</subject>
+         <subject encodinganalog="650">Electronic Music</subject>
+         <subject encodinganalog="650">Music--20th century--History and criticism</subject>
+         <subject encodinganalog="650">Music--Acoustics and physics--Congresses</subject>
+         <subject encodinganalog="650">Music--Instruction and study--United States--History</subject>
+         <subject encodinganalog="650">Musicology--United States--History--20th century</subject>
+         <subject encodinganalog="650">Musique Concrète--History and criticism</subject>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>Box 3, Folder 4 is restricted until 2040, otherwise, the collection has no restrictions. </p>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Antonia Bryson Gift 2000 February 1999-2000-32</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Vladimir Ussachevsky Papers; Box and Folder;
+            University Archives, Rare Book and Manuscript Library, Columbia University Library.
+            Identification of specific item; Date (if known); Vladimir Ussachevsky Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed Jude Webre </p>
+         <p>Finding aid written by Jude Webre February 2010</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts/University
+            Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+            publish that which it physically owns; the responsibility to secure copyright permission
+            rests with the patron.</p>
+      </userestrict>
+          <dsc><c level="series">
+            <did><unittitle>Series I: Academic Activities, <unitdate type="inclusive">1937-1969</unitdate>
+                    </unittitle>
+            </did>
+            <c level="subseries">
+               <did><unittitle>Subseries I.1: Academic Career, <unitdate type="inclusive">1937-1969</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Student Papers</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Essays, <unitdate type="inclusive">1937-1963</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">2 to 4</container>
+                        <unittitle>General, <unitdate type="inclusive">1937-1955</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Barnard Counterpoint, <unitdate>1951</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>GS Music 37, <unitdate type="inclusive">1952-1953</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">7 to 9</container>
+                        <unittitle>General, <unitdate type="inclusive">1952-1960</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">10 to 11</container>
+                        <unittitle>General, <unitdate>1955</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Music 37, <unitdate>1955</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>GS Music 38, <unitdate>1955</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Blue Books, <unitdate>1956</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Musicianship, <unitdate>1956</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Regina Weiss, <unitdate>1956</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">4 to 5</container>
+                        <unittitle>General, <unitdate>1956</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>General, <unitdate type="inclusive">1956-1959</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Counterpoint 210, <unitdate type="inclusive">1956-1961</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">8 to 9</container>
+                        <unittitle>General, <unitdate type="inclusive">1956-1963</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>20th-Century Music, <unitdate>1963</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>GS Music 38, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Humanities, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Music 35-36, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Grade Sheets, circa <unitdate>1950s</unitdate>
+                                </unittitle>
+                     </did>
+                     <accessrestrict><p>[Restricted until 2040]</p>
+                            </accessrestrict>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Teaching Materials</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Eastman School of Music, <unitdate type="inclusive">1938-1939</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Pasadena Junior College and Roosevelt High, <unitdate type="inclusive">1940-1942</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Theory Seminar, <unitdate>1948</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Seminar, <unitdate>1949</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Music 23, Music History, <unitdate>1950</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Humanities MB1, <unitdate>1952</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Assignments in Modern Music,
+                        <unitdate>1952</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Music 38, <unitdate>1956</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Humanities RMB1, <unitdate>1956</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Music 1, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>GS Music 17, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>General, circa <unitdate>1950s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>Mimeograph Exercises, circa
+                        <unitdate>1950s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">1 to 2</container>
+                     <unittitle>Columbia University--Administration Materials, <unitdate type="inclusive">1949-1968</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Columbia Department of Music</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">3 to 4</container>
+                        <unittitle>General, <unitdate type="inclusive">1952-1967</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Bartok Forum, <unitdate>1950</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Mozart Festival, <unitdate type="inclusive">1955-1956</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">7 to 10</container>
+                        <unittitle>Sang Prize Submissions, <unitdate>1969</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(4 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">1 to 2</container>
+                        <unittitle>Catalogs of Textbooks and Scores, <unitdate type="inclusive">1950s-1960s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries I.2: Columbia-Princeton Electronic Music Center, <unitdate type="inclusive">1949-1968</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">3 to 8</container>
+                     <unittitle>Administrative Files--General, <unitdate type="inclusive">1949-1969</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(6 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Printed Materials, <unitdate type="inclusive">1955-1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Centre d’Etudes Radiophoniques, <unitdate type="inclusive">1953-1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Second International Commission on Acoustics Congress,
+                           <unitdate>1956</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Preliminary Report to the Rockefeller Foundation,
+                        <unitdate>1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Intellectual Content, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Equipment Catalogs--Audio Fair Materials,
+                     <unitdate>1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">7 to 8</container>
+                     <unittitle>Equipment Catalogs--General, <unitdate type="inclusive">1955-1969</unitdate> (2 of 4 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">1 to 2</container>
+                     <unittitle>Equipment Catalogs--General, <unitdate type="inclusive">1955-1969</unitdate> (2 of 4 Folders)</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Professional Activities, <unitdate type="inclusive">1932-1969</unitdate>
+                    </unittitle>
+            </did>
+            <c level="subseries">
+               <did><unittitle>Subseries II.1: Associations, <unitdate type="inclusive">1938-1969</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Composer Organizations</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>American Composers Alliance, <unitdate type="inclusive">1955-1968</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>MacDowell Colony, <unitdate type="inclusive">1949-1969</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>New Music Edition, <unitdate type="inclusive">1948-1961</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>General, <unitdate type="inclusive">1949-1968</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Trip to Russia, <unitdate>1961</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Programs of Others, <unitdate type="inclusive">1938-1969</unitdate>
+                        (1 of 3 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">1 to 2</container>
+                     <unittitle>Programs of Others, <unitdate type="inclusive">1938-1969</unitdate>
+                        (2 of 3 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">3 to 4</container>
+                     <unittitle>Programs--Conferences and Lectures, <unitdate type="inclusive">1953-1966</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Press Releases of Others, <unitdate>1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Associations--General, <unitdate type="inclusive">1951-1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries II.2: Publicity and Performances, <unitdate type="inclusive">1949-1969</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Biographical Information, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Press Releases and Articles, <unitdate type="inclusive">1952-1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle> "Back to Methuselah"--Correspondence and Publicity, <unitdate type="inclusive">1957-1958</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Programs, <unitdate type="inclusive">1949-1969,
+                           </unitdate>
+                                <unitdate>Undated</unitdate> (1 of 5 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">1 to 4</container>
+                     <unittitle>Programs, <unitdate type="inclusive">1949-1969,
+                           </unitdate>
+                                <unitdate>Undated</unitdate> (4 of 5 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">5 to 6</container>
+                     <unittitle>News Clippings, <unitdate type="inclusive">1952-1967</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries II.3: Writings, <unitdate type="inclusive">1932-1964</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Articles--Published, <unitdate type="inclusive">1958-1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Articles and Lectures--Drafts, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle> "Tape Music"--Notes and Drafts,
+                     <unitdate>1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Writings by Others</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle> "Des Machines a créer de la Musique," by M.A. Moles,
+                              <unitdate>1958</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle> "Systematic Musicology," by Charles Seeger,
+                           <unitdate>1951</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle> "Preface to a Description of a Music," by Charles Seeger,
+                              <unitdate>1952</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle> "Die informationtheoretisch," by VonFritz Winckel,
+                              <unitdate>1964</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Conservatory Materials</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Piano Lessons, <unitdate>1932</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>General, <unitdate>1932</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Sibelius Symphonies, <unitdate type="inclusive">1936-1937</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">8 to 9</container>
+                        <unittitle>General, <unitdate type="inclusive">1938-1939</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Nef’s Outline, <unitdate>1930s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>General, <unitdate>1930s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Notes from Paul Henry Lang Course,
+                     <unitdate>1952</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Compositions, <unitdate type="inclusive">1937-1960s</unitdate>
+                    </unittitle>
+            </did>
+            <c level="subseries">
+               <did><unittitle>Subseries III.1: Compositions, <unitdate type="inclusive">1937-1960s</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle> "Jubilee Cantata," printed score,
+                     <unitdate>1937</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle> "Piano Concerto," draft score, [1950s]</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>Notes and Schematics for New York Philharmonic Concert,
+                           <unitdate>1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">16 to 17</container>
+                     <unittitle>Notes for Compositions--General, <unitdate>1950s</unitdate> and
+                           <unitdate>1960s</unitdate> (2 of 3 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Notes for Compositions--General, <unitdate>1950s</unitdate> and
+                           <unitdate>1960s</unitdate> (1 of 3 Folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Notebooks, <unitdate>1950s</unitdate> and
+                     <unitdate>1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">3 to 4</container>
+                     <unittitle>Score Notebooks, <unitdate>1950s</unitdate> and
+                        <unitdate>1960s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Textual Sources</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle> "Mexican Christmas," <unitdate>1941</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle> "The Creation," <unitdate>1960s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle> "Finian’s Rainbow," <unitdate>1960s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle> "Material for Cantata," <unitdate>1960</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle> "Mongolian Prince," <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>General, circa <unitdate>1960s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Untitled Draft Scores, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries III.2: Compositions by Others,
+                  <unitdate>1950s</unitdate>
+                        </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>En Blanc et Noir by Claude Debussy, printed score</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Twelve Pieces for Piano by Keith Robinson, manuscript score,
+                           <unitdate>1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Holidays Symphony by Charles Ives, parts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">15</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Students, circa <unitdate>1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Printed Scores by Others, <unitdate>1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IV: Personal Files, <unitdate type="inclusive">1934-1968</unitdate>
+                    </unittitle>
+            </did>
+            <c level="file">
+               <did><unittitle>Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Special Correspondence, <unitdate type="inclusive">1942-1964</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">13</container>
+                    <unitdate type="inclusive">1936-1954</unitdate>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>College Lecture Tour, 1954-55</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">15 to 17</container>
+                    <unitdate type="inclusive">1955-1957</unitdate>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">1 to 4</container>
+                     <unitdate type="inclusive">1958-1968</unitdate>
+                     <physdesc><extent>(4 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">5</container>
+                    <unitdate>Undated</unitdate>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Family, <unitdate type="inclusive">1955-1965</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>By Others, <unitdate type="inclusive">1942-1964</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Financial Documents, <unitdate type="inclusive">1934-1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Personal Files--General, <unitdate>1950s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Holiday Cards, <unitdate>1950s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Photographs, <unitdate type="inclusive">1950s-1960s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Travel Memorabilia, <unitdate type="inclusive">1949-1968</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series V: Printed Materials, <unitdate type="inclusive">1936-1969</unitdate> (Bulk 1949-1969)</unittitle>
+            </did>
+            <c level="file">
+               <did><unittitle>Journals</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>American Composer Alliance Bulletin, <unitdate type="inclusive">1955-1958</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>A-D, <unitdate type="inclusive">1958-1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>D-I, <unitdate type="inclusive">1956-1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">13</container>
+                     <container type="Folder" label="Folder">3 to 5</container>
+                     <unittitle>Journal of the Acoustical Society of America, <unitdate type="inclusive">1957-1962</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Journal of the Acoustical Society of America, <unitdate type="inclusive">1962-1963</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>J, <unitdate type="inclusive">1954-1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>J, <unitdate type="inclusive">1955-1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>J-M, <unitdate type="inclusive">1936-1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>M, <unitdate type="inclusive">1951-1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Origin, <unitdate>1961</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>R, <unitdate type="inclusive">1949-1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>S-T, <unitdate type="inclusive">1956-1967</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Foreign Language Journals</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Cybernetics and Music-Musik Revy, <unitdate type="inclusive">1951-1963</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Technica, <unitdate>1956</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078915_ead//EN" mainagencycode="nnc-rb">ldpd_4078915_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Hoyt Family Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-07-07">July 7, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-07-07">July 7, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-07-07">2009-07-07</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2010-11-11">2010-11-11</date>
+            <item>xml document instance created by Lea Osborne</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Hoyt family.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Hoyt Family Papers">Hoyt Family Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1855/1924" type="inclusive">1855-1924</unitdate>
+         <physdesc><extent encodinganalog="300">2.5 linear feet (5 document boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0623</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078915</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract label="abstract">A collection of the personal papers, including personal
+            correspondence and financial documents, of the family of James Otis Hoyt (1842-1896), a
+            prominent New York Lawyer.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p>James Otis Hoyt (1842-1896) was born in Haverhill, Massachusetts. He attended Phillips
+            Exeter Academy and Harvard University, from which he graduated in 1865. Upon graduation,
+            he spent a year as a teacher at Saint Mark's School in Southborough, Massachusetts. He
+            returned to Harvard to pursue a degree in Law, which he received in 1868; while there,
+            he was a proctor and teacher of history. He then moved to New York, where he worked
+            briefly in several law firms before founding his own firm with Richard Christian (R.C.)
+            Fellows in 1871. The firm would later become Fellows, Hoyt, and Schell (with Edward H.
+            Schell), and finally Hoyt and Schell. Hoyt was a director and general counsel to the
+            Manhattan Life Insurance Company, and general counsel to the National Butchers' and
+            Drovers' bank and the Manhattan Savings Bank. In 1876 he married Fellows's sister, Emily
+            Fellows (1847-1909), and the two had three daughters: Mary (1877-19??), Harriet
+            (1880-19??), and Emily (1883-1919). Hoyt died unexpectedly of an illness in 1896. Mary
+            attended Bryn Mawr from 1895-1898. From 1916-1917 she studied nursing and wireless
+            signal work and from 1917-1919 she worked as an Auxiliary Nurse for the American Red
+            Cross in France.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The Hoyt Family collection is comprised primarily of the papers of James Otis Hoyt, his
+            wife, Emily (née Fellows), and two of their three daughters, Emily and Mary Fellows
+            Hoyt. These papers include personal correspondence, financial documents, and printed
+            materials.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in four series: <list type="marked">
+               <item>Series I: James Otis Hoyt, 1855-1896</item>
+               <item>Series II: Mrs. James Otis Hoyt (Emily Fellows), 1885-1909</item>
+               <item>Series III: Other Family Members, 1882-1924</item>
+               <item>Series IV: Documents, 1860s-1910s</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Fellows family.</persname>
+         <persname encodinganalog="600">Hoyt family.</persname>
+         <persname encodinganalog="600">Schell, Augustus, 1812-1884.</persname>
+         <corpname encodinganalog="610">American Red Cross.</corpname>
+         <corpname encodinganalog="610">Harvard College.</corpname>
+         <corpname encodinganalog="610">Harvard Law School.</corpname>
+         <corpname encodinganalog="610">Harvard University.</corpname>
+         <corpname encodinganalog="610">St. Mark's School.</corpname>
+         <corpname encodinganalog="610">Woodlawn Cemetery (New York, N.Y.)</corpname>
+         <subject encodinganalog="650">Lawyers.</subject>
+         <subject encodinganalog="650">World war, 1914-1918--War work--Red Cross.</subject>
+         <genreform encodinganalog="655" source="aat">Correspondence.</genreform>
+         <genreform encodinganalog="655" source="aat">Invoices.</genreform>
+         <genreform encodinganalog="655" source="aat">Love letters.</genreform>
+         <genreform encodinganalog="655" source="aat">Picture postcards.</genreform>
+         <genreform encodinganalog="655" source="aat">Visiting cards.</genreform>
+      </controlaccess>
+      <custodhist encodinganalog="561">
+         <p>Gift of Joseph Katz, 1965</p>
+      </custodhist>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions. </p>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room.</p>
+      </accessrestrict>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Hoyt Family Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 07/--/89 Christina Hilton Fenn</p>
+         <p>Papers processed and finding aid written in October 2010 by Marina Kastan, Pratt SILS
+            2012</p>
+         <p>Recataloged in November 2010 by Lea Osborne</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts, Rare Book and
+            Manuscript Library (RBML). The RBML approves permission to publish that which it
+            physically owns; the responsibility to secure copyright permission rests with the
+            patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Hoyt, James Otis, <unitdate type="inclusive">1855-1896</unitdate>
+                    </unittitle>
+            </did>
+                <scopecontent><p>The bulk of James Otis Hoyt's papers date from the 1860s, when he was a student at Harvard College and Harvard Law School. Of his correspondence, most are letters of a personal nature, including a number of love letters from a woman named Sara W. There are also a number of his writings, including a dissertation written in his junior year at Harvard entitled "On Carey's View of Trade as the Instrument of Commerce" and a later work entitled "Concerning the Liability of Partners as to Third Partners." There are also financial documents (mostly bills), and teaching materials from his time as a teacher at St. Mark's School and at Harvard.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>General, <unitdate type="inclusive">1860s-1890s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Exeter and Harvard, <unitdate>1860s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Financial, <unitdate>1860s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Letters from Sara, <unitdate type="inclusive">1864-1864
+                     April</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Letters from Sara, <unitdate>1864</unitdate> May-1867
+                     <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Teaching Materials, circa <unitdate>1860s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Writings</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle><unitdate>Undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>"Carey's View of Trade as the Instrument of
+                        Commerce," <unitdate>1865</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>"Concerning the Liability of Partners as to Third Persons,"
+                           <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>School Compositions, <unitdate>1850s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Personal Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1861-1863</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate>1864</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate>1865</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate>1866</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate>1867</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate type="inclusive">1868-1896</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">7 to 8</container>
+                     <unittitle>Circa <unitdate>1860s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Hoyt, Mrs. James Otis (Emily Fellows), <unitdate type="inclusive">1885-1909</unitdate>
+                    </unittitle>
+            </did>
+                <scopecontent><p>Mrs. Hoyt's papers are composed of personal correspondence and financial documents. Personal correspondence includes letters from friends (many are condolences written at the time of her husband's death) and from Mary, written during her time at Bryn Mawr. Among the financial documents are insurance policies, a deed to a family plot in Woodlawn Cemetery, and correspondence and official papers relating to the estates of her brother, Richard Christian Fellows, and Augustus Schell. </p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Estates of Richard Christian Fellows and Augustus Schell, <unitdate type="inclusive">1897-1905</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Estate, <unitdate type="inclusive">1911-1918</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Financial Documents, <unitdate type="inclusive">1896-1908</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Personal Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate type="inclusive">1885-1898</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle><unitdate type="inclusive">1900-1909</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle><unitdate>Undated</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Other Family Members, <unitdate type="inclusive">1882-1924</unitdate>
+                    </unittitle>
+            </did>
+                <scopecontent><p>This series contains the papers of Emily Hoyt (sometimes called Pansy), Mary Fellows Hoyt, and James O. Hoyt's mother, Mrs. James B. Hoyt. Emily's papers include financial documents and personal correspondence, the bulk of which are letters written to her by Mary in 1917 and 1918 during her time as an American Red Cross nurse in France. Mary's papers include her personal correspondence and financial documents. There are also several official papers for both sisters, including an automobile registration and Mary's passport. The letters addressed to Mrs. James B. Hoyt are mostly from her young grandchildren. The folder titled "Unidentified Correspondence" includes letters addressed to "Miss Hoyt" and to "The Misses Hoyt."</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Hoyt, Mary and Emily--Official Documents, <unitdate type="inclusive">1890-1923</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Hoyt, Emily</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Financial Documents, <unitdate type="inclusive">1914-1919</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Personal Correspondence, <unitdate>1918</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Emily--Letters from Mary Hoyt, <unitdate>1917</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Letters from Mary Hoyt, <unitdate>1918</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Hoyt, Mary F.</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Financial Documents, <unitdate type="inclusive">1909-1919</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Personal Correspondence</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><unitdate type="inclusive">1885-1905</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><unitdate>1906</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle><unitdate type="inclusive">1907-1824</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle><unitdate>Undated</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">1</container>
+                  <unittitle>Hoyt, Mrs. James B.--Personal Correspondence, <unitdate type="inclusive">1882-1891</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">2</container>
+                  <unittitle>Unidentified Correspondence <unitdate type="inclusive">1905-1921</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series IV: Documents, 1860s- <unitdate>1910s</unitdate>
+                    </unittitle>
+            </did>
+                <scopecontent><p>This series is comprised of the less personal documents that were included in the family's collection. There are a number of calling cards and invitations, and ephemera, such as advertisements, programs, and mailings from various clubs. Of particular interest is a large collection of American and European postcards from the 1900s and 1910s, amassed by Mary Fellows Hoyt. Also included are the plans for a boat, a house, and a building which is most likely the family's townhouse at 310 west 75th st. in New York, built in 1893.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle>Blueprints, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+          
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">4</container>
+                  <unittitle>Financial Documents, <unitdate>1910s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>Picture Postcards, <unitdate type="inclusive">1903-1919</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>Picture Postcards, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>Printed Material, <unitdate>1860s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>Printed Material, <unitdate>1910s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>Writings and Photographs, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">5</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>Visiting Cards and Invitations, <unitdate>undated</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

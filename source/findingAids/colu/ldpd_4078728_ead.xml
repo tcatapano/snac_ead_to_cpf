@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078728_ead//EN" mainagencycode="nnc-rb">ldpd_4078728_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Thomas Egleston Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+
+         </change>
+         <change><date normal="2011-06-03">2011-06-03</date>
+            <item>File edited by Carrie Hintz to include the addition gift of Series III</item>
+         </change>
+
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Egleston, Thomas, 1832-1900.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Thomas Egleston Papers">Thomas Egleston
+            Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1857/1929" type="inclusive">1857-1901.</unitdate>
+         <physdesc><extent encodinganalog="300">4.5 linear ft. (2 document boxes, 1 flat box)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0385</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078728</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">Material is in English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Thomas Egleston was a noted metallurgist and professor of
+            metallurgy and mineralogy at Columbia University's School of Mines, which he helped
+            found along with Charles F. Chandler and Francis Vinton in 1864.</p>
+         <p>Egleston was born in New York City in 1900 and received his scientific training first at
+            Yale, and then at the Ecole Imperiale des Mines in Paris. He worked for several years at
+            the Smithsonian Institute before returning to New York City to join the faculty of
+            Columbia University. </p>
+         <p>He was instrumental in founding the Columbia University School of Mines, one of the
+            earliest schools devoted to practical and applied science in the country. He continued
+            to teach at Columbia until his death in 1900.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Professional correspondence of Egleston, consisting of incoming letters and technical
+            reports relating to mining engineering and metallurgy; and carbon copies of
+            correspondence between Egleston and Seth Low for the years 1890 to 1900. </p>
+         <p>The 1996 addition the collection consists of large drawings and engravings from his
+            student days at the Ecole Imperiale des Mines in Paris (both engineering and
+            architecture) as well as large maps of coal and iron land in Virginia and West
+            Virginia.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in 3 series:<list type="marked">
+                    <item> Series I:
+                  Correspondence, 1868-1901;</item>
+                    <item>Series II: Research and Documents, undated
+                  and 1868;</item>
+                    <item>Series III: Metric System Materials, 1893-1895</item>
+                </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia College (New York, N.Y.).--School of
+            Mines.</corpname>
+         <corpname encodinganalog="610">Ecole nationale supérieure des mines de Paris.</corpname>
+         <persname encodinganalog="600">Chalmers, William James, 1852-1938.</persname>
+         <persname encodinganalog="600">Church, John A. (John Adams), 1843-1917.</persname>
+         <persname encodinganalog="600">Egleston, Thomas, 1832-1900</persname>
+         <persname encodinganalog="600">Elder, Cyrus, 1833-1912.</persname>
+         <persname encodinganalog="600">Holley, Alexander Lyman, 1832-1882.</persname>
+         <persname encodinganalog="600">Hotchkiss, Jedediah, 1828-1899.</persname>
+         <persname encodinganalog="600">Hutton, William R., 1846-1906.</persname>
+         <persname encodinganalog="600">Kunz, George Frederick, 1856-1932.</persname>
+         <persname encodinganalog="600">Low, Seth, 1850-1916.</persname>
+         <persname encodinganalog="600">Mackintosh, James Buckton, 1856-1891.</persname>
+         <persname encodinganalog="600">Potter, William Bleeker, 1846-1914.</persname>
+         <persname encodinganalog="600">Ricketts, Palmer C. (Palmer Chamberlain),
+            1856-1934.</persname>
+         <persname encodinganalog="600">Waldo, Leonard, b. 1853.</persname>
+         <subject encodinganalog="650">Architecture.</subject>
+         <subject encodinganalog="650">Mining engineering.</subject>
+         <subject encodinganalog="650">Metallurgy.</subject>
+         <genreform encodinganalog="655" source="aat">Architectural drawings.</genreform>
+         <genreform encodinganalog="655" source="aat">Bills.</genreform>
+         <genreform encodinganalog="655" source="aat">Blueprints.</genreform>
+         <genreform encodinganalog="655" source="aat">Catalogs.</genreform>
+         <genreform encodinganalog="655" source="aat">Checks.</genreform>
+         <genreform encodinganalog="655" source="aat">Diagrams.</genreform>
+         <genreform encodinganalog="655" source="aat">Engravings.</genreform>
+         <genreform encodinganalog="655" source="aat">Invoices.</genreform>
+         <genreform encodinganalog="655" source="aat">Letter books.</genreform>
+         <genreform encodinganalog="655" source="aat">Lists.</genreform>
+         <genreform encodinganalog="655" source="aat">Maps.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="aat">Prospectuses.</genreform>
+         <genreform encodinganalog="655" source="aat">Receipts.</genreform>
+         <genreform encodinganalog="655" source="aat">Reports.</genreform>
+         <genreform encodinganalog="655" source="aat">Technical drawings.</genreform>
+         <genreform encodinganalog="655">Wills.</genreform>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Metallurgists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Mineralogists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Mining engineers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>Collection is shelved on-site.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1900 M-1900 Egleston, Thomas Bequest </p>
+         <p>1977 M-1977 Letterbook, 1864-69 Lamont-Doherty Geoscience Library Transfer </p>
+         <p>02/--/1997 M-97-02 Oversize drawings &amp; engravings Columbiana Transfer</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Thomas Egleston Papers; Box and Folder
+            (if known); Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 06/--/1989 Christina Hilton Fenn </p>
+         <p>Letterbook, 1864-6 Cataloged 1977 HR </p>
+         <p>Oversize drawings &amp; engravings Processed 03/26/1997 HR</p>
+         <p>Series III: Metric System Materials processed 06/02/2011 by Carrie Hintz</p>
+         <p>Finding aid written 06/02/2011 by Carrie Hintz</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <relatedmaterial encodinganalog="544">
+         <head>Selected Related Material-- At Columbia</head>
+         <p><extref xlink:type="simple" xlink:href="http://findingaids.cul.columbia.edu/ead/nnc-ua/ldpd_5801754">Columbia University School of Mines Records,</extref> Rare book &amp; Manuscript Library</p>
+        </relatedmaterial>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence, <unitdate type="inclusive">1868-1901</unitdate>
+                    </unittitle>
+            </did>
+                <scopecontent><p>The Correspondence series consists of professional correspondence.  Most of the letters are incoming correspondence, but the series does include one letterbook of Egleston's outgoing correspondence, and carbons of some of his correspondence with Seth Low, President of Columbia University during the latter part of Egleston's tenure at the school.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Austin, T.S., <unitdate>1890</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Baclè, L., <unitdate>1899</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Blei-und Silberwerk bei Bad-Ems, <unitdate>1872</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Blood, Aretas, <unitdate>1885</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Boehler Frères &amp; Cie., <unitdate>1896</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Bullman, Charles, <unitdate>1892</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Casartelli, Joseph, <unitdate>1893</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Chalmers, William James, <unitdate>1888</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Church, John Adams, <unitdate type="inclusive">1868-1869</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Clements, J.B., <unitdate>1896</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Constable, C., <unitdate>1878</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Crawford, Benjamin, <unitdate>1886</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Davenport, R.W., <unitdate>1885</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Dresler, H., <unitdate>1874</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Dwight, A.S., <unitdate>1891</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Egleston, Thomas</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Letterbook</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Letters relating to his bequest to Columbia University, <unitdate type="inclusive">1897-1901</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Elder, Cyrus, <unitdate>1885</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Engelhardt, E.N., <unitdate>1887</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Garnkirk Fire Clay Co., <unitdate>1885</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Gersdorf, Theodor, <unitdate type="inclusive">1885-1892</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>H., <unitdate type="inclusive">1873-1893</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Henning, Gus C., <unitdate>1886</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Holley, Alexander, <unitdate>1871</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Hotchkiss, Jedediah, <unitdate>1879</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Hutton, William R., <unitdate>1879</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Iles, Malvern W., <unitdate>1884</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Innerberger Hauptgewerkschaft, <unitdate>1876</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Jones, William R., <unitdate>1879</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Knapp, John. A., <unitdate>1876</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Koga, Yoshimasa, <unitdate>1891</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Kunz. George Frederick, <unitdate>1892</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Lounsbery, R.P., <unitdate>1892</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Low, Seth, <unitdate type="inclusive">1890-1900</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>(contains Low's letters to Egleston, as well as carbon copies of Egleston's
+                     letters to Low)</p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Mackintosh, James Buckton, <unitdate type="inclusive">1886-1887</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Macleod, John, <unitdate>1886</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>MacMartin, Arch., <unitdate>1869</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Morgan Crucible Co. Ltd., <unitdate>1895</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Morris, J.L., <unitdate>1885</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Orsat, H., <unitdate>1875</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Page, Walter T., <unitdate>1888</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Pearce, Richard, <unitdate>1874</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Pennsylvania Rail Road Co., <unitdate>1885</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Perry, R.S., <unitdate>1895</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Potter, William Bleeker, <unitdate type="inclusive">1889-1893</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Prosser, Thomas, <unitdate>1876</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Ricketts, Palmer Chamberlaine, <unitdate>1885</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Roberts-Austen, Sir William Chandler,
+                     <unitdate>1887</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Russell, Edward H., <unitdate>1894</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Schermerhorn, Frederick Augustus, <unitdate>1875</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Schmidz, A., <unitdate>1871</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Sewell, G.W., <unitdate>1886</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Slade, Frederick J., <unitdate>1871</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Sturtevant, B.F., <unitdate>1888</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Terhune, R.H., <unitdate type="inclusive">1887-1888</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Towne, Henry Robinson, <unitdate>1886</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Vanderbilt, Cornelius, <unitdate>1893</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Vultè, Hermann Theodore, <unitdate>1888</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Waldo, Leonard, <unitdate>1874</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Winslow, Griswold &amp; Holley,
+                     <unitdate>1866</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Witherbee, T.F., <unitdate>1872</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Young, Bennett Henderson, <unitdate>1886</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Young, Edward S., <unitdate>1887</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Research and Documents, <unitdate>undated</unitdate> and
+                     <unitdate>1868</unitdate>
+                    </unittitle>
+            </did>
+                <scopecontent><p>The Research and Documents series is comprised of printed material related to metallurgy that Egleston collected, as well as Egleston's professional work such as metallurgical analyses and some of his student work from his time at the Ecole Imperiale des Mines, Paris.</p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Cornwall, Henry Bedinger-- Catalogue and Description of the Freiberg
+                     Metallurgical Collection, <unitdate>1868</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Egleston, Thomas</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">Oversize</container>
+                     <unittitle>Architectural Drawings and Engravings</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">Oversize</container>
+                     <unittitle>Technical Drawings</unittitle>
+                  </did>
+                  <scopecontent><p>(created by Egleston while a student at the Ecole Imperiale des Mines,
+                        Paris)</p>
+                  </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">Oversize</container>
+                     <unittitle>Maps and Prospectuses of Iron and Coal Land in Virginia and West
+                        Virginia</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Metallurgical Analyses</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Printed Ephemera</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Metric System Materials, <unitdate type="inclusive">1893-1895</unitdate>
+                    </unittitle>
+            </did>
+                <scopecontent><p>This series consists of material arguing in favor of the United States moving to the metric system.  The series includes correspondence between Egleston and other metric advocates, as well as published pamphlets, speeches, and reports relating to the metric system and its uses and advantages. </p>
+                </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Correspondence, <unitdate type="inclusive">1893-1895</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Documents and Pamphlets Related to the Metric System</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Report of Charles W. Stone on Metric System</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Letter from the Secretary of the Treasury Regarding the Adoption of
+                        the Metric System</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>House Bill for Exclusive Use of Metric System in Customs
+                        Service</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Pamphlet-- Lord Kelvin on the Metric System</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>List of Bodies Which Have Approved the Metric System in the
+                        US</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>American Standards of Length Report on Methods and Results of the
+                        Metric System</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Pamphlet-- "The Metric System" by T.C. Mendenhall</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Speech of Charles Sumner on the Metric System</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>"Metric Coinage"-- Report to the U.S. House of
+                        Representatives</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Proceedings of the American Metrological Society,
+                           <unitdate>1873</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>International Meridian Conference, Message of President,
+                           <unitdate>1888</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Blueprints of Proposed Wire Gauge</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Proposed U.S. Standard Gauges</unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Relation of Proposed Metric and Mechanical Engineers</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Gradations for the New Decimal Gauge</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Ephemera Related to Metric System</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

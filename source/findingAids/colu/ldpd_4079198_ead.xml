@@ -1,0 +1,2529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="schema/ead_cul.nvdl" type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079198_ead//EN" mainagencycode="nnc-rb">
+            ldpd_4079198_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Louis Napoleon Parker Papers</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+                    Manuscript Library; machine readable finding aid created by Columbia University
+                    Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+                    University Libraries</publisher>
+                <date encodinganalog="Date" normal="2008-12-02">December 2, 2008 </date>
+                <address><addressline>6th Fl. East</addressline>
+                    <addressline>535 West 114th St.</addressline>
+                    <addressline>New York, NY 10027</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT
+                conversion <date normal="2008-12-02">December 2, 2008 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2008-12-02">2008-12-02</date>
+                <item>File created.</item>
+            </change>
+            <change><date normal="2009-01-13">2009-01-13</date>
+                <item>xml document instance created by Patrick Lawlor</item>
+            </change>
+            <change><date normal="2009-06-03">2009-06-03</date>
+                <item>xml document instance created by Catherine N. Carson</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Parker, Louis Napoleon, 1852-1944.</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="Louis Napoleon Parker Papers">Louis
+                Napoleon Parker Papers</unittitle>
+            <unitdate encodinganalog="245$f" normal="1869/1943" type="inclusive">1869-1943</unitdate>
+            <physdesc><extent encodinganalog="300">12.5 linear feet ( 25 document boxes)</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University.<subarea>Rare Book and Manuscript library,</subarea>
+                </corpname>
+                <address><addressline>New York, NY.</addressline>
+                </address>
+            </repository>
+            <unitid countrycode="US" repositorycode="nnc-rb" type="clio">4079198</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng">In English</language>
+                <language langcode="fre">French,</language>
+                <language langcode="ger">German,</language>
+                <language langcode="ita">Italian,</language> and <language langcode="spa">Spanish.</language>
+            </langmaterial>
+            <abstract>This collection contains the papers of Louis Napoleon Parker, an English
+                playwright, translator, and historical pageant producer active in the theater from
+                the 1890s until the early 1940s. The collection includes holograph manuscripts,
+                typescripts, and printed editions of Parker’s plays, prose and poetry; theater
+                programs and newspaper reviews; a small selection of sheet music; correspondence;
+                personal documents, including datebook-style diaries; photographs; several books
+                belonging to Parker; and his portrait in chalk by Cyril Roberts.</abstract>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p><!-- BIOGHIST REQUIRED -->Louis Napoleon Parker (1852-1944) was a popular and
+                successful mainstream English playwright, producer of historical pageants, and
+                musician, as well as a prolific translator of drama in French and Italian. A
+                contemporary of George Bernard Shaw, Henry Arthur Jones, Arthur Wing Pinero and J.M.
+                Barrie, Parker saw his plays performed by some of the finest actors of his day,
+                including Sir Herbert Beerbohm Tree, Mrs. Patrick Campbell, and E.S. Willard. His
+                historical pageants were attended by English people of all socioeconomic
+                backgrounds, from the villagers of Warwick to the nobility. </p>
+            <p><!-- BIOGHIST REQUIRED -->Parker, born at Luc-sur-Mer in Calvados, France to an
+                Englishwoman, Elizabeth Moray, and an American, Charles Albert Parker, spent his
+                childhood in several European countries; his first language was Italian, and he
+                spoke, read and wrote in at least French and German as well. At seventeen, his
+                parents sent Parker to the Royal Academy of Music, then under the direction of
+                William Sterndale Bennett. The young man began to distinguish himself as a singer,
+                pianist and organist, and in 1873 he was sent by Bennett to serve at the Sherborne
+                School in Dorset, first as locum tenens to the piano master and then as director of
+                music, a position Parker held until 1892. Parker greatly increased both the musical
+                achievement and the profile of the school, while composing his own music, including
+                three cantatas and a set of school songs for Sherborne. During his time in
+                Sherborne, Parker became an early member of the original Wagner Society, and later
+                served as president of the organization that succeeded it. </p>
+            <p><!-- BIOGHIST REQUIRED -->In 1878 Parker was married to Georgiana Bessie Calder
+                (c.1853-1919), the daughter of a Sherborne merchant; they had two daughters, Elsa
+                (whom Parker nicknamed “Toby”) and Dorothy (whom he called “Tommy”). Dorothy became
+                an actress, starring in the very successful American production of her father's
+                comedy <title render="italic">Pomander Walk.</title> 
+         </p>
+            <p><!-- BIOGHIST REQUIRED -->Parker, who began to experience deafness in the early
+                1890s, left both Sherborne and his music and teaching careers in 1892, though he
+                remained a member of the Royal Academy of Music until the end of his long life. </p>
+            <p><!-- BIOGHIST REQUIRED -->After leaving Sherborne, Parker turned to London and to the
+                theater. He already had some experience as a playwright and also as a translator of
+                European drama; indeed, Parker's 1889 edition of Henrik Ibsen's <title render="italic">Rosmersholm,</title> along
+                with William Archer's series of translations, had helped to introduce Ibsen to the
+                English-speaking world. Though Parker's own plays display nothing like Ibsen's
+                versions of realism, the translation shows the extent to which Parker understood
+                contemporary developments in the theater. Parker's own theatrical career began
+                slowly, but collaborations with Murray Carson (who occasionally used the pseudonym
+                Thornton Clark), including <title render="italic">Gudgeons</title> (1893) and <title render="italic">Rosemary, That's for Remembrance</title>
+                (1896) brought him a measure of popularity in both England and the United States.
+                Especially successful were Parker's plays <title render="italic">The Cardinal</title> (1903), <title render="italic">Disraeli</title> (1911),
+                <title render="italic">Drake</title> (1912), <title render="italic"> Joseph and his Brethren</title> (1913), and (with W. W. Jacobs) <title render="italic">Beauty
+                and the Barge</title> (1904), and "Pomander Walk" (1910). Parker also produced a number of
+                dramatic adaptations of novels and stories, including <title render="italic">David Copperfield (The
+                Highway of Life),</title> 
+            <title render="italic">Cyrano de Bergerac,</title> and Jacobs's story <title render="italic">The Monkey's Paw.</title> His
+                translations include plays by Louis Tiercelin, Ludwig Fulda and Edmond Rostand. Many
+                of Parker's plays were successfully staged at His Majesty's Theatre by Sir Herbert
+                Beerbohm Tree, but they often traveled to America, as the programs and reviews in
+                this collection from Boston and New York show. <title render="italic">The Cardinal</title> received several
+                productions in Italy, as well, and <title render="italic">Beauty and the Barge</title> traveled to Germany (as <title render="italic">Das
+                Herz auf der Hand</title>). </p>
+            <p><!-- BIOGHIST REQUIRED -->In 1905, Parker created his first historical pageant, at
+                his former home town of Sherborne. At Sherborne, nine hundred participants produced
+                seven performances so successfully that Parker was quickly besieged by requests from
+                other towns. Over the next five years, he created large-scale pageants for Warwick,
+                Bury St. Edmunds, Colchester, York, and Dover. Parker's pageants, usually conducted
+                outdoors and involving a high degree of spectacle, celebrated official English
+                history and values. Indeed, Parker was himself intensely pro-English, and he became
+                a British subject in 1914, just before World War I began. </p>
+            <p><!-- BIOGHIST REQUIRED -->Parker spent many of his later years in Devon. He continued
+                writing, producing the screenplay <title render="italic">Nelson</title> for the “talkies” and occasional verse. His
+                play <title render="italic">Disraeli,</title> starring George Arliss, was produced as a film in 1936. Parker died
+                at Bishopsteignton, in Devon, on 21 September 1944. </p>
+            <p><!-- BIOGHIST REQUIRED -->Many of Parker's plays were not published, and he did not
+                retain manuscripts after typed copies were made; for this reason, the typescripts
+                and manuscripts included in this collection are often the only known copies of the
+                works. Parker's daughters, and then his grandson, Anthony Parker Tull, used these
+                volumes when administering the literary estate.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>The Papers include an apparently complete collection of Parker's plays, many of which
+                remain unpublished; most are typescripts bound especially for Parker, though some of
+                the plays are in manuscript, and a very few are unbound. A number of these play
+                scripts are annotated in Parker's hand, and some are bound with programs, newspaper
+                clippings, and, in a few instances, with production photographs. Printed copies of
+                several of Parker's plays are also included. The Papers also contain volumes of
+                Parker's light verse and prose; his correspondence, datebook-style diaries and other
+                personal documents; programs for productions of nearly all of Parker's plays; and
+                newspaper clippings (generally contemporary reviews). The collection is completed by
+                two small series: books owned by Parker, mostly presentation copies, and
+                photographs. The Papers also include a portrait of Parker, in chalk, by Cyril
+                Roberts.</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>The Papers are arranged by genre and by medium, alphabetically: <list type="marked">
+                    <item>Series I: Correspondence, 1887-1943</item>
+                    <item>Series II: Personal Material, 1879-1942 <list type="marked">
+                            <item> Sub-series I.1: Diaries, 1897-1941</item>
+                            <item>Sub-series I.2: Other Personal Material, 1879-1942</item>
+                        </list>
+                    </item>
+                    <item> Series III: Writings, 1869-1941</item>
+                    <item> Series IV: Other Professional Work, 1907-1937 <list type="marked">
+                            <item>Sub-series IV.1: Sheet Music, undated</item>
+                            <item>Sub-series IV.2: Theater-related Material, undated-1918</item>
+                        </list>
+                    </item>
+                    <item>Series V: Programs, Clippings and Posters, 1888-1939</item>
+                    <item> Series VI: Photographs, 1876-1933</item>
+                    <item>Series VII: Books, 1881-1937</item>
+                </list>
+            </p>
+        </arrangement>
+        <controlaccess><head>Subjects</head>
+            <corpname encodinganalog="610">Longman (Firm)</corpname>
+            <persname encodinganalog="600">Allotte de la Fuÿe, Marguerite, b. 1874.</persname>
+            <persname encodinganalog="600">Archer, William, 1856-1924.</persname>
+            <persname encodinganalog="600">Barrie, J. M. (James Matthew), 1860-1937.</persname>
+            <persname encodinganalog="600">Bonaparte, François-Charles-Joseph, Herzog von
+                Reichstadt, 1811-1832.</persname>
+            <persname encodinganalog="600">Carson, Murray.</persname>
+            <persname encodinganalog="600">Child, Harold Hannyngton, 1869-1945.</persname>
+            <persname encodinganalog="600">Disraeli, Bejamin, Earl of Beaconsfield, 1804-1881.</persname>
+            <persname encodinganalog="600">Fleming, George, 1858-1938.</persname>
+            <persname encodinganalog="600">Graves, Alfred Perceval, 1846-1931.</persname>
+            <persname encodinganalog="600">Irving, Henry, Sir, 1838-1905.</persname>
+            <persname encodinganalog="600">Jacobs, W. W. (William Wymark), 1863-1943.</persname>
+            <persname encodinganalog="600">Jones, Henry Arthur, 1851-1929.</persname>
+            <persname encodinganalog="600">Joseph--(Son of Jacob)--In literature.</persname>
+            <persname encodinganalog="600">Langtry, Lillie, 1853-1929.</persname>
+            <persname encodinganalog="600">Kipling, Rudyard, 1865-1936.</persname>
+            <persname encodinganalog="600">Mansfield, Richard, 1857-1907.</persname>
+            <persname encodinganalog="600">Maugham, W. Somerset (William Somerset), 1874-1965.</persname>
+            <persname encodinganalog="600">Medici, House of--Drama.</persname>
+            <persname encodinganalog="600">Pain, Barry, 1864-1928.</persname>
+            <persname encodinganalog="600">Parker, Louis Napoleon, 1852-1944.</persname>
+            <persname encodinganalog="600">Scott, Clement, 1841-1904.</persname>
+            <persname encodinganalog="600">Sinclair, May.</persname>
+            <persname encodinganalog="600">Tree, Herbert Beerbohm, Sir, 1853-1917.</persname>
+            <persname encodinganalog="600">Wagner, Richard, 1813-1883.</persname>
+            <persname encodinganalog="600">Ward, Humphry, Mrs., 1851-1920.</persname>
+            <persname encodinganalog="600">Wells, H. G. (Herbert George), 1866-1946.</persname>
+            <geogname encodinganalog="651">United States--Description and travel.</geogname>
+            <subject encodinganalog="650">Actors.</subject>
+            <subject encodinganalog="650">Dramatists.</subject>
+            <subject encodinganalog="650">Theatrical producers and directors.</subject>
+            <subject encodinganalog="650">Drama.</subject>
+            <subject encodinganalog="650">Pageants--England--Bury St. Edmunds.</subject>
+            <subject encodinganalog="650">Pageants--England.</subject>
+            <subject encodinganalog="650">Pageants--England--Colchester.</subject>
+            <subject encodinganalog="650">Pageants--England--Dover.</subject>
+            <subject encodinganalog="650">Pageants--England--Sherborne.</subject>
+            <subject encodinganalog="650">Pageants--England--Warwick.</subject>
+            <subject encodinganalog="650">Pageants--England--York.</subject>
+            <subject encodinganalog="650">Theater--United States.</subject>
+            <subject encodinganalog="650">Theater--England.</subject>
+            <subject encodinganalog="650">World War, 1914-1918--Drama.</subject>
+            <subject encodinganalog="650">World War, 1914-1918--Poetry.</subject>
+            <genreform encodinganalog="655" source="ftamc">Diaries.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Playbills.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Scripts.</genreform>
+            <occupation encodinganalog="656" source="lcsh">Dramatists, English.</occupation>
+            <occupation encodinganalog="656" source="lcsh">Composers.</occupation>
+            <occupation encodinganalog="656" source="lcsh">Poets, English.</occupation>
+            <occupation encodinganalog="656" source="lcsh">Translators.</occupation>
+        </controlaccess>
+        <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>This collection is located off-site. You will need to request this material at least
+                twenty-four (24) hours in advance to use the collection in the Rare Book and
+                Manuscript Library Reading Room. Please consult the Rare Book and Manuscript Library
+                for further information. </p>
+            <p>This collection has no restrictions.</p>
+        </accessrestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>1975 M-75 Lohf, Kenneth A. Gift </p>
+            <p>03/23/93 15 boxes added containing mostly typescripts of his plays Edwards,
+                Christopher Purchase</p>
+        </acqinfo>
+        <custodhist encodinganalog="561">
+            <p>Gift of Kenneth A. Lohf, 1975. </p>
+            <p>Purchase, 1993.</p>
+        </custodhist>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known); Louis Napoleon Parker Papers, Box
+                and Folder; Rare Book and Manuscript Library, Columbia University</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Cataloged 08/--/89 Christina Hilton Fenn </p>
+            <p>Finding aid written by Jennifer Buckley 2007 </p>
+            <p>15 boxes added containing mostly typescripts of his plays Entered in AMC 11/02/93</p>
+        </processinfo>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Single photocopies may be made for research purposes. Permission to publish material
+                from the collection must be requested from the Curator, Rare Book and Manuscript
+                Library (RBML). The RBML approves permission to publish that which it physically
+                owns; the responsibility to secure copyright permission rests with the patron.</p>
+        </userestrict>
+        <otherfindaid encodinganalog="555">
+            <p>Finding aid in repository; folder level control.</p>
+        </otherfindaid>
+        <dsc><c level="series">
+                <did><unittitle>Series I: Correspondence, 1887-1943.</unittitle>
+                </did>
+                <scopecontent><p>This series consists of letters, telegrams and postcards written to and from
+                        Parker throughout his long professional life. The series includes
+                        correspondence from a number of prominent figures in the late nineteenth and
+                        early twentieth century literary and theatrical spheres, including William
+                        Archer, Hermann Bahr, J.M. Barrie, Harold Child, John Drew, John Drinkwater,
+                        Edouard Dujardin, Charles Frohman, Harry Furniss, Constance Fletcher
+                        (pseudonym George Fleming), Marguerite Allotte de le Fuÿe, Alfred Percival
+                        Graves, Alexander Hevesi, Laurence Irving, William Wymark Jacobs, Henry
+                        Arthur Jones, Rudyard Kipling (half a page of a letter survives), Edward
+                        Knoblock, the publishers John Lane and R.G. Longman, Marie Lohr, Lillie
+                        Langtry, Percy Macquoid, Richard Mansfield, A.E.W. Mason, Cyril Maude, W.S.
+                        Maugham, Justin H. McCarthy, William Millington, Frédéric Mistral, Ernest
+                        Newman, Barry Pain, Gilbert Parker, Edward Linley Sambourne, Clement Scott,
+                        Arthur Shirley, George R. Sims, May Sinclair, Douglas Sladen, Henry de Vere
+                        Stacpoole, Fred Terry, Julia Nielsen Terry, Phyllis Terry, Louis Tiercelin,
+                        Maud Tree, Viola Tree, Sir Herbert Beerbohm Tree, Frederick Herbert Trench,
+                        Mary A. (Mrs. Humphry) Ward, Herbert Waring, Arthur Waugh, H.G. Wells, and
+                        E.S. Willard.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>A</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>B</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Bright, R. Golding</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>C</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>D</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>E</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>F</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Fletcher, Constance</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>de la Fuÿe, Marguerite Allotte</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>G</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Graves, Alfred Percival</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>H</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Harrison, Mary B.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>I</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>J</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>Jacobs, William Wymark</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>Jones, Henry Arthur</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">18</container>
+                        <unittitle>K</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">19</container>
+                        <unittitle>L</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">20</container>
+                        <unittitle>Lohr, Marie</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">21</container>
+                        <unittitle>Longman, Robert Guy</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">22</container>
+                        <unittitle>M</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">23</container>
+                        <unittitle>Mackenzie, Alexander, Sir</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">24</container>
+                        <unittitle>N</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">25</container>
+                        <unittitle>O</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>P</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Parker, Louis Napoleon</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>R</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>S</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>T</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Tiercelin, Louis</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Tree, Herbert Beerbohm, Sir</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>U</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>V</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>W</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Willard, Edward Smith</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>XYZ</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Anonymous</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Postcards</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series II: Personal Material, 1879-1942.</unittitle>
+                </did>
+                <scopecontent><p>This series contains Parker’s diaries and personal documents such as
+                        passports and financial records.</p>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries II.1: Diaries, <unitdate type="inclusive">1897-1941</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>These date-book-style diaries include little information about Parker’s
+                            personal life; however, they give very detailed information about which
+                            projects Parker was working on during the time periods the entries
+                            cover.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Every Hour Diary, <unitdate>1897</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Every Hour Diary, <unitdate>1898</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Every Hour Diary, <unitdate>1900</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Every Hour Diary, <unitdate>1902</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Every Hour Diary, <unitdate>1906</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Every Hour Diary, <unitdate>1908</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Every Hour Diary, <unitdate>1908</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Daily Diary, <unitdate>1922</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Every Hour Diary, <unitdate>1926</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Every Hour Diary, <unitdate>1931</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Every Hour Diary, <unitdate>1934</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Subseries II.2: Other Personal Material, <unitdate type="inclusive">1879-1942</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>Two of Parker’s passports are included in this sub-series, as well as
+                            signed guest books, menus for dinners given in Parker’s honor; and
+                            ephemera such as tickets and wedding and funeral programs. Included here
+                            is a portrait of Parker, in chalk (25” by 19”), by Cyril Roberts, dated
+                            1920, located in map case 14-16-04.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Passports</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle> "Louis N. Parker Dinner and Presentation, Hyde Park Hotel,
+                                March 9, 1919,"</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle> "York Historic Pageant, 1909. Presentation to Louis N.
+                                Parker, Esq. (List of Subscribers)"</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Menus, <unitdate type="inclusive">1910-1919</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>General Printed Material, undated, <unitdate type="inclusive">1896-1911, </unitdate>
+                                <unitdate>1922,
+                                </unitdate>
+                                <unitdate>1942</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Map Case">14-16-04</container>
+                            <unittitle>Portrait of Parker, in chalk, by Cyril Roberts (25"x19"),
+                                1920.</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series III: Writings, 1869-1941.</unittitle>
+                </did>
+                <scopecontent><p>This series consists of an apparently complete collection of Parker’s plays,
+                        many of which remain unpublished; most are typescripts bound especially for
+                        Parker in half-morocco, with the spine of each volume lettered in gilt,
+                        though some of the plays are in manuscript, and a very few are unbound. A
+                        number of these play scripts are annotated in Parker’s hand, and some are
+                        bound with programs, newspaper clippings, and, in a few instances, with
+                        production photographs. Printed copies of several of Parker’s plays are also
+                        included; those intended for private circulation are shelved with the
+                        Papers, while editions are shelved in Rare Books. The series also contains a
+                        large holograph volume of Parker’s light verse, entitled <title render="italic">Trifles Light as Air,</title> and a hand-illustrated
+                        book of poetry and prose, called <title render="italic">Rhymes by
+                        L.N.P.</title> A bibliography of the published editions of Parker’s
+                        writings, which have been integrated into the Rare Books Library, is
+                        included at the beginning of this series.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">The Abyss</title>. A Play in Three Acts
+                            and an Epilogue by Parker, <unitdate>1931 January
+                        15</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">All Hallows Eve</title>. A Play in Four
+                            Acts by Parker, <unitdate type="inclusive">1894
+                            November-December</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Angelo</title> (alternate title <title render="italic">The Amazing Story of Maestro Angelo</title> ). A
+                            Play in a Prologue and Three Acts, [1923]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">The Aristocrat</title>. A Play in Three
+                            Acts by Parker, <unitdate>1916</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">Baldur</title>. A Lyrical drama in four
+                            acts by Una Ashworth Taylor. Set to music by Parker,
+                            <unitdate>1883</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">Beauty and the Beast</title>. A Play by
+                            François Porché. Paraphrased by Parker,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">The Beggar Queen</title>. A Play in Three
+                            Acts, by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">The Brotherhood of the Rose</title>. A
+                            Play in Three Acts by Rudolph Lothar, <unitdate>1905 August
+                            28</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">The Cardinal</title>. A Play in Four Acts
+                            by Parker, [1903]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Chamillac</title>. A Comedy in Four Acts
+                            by Octave Feuillet Adapted by Parker,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Chanticleer</title>. A Play in Four Acts
+                            by Edmond Rostand Paraphrased by Parker,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">Chanticleer</title>. A Play in Four Acts
+                            by Edmond Rostand Paraphrased by Parker,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">"Chris"</title> A Realistic Play in Three
+                            Acts by Parker, <unitdate>1888 November 9</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Chris</title>. A New and Original Play in
+                            Three Acts, Parker, [1892]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Comrades</title> by Parker I,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Comrades</title> by Parker. VII-End,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">Danton</title>. A Play in Five Acts. Acts
+                            I and II by Parker and Hilaire Belloc,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">David</title>. A Play in Four Acts; <title render="italic">The BlueBoar</title>. A Farce in 3 Acts by Parker
+                            and Thornton Clark, undated, [1894]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">David Garrick</title>. A new Version of an
+                            Old Play by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">The Deliverer</title>. A Biblical Play in
+                            Five Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Disraeli</title>. A play in four Acts by
+                            Parker, <unitdate>1916</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">The Diversions of an Empress</title>. A
+                            Drama in a Prologue, Four Acts and an Epilogue, by Max Dauthendey.
+                            Paraphrased by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">Drake</title>. A Pageant-Play in Three
+                            Acts and an Epilogue by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">Drake</title>. Epilogue,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">The Duel</title>. A Play in Three Acts by
+                            Henri Lavedan. Translated by Parker,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Everybody's Secret</title>. A Comedy in
+                            Three Acts, [1905]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle> "For the League of Mercy," <unitdate>1922</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Gudeons</title> (alternate title <title render="italic">The Compleat Angler</title> ). An Original Comedy in
+                            Three Acts by Thornton Clark and Parker; <title render="italic">Peronella</title>. A Play in One Act by Thornton Clark and Parker,
+                            undated, <unitdate>1893 February</unitdate> 13.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">The Hand of the Latch,
+                        </title>undated.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Happy Life</title>. A Comedy in Four
+                            Acts. By Parker, 1897-1902.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">Harlequin</title>. A Play in Two Dreams
+                            and Three Acts by Maurice Magre. Freely Translated by Parker. Music by
+                            André Gailhard, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">"Harlequin"</title>. A Comedy in Four Acts
+                            by Rudolph Lothar, [1906]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">The Heel of Achilles</title>. A Play in
+                            Five Acts by Parker and Boyle Lawrence,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle><title render="italic">The Highway of Life Being the Personal
+                                History of David Copperfield</title> by Charles Dickens. Made into a
+                            Play in Four Acts by Parker, [1914]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">The House</title>. A Play in Three Acts by
+                            Georges Mitchell Adapted by Parker,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Illusions</title>. A Play in Three Acts by
+                            Henri Bernstein Adapted by Parker,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">The Jest</title>. A Play in Four Acts. By
+                            Parker and Murray Carson, [1898]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">John Bletchley's Wife</title>. A Play in
+                            Four Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">King Henry</title> (alternate title <title render="italic">Bluff King Hal</title> ). A Play in Three Acts by
+                            Parker, <unitdate>1913</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">The Labourer</title>. A play in Four Acts
+                            by Parker and Addison Bright, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">The Lady of Coventry</title>. A Play in
+                            Four Acts by Parker, [1911]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">The Lady of the Manor (La
+                            Chatelaine)</title>. A Comedy in Four Acts by Alfred Capus. Freely
+                            translated by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">The Lady of the Skymy Hill</title>.
+                            Undated.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Lancelot (Sir Lancelot of the
+                            Lake)</title>. A Tragedy in Five Acts By Parker,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">The Lily of France</title>. A Play in Five
+                            Acts By Parker (First Version), <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Lord of Death</title>. A Play in a
+                            Prologue and Three Acts by Marguerite Allotte de la Fuÿe. Translated by
+                            Parker, [1909]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">Lorna Doone</title>. A Romance of Exmoor.
+                            By R.D. Blackmore. Arranged for the Stage by Parker,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">The Lost Duchess</title>. A Comedy in
+                            Three Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">Lourdes</title>. A Play in Three Acts by
+                            Parker, <unitdate>1917</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Love in Idleness, </title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">The Love Knot</title>. An Original Play in
+                            Four Acts. By Parker, <unitdate>1888 March 16</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Magda (Heimat)</title>. A Play in Four
+                            Acts by Hermann Sudermann, translated by Parker, [1900]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">La Main de Singe</title>. Conte Dramatique
+                            en Trois Tableaux. Parker and W.W. Jacobs. Adaptation de Robert Nunès,
+                                <unitdate>1905</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">Marika</title>. A Comedy in Three Acts by
+                            István Zágon. Translated by Parker,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">Marion</title>. A Play in Three Acts
+                            Founded on Theodore Winthrop's Novel "Cecil Dreeme" by Louis Calvert and
+                            Parker, <unitdate>1876?</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Mavourneen</title>. The Irish Maid. A
+                            Comedy in Four Acts by Parker, <unitdate>1914</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Mavourneen</title>. A Comedy in Three Acts
+                            by Parker, [1915]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">The Mayflower</title>. A Play in Three
+                            Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle> "A Minuet," <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Moon Looks On</title>. A Comedy in
+                            Three Acts by Nino Berrini. Translated by Parker,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">Mr. George</title>. A Comedy in Four Acts
+                            by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">My Son's Wife</title> (alternate title
+                                <title render="italic">My Daughter-In-Law</title> ). A Comedy in
+                            Three Acts by Fabrice Carré and Paul Bilhaud.,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Nelson</title>. A Screen-play by Parker,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Nelson</title>. Part II,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">The Nut Brown Maid</title>. Synopsis of
+                            Plot, <unitdate>1902 December</unitdate> 18.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">One Act Plays, I</title>. Includes <title render="italic">The Spell-Bound Garden</title>. A Masque by Parker
+                            and Murray Carson; <title render="italic">On the Road</title> by James
+                            Houston; <title render="italic">The Sacramant of Judas</title>. A Play
+                            in One Act by Louis Tiercelin. Translated by Parker; <title render="italic">The Creole</title>. A Play in One Act by Parker;
+                                <title render="italic">"Jemmy"</title>." A Play in One Act by
+                            Parker; <title render="italic">"The Monkey's Paw</title> A Story in
+                            Three Scenes by W.W. Jacobs. Dramatised by Parker; <title render="italic">Squire Coe of West Row</title> ; <title render="italic">The Sheriff and the Woman</title>. A Play in One Act
+                            by Parker, <unitdate type="inclusive">1889-1906</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">One Act Plays, II</title>. Includes <title render="italic">"The Sequel"</title> A Play in One Act by Parker;
+                                <title render="italic">Reply Paid</title> ; <title render="italic">A
+                                Private Rehersal</title> ; <title render="italic">The Agony Column,
+                            </title>A Duologue by Parker; <title render="italic">A Literal
+                                Interpretation</title> ; <title render="italic">Mrs. Mainwaring
+                                Regrets</title> (alternate title, <title render="italic">Mrs.
+                                Mainwaring Makes Up Her Mind</title> ). A Monologue by Parker;
+                                <title render="italic">The Tame Cat</title>. A Commedia in One Act
+                            by Parker; <title render="italic">The Ordeal of Shirley Malpas,
+                            </title>A Play in One Act by Parker, undated, <unitdate type="inclusive">1893-1895</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">One Act Plays, III</title>. Includes
+                                <title render="italic">A North Pole</title>. A Play in One Act by
+                            Louis Tiercelin. Translated by Parker; <title render="italic">The Masque
+                                of War and Peace</title> by Parker; <title render="italic">On The
+                                Road</title>. By James Houston; <title render="italic">Mpnsieur
+                                D'Artagnan</title>. A Play in One Act by Parker,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Once Upon A Time</title> (alternate title
+                                <title render="italic">The King's New Clothes</title> ). A Comedy in
+                            Four Acts by Ludwig Fulda. Freely done into English by Parker. 24
+                            December <unitdate>1893 December 24</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">The Pageant of Freedom</title>. By Parker,
+                                <unitdate>1918</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">The Paper Chase, </title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">The Pilgrim of Love</title>. A Play in
+                            Four Acts by Edmond Rostand. Done into English by Parker,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Pilgrim of Love</title>. A Play in
+                            Three Acts by Parker, April <unitdate>1901 April
+                        21</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">The Pirate</title>. A Farce in Three Acts
+                            by Parker, <unitdate>1917</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">A Play</title> (alternate title <title render="italic">The Great Day</title> ). In Five Acts,
+                                <unitdate>1919 July</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">Playing With Fire</title>. A Comedy in
+                            Three Acts by Roberto Bracco, Translated by Parker,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Pomander Walk</title>. A Comedy in Three
+                            Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle> "A Prologue to be Spoken by Dorothy Parker on the Occasion of
+                            the Performance by Children of Pomander Walk for the Benefit of Saint
+                            Mary's Hospital for Children New York,"
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Queen O' the Dials, </title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">Queen Victoria</title>. A Play in Five
+                            Acts by Parker, [1923]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">Queen Victoria</title>. By Parker,
+                        [1923]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">Queen Victoria</title>. A Play in Five
+                            Acts by Parker, [1923]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">Queen Victoria</title>. A Play in Five
+                            Acts by Parker, [1923]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle> "Queen Victoria." Speech and related notes,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Ragged Robin</title>. A Play in Four Acts.
+                            Freely Adapted from Jean Richepin's <title render="italic">Le
+                            Chemineau</title> by Parker, <unitdate>1898 January
+                        12</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Rhymes By L.N.P.</title>., Vol. I.
+                            Whereunto is added moreover: "Prose by L.N.P.",
+                            <unitdate>1869</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Richard Lion-Heart</title>. A Romance in
+                            Three Acts and an Interlude by Parker,
+                        <unitdate>1917</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">The Right Hand of the Prince</title>. A
+                            Play in Three Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">Riposte! (Francillon)</title>. A Play in
+                            Three Acts by Alexandre Dumas, fils, Adapted by Parker,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">A Rogue's Wife</title>. A Play in Three
+                            Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">Rosemary, That's For Remembrance</title>.
+                            A Comedy in Four Acts by Parker and Murray Carson, <unitdate>1895 June
+                                16</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">Rosemary</title>. "New Epilogue,"
+                                <unitdate>1902 May 27</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle><title render="italic">Rosemary</title>. Act IV,
+                            <unitdate>1903</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Rosemary</title>. Prompt copies: William,
+                            Abraham, Miss Minifie, Mrs. Cruikshank, Sir Jasper Thorndike, Crowd,
+                            Captain Cruikshank, Priscilla (Act II), Dorothy Cruikshank, Professor
+                            Jogram, Waiter, George Minifie, Stilt-Walker, <unitdate type="inclusive">1902-1903</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">The Scarament of Judas</title>. A Play in
+                            Three Acts by Louis Tiercelin. Translated by Parker, [1899]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">The Sacrament of Judas</title>. A Play in
+                            Three Acts by Louis Tiercelin. Translated by Parker,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle> "The Sad Case of Mrs. Bundock,"
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Scoffer</title>. A Thirteenth Century
+                            Dramatic Farce in Four Acts by Nino Berrini. Translated by Parker,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">The Sea Robber</title>. A Comedy in Four
+                            Acts by Ludwig Fulda. Freely Translated by Parker, <unitdate>1913
+                                February 12</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">The Shipbuilder</title>. A Play in Four
+                            Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">Shocks</title>. A Story by Algernon
+                            Blackwood. Retold in dialogue by Parker. St. Valentine's Day
+                                <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle><title render="italic">Sir Lancelot of the Lake</title>. A Play
+                            in Five Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">The Smiling Dawn</title>. A Play in Four
+                            Acts, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">The Sparrow</title>. A Comedy in Four
+                            Acts, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">The Stepney Children's Pagent</title>
+                            (Prologue), <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">Summer Is A Comin' In</title> (alternate
+                            title <title render="italic">Summertime</title> ). A Comedy in Three
+                            Acts, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Swashbuckler, </title>A Romantic Farce
+                            in Four Acts, [1900]</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">The Syren</title>. An Original Play in
+                            Three Acts, <unitdate>1894 January 29</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">That Mrs. Winslowe</title>. A Story by
+                            Algernon Blackwood. Retold as a Comedy in Two Scenes,
+                            <unitdate>1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle><title render="italic">Trifles Light As Air, </title>
+                            <unitdate type="inclusive">1887-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Tristan and Isolde</title>. Wagner.
+                            Roughly translated for the benefit of the Parsifal Pilgrims,
+                                <unitdate>1886</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">The Turmoil</title>. A Play in Three Acts
+                            by A.I. Theix. Adapted by Parker, <unitdate>1891 October
+                        26</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">The Twin Sisters</title>. A Comedy in Four
+                            Acts by Ludwig Fulda. Parker, <unitdate>1901 October
+                        14</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">The Two Miss Romains</title>. A Play in
+                            Three Acts by Marguerite Allotte de La Fuÿe,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">The Two Queens</title>. The Story of the
+                            Play, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Untitled Manuscripts, undated, <unitdate type="inclusive">1924-1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">The Vagabond King</title>. A Play in Four
+                            Acts by Parker, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Vicar of Wakefield</title>. By Oliver
+                            Goldsmith. Made into a Play in Five Acts by Parker,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">The Wages of Sin</title>. A Play in Four
+                            Acts. (Founded on the Novel) by Lucas Malet and Parker,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">The Walled Garden</title>. Words for
+                            Music, <unitdate>1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">The Werewolf</title>. A Tale by Algernon
+                            Blackwood. Dramatized by Parker,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle><title render="italic">The Wild Colleen</title>. A Comedy in
+                            Three Acts by Parker, <unitdate>1915</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle><title render="italic">A Woman's Battle</title>. A Play in Three
+                            Acts. By Maurice Soulié and Louis Marsolleau. Adapted by Parke,
+                                <unitdate>1904</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series IV: Other Professional Work, <unitdate type="inclusive">1907-1937</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent><p>This series contains printed material of various genres produced by or used
+                        by Parker, including the financial records of three productions and the
+                        property plot for one play, sheet music, typescripts of plays in French, and
+                        newspaper clippings.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Financial records: "Balance Sheet, Bury, Warwick," <unitdate>1907</unitdate>
+                            <title render="italic">Disraeli,
+                        </title>
+                            <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle> "Louis N. Parker's Plays Available for the Screen,"
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Lourdes</title> : Property plot, undated,
+                            and Library of Congress registration card,
+                        <unitdate>1917</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Subseries IV.1: Sheet music,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>This sub-series includes three pieces of music by Parker; “Hunting Song”
+                            and <title render="italic">A Pageant Dance</title> are in fair
+                            condition; one untitled piece is in poor condition, and so is
+                            fragmentary.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle> "Hunting Song," <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Map Case">14-L-1</container>
+                            <unittitle><title render="italic">A Pagent Dance</title> (oversized),
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Untitled (had been loosely placed in <title render="italic">One Act Plays, I</title>.)</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Subseries IV.2: Theater-related Materials, undated,
+                                <unitdate>1918</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>Included here are typescripts of French plays by Marguerite Allotte de la
+                            Fuÿe and Victorien Sardou and Emile Moreau, which Parker may have
+                            intended to translate at some point. There is also a large file of
+                            newspaper clippings related to the 1918 libel suit brought by the
+                            actress and dancer Maud Allan against Noel Pemberton Billings, regarding
+                            public accusations made about Allan’s sexual orientation and political
+                            allegiances arising from her appearance in a London production of Oscar
+                            Wilde’s Salomé. This file contains an unsigned, undated typed article or
+                            speech about the trial and its outcome, possibly authored by Parker.</p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>de la Fuÿe, Marguerite Allotte. <title render="italic">Bethsabee, </title>
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Sardou, Victorien and Emile Moreau. <title render="italic">Mdme Tallien, </title>
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Noel Pemberton Billings libel trial file,
+                                <unitdate>1918</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series V: Programs, Clippings and Posters, <unitdate type="inclusive">1889-1939</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent><p>Theater programs for productions of nearly all of Parker’s plays are included
+                        in this series, as well as newspaper clippings (generally contemporary
+                        reviews). The programs are arranged alphabetically by play title; the names
+                        of the theaters that staged the productions are included in the finding aid
+                        entry after the play title. The production titles of several plays differ
+                        from those Parker originally gave them; in such cases the programs are filed
+                        according to Parker’s title, with alternate titles indicated in
+                    parentheses.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Actors' Church Union Hostel Memorial Appeal Matinee: Bristol
+                            Hippodrome, <unitdate>1918 October 26</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">Agatha</title> : His Majesty's Theatre,
+                                <unitdate>1905 March</unitdate> 6-7</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">L'Aiglon</title> : Knickerbocker Theatre
+                            and The Globe Theatre, <unitdate>1900,
+                            </unitdate>
+                            <unitdate>1918</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">Angelo</title> (alternate title <title render="italic">Johannes Kreisler</title> ): Theatre Royal Drury
+                            Lane, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Aristocrat, </title>
+                            <unitdate>1922</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Map Case">14-L-1</container>
+                        <unittitle><title render="italic">Beauty and the Barge</title> : Wallack's;
+                                <title render="italic">Daz Herz Auft Der Hand,
+                                </title>
+                            <unitdate>1913</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">The Blue Boar</title> : Terry's Theatre
+                            and Royal Court Theatre Liverpool,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">The Brighter Side</title> Knickerbocker
+                            Theatre, <unitdate>1905 February 6</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle><title render="italic">The Bugle Call</title> : Theatre Royal
+                            Haymarket, <unitdate>1899 November 23</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle><title render="italic">Buried Talent</title> : St. Anselm's,
+                            Streatham, <unitdate type="inclusive">1891 November
+                        24-25</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle><title render="italic">Bury St. Edmund's Pageant, </title>"Woeful
+                            Ballad of King Sweyn," <unitdate type="inclusive">1907 July
+                            8-13</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Map Case">14-L-1</container>
+                        <unittitle><title render="italic">The Cardinal</title> : Princess Theatre,
+                            Academy of Music, Garden Theatre, St. James's Theatre London, Opera
+                            House Tunbridge Wells, Bristol's Little Theatre, Pavilion Theatre
+                            Weymouth, Teatro Manzoni, undated, <unitdate type="inclusive">1901-1904,
+                                </unitdate>
+                            <unitdate>1926,
+                        </unitdate>
+                            <unitdate>1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle><title render="italic">Change Alley</title> : Garrick Theatre,
+                                <unitdate>1899 April 25</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle><title render="italic">Chanticleer</title> : Theatre de le Porte
+                            Saint-Martin and Knickerbocker Theatre, <unitdate type="inclusive">1910-1911</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle><title render="italic">"Chris"</title> (alternate titles <title render="italic">A Broken Life</title> and <title render="italic">Captain Birchell's Luck</title> ): Vaudeville Theatre, Grand
+                            Theatre London, The Grand Theatre Islington, Terry's Theatre, <unitdate type="inclusive">1892-1899</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle><title render="italic">The Compleat Angler</title> (alternate
+                            titles <title render="italic">Gudgeons</title> and <title render="italic">"Wonderful James!"</title> ) Garrick Theatre, Terry
+                            Theatre, Empire Theatre, New Grand Theatre, (Includes ink drawing by
+                            Arthur Devitt), <unitdate type="inclusive">1893-1897</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle><title render="italic">David</title> : The Garrick Theatre, The
+                            Daily Programme, Terry's Theatre, Royal Court Theatre Liverpool,
+                                <unitdate type="inclusive">1892-1894</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">18</container>
+                        <unittitle><title render="italic">David Garrick</title> (alternate title
+                                <title render="italic">Mr. Garrick</title> : Royal Court Theatre,
+                                <unitdate>1922 September 29</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">19</container>
+                        <unittitle><title render="italic">Disraeli</title> : Metropolitan Theatre,
+                            Knickerbocker Theatre, <unitdate type="inclusive">1914-1917</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">20</container>
+                        <unittitle><title render="italic">The Dover Pageant</title> : 25th
+                            anniversary, <unitdate>1933 January 13</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">21</container>
+                        <unittitle><title render="italic">Drake</title> : York and London Coliseum,
+                                <unitdate>1916, </unitdate>
+                            <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">22</container>
+                        <unittitle><title render="italic">The Duel</title> : Hudson Theatre,
+                                <unitdate>1906 February 19</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">23</container>
+                        <unittitle><title render="italic">An English Nosegay</title> : Apollo
+                            Theater, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">24</container>
+                        <unittitle><title render="italic">Everybody's Secret</title> and <title render="italic">The Creole</title> : Theatre Royal Haymarket,
+                                <unitdate type="inclusive">1905 March-May</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">25</container>
+                        <unittitle><title render="italic">The Happy Life</title> : Duke of York's
+                            Theatre, Parkhurst Theatre, Terry's Theatre, The Alpha Literary and
+                            Dramatic Club, undated, <unitdate>1900</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">26</container>
+                        <unittitle><title render="italic">Harlequin</title> (alternate title <title render="italic">Arlequin</title> ): Empire Theatre, <unitdate>1922
+                                December 21</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">27</container>
+                        <unittitle><title render="italic">The Heel of Achilles</title> : Globe
+                            Theatre, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">28</container>
+                        <unittitle><title render="italic">The Highway of Life</title> (alternate
+                            title <title render="italic">David Copperfield</title> ): His Majesty's
+                            Theatre, Wallack's Theatre, 1914.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">29</container>
+                        <unittitle><title render="italic">The House of Burnside</title> : Terry's
+                            Theatre, <unitdate>1904 April 28</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">30</container>
+                        <unittitle><title render="italic">The Jest</title> : Criterion Theatre,
+                                <unitdate>1888 November 10</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">31</container>
+                        <unittitle><title render="italic">Joseph and His Brethren</title> : St.
+                            Mary's Catholic Amateur Dramatic Society,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">King Henry</title> (alternate title <title render="italic">Bluff King Hal</title> : Garrick Theatre,
+                                <unitdate>1914 September 4</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle><title render="italic">The Lady of Coventry</title> : Royal
+                            Alexandria Theatre, Princess Theatre Montreal, Daly's Theatre,
+                                <unitdate>1911</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">The League of Nations, </title>
+                            <unitdate>1919 November 8</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle><title render="italic">The Lord of Death</title> : The New
+                            Theatre, <unitdate type="inclusive">1924 April
+                        6-13</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">Lourdes</title> : King's Hall at Covent
+                            Garden, <unitdate>1921 April 9</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">Love in a Mist</title> : Digby Hotel
+                            Gardens, <unitdate>1891 July</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle><title render="italic">Love in Ildeness</title> : Theatre Royal
+                            Brighton, Terry's Theatre, <unitdate type="inclusive">1896-1902</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle><title render="italic">Magda</title> : Grand Theatre Fulham,
+                            Royal Lyceum Theatre, undated, <unitdate>1896</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle><title render="italic">La Main de Singe, </title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle><title render="italic">The Man in the Street</title> : Avenue
+                            Theatre, <unitdate>1894 April 21</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle><title render="italic">The Masque of War and Peace, </title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle><title render="italic">Mavourneen</title> : His Majesty's
+                            Theatre, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><title render="italic">The Mayflower</title> : Lyceum Theatre New
+                            York, 8 The Green Room (Amateur Dramatic Society Liverpool), Theatre
+                            Metropole Camberwell, Lyceum Theatre New York, Theatre Royal Edinburgh,
+                            undated, 1897-1907. </unittitle>                       
+                    </did>
+                    <scopecontent><p>Poster for the Theatre Metropole production located
+                        in Map Case 14-L-1</p>
+                    </scopecontent>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle><title render="italic">Monsieur D'Artagnan</title> : Chelsea
+                            Palace Theatre, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle><title render="italic">Mr. George</title> and <title render="italic">"Jemmy"</title> : Vaudeville Theatre, <unitdate>1907
+                                April 25</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle><title render="italic">Once Upon a Time</title> : Theatre Royal
+                            Haymarket, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle><title render="italic">Orpheus</title> : Warwick Castle,
+                                <unitdate>July 1922</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">18</container>
+                        <unittitle><title render="italic">Our Nell</title> : Gaiety Theatre,
+                                <unitdate>1924 April 16</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">19</container>
+                        <unittitle><title render="italic">A Pageant of Fair Women</title> : Chiswick
+                            Theatre, <unitdate>1917 May</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">20</container>
+                        <unittitle><title render="italic">Pete</title> : Lyceum Theatre,
+                                <unitdate>1908 August 29</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">21</container>
+                        <unittitle><title render="italic">Pomander Walk</title> : Wallack's Theatre,
+                            Majestic Theater Brooklyn, Plymouth Theatre Boston, Concord Players
+                            (MA), <unitdate>1911, </unitdate>
+                            <unitdate>1926</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">22</container>
+                        <unittitle><title render="italic">Queen Victoria, </title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">23</container>
+                        <unittitle><title render="italic">Ragged Robin</title> : Her Majesty's
+                            Theatre, <unitdate>1898 June 23</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">24</container>
+                        <unittitle><title render="italic">The Right Hand of the Prince</title> :
+                            King's Theatre Hammersmith, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">25</container>
+                        <unittitle><title render="italic">Rosemary, That's for Remembrance</title> :
+                            Empire Theatre, Hollis St. Theatre, <unitdate type="inclusive">1896-1897</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">26</container>
+                        <unittitle><title render="italic">The Sacrament of Judas</title> : Comedy
+                            Theatre, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">27</container>
+                        <unittitle><title render="italic">The Sequel</title> : Vaudeville Theatre,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">28</container>
+                        <unittitle>Sherborne Abbey Tower Restoration Fund Concert, [1884] May
+                        27</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">29</container>
+                        <unittitle><title render="italic">The Sherborne Pageant, </title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">30</container>
+                        <unittitle><title render="italic">The Stepney Children's Pageant, </title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">31</container>
+                        <unittitle><title render="italic">The Tame Cat</title> : The Assembly Rooms,
+                            Putney, <unitdate>1893 January 19</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">32</container>
+                        <unittitle><title render="italic">The Termagant</title> : Her Majesty's
+                            Theatre, Wallack's Theatre, <unitdate type="inclusive">1898-1899</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">33</container>
+                        <unittitle><title render="italic">The Treasures of Britain</title> : The
+                            Shaftesbury Theatre, <unitdate type="inclusive">1917-1918</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">34</container>
+                        <unittitle><title render="italic">The Twin Sisters</title> : Empire Theatre,
+                                <unitdate>1902 March 31</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">35</container>
+                        <unittitle><title render="italic">Typho</title> : Village Hall, Esher,
+                                <unitdate>1921 March 30</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">36</container>
+                        <unittitle><title render="italic">The Warwick Pageant</title> : Souvenir
+                            book, Warwick Musical Society, <unitdate>1906,
+                            </unitdate>
+                            <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">37</container>
+                        <unittitle> "Yes or No?" <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">38</container>
+                        <unittitle>Programs for Plays by Others, undated, <unitdate type="inclusive">1923-1924</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series VI: Photographs, <unitdate type="inclusive">1876-1933</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent><p>This small series consists of photographs of locations, of groups and
+                        individuals including de la Fuÿe, Henry Irving, Richard Mansfield, Frédéric
+                        Mistral, and Parker’s daughter Dorothy, an actress. Photographs (and some
+                        photo-postcard drawings) related to several of Parker’s plays and pageants
+                        are also included.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Locations</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>People: Groups and Individuals</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Productions, B-M: <title render="italic">Bury St. Edmund's
+                                Pageant</title> ; <title render="italic">The Grove Pageant</title> ;
+                                <title render="italic">The Happy Life</title> ; <title render="italic">Jacob and His Brethren</title> ; <title render="italic">The Masque of War and Peace</title>.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Productions, Q-W: <title render="italic">Queen Victoria</title> ;
+                                <title render="italic">The Stepney Children's Pageant</title> ;
+                                <title render="italic">The Warwick Pageant</title>.</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series VII: Books, <unitdate type="inclusive">1881-1937</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent><p>These are mostly presentation copies given to Parker by friends and admirers;
+                        most are inscribed. A notable exception is Parker’s copy of Shakespeare’s
+                        <title render="italic">Henry VIII,</title> heavily annotated by Parker, including suggested cuts for
+                        performance and illustrations indicating blocking and scene designs. </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Child, Harold. <title render="italic">Hugh, the Drover, Or Love
+                                in the Stocks, </title>1937.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Fraser-Simson, Harold. <title render="italic">The Maid of the
+                                Mountains, A Musical Play in Three Acts, </title>1914.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Rhoades, James A., trans. <title render="italic">The Georgics of
+                                Virgil, </title>1881.</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Rogers, Sanders. <title render="italic">Guyde de Booke offe ye
+                                "Merrie England Fayre and Markyette," with ye Wordes of ye Pageant
+                                ate ye Grove to Aide ye Christ Church Funds,
+                            </title>
+                            <unitdate>1912</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Shakespeare, William. <title render="italic">King Henry VIII,
+                                </title>
+                            <unitdate>1894</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Young, Edward M. <title render="italic">Apis Matina, Verses
+                                Translated and Original,
+                        </title>
+                            <unitdate>1900</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle/>
+                    </did>
+                </c>
+            </c>
+
+
+        </dsc>
+    </archdesc>
+</ead>

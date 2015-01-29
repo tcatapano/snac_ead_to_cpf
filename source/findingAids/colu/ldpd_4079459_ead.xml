@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079459_ead//EN" mainagencycode="nnc-rb">ldpd_4079459_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Leonidas Westerwelt Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-04-02">2010-04-02</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change> 
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Westervelt, Leonidas, 1875-1952.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Leonidas Westerwelt Papers">Leonidas Westerwelt Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1816/1950" type="inclusive">1816-1950</unitdate>
+         <physdesc><extent encodinganalog="300">4.5 linear ft. (141 items in 8 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline/>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079459</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->American playwright, collector of theatrical books and manuscripts.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence and manuscripts of Westervelt. Much of the correspondence relates to the production of his own plays. Also, letters from famous actors including William Charles Macready, Augustin Daly, and Charles Kemble; typescript manuscripts of Westervelt's plays, among them "By Right of Sword" and "Rally Round the Flag;" and contracts, photographs, and printed materials.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 6 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged Correspondence</item>
+               <item>Series II: Books</item>
+               <item>Series III: Printed Materials</item>
+               <item>Series IV: Books by G. Kunz</item>
+               <item>Series V: Contracts and Photographs</item>
+               <item>Series VI: Manuscripts of Plays</item>
+               </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Macready, William, d. 1829.</persname>
+         <persname encodinganalog="600">Daly, Augustin, 1838-1899.</persname>
+         <persname encodinganalog="600">Kemble, Charles, 1775-1854.</persname>
+         <subject encodinganalog="650">Actors.</subject>
+         <subject encodinganalog="650">Drama.</subject>
+         <subject encodinganalog="650">Theater--Production and direction.</subject>
+         <subject encodinganalog="650">Theater.</subject>
+         <genreform encodinganalog="655" source="lcsh">Scripts.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <occupation encodinganalog="656">Autographs.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Dramatists, American.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Book collectors.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: 2-9. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1960 M-60 Westervelt, Mrs. Leonidas Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Leonidas Westervelt Papers, Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 09/--/1989 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Adams, Maud To Mrs. Doremus New York, [n.d.]</unittitle>
+                        <physdesc><extent>(1 page a.l.s)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Allen, Viola To Mrs. Doremus [n.p.], [n.d.]</unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Anthony, Luther B. To Leonidas Westervelt Easton, PA, 1 February 1913</unittitle>
+                        <physdesc><extent>(1 page t.l.s)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Arliss, George To Leonidas Westervelt London &amp; New York, 24 <unitdate>September 1923</unitdate>  &amp; 22 <unitdate>November 1937</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Aronson, Rudolph To Leonidas Westervelt New York, 31 January &amp; 20 <unitdate>April 1918</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Babbage, Charles To William Charles Macready London, 3 <unitdate>October 1837</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Written in the third person) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Barrie, James M. To Leonidas Westervelt London, 30 <unitdate>October 1897</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bolton, Reginald Pelham To Leonidas Westervelt New York, <unitdate type="inclusive">1924-1939</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 a.l.s. 3 t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Breton, Cecil To Leonidas Westervelt New York, 6 December [1904]</unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Calver, William Louis To Leonidas Westervelt [v.p.], <unitdate type="inclusive">1930-1939</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(9 a.l.s. 3 p.c.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Chaillu, P.B. Du To [Leonidas Westervelt] Carmel, 9 <unitdate>July 1855</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Cheatham, Kitty To [Leonidas Westervelt] New York, 12 November [n.y.]</unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Clark, James L. To Leonidas Westervelt [n.p.], 7 <unitdate>November 1930</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Daly, Augustin Photograph inscribed to J. W. Bouton New York, 6 <unitdate>March 1871</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 photograph)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Daly, Augustin To Mr. Deacon New York, 15 <unitdate>January 1891</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Daly, Augustin To Douglas Taylor New York, 31 <unitdate>October 1896</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>de Wolfe, Elsie To Mrs. Leonidas Westervelt New York, [n.d.]</unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Dobson, Austin To A. C. Benson London, 28 December 1896</unittitle>
+                        <physdesc><extent>(1 page a.l.s)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (with envelope) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Doremus, Bessie W. To Leonidas Westervelt [n.p.] &amp; New York, [n.d.] &amp; <unitdate>1934</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Edeson, Robert To Leonidas Westervelt Kansas City, 3 January 1911</unittitle>
+                        <physdesc><extent>(1 page a.l.s)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (With attached photograph) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Elliott, Maxine To Mrs. Doremus &#160;New York, 5 <unitdate>January 1909</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Farquhar, Gilbert To Mrs. Leonidas Westervelt New York, 14 <unitdate>December 1904</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Fawcett, Edgar To Mr. Mallory New York, [n.d.]</unittitle>
+                        <physdesc><extent>(3 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Fawcett, John To Mr. Mathews [London], 1 <unitdate>January 1824</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Foote, Maria To Mr. Aubyn London, 20 June 1816</unittitle>
+                        <physdesc><extent>(1 page a.l.s)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Frohman, Charles To Charles Burnham New York, 8 <unitdate>January 1910</unitdate>  &amp; 25 <unitdate>June 1915</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Frohman, Charles To Mr. Milliken New York, 23 <unitdate>February 1917</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Frohman, Daniel To Mrs. Charles A. Doremus &#160;New York, 24 <unitdate>December 1898</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Geary, Mary To Leonidas Westervelt New York, 9 <unitdate>September 1904</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Gillett, William To Mr. Ries [n.p.], [1890]</unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Gillett, William To Mr. Mallory Boston, 27 <unitdate>February 1918</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Hackett, James K. To Leonidas Westervelt [n.p.], 4 <unitdate>July 1899</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Harvey, Edward Tutin To William Winter Cincinnati, 20 <unitdate>December 1915</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (With envelope) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Hodge, William To Mrs. Charles A. Doremus Cohasset, [n.d.]</unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Kemble, Charles To [?] London, 13 <unitdate>March 1819</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>La Follette, Fola To Leonidas Westervelt New York, 6 <unitdate>November 1911</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Larrimore, Francine To Leonidas Westervelt [New York], [ca. 1917]</unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Liston, John To [?] London, 2 <unitdate>February 1828</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Littlebury, Joseph To Leonidas Westervelt Worcester, England, 4 <unitdate>October 1922</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lytton, Edward Robert Bulwer To Lord Malmesbury [n.p.], 21 July [n.y.]</unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Macready, William Charles To [?] [n.p.], [n.d.]</unittitle>
+                        <physdesc><extent>(1 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Macready, William Charles To Mr. Fenton New York, 20 September [n.y.]</unittitle>
+                        <physdesc><extent>(3 page a.l.s)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mapes, Victor To Leonidas Westervelt [v.p.], 30 October [n.y.] - 12 <unitdate>May 1898</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Marchmont, Arthur W. To Mr. &amp; Mrs. Leonidas Westervelt [v.p.], 4 <unitdate>June 1899</unitdate>  - 12 <unitdate>July 1898</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(6 a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Matthews, Brander To Leonidas Westervelt New York, 19 <unitdate>January 1904</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Middleton, George To Leonidas Westervelt Atlantic City, 24 <unitdate>November 1913</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mordant, Edwin To Leonidas Westervelt New York &amp; Hollywood, 3 <unitdate>April 1927</unitdate>  - 16 <unitdate>May 1933</unitdate>  1</unittitle>
+                        <physdesc><extent>(a.l.s. 3 t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mordant, Grace (Mrs. Edwin) To Leonidas Westervelt Detroit, 14 <unitdate>October 1930</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(4 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Morris, Felix To Leonidas Westervelt New York, 20 <unitdate>March 1897</unitdate>  - 13 <unitdate>November 1899</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Marchmont, Arthur W. To Leonidas Westervelt London, 31 <unitdate>October 1898</unitdate>  &amp; 16 <unitdate>June 1899</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Maude, Cyril To Leonidas Westervelt London, 11 <unitdate>December 1912</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Mellen, Ida M. To Leonidas Westervelt New York &amp; Woods Hole, MA, <unitdate type="inclusive">1925-1943</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(5 t.l.s. 6 p.c.s. 1 photograph)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Odell, George Clinton Dinsmore To Leonidas Westervelt New York, 7 <unitdate>December 1945</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 page a.l.s.  )</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Removed from Odell Annals of the New York Stage, vol 14) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Orsay, Count Alfred Guillaume Gabriel d' To Leonidas Westervelt [n.p.], [n.d.]</unittitle>
+                        <physdesc><extent>(1 page a.l.s.  )</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rawson, Clayton To Leonidas Westervelt Mamaroneck, NY, [n.d.] &amp; 1 <unitdate>April 1940</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Sage, C. Russell To Leonidas Westervelt New York, 14 <unitdate>March 1905</unitdate>  4 page a.l.s. 1 Smith, Albert To [?] London, [n.d.]</unittitle>
+                        <physdesc><extent>(2 a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Spong, Hilda To Mrs. Doremus New York, 18 <unitdate>February 1917</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Stuart, Ralph To Leonidas Westervelt [v.p.], 6 <unitdate>December 1901</unitdate>  - 9 <unitdate>October 1902</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 a.l.s. 4 t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Talfourd, Thomas Noon To Miss Jones [n.p.], <unitdate>1836</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s.  )</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Vokes, Rosina (Mrs. Cecil Clay) To [?] Chicago, 5 January [n.y.]</unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Wagenencht, Edward To Leonidas Westervelt WA &amp; IL, 25 <unitdate>January 1930</unitdate>  - 25 <unitdate>December 1949</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(6 t.l.s. 1 p.c.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Walker, Charlotte To Leonidas Westervelt [n.p.], [n.d.]</unittitle>
+                        <physdesc><extent>(2 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Walsh, Townsend To Leonidas Westervelt New York, 21-27 <unitdate>January 1928</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Wilson, Francis To Leonidas Westervelt Philadelphia, [25 December] <unitdate>1890</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(4 page a.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (With envelope) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Young, Charles Mayne To Lady Catherine [n.p.], 7 <unitdate>June 1847</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(1 page a.l.s)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p> (Gift of Mary S. Rouse, 1965) </p>
+                    </scopecontent>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Zabriskie, George A. To Leonidas Westervelt NY &amp; FL, 29 <unitdate>April 1942</unitdate>  - 19 <unitdate>July 1950</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(9 a.l.s. 1 t.l.s.)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Books</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">2-3</container>
+                        <unittitle>Books</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series III: Printed Materials</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">4-8</container>
+                        <unittitle>Printed Materials</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series IV: Books by G. Kunz</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">5-6</container>
+                        <unittitle>Inscribed to Westervelt</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series V: Contracts and Photographs</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Contracts and Photographs</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series VI: Manuscripts of Plays</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Manuscripts of Plays</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><unittitle/>
+                    </did>
+                </c>
+            </c> 
+
+      </dsc>
+   </archdesc>
+</ead>

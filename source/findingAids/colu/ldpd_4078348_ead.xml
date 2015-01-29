@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://appdev.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078348_ead//EN" mainagencycode="nnc-rb">ldpd_4078348_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the David Abrahamsen Research Files,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-10-01">October 1, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-10-01">October 1, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-10-01">2009-10-01</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2009-10-06">2009-10-06</date>
+            <item>xml document instance created by Lea Osborne</item>
+         </change>
+         <change><date normal="2011-04-21">2011-04-21</date>
+            <item>xml document instance updated by Catherine C. Ricciardi</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Abrahamsen, David, 1903-2002.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="David Abrahamsen Research Files,">David
+            Abrahamsen Research Files,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1906/1990" type="inclusive">1906-1990</unitdate>
+         <physdesc><extent encodinganalog="300">1.26 linear ft. (3 document boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0004</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078348</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is in English </language>
+         </langmaterial>
+         <abstract label="abstract">The David Abrahamsen Research Files consist primarily of drafts
+            and notes for Abrahamsen's studies on Jack the Ripper and Richard Nixon. Correspondence
+            with David Berkowitz, the Son of Sam serial killer, is also held in the
+         collection.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Historical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->David Abrahamsen was a forensic psychiatrist, author, and
+            psychoanalyst who was known for his books analyzing the personalities of major
+            criminals, such as Jack the Ripper and David Berkowitz (Son of Sam). Abrahamsen was born
+            on June 23, 1903 in Trondheim, Norway. He received his medical degree in 1929 from the
+            Royal Frederick University in Oslo. After working at several clinics in Europe,
+            Abrahamsen immigrated to the United States. In 1942, he began working as a lecturer and
+            research associate at the College of Physicians and Surgeons, Columbia University. He
+            also maintained a private practice. From 1949 to 1953, Abrahamsen was Chair of the
+            Columbia University Forum for the Study and Prevention of Crime. Throughout his long
+            career, Abrahamsen was affiliated with a number of institutions such as the New School
+            for Social Research, Yale Law School, the Foundation for the Prevention of Addictive
+            Disease, and multiple hospitals. He was also a prolific writer, penning over ten books
+            and many articles on criminal behavior. David Abrahamsen died in May 2002 at the age of
+            98. </p>
+         <p><!-- BIOGHIST REQUIRED -->Abrahamsen is perhaps best known for this involvement in the
+            Son of Sam trial. In 1977, David Berkowitz was arrested for committing a series of six
+            murders in New York City. David Abrahamsen was called in to assist the Brooklyn district
+            attorney in determining whether or not Berkowitz was mentally fit to stand trial.
+            Abrahamsen concluded that Berkowitz was competent and the trial moved onward. Berkowitz
+            was sentenced to 365 years in prison and corresponded with Abrahamsen through two of
+            those years. This correspondence allowed Abrahamsen to publish several scientific papers
+            analyzing Berkowitz's personality. Abrahamsen also researched and psychoanalyzed Jack
+            the Ripper which resulted in the book <title render="italic">Murder and Madness: The
+               Secret Life of Jack the Ripper </title>(1992). Using police reports and medical
+            records, Abrahamsen attempted to deconstruct the motivation behind the killings as well
+            as to point toward potential suspects. </p>
+         <p><!-- BIOGHIST REQUIRED -->
+                <title render="italic">Nixon vs. Nixon </title>is an analysis
+            of former president, Richard Nixon. Relying primarily on interviews with individuals who
+            knew Nixon at various points in his life, Abrahamsen presented a portrait of a very
+            troubled individual. Although unable to actually interview Nixon in person, Abrahamsen
+            used secondary research to supplement his analysis.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The David Abrahamsen Research Files document analyzes conducted by Abraham on the
+            criminal mind, in particular Jack the Ripper, Richard Nixon, and the Son of Sam killer,
+            David Berkowitz. The bulk of the records are research notes, drafts, and articles
+            written by Abrahamsen. There is a small amount of correspondence.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in three series: <list type="marked">
+               <item>Series I: Correspondence, 1938-1981</item>
+               <item>Series II: Subject Files, 1906-1978</item>
+               <item>Series III: Research Projects, 1944-1990<list type="marked">
+                     <item>Subseries III.1: David Berkowitz, 1979,</item>
+                     <item>Subseries III.2: Jack the Ripper, 1944-1990</item>
+                     <item>Subseries III.3: Nixon vs. Nixon, 1960-1977</item>
+                  </list>
+                    </item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Abrahamsen, David, 1903-2002.</persname>
+         <persname encodinganalog="600">Berkowitz, David Richard, 1953-</persname>
+         <persname encodinganalog="600">Nixon, Richard M. (Richard Milhous), 1913-1994.</persname>
+         <subject encodinganalog="650">Criminal psychology.</subject>
+         <subject encodinganalog="650">Murder--Case studies.</subject>
+         <subject encodinganalog="650">Psychiatrists</subject>
+         <genreform encodinganalog="655" source="aat">Drafts.</genreform>
+         <genreform encodinganalog="655" source="aat">Personal correspondence.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions. </p>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and
+            Manuscript Library reading room. </p>
+      </accessrestrict>
+      <custodhist encodinganalog="561">
+         <p>Gift of Dr. David Abrahamsen, 1982.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); David Abrahamsen Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers were reprocessed with additional accessions integrated in September 2009 by Lea
+            Osborne.</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts, Rare Book and
+            Manuscript Library (RBML). The RBML approves permission to publish that which it
+            physically owns; the responsibility to secure copyright permission rests with the
+            patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence, <unitdate type="inclusive">1938-1981</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>Most of the letters in Series I are from David Berkowitz, the Son of Sam serial
+                  killer. Written while incarcerated in Attica, Berkowitz corresponded regularly
+                  with Abrahamsen over a two year period. Much of the subject matter consists of
+                  Berkowitz trying to self-analyze about why he committed crimes. Abrahamsen
+                  continuously asked questions about Berkowitz's family, his upbringing, and his
+                  relationships with other people. There are a few letters from Jessamyn West, a
+                  distant relative of Nixon who assisted Abrahamsen while he was working on his book
+                     <title render="italic">Nixon vs. Nixon.</title>
+                    </p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle>Berkowitz, David</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle><unitdate type="inclusive">1979 February-July</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle><unitdate type="inclusive">1979 August-1980 February</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><unitdate type="inclusive">1980 March-1981 January</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><unitdate type="inclusive">1981 February-August</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">5</container>
+                  <unittitle>B, <unitdate type="inclusive">1945-1947</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">6</container>
+                  <unittitle>E through G, <unitdate type="inclusive">1938-1949, </unitdate>
+                            <unitdate type="inclusive">1957-1958, </unitdate>
+                            <unitdate>1967</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">7</container>
+                  <unittitle>L, <unitdate type="inclusive">1945-1965</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">8</container>
+                  <unittitle>M through O, <unitdate type="inclusive">1945-1952</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">9</container>
+                  <unittitle>S through T, <unitdate type="inclusive">1945-1952,
+                        </unitdate>
+                            <unitdate>1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">10</container>
+                  <unittitle>West, Jessamyn, <unitdate type="inclusive">1974-1976</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Subject Files, <unitdate type="inclusive">1906-1978</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This small series contains documents with related correspondence concerning Adlai
+                  Stevenson's presidential run, articles written by psychologist Otto Weininger, and
+                  printed material from a conference sponsored by Columbia University for the study
+                  and prevention of crime. Abrahamsen presented at the conference and there are
+                  copies of his talk.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">11</container>
+                  <unittitle>Columbia University Forum for the Study and Prevention of Crime,
+                        <unitdate>1949</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">12</container>
+                  <unittitle>Stevenson, Adlai, <unitdate type="inclusive">1952-1953</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <container type="Folder" label="Folder">13</container>
+                  <unittitle>Weininger, Otto, <unitdate>1906, </unitdate>
+                            <unitdate type="inclusive">1929-1947, </unitdate>
+                            <unitdate>1978</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Research Projects, <unitdate type="inclusive">1944-1990</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>Series III is the largest series of the collection and is comprised of files
+                  regarding three research projects: <title render="italic">Nixon vs. Nixon: An
+                     Emotional Tragedy, Confessions of Son of Sam, </title>and <title render="italic">Murder and Madness: The Secret Life of Jack the Ripper.
+                  </title>
+                    </p>
+            </scopecontent>
+            <c level="subseries">
+               <did><unittitle>Subseries III.1: David Berkowitz, <unitdate>1979</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>Interviews of David Berkowitz along with writings by him are held in this
+                     subseries.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Childhood, <unitdate>1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>Starkweather Excerpts with Notes,
+                     <unitdate>1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>Interview, <unitdate>1979 May 17</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>Notarized Affidavits, <unitdate>1979 May 17</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries III.2: Jack the Ripper, <unitdate type="inclusive">1944-1990</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>The majority of the records in this subseries are drafts of Abrahamsen's
+                     manuscript. These drafts are heavily edited and illustrate the process
+                     Abrahamsen went through in order to create the final product. Correspondence
+                     with research institutions and medical doctors in England, research notes, and
+                     articles regarding personality and crime (many written by Abrahamsen) are also
+                     in this subseries.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">18</container>
+                     <unittitle>Articles, <unitdate type="inclusive">1944-1952,
+                           </unitdate>
+                                <unitdate>1982</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>Correspondence, <unitdate type="inclusive">1988-1989</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Drafts</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">20 to 21</container>
+                        <unittitle>Chapters 1 through 3, undated, <unitdate>1984</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">22</container>
+                        <unittitle>Chapter 3, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">23</container>
+                        <unittitle>Chapter 4, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">24</container>
+                        <unittitle>Chapter 5, undated, <unitdate>1989</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">25</container>
+                        <unittitle>Chapter 6, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">26 to 27</container>
+                        <unittitle>Chapters 6 through 8, <unitdate>undated</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">28</container>
+                        <unittitle>Chapter 7, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">29</container>
+                        <unittitle>Chapter 8, undated, <unitdate>1990</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">30</container>
+                        <unittitle>Footnotes, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">31 to 32</container>
+                     <unittitle>Research Files, undated, <unitdate type="inclusive">1981-1990</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Subseries III.3: <title render="italic">Nixon vs. Nixon,
+                        </title>
+                            <unitdate type="inclusive">1960-1977</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>Subseries III.3 is composed of research files with accompanying notes,
+                     correspondence with individuals who had some connection with Richard Nixon,
+                     early photographs of Nixon's family, and a draft of the manuscript with edits.
+                     Of interest are a series of interviews conducted by Abrahamsen with people who
+                     knew Nixon as a child and an adult, including a White House correspondent and
+                     Nixon's longtime campaign manager.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Correspondence, <unitdate type="inclusive">1975-1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">2 to 4</container>
+                     <unittitle>Draft, <unitdate>1977</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Nixon Film, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Interviews, <unitdate type="inclusive">1975-1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Photographs, <unitdate>undated, </unitdate>
+                                <unitdate type="inclusive">1960s-1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Research Files, <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+        
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,2282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_5644162_ead//EN" mainagencycode="nnc-rb">ldpd_5644162_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Barry Ulanov Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-08-22">August 22, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-08-22">August 22, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-08-22">2009-08-22</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Ulanov, Barry</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Barry Ulanov papers,">Barry Ulanov Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1932/2003" type="inclusive">1932-2003</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1940-1993].</unitdate>
+         <physdesc><extent encodinganalog="300">18.5 linear ft. (14 record cartons, 1 document box 1 flat
+               box)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1484</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">5644162</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is in English, French, Latin, German, Russian, Dutch
+            </language>
+         </langmaterial>
+         <abstract>This collection contains the papers of Barry Ulanov, a jazz critic and professor
+            of English at Barnard College. The bulk of the papers relates to Ulanov’s Barnard years
+            (1950-2000). Most of the material consists of book manuscripts, research files, course
+            materials, and correspondence. </abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Barry Ulanov (1918-2000) was a jazz critic, professor of
+            English at Barnard College, and prolific writer. He wrote, edited, or translated nearly
+            fifty books and over a thousand articles on a wide range of subjects. His interests
+            included music, modern art, psychology, history, religion, and literature. </p>
+         <p><!-- BIOGHIST REQUIRED -->Ulanov was born in Manhattan on April 10, 1918 and attended
+            Columbia University, where he took advantage of his proximity to Harlem to immerse
+            himself in jazz music and culture. After receiving his BA in 1939, Ulanov worked as a
+            jazz writer and edited the journal <title render="italic">Metronome</title> from 1943 to
+            1955. He shifted the focus of the journal to cover more jazz and be-bop music,
+            particularly black musicians who had previously received little notice in the journal.
+            From 1955 to 1958 he wrote for <title render="italic">Down Beat</title> and published
+            several biographies of jazz musicians in the 1940s and 1950s. </p>
+         <p><!-- BIOGHIST REQUIRED -->In 1939, Ulanov married Joan Bel Geddes, who had been a
+            student at Barnard during his years at Columbia. This marriage lasted 29 years and
+            produced three children: Anne, Nicholas, and Katherine. In 1968, Ulanov married Ann
+            Belford, with whom he later had a son, Alexander. Ann Belford Ulanov taught at Union
+            Theological Seminary as Professor of Psychiatry and Religion. </p>
+         <p><!-- BIOGHIST REQUIRED -->Ulanov's interest in the connection between modern art and
+            contemporary American culture led him to pursue a Ph.D. in English Literature at
+            Columbia University, which he completed in 1955. In the meantime, he also became
+            involved in architectural projects in Denver, Colorado and Long Island. He taught
+            English Literature at Princeton University from 1951 to 1953, and then, from 1953 to
+            1988, at Barnard College. He was an adjunct professor of Religion at Columbia University
+            and, after retiring from Barnard, he taught at Union Theological Seminary in the
+            Department of Psychiatry and Religion. Ulanov lectured worldwide on a range of topics. </p>
+         <p><!-- BIOGHIST REQUIRED -->Ulanov converted to Catholicism in 1951 and became involved
+            with the Catholic Renaissance Society. He was an active member of the Vatican II
+            Council, where he advocated for the use of vernacular in the mass and amplified music in
+            church. Ulanov lectured at a number of Catholic colleges and spoke at the International
+            Eucharistic Congress with Pope John XXIII in Bombay in 1964. He wrote and edited
+            numerous books and articles on religion and culture. </p>
+         <p><!-- BIOGHIST REQUIRED -->In his last twenty years, Ulanov wrote extensively on religion
+            and psychology, publishing over ten books with his second wife, Ann Belford Ulanov.
+            Until his death, they co-edited the <title render="italic">Journal of Religion and
+               Health.</title> Ulanov died on April 30, 2000, at the age of 82.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The collection contains professional and research files, manuscripts, and documents of
+            Barry Ulanov. Subject files include mostly pamphlets, flyers, clippings and copies of
+            newspapers and journals relating to Ulanov's research interests, both for specific book
+            projects as well as more generally. Contained, too, are extensive materials related to
+            Ulanov's Barnard courses, such as syllabi, reading lists, correspondence, and relevant
+            course readings. These subject files are comprised of both those files created by
+            Ulanov, and those created during processing. The papers also include many of Ulanov's
+            original manuscripts and translations, particularly his works on history of religion and
+            Jungian psychology, as well as manuscripts sent to him by colleagues and associates,
+            such as Lionel Trilling. Also included within the collection is Ulanov's correspondence,
+            primarily relating to his speaking and lecturing as part of his professorship at Barnard
+            College. There is also a large amount of correspondence which reflects his extensive
+            work for the Catholic Church, as both a lecturer for Church organizations and as
+            president of the Catholic Renaissance Society.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in three series: <list type="marked">
+               <item>Series I: Subject Files, 1932-2000<list type="marked">
+                     <item> Subseries I.1: Subject Files Arranged by Ulanov, 1932-1990s</item>
+                     <item>Subseries I.2: Subject Files, 1940s-20</item>
+                  </list>
+                    </item>
+               <item>Series II: Writings, 1955-1993<list type="marked">
+                     <item> Subseries II.1: Writings and Translations by Barry Ulanov, 1950s-1990s </item>
+                     <item>Subseries II.2: Writings by others, 1950s-1990s</item>
+                  </list>
+                    </item>
+               <item>Series III: Correspondence, 1940s-2000</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Barnard College.</corpname>
+         <persname encodinganalog="600">Bernanos, Georges 1888-1948.</persname>
+         <persname encodinganalog="600">Ulanov, Barry.</persname>
+         <subject encodinganalog="650">Catholic church and philosophy--United States.</subject>
+         <subject encodinganalog="650">Catholicism--psychology.</subject>
+         <subject encodinganalog="650">Literature--20th century--History and criticism.</subject>
+         <subject encodinganalog="650">Imagination--religious aspects--Christianity.</subject>
+         <subject encodinganalog="650">Poetry--History and criticism--Theory, etc.</subject>
+         <subject encodinganalog="650">Psychoanalysis and religion.</subject>
+         <subject encodinganalog="650">Theology--Philosophy.</subject>
+         <subject encodinganalog="650">Theology--20th century.</subject>
+         <subject encodinganalog="650">Theology--Bibliography.</subject>
+         <subject encodinganalog="650">Theology, Doctrinal--History--Study and teaching.</subject>
+         <subject encodinganalog="650">Theology in literature.</subject>
+         <subject encodinganalog="650">Theology--Study and teaching--Catholic Church.</subject>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room. </p>
+         <p>Files containing student grades are restricted.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Gift of Ann B. Ulanov 2005</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Barry Ulanov Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed 2009 by: J.C. Cloutier (Columbia 2013), Daniella da Silva (Columbia
+            2013,) Anne Diebel (Columbia 2012), Rob Fucci (Columbia 2013), April Holm (Columbia
+               2010), Casiana Ionita (Columbia 2013), Darragh Martin (Columbia 2012), Yuki Oda
+                  (Columbia 2012), Jude Webre (Columbia 2013), Aaron Winslow (Columbia 2014), Mike
+                  Woodsworth (Columbia 2012).</p>
+         <p>Finding aid written in 2009 by: J.C. Cloutier (Columbia 2013), Daniella da Silva (Columbia
+            2013,) Anne Diebel (Columbia 2012), Rob Fucci (Columbia 2013), April Holm (Columbia
+            2010), Casiana Ionita (Columbia 2013), Darragh Martin (Columbia 2012), Yuki Oda
+            (Columbia 2012), Jude Webre (Columbia 2013), Aaron Winslow (Columbia 2014), Mike
+            Woodsworth (Columbia 2012).</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>In Box 1, folders 20 and 30 are restricted until 2068 and 2059 respectively; in Box 2,
+            folders 20 and 21 are restricted until 2068. </p>
+         <p> Single photocopies may be made for research purposes. Permission to publish material
+            from the collection must be requested from the Curator of Manuscripts, Rare Book and
+            Manuscript Library (RBML). The RBML approves permission to publish that which it
+            physically owns; the responsibility to secure copyright permission rests with the
+            patron.</p>
+      </userestrict>
+      <relatedmaterial><head>Selected Related Material-- At Columbia</head>
+         <p><extref xlink:type="simple" xlink:href="http://www.columbiauniversity.org/cu/lweb/indiv/burke/archives/awts/index.html">Ann Bedford Ulanov Papers</extref>
+                <repository>Burke Theological Library, Archives of Women in Theological Scholarship Project</repository>
+            </p>
+      </relatedmaterial>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Subject Files, <unitdate type="inclusive">1932-2000</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>This series contains Ulanov’s research and personal subject files. The files
+                  comprise, primarily, clippings and copies of journals and newspapers, some of
+                  which have handwritten marginal notes, underlining, and edits. Also included are
+                  Ulanov’s personal documents, as well as correspondence and files relating to his
+                  family. The Barnard files contain papers, correspondence, letters of
+                  recommendation, and memos relating to Ulanov’s professorship at that College. Note
+                  that several of the Barnard files contain restricted items. As there was no
+                  discernable order, these files were arranged alphabetically during processing.</p>
+            </scopecontent>
+            <c level="subseries">
+               <did><unittitle>Subseries I.1: Subject Files Arranged by Ulanov, <unitdate type="inclusive">1932-1990s</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>This first and largest subseries consists of subject files created by Barry
+                     Ulanov, and contains personal, professional, and research related material. The
+                     majority of the folders were labeled by Ulanov, and these names were retained.
+                     A few unlabeled folders were titled during processing; the titles of these
+                     folders are in brackets. </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">1 to 3</container>
+                     <unittitle> [General], <unitdate type="inclusive">1950s-1990s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Academic World, <unitdate type="inclusive">1970s-1990s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Aesthetics, 1958-86</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>Esthetics, 1968-72</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">7 to 8</container>
+                     <unittitle>Ancient World, <unitdate type="inclusive">1956-1991</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Anthropology, <unitdate type="inclusive">1970-1986</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">10 to 11</container>
+                     <unittitle>Architecture, <unitdate type="inclusive">1959-1995</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Architecture, and City Planning,
+                     <unitdate>1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Art, <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Art and Architecture, <unitdate>1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>Association for American Achievements, <unitdate type="inclusive">1970s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>Australia--Correspondence, <unitdate>1991</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">17 to 19</container>
+                     <unittitle> [Barnard--General], <unitdate type="inclusive">1970s-1980s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Barnard Course Materials</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">20</container>
+                        <unittitle> [General], <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">21</container>
+                        <unittitle> [General--student grades], <unitdate>1990s</unitdate>
+                        </unittitle>
+                     </did>
+                     <accessrestrict><p>[Restricted until 2068]</p>
+                     </accessrestrict>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">22</container>
+                        <unittitle>English 44, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">23</container>
+                        <unittitle>English 58, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">24</container>
+                        <unittitle>English 59-60, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">25</container>
+                        <unittitle>English 83, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">26</container>
+                        <unittitle>English 84/97 <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">27</container>
+                        <unittitle>English 85, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">28</container>
+                        <unittitle>English 86, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">29</container>
+                        <unittitle>Film and Word, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">30</container>
+                        <unittitle>Grades, Incompletes, Absences, etc., <unitdate>1970s</unitdate>
+                        </unittitle>
+                     </did>
+                     <accessrestrict><p>[Restricted until 2059]</p>
+                     </accessrestrict>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">31</container>
+                        <unittitle>Joyce, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">32</container>
+                        <unittitle>Medieval and Renaissance Studies,
+                        <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">33</container>
+                        <unittitle>Myths and Symbols of Modernity,
+                        <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Poems, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle> [Program in the Arts], <unitdate>1970s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Religion W3234y, 61, 62, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Romantic Agony; Literature under a dictatorship,
+                              <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Barnard Miscellanea</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Articles, etc., <unitdate>1960s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Barnard, <unitdate type="inclusive">1970s-1980s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">7 to 9</container>
+                        <unittitle>B.U., <unitdate type="inclusive">1960s-1980s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>B.U. Reviews, <unitdate>1960s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Clippings, <unitdate type="inclusive">1960s-1980s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">12 to 13</container>
+                        <unittitle>Correspondence, <unitdate type="inclusive">1950s-1980s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Course Materials, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">15 to 16</container>
+                        <unittitle> [General,1950s-1980s]</unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>Prentice Hall, <unitdate>1969</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">18</container>
+                        <unittitle>Photographs, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">19</container>
+                        <unittitle> [Parnes, Randy--Death], <unitdate>1979</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">20</container>
+                        <unittitle>Recommendations, <unitdate type="inclusive">1970s-1980s</unitdate>
+                        </unittitle>
+                     </did>
+                     <accessrestrict><p>[Restricted until 2068]</p>
+                     </accessrestrict>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">21</container>
+                        <unittitle>Recommendations by Ulanov, <unitdate>1980s</unitdate>
+                        </unittitle>
+                     </did>
+                     <accessrestrict><p>[Restricted until 2068]</p>
+                     </accessrestrict>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">1 to 2</container>
+                        <unittitle>Song of Songs, <unitdate type="inclusive">1950s-1960s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle> [Television Broadcast], <unitdate>1966</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Books and Book Collecting, <unitdate type="inclusive">1940s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">5 to 6</container>
+                     <unittitle>Christian Humanism, Historiography, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Cities, <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">8 to 11</container>
+                     <unittitle> [Clippings--General], <unitdate type="inclusive">1950s-1998</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(4 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Dance, <unitdate>1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Detective Story, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">14 to 15</container>
+                     <unittitle>Drama, <unitdate type="inclusive">1950s-1980s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>Drama--Modern, <unitdate type="inclusive">1950s-1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>Education, <unitdate type="inclusive">1960s-1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">18</container>
+                     <unittitle>Eliot, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>English, <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">20 to 21</container>
+                     <unittitle>Family, <unitdate type="inclusive">1950s-1980s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <container type="Folder" label="Folder">22 to 24</container>
+                     <unittitle>Film, <unitdate type="inclusive">1950s-1990s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Food, <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Friends, <unitdate type="inclusive">1960s-1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Furniture, Framing, etc., <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Gardens and Gardening, <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Greece, <unitdate>1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>History, <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Hopkins, <unitdate type="inclusive">1948-1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Household, <unitdate type="inclusive">1960-1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Humor, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>Interiors, <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Joyce, <unitdate type="inclusive">1959-1982</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Kitchens and Bathrooms, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Language, <unitdate type="inclusive">1950s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Lectures; Letters, <unitdate>1950s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>Liquor, <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>Literature, <unitdate type="inclusive">1950s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">17 to 18</container>
+                     <unittitle>Literature and Criticism, <unitdate type="inclusive">1950s-1990s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>Literary Theory, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <container type="Folder" label="Folder">20</container>
+                     <unittitle>Literature, Theory and Criticism, <unitdate type="inclusive">1960s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Literature</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">21</container>
+                        <unittitle>Modern, <unitdate type="inclusive">1970s-1980s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">22 to 23</container>
+                        <unittitle>American, <unitdate type="inclusive">1950s-1980s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">24 to 26</container>
+                        <unittitle>English, <unitdate type="inclusive">1950s-1990s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">1 to 2</container>
+                        <unittitle>French, <unitdate type="inclusive">1950s-1990s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">3 to 4</container>
+                        <unittitle>German, <unitdate type="inclusive">1950s-1980s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Italian, <unitdate type="inclusive">1947-1991</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Oriental, <unitdate type="inclusive">1950-1984</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">7 to 9</container>
+                        <unittitle>Russian, <unitdate type="inclusive">1953-1993</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Spanish, <unitdate type="inclusive">1972-1985</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">11 to 12</container>
+                     <unittitle>Marx and Marxism, <unitdate type="inclusive">1959-1996</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Medieval Literary Theory, <unitdate type="inclusive">1953-1966</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">14 to 15</container>
+                     <unittitle>Middle Ages, <unitdate type="inclusive">1944-1986</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">16 to 18</container>
+                     <unittitle>Music, <unitdate type="inclusive">1932-1991</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>Nature, <unitdate>1976</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">20</container>
+                     <unittitle>No Entrance, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">21</container>
+                     <unittitle>Novel, The, <unitdate type="inclusive">1957-1987</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">22</container>
+                     <unittitle>Painting, <unitdate type="inclusive">1958-1994</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">23</container>
+                     <unittitle>Painting--Modern, <unitdate type="inclusive">1940s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <container type="Folder" label="Folder">24</container>
+                     <unittitle> [Papers and Correspondence], <unitdate type="inclusive">1970s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">1 to 7</container>
+                     <unittitle>Philosophy, <unitdate type="inclusive">1940s-1990s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(7 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Phonographs and Records, <unitdate type="inclusive">1973-1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">9 to 10</container>
+                     <unittitle>Photography, <unitdate type="inclusive">1960s-1980s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">11 to 12</container>
+                     <unittitle>Pound, <unitdate type="inclusive">1953-1962</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Poetry--Modern, <unitdate type="inclusive">1950s-1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Poets--Recent American and English Poets, <unitdate type="inclusive">1951-1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>Politics, <unitdate type="inclusive">1970s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle>Politics--Marxism, <unitdate type="inclusive">1973-1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>Psychology, <unitdate type="inclusive">1958-1982</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">18</container>
+                     <unittitle>Renaissance, <unitdate type="inclusive">1958-1982</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>Renaissance Art, <unitdate type="inclusive">1946-1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">20</container>
+                     <unittitle>Repairs and Refinishing, <unitdate type="inclusive">1950s-1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">21 to 22</container>
+                     <unittitle>Science, <unitdate type="inclusive">1916-1992</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">23 to 24</container>
+                     <unittitle>Shakespeare, <unitdate type="inclusive">1950s-1990s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">25</container>
+                     <unittitle>Sociology, <unitdate type="inclusive">1972-1986</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <container type="Folder" label="Folder">26</container>
+                     <unittitle>Sociology--Anthropology, <unitdate type="inclusive">1974-1982</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Song of Solomon</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">27</container>
+                        <unittitle> [Cantique des Cantiques, Le],
+                        <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">28</container>
+                        <unittitle>Commentaries, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>English Verse, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle> [Exposition, An], <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">1 to 5</container>
+                        <unittitle> [Oversized Research Materials], <unitdate>undated</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(5 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle> [Paraphrasis gemina], <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Paraphrasis poetica, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle> [Research Materials], <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Select Hymns, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Solomon in Metre, <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Solomon's Song Paraphrased,
+                        <unitdate>undated</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Song of Solomon, <unitdate>1955</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">10 to 11</container>
+                        <unittitle>Song of Songs, <unitdate>undated</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Style, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Television and Radio, <unitdate type="inclusive">1946-1963</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Theology, <unitdate>1960s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">15 to 16</container>
+                     <unittitle>Theology and Religion, <unitdate type="inclusive">1957-1983</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>Travel, <unitdate type="inclusive">1970s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">18</container>
+                     <unittitle>Two Cultures, The, <unitdate type="inclusive">1950s-1990s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>Typography, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">20 to 21</container>
+                     <unittitle>Witches, Clowns, <unitdate type="inclusive">1950s-1980s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">22</container>
+                     <unittitle>Witches and Clowns Pictures, <unitdate>1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">23 to 24</container>
+                     <unittitle>Women, <unitdate type="inclusive">1970s-1980s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">25</container>
+                     <unittitle>Zeitgeist, <unitdate type="inclusive">1950s-1980s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries I.2: Subject Files, <unitdate type="inclusive">1940s-2000</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>This additional subseries of subject files contains material from the Ulanov
+                     collection, arranged by subject, and created during processing. The material
+                     dates mostly from the 1950s to the 1990s and includes personal papers and
+                     contracts, handwritten notes, photographs, and pamphlets and published material
+                     relating to lectures and public appearances. This series contains material
+                     related to Ulanov’s work on the Roosevelt Field Shopping Center, <title render="italic">Family Weekly,</title> and the Catholic Renaissance
+                  Society.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Association for American Achievements, <unitdate>1974</unitdate>
+                        (oversize)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">26</container>
+                     <unittitle>Barnard, circa <unitdate>1978</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">1</container>
+                     <unittitle>Catholic Renaissance Society/Oesterreicher, <unitdate type="inclusive">1955-1964</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">2</container>
+                     <unittitle>Clippings Mentioning Ulanov, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>Family, <unitdate type="inclusive">1950s-1990s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle><title render="italic">Family Weekly</title> Reading List,
+                           <unitdate>1962</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">5 to 6</container>
+                     <unittitle>Jazz Material, <unitdate type="inclusive">1950s-1990</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box"> 16</container>
+                     <container type="Folder" label="Folder"> 2</container>
+                     <unittitle>Jazz Material--Posters, <unitdate>2000</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box"> 14</container>
+                     <container type="Folder" label="Folder"> 7</container>
+                     <unittitle>Maps and Views, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">8 to 11</container>
+                     <unittitle>Pamphlets, <unitdate type="inclusive">1950s-1990s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(4 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>Personal Documents and Contracts, <unitdate type="inclusive">1940s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>Photographs and Slides, <unitdate type="inclusive">1960s-1990s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>Publications with inscriptions to Ulanov, <unitdate type="inclusive">1950s-1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">15 to 18</container>
+                     <unittitle>Research and Notes, <unitdate>undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(4 Folders)</extent>
+                     </physdesc>
+                  </did>
+                  <scopecontent><p>(Handwritten and Notebooks)</p>
+                  </scopecontent>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">14</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>Roosevelt Field Shopping Center, <unitdate type="inclusive">1955-1956</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Writings, <unitdate type="inclusive">1955-1993</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>The writings contained within the collection are both those of Ulanov and those
+                  written by others. Ulanov’s writings include transcripts/working notes for
+                  speeches and addresses, articles, and book manuscripts from the 1950s to the
+                  1990s. Contracts, publisher correspondence, and other material related to writings
+                  have been filed with the appropriate manuscript. The material is arranged
+                  alphabetically.</p>
+            </scopecontent>
+            <c level="subseries">
+               <did><unittitle>Subseries II.1: Writings and Translations by Barry Ulanov, <unitdate type="inclusive">1950s-1990s</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>This subseries contains manuscripts of works by Ulanov: books (monographs and
+                     anthologies), translations, articles, and speeches from the 1950s through the
+                     1990s. Most of the drafts have handwritten notes. Some folders also contain
+                     correspondence with publishers or co-editors related to that particular work.
+                     This subseries includes research notes for unpublished books, such as <title render="italic">Man… from the Beginning</title> and <title render="italic">Analysis of Prose,</title> as well as his PhD dissertation from 1955.
+                     Several folders contain printed copies of published material.</p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">1 to 2</container>
+                     <unittitle>General Articles--undated</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <container type="Folder" label="Folder">27 to 28</container>
+                     <unittitle>General Articles--Published, <unitdate type="inclusive">1950s-1980s</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">8</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>General Speeches-- <unitdate type="inclusive">1960s-1970s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">1 to 2</container>
+                     <unittitle><title render="italic">Analysis of Prose</title>--Research
+                        Materials, <unitdate>undated</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Anima/Animus</title> (later <title render="italic">Transforming Sexuality</title>)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">4 to 8</container>
+                        <unittitle>Draft with Notes, <unitdate>1991</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(5 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">9 to 11</container>
+                        <unittitle>Draft, <unitdate>1993</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Correspondence with Publishers--Footnotes,
+                           <unitdate>1993</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Death: a Book of Preparation and Consolation</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">13 to 19</container>
+                        <unittitle>Draft, <unitdate>1959</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(7 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">1 to 6</container>
+                        <unittitle>Draft, <unitdate>1959</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(6 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Clippings and Supplementary Materials, circa
+                           <unitdate>1959</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Draft with Notes, circa <unitdate>1959</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>"Education for Eternity," <unitdate>1962</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle>"Essay on the Middle Ages," <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle><title render="italic">The Fashioning of Angels,</title> undated--w/
+                        AU.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">The Healing Imagination</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">12 to 14</container>
+                        <unittitle>Draft, circa <unitdate>1991</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">9</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>"Inside Talk" in The Living Pulpit--with Notes,
+                        <unitdate>1993</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Joy out of Sorrow</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Original Version in French by Mother Marie des Douleurs--with
+                           Correspondence and Photos, <unitdate>1955</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">11 to 12</container>
+                        <unittitle>Draft of Translation--with Notes, <unitdate>1958</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">13 to 14</container>
+                        <unittitle>Draft of Translation--with Notes, <unitdate>1958</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Jung and the Outside World</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>Handwritten Notes, <unitdate>1990s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>Partial Draft, circa <unitdate>1990</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">1 to 3</container>
+                        <unittitle>Partial Draft, circa 1990</unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Partial Draft--Introduction by Ann Belford Ulanov, circa
+                              <unitdate>1990</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">5 to 7</container>
+                        <unittitle>Draft, circa <unitdate>1990</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">8 to 10</container>
+                        <unittitle>Draft, circa <unitdate>1990</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">11 to 13</container>
+                        <unittitle>Draft, circa. <unitdate>1990</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">14 to 16</container>
+                        <unittitle>Draft, circa. <unitdate>1990</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">17 to 18</container>
+                        <unittitle>Partial Draft--with Handwritten Notes, circa
+                           <unitdate>1990</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle>Contracts and Correspondence, <unitdate type="inclusive">1984-1992</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle><title render="italic">The Last Essays of Georges
+                        Bernanos</title>--Translator’s Note with Notes--Clippings,
+                        <unitdate>1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>"Leave Me Be"--Music by Billy Strayhorn,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>"Lennie Tristano: the New Tristano"-- Liner Notes,
+                        <unitdate>1962</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">15 to 16</container>
+                     <unittitle>"Leon Battista Alberti, Idea and Reality"--PhD Dissertation,
+                           <unitdate>1955</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">10</container>
+                     <container type="Folder" label="Folder">17</container>
+                     <unittitle>Lunceford, Jimmie--Article Draft,
+                     <unitdate>1970s</unitdate>
+                            </unittitle>
+                  </did>
+                  <scopecontent><p>(with Notes and Clippings)</p>
+                  </scopecontent>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Making of a Modern Saint</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">18 to 21</container>
+                        <unittitle>Draft, <unitdate>1966</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(4 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">22</container>
+                        <unittitle>Drafts and Correspondence, <unitdate>1966</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">23</container>
+                        <unittitle>Notes and Clippings, <unitdate>1966</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Man... from the Beginning</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">18 to 19</container>
+                        <unittitle>Orient Timelines, <unitdate type="inclusive">1950s-1960s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">20 to 23</container>
+                        <unittitle>Europe Timelines, <unitdate type="inclusive">1950s-1960s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(4 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">24</container>
+                        <unittitle>History Timelines--with Notes, <unitdate type="inclusive">1950s-1960s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">25</container>
+                        <unittitle>Painting Timelines, <unitdate type="inclusive">1950s-1960s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">26</container>
+                        <unittitle>Timelines--with Notes, <unitdate type="inclusive">1950s-1960s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">27</container>
+                        <unittitle>Materials from Collier’s Encyclopedia, <unitdate type="inclusive">1950s-1960s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">28 to 29</container>
+                        <unittitle>Correspondence</unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Modern Culture and the Arts</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">24 to 25</container>
+                        <unittitle>Draft with Notes, <unitdate>1972</unitdate> (2 of 4
+                        Folders)</unittitle>
+                     </did>
+                     <scopecontent><p>(some correspondence)</p>
+                     </scopecontent>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">1 to 2</container>
+                        <unittitle>Draft with Notes, <unitdate>1972</unitdate> (2 of 4
+                        Folders)</unittitle>
+                     </did>
+                     <scopecontent><p>(some correspondence)</p>
+                     </scopecontent>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Correspondence, <unitdate>1972</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>"Mysticism and Negative Presence" in <title render="italic">The
+                           Journal of the Ancient Near Eastern Society of Columbia University,</title>
+                        <unitdate>1973</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Poetry Now</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">5 to 7</container>
+                        <unittitle>Research--with Notes, circa <unitdate>1970s</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Correspondence, <unitdate>1970s</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle><title render="italic">Prayers of Saint Augustine</title>--Galley
+                        with Notes, <unitdate>1983</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">10</container>
+                     <unittitle><title render="italic">Religion and the Unconscious</title>--Preface
+                        to the Korean Edition, <unitdate>1996</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">11</container>
+                     <unittitle><title render="italic">The Recorded Music of W.A. Mozart,</title>
+                        <unitdate>1943</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">12</container>
+                     <unittitle>"The Rhetoric of Love"--Research Proposal,
+                     <unitdate>1961</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">13</container>
+                     <unittitle>"Smooth Rough"--Transcript of Interview, <unitdate>1966</unitdate>
+                        (with notes)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">14</container>
+                     <unittitle>"Six Authors in Search of a Character"--with Notes on Modern Drama,
+                        circa <unitdate>1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">Sources and Resources</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>Partial Draft, circa <unitdate>1959</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>Partial Draft--with Notes, circa
+                        <unitdate>1959</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>Partial Draft--Chapters Thirteen and Fourteen, circa
+                              <unitdate>1959</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">18 to 23</container>
+                        <unittitle>Draft--with Notes, circa <unitdate>1959</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(6 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">24 to 25</container>
+                        <unittitle>Page Proofs--with Correspondence from Publishers,
+                           <unitdate>1959</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">26</container>
+                        <unittitle>Index and Permissions--with Notes,
+                        <unitdate>1959</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">27</container>
+                        <unittitle>Correspondence from Publishers,
+                        <unitdate>1959</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">28</container>
+                     <unittitle><title render="italic">The Tell Tale Heart: An Opera in One
+                        Act</title>--with Production Notes, <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">29</container>
+                     <unittitle>"Therese and the Modern Temperament,"
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><title render="italic">The Witch and the Clown</title>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">30</container>
+                        <unittitle>Partial Draft, circa <unitdate>1987</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">31 to 32</container>
+                        <unittitle>Draft, circa <unitdate>1987</unitdate>
+                                </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle><title render="italic">Women: A collaboration of Artists and
+                           Writers,</title>
+                        <unitdate>1948</unitdate> (oversize)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="subseries">
+               <did><unittitle>Subseries II.2: Writings by Others, <unitdate type="inclusive">1950s-1990s</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p>This subseries contains manuscripts sent to Ulanov by colleagues and friends.
+                     Some are translations are from French into English. There are several articles
+                     and books on religion. An undated article by Lionel Trilling and a translation
+                     of a play by Paul Claudel are included. </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">33</container>
+                     <unittitle>Anonymous--"The Fullness of Christmas,"
+                     <unitdate>1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">34</container>
+                     <unittitle>Arnold--Untitled Book manuscript,
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">11</container>
+                     <container type="Folder" label="Folder">35</container>
+                     <unittitle>Claudel, Paul-- <title render="italic">A Piece of Noon,</title>
+                        <unitdate>1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle> [Colie, Rosalie L.]--<title render="italic">Atlantic Wall,</title>
+                        <unitdate>1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Crowley, Father John-- Untitled Manuscript,
+                        <unitdate>1955</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Elbert, Father John A-- <title render="italic">An Approach to a
+                           Christian Philosophy of Science,</title> with Correspondence, circa
+                           <unitdate>1962</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">6</container>
+                     <unittitle>de Ghelderode, Michel--<title render="italic">Barabbas,</title>
+                        translated by Hugh Dickinson, <unitdate>1978</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">7</container>
+                     <unittitle>Giraudoux, Jean--<title render="italic">No War in Troy,</title>
+                        translated by Jean-Pierre Giraudoux and Betty Askwith,
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">8</container>
+                     <unittitle>Jones, Mira--"Psychic Reality," <unitdate>undated</unitdate> (with
+                        hand edits)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">9</container>
+                     <unittitle>Maidenbaum, Aryeh--"Psyche, Bible and Story,"
+                        <unitdate>1991</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">15</container>
+                     <unittitle>Sister Miriam--Chapter 5 of Manuscript on Art,
+                        <unitdate>undated</unitdate> (with Correspondence)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">16</container>
+                     <unittitle> [Murray, Albert]--"Duke Ellington’s Place in the National
+                        Pantheon," <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">17 to 18</container>
+                     <unittitle>Sugg, Richard--<title render="italic">Jungian Literary Criticism,</title>
+                        <unitdate>1992</unitdate>
+                            </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">12</container>
+                     <container type="Folder" label="Folder">19</container>
+                     <unittitle>Trilling, Lionel--"The Arts, etc.,"
+                     <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">4</container>
+                     <unittitle>Union Suisse des Communautés Israëlites, <title render="italic">Documentation Internationale la Persécution des Juifs en Allemagne
+                           Attitude des Églises Chrétiennes,</title>
+                        <unitdate>undated</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">16</container>
+                     <container type="Folder" label="Folder">5</container>
+                     <unittitle>Zohary, M., <title render="italic">Flora of the Bible,</title>
+                        <unitdate>1957</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Correspondence, <unitdate type="inclusive">1940s-2000</unitdate>
+                    </unittitle>
+            </did>
+            <scopecontent><p>Contained here is correspondence to and from Barry Ulanov between the 1940s and
+                  the 2000s. The correspondence within the collection consists primarily of letters
+                  regarding Ulanov’s professional activity, particularly as a lecturer and speaker,
+                  as well as his work within the Catholic Church. Of particular interest is a
+                  handwritten letter to Ulanov from Charles Mingus. The correspondence is arranged
+                  chronologically by decade.</p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">20</container>
+                  <unittitle><unitdate>1940s</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">21 to 22</container>
+                  <unittitle><unitdate>1950s</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">23 to 24</container>
+                  <unittitle><unitdate>1960s</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">25</container>
+                  <unittitle><unitdate>1970s</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">26 to 27</container>
+                  <unittitle><unitdate>1980s</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <container type="Folder" label="Folder">28 to 30</container>
+                  <unittitle><unitdate>1990s</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">1 to 2</container>
+                  <unittitle><unitdate>1990s</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">3</container>
+                  <unittitle><unitdate>2000</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">4 to 5</container>
+                  <unittitle><unitdate>Undated</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">6 to 7</container>
+                  <unittitle>Eucharist Congress, <unitdate>1964</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <container type="Folder" label="Folder">8 to 10</container>
+                  <unittitle>Lecture Records, <unitdate type="inclusive">1964-1972</unitdate>
+                        </unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle/>
+               </did>
+            </c>
+         </c>
+
+
+      </dsc>
+   </archdesc>
+</ead>

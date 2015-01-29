@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079451_ead//EN" mainagencycode="nnc-rb">ldpd_4079451_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Spruille Braden Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-03-06">2012-03-06</date>
+            <item>Xml document instance created by Alison Rhonemus.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Braden, Spruille, 1894-1978</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Spruille Braden Papers">Spruille Braden
+            Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1903/1977" type="inclusive">1903-1977.</unitdate>
+         <physdesc><extent encodinganalog="300">34 linear ft (ca. 36,160 items in 70 boxes, 150 volumes, 1
+               folder, &amp; 1 scrapbook.</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0143</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079451</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract> This collection contains correspondence, speeches, manuscripts, documents,
+            photographs, printed material and audiovisual material of Spruille Braden, 1894-1978,
+            American diplomat and mining engineer.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->American diplomat, mining engineer. Braden (1894-1978) was a
+            diplomat in numerous Latin American countries and was particularly well known for his
+            role as the American Representative to the Chaco Peace Conference, 1935-1939, and for
+            his opposition to the Peron regime in Argentina in the 1940s.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, speeches, manuscripts, documents, photographs, printed material, and
+            audio visual material, primarily relating to Braden's career as a diplomat. Also
+            included are files from his tenure as Assistant Secretary of State for Latin American
+            Affairs, 1945-1947. The numerous scrapbooks in the collection contain clippings,
+            photographs, and invitations. Major correspondents include Adolf A. Berle, Jr., Homer S.
+            Cummings, James A. Farley, Barry Goldwater, Ernest Hemingway, John Edgar Hoover, Cordell
+            Hull, Frances Kellor, Edward I. Koch, Archibald MacLeish, Nelson A. Rockefeller,
+            Franklin D. Roosevelt, Leo S. Rowe, Edward R. Stettinius, Jr., Thomas J. Watson, and
+            Sumner Welles.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected materials cataloged; remainder arranged. This collection is arranged in three
+            series: <list type="simple">
+                    <item>Series I: Correspondence and Catalogued Items </item>
+               <item>Series II: Appearances</item>
+               <item>Series III: Manuscripts, Documents and Miscellaneous</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">United States.--Assistant Secretary of State for Latin
+            American Affairs.</corpname>
+         <corpname encodinganalog="611">Chaco Peace Conference (1935-1939 :--Buenos Aires,
+            Argentina)</corpname>
+         <persname encodinganalog="600">Berle, Adolf Augustus, 1895-1971.</persname>
+         <persname encodinganalog="600">Cummings, Homer S. (Homer Stillé), 1870-1956.</persname>
+         <persname encodinganalog="600">Farley, James A. (James Aloysius), 1888-1976.</persname>
+         <persname encodinganalog="600">Goldwater, Barry M. (Barry Morris), 1909-1998.</persname>
+         <persname encodinganalog="600">Hemingway, Ernest, 1899-1961.</persname>
+         <persname encodinganalog="600">Hoover, J. Edgar (John Edgar), 1895-1972.</persname>
+         <persname encodinganalog="600">Hull, Cordell, 1871-1955.</persname>
+         <persname encodinganalog="600">Kellor, Frances, 1873-1952.</persname>
+         <persname encodinganalog="600">Koch, Ed, 1924-</persname>
+         <persname encodinganalog="600">MacLeish, Archibald, 1892-1982.</persname>
+         <persname encodinganalog="600">Perón, Juan Domingo, 1895-1974.</persname>
+         <persname encodinganalog="600">Rockefeller, Nelson A. (Nelson Aldrich),
+            1908-1979.</persname>
+         <persname encodinganalog="600">Roosevelt, Franklin D. (Franklin Delano),
+            1908-1979.</persname>
+         <persname encodinganalog="600">Rowe, L. S. (Leo Stanton), 1871-1946.</persname>
+         <persname encodinganalog="600">Stettinius, Edward R. (Edward Reilly), 1900-1949.</persname>
+         <geogname encodinganalog="651">Latin America--Foreign relations.</geogname>
+         <geogname encodinganalog="651">Argentina--Politics and government--1943-</geogname>
+         <geogname encodinganalog="651">United States--Foreign relations--Latin America.</geogname>
+         <geogname encodinganalog="651">United States--Politics and government--20th
+            century.</geogname>
+         <genreform encodinganalog="655" source="lctgm">Audiovisual materials.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Scrapbooks.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Speeches.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Diplomats.</occupation>
+         <occupation encodinganalog="656" source="dot">Mining engineers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 4-72. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1958 M-58 Braden, Spruille Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Spruille Braden, 1958; gift of the Braden family, 1978; gift of William Braden,
+            1981.</p>
+      </custodhist>
+
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Spruille Braden Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 04/12/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+
+
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence and Catalogued Items</unittitle>
+            </did>
+            <scopecontent><p>This series contains catalouged correspondence, manuscripts and photographs. This
+                  series also contains general and diplomatic corrospondence arranged
+                  chronologically and alphabetically.</p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle>Catalogued Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Acheson, Dean</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Aldrich, Winthrop W.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Ayala, Eusebio</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Batista y Zaldivar, Fulgencio</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Berle, Adolf A., Jr.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Biddle, Francis</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Bowers, Claude G.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Bowman, Isaiah</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Buckley, James L.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Buckley, William F., Jr.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Byrnes, James F.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Christy, Howard Chandler</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Church, Frank</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Clayton, William L.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Clemens, Cyril</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Cooke, Terence. Cardinal</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Crawford, Joan</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Cummings. Homer S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Davidson, Jo</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Davila, Carlos.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Davis, John W.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                            <unittitle>
+                    Duggan, Stephen F.</unittitle>
+                  </did>
+                  </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                    
+                     <unittitle>Dulles, John Foster</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Eisenhower, Dwight David</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Farley, James A.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Gellhorn, Martha</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Goldwater, Barry</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Grew, Joseph C.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Gruening, Ernest</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Gunther. John</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Hayes, Carlton J.H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Hemingway, Ernest</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Hoover, John Edgar</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Hull, Cordell</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Javitz, Jacob K.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Johnson, Lyndon B.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Kellor, Frances</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>King, Willard V .</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Knox, Frank</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Koch, Edward I.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Lane, Arthur Bliss</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Lewisohn, Sam A.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Lippmano, Walter</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Lodge, John Davis</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Long, Breckinridge</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>MacLeish, Archibald.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>McNutt, Paul V.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Meany, George</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Merrill, John L.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Moynihan, Daniel Patrick</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Ospina Perez, Mariano</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Pearson, Drew</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Reagan, Ronald</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Reid, Whitelaw</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Rickenbacker, Edward</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Rockefeller, Nelson A.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Rodino, Peter W., Jr.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Roosevelt, Eleanor Roosevelt (Mrs. Franklin D.)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Roosevelt, Franklin Delano</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Roosevelt, Nicholas</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Rowe, Leo S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Skouras, Spyros P.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Spellman, Francis Joseph, Cardinal</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Stettinius, Edward R., -Tr.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Sulzberger, Arthur Mays</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Sulzberger, Iphigene Ochs</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Swope, Herbert Bayard</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Tejada Gorzano, Jose Luis 1881-1938</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Trujillo Molina, Rafael Leonidas, 1891-</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Truman, Harry S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Vandenberg, Arthur H.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Wallace, Henry A.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Watson, Thomas J.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Welch, Robert</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Welles, Sumner</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Wilder, Thornton</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Catalogued Manuscripts</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Gunther, John.</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle><title render="italic">The Chaco War</title>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle><title render="italic">Hail Colombia</title>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Catalogued photographs:</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Cummings, Homer</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Grew, Joseph C.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Olav V, King of Norway</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Rowe, Leo S.</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Correspondence, Diplomatic</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle><unitdate>1935</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle><unitdate type="inclusive">1936-1938</unitdate> - U.S. Dept. of
+                        State Despatches</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>1936</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>A-D</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>E-G</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>H-N</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>O-Z</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>1937</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">6</container>
+                        <unittitle>A-K</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">6</container>
+                        <unittitle>L-Z</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>1938</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">6</container>
+                        <unittitle>A-H</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">6</container>
+                        <unittitle>J-Z</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle><unitdate>1939</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle><unitdate>1940</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>1941</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <unittitle>A-M</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <unittitle>N-Z</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>1942</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <unittitle>A-Braden</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <unittitle>Braden-Bz</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <unittitle>C</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">8</container>
+                        <unittitle>D-H</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <unittitle>I-L</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <unittitle>M-R</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <unittitle>S-We</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">9</container>
+                        <unittitle>Wr-Z</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>1943</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <unittitle>A-Be</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <unittitle>Briggs</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <unittitle>B misc. - C</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">10</container>
+                        <unittitle>D-E</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <unittitle>F-I</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <unittitle>J-L</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <unittitle>M-N</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">11</container>
+                        <unittitle>O-R</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">12</container>
+                        <unittitle>S-T</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">12</container>
+                        <unittitle>U-Z</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>1944</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">12</container>
+                        <unittitle>A-Bo</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">12</container>
+                        <unittitle>Br-Bz</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">13</container>
+                        <unittitle>B misc.</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">13</container>
+                        <unittitle>C misc.</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">13</container>
+                        <unittitle>C-E</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">13</container>
+                        <unittitle>F-J</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">14</container>
+                        <unittitle>K-M</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">14</container>
+                        <unittitle>M</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">14</container>
+                        <unittitle>N-P</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">14</container>
+                        <unittitle>R</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">15</container>
+                        <unittitle>S</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">15</container>
+                        <unittitle>T-Z</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle><unitdate>1945</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><unittitle>Cuba</unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                           <unittitle>A</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                           <unittitle>B</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                           <unittitle>C-F</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                           <unittitle>G-K</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                           <unittitle>L-Na</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                           <unittitle>Ne-P</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                           <unittitle>R-S</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                           <unittitle>S-Z</unittitle>
+                        </did>
+                     </c>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">18</container>
+                        <unittitle>Argentine Transfer (Argentina)</unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                           <unittitle>A-B</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                           <unittitle>C-F</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                           <unittitle>G-L</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                           <unittitle>M-P</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                           <unittitle>Q-S</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                           <unittitle>T-Z</unittitle>
+                        </did>
+                     </c>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">19</container>
+                        <unittitle>Washington Transfer -</unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">20</container>
+                     <unittitle><unitdate type="inclusive">1946-1947</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">20</container>
+                        <unittitle>A-D</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">20</container>
+                        <unittitle>E-I</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">20</container>
+                        <unittitle>Q-V</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">20</container>
+                        <unittitle>W-Z</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">21</container>
+                     <unittitle>Condolences, <unitdate>1943</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Congratualtions, <unitdate>1945</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">21</container>
+                        <unittitle>A-L</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">21</container>
+                        <unittitle>M-Z</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Invitations</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">21</container>
+                        <unittitle><unitdate>1938</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">21</container>
+                        <unittitle><unitdate>1945</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22</container>
+                  <unittitle>Correspondence, General</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>Argentina, <unitdate type="inclusive">1945-1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Braden, Spruille</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <unittitle>Resignation, <unitdate>1947</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">22</container>
+                        <unittitle>Statements and Articles, <unitdate type="inclusive">1945-1947</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>Cabot, John M., <unitdate type="inclusive">1945-1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>Fan Mail, <unitdate type="inclusive">1945-1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>Messersmith, G.S., <unitdate type="inclusive">1945-1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>New York City Anti-Crime Committee, <unitdate type="inclusive">1955-1957</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>Thompson, Scott, <unitdate type="inclusive">1945-1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">22</container>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <unittitle>Braden, Spruille</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <unittitle>Childhood letters, <unitdate type="inclusive">1903-1904</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <unittitle>Family letters, Ca. <unitdate type="inclusive">1925-1953</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <unittitle>(1929-1933) - Letters to and from his father</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Braden, William - Personal Files</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <unittitle><unitdate type="inclusive">January-December 1934</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">23</container>
+                        <unittitle><unitdate type="inclusive">January-June 1935</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">23</container>
+                     <unittitle>Briggs, Ellis 0. - 2 Folders</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">24</container>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">24</container>
+                        <unittitle><unitdate type="inclusive">1909-1959</unitdate> and not
+                           dated</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">24</container>
+                        <unittitle><unitdate type="inclusive">1960-1977</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">24</container>
+                        <unittitle>U.S. Dept. of State Memoranda</unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Appearances</unittitle>
+            </did>
+            <scopecontent><p>This series contains documents relating to speeches and conference attendence by
+                  Braden. This series is arranged alphabetically and chronologically.</p>
+            </scopecontent>
+            <c level="file">
+               <did><unittitle>Speeches</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Albright College, 2 <unitdate>June 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>American Geographical Society, 19 <unitdate>December 1945</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>American Institute of Mining Engineers, New York, 19 <unitdate>March
+                           1947</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>American Club, 26 <unitdate>May 1942</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Argentina</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Boston Conference on Distribution, 14 <unitdate>October
+                           1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Boston Trip, October I946 - Off the record</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Bromley Lectureship at Yale University, 18 <unitdate>December
+                           1945</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Celestials, 13 <unitdate>February 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Clark University, 26 <unitdate>May 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Cleveland Commission on Foreign Relations; Chicago - Off the
+                        record</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Columbia University Club, 2 <unitdate>March 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Departmental Group - Mr. Braden and Mr. Spaeth, 24
+                           <unitdate>September 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">25</container>
+                     <unittitle>Executives' Club of Chicago, 13 <unitdate>September 1946</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(3 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Foreign Policy Association, and Pan American Association at
+                        Philadelphia, 13 <unitdate>April 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Hemispheric Insurance, 15 <unitdate>May 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Historians Luncheon, 14 <unitdate>December 1945</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>House Foreign Affairs Committee, 26 <unitdate>July 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Johns Hopkins University <unitdate>1939</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Litoral University, Buenos Aires, 21 <unitdate>July, 1945</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Mass Media Representatives - Off the record</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Meet the Press (American Mercury)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Montana School of Mines, 7 <unitdate>June 1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>NBC Broadcast,</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">26</container>
+                        <unittitle>21 <unitdate>December 1946</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">26</container>
+                        <unittitle>5 <unitdate>January 1946</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>National Democratic Club, 23 <unitdate>March 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>National Trade Council, 14 <unitdate>November 1945</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle>Navy Day, 27 <unitdate>October 1945</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle><title render="italic">New York Herald Tribune</title> High School
+                        Forum, 8 <unitdate>March 1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">26</container>
+                     <unittitle><title render="italic">New York Times</title> - To General
+                        Federation of Women's Clubs, 27 <unitdate>March 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Pan American Union - Dr. Leo S. Rowe's Memorial</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Pan American Day - Radio Greetings to Latin America,
+                           <unitdate>1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Pan American Union - Tribute to Franklin D. Roosevelt,
+                           <unitdate>November, 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Peron University, La Plata, 10 <unitdate>June
+                     1944</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                    <unittitle> Roosevelt Memorial Exhibit, Pan American Union</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Rutgers University, 26 <unitdate>October 1945</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Santander and Jefferson</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>University Club, 19 <unitdate>January 1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">27</container>
+                     <unittitle>Wendell L. Willkie Awards for Negro Journalism, 1 <unitdate>March
+                           1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Chronological</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">27</container>
+                        <unittitle><unitdate type="inclusive">1933-1938</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">27</container>
+                        <unittitle><unitdate type="inclusive">1938-1942</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">28</container>
+                        <unittitle><unitdate type="inclusive">1942-1943</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">28</container>
+                        <unittitle><unitdate>1943</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">29</container>
+                        <unittitle><unitdate>1944</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">29</container>
+                        <unittitle><unitdate>1945</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">29</container>
+                        <unittitle><unitdate type="inclusive">1946-1947</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">30</container>
+                        <unittitle><unitdate type="inclusive">1945-1950</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">30</container>
+                        <unittitle><unitdate type="inclusive">1946-1947</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Miscellaneous</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">30</container>
+                        <unittitle><unitdate>1950s</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">30</container>
+                        <unittitle>Pre-State Department</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">30</container>
+                        <unittitle>Material for Speeches</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">30</container>
+                        <unittitle>General</unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">31</container>
+                  <unittitle>Conferences</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Pan American Commercial Conference, Buenos Aires,
+                           <unitdate>1935</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">31</container>
+                        <unittitle>Instructions to delegates</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <unittitle>7th International Conference of American States, <unitdate type="inclusive">1932-1933</unitdate>
+                     </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">32</container>
+                        <unittitle>Instructions to delegates</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">32</container>
+                     <unittitle>Inter-American Conference for the Maintenance of Peace,
+                           <unitdate>1936</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">33</container>
+                  <unittitle>Appointment Books and Wedding Guest Lists, <unitdate>1937, 1942-1945</unitdate>
+                     </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III: Manuscripts, Documents and Miscellaneous</unittitle>
+            </did>
+            <scopecontent><p>This series contains financial and legal documents, manuscripts, scrapbooks,
+                  pamphlets, phonograph records, movie film and books from the library of Spruille
+                  Braden. Braden library items in this series include approximately 150 volumes
+                  inscribed to or by Braden; annotated by, citing, or by Braden; and miscellaneous
+                  works. Most concern South America, diplomacy, or ultraconservative politics. </p>
+            </scopecontent>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Financial and Legal Documents, <unitdate type="inclusive">1924-1943</unitdate>
+                  </unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Accounting Memos</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Accounts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Barranquilla Electric Project, <unitdate>1926</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Contracts</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Insurance</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Mexican Gas Negotiations</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Munoz, Sara</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Receipts</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">34</container>
+                     <unittitle>Romero</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Subject File</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">35</container>
+                     <unittitle>Ambassadorship, <unitdate>1933</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">35</container>
+                     <unittitle>American Arbitration Association</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Argentina</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">35</container>
+                        <unittitle>General</unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                           <unittitle><unitdate type="inclusive">1944-1945</unitdate>
+                           </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                           <unittitle><unitdate>1945</unitdate>
+                           </unittitle>
+                        </did>
+                     </c>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">35</container>
+                        <unittitle>AFL Report, 10 <unitdate>March 1947</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">35</container>
+                        <unittitle>Magazine Articles</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">35</container>
+                        <unittitle>Memorandum to President Truman, <unitdate>July 1946</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">35</container>
+                        <unittitle>Peron, Juan - "Blue and White Book"</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">36</container>
+                        <unittitle>Press, <unitdate>1945</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">36</container>
+                        <unittitle>Wells, Robert C , Reports, <unitdate type="inclusive">1945-1946</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                     </did>
+                  </c>
+               </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">36</container>
+                        <unittitle>Argentina's Compliance with. . .Agreements - Memorandum,
+                              <unitdate>1946</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">36</container>
+                        <unittitle>Braden Family Genealogy</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">36</container>
+                        <unittitle>Chaco, <unitdate type="inclusive">1942-1943</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">36</container>
+                        <unittitle>Cienfuegos - <unitdate>1942</unitdate> Trip - Correspondence and
+                           related items</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">36</container>
+                        <unittitle>Clark University Honorary Degree, <unitdate>1946</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">36</container>
+                        <unittitle>Dictatorships and Disreputable Governments</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">36</container>
+                        <unittitle>Inter-American Commerical Arbitration Commission</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Military and Naval Information</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Montana - <unitdate>1947</unitdate> Trip</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>New York City Anti-Crime Committee</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Paraguay</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Passports, Cancelled Diplomatic - Braden Family</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Personnel Investigations, Inter-Office Committee on</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Reference File</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Schuyler, Chadwich and Burnham</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Stonehurst Apartments</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Tetens, T.H.</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>Tomlinson, Edward</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">37</container>
+                        <unittitle>UNESCO</unittitle>
+                     </did>
+                  </c>
+          
+            </c>
+            <c level="file">
+               <did><unittitle>Manuscripts and Documents, Miscellaneous</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">38</container>
+                     <unittitle>Undated</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">38</container>
+                     <unittitle><unitdate>1930s</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">38</container>
+                     <unittitle><unitdate type="inclusive">1945-1947</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">38</container>
+                     <unittitle><unitdate type="inclusive">1948-1952</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">38</container>
+                     <unittitle>Government Reports, <unitdate>1946</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>General</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>Braden, Spruille. [<title render="italic">Diplomats and Demagogues</title>.]
+                           <unitdate>1966</unitdate> draft ms.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>Certificates, Diplomas</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>Nazi Operations, Colombia and Panama</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>Passports</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>Works by others</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">40</container>
+                  <unittitle>Scrapbooks</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">40</container>
+                     <unittitle><unitdate type="inclusive">1935-1938</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">41</container>
+                     <unittitle><unitdate>1939</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">42</container>
+                     <unittitle><unitdate type="inclusive">1939-1942</unitdate>; (numbered) 1, 2 -
+                           <unitdate>1942</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">43</container>
+                     <unittitle>2a-4 - <unitdate>1942</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">44</container>
+                     <unittitle>5, 6 - <unitdate>1942</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">45</container>
+                     <unittitle>7, 8 - <unitdate>1943</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">46</container>
+                     <unittitle>9, 10 - <unitdate>1943</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">47</container>
+                     <unittitle>11-13 - <unitdate>1944</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">48</container>
+                     <unittitle>14, 15 - <unitdate>1944</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">49</container>
+                     <unittitle>16, 17 and unnumbered</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">50</container>
+                     <unittitle>19, 20</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">51</container>
+                  <unittitle>Scrapbooks end clippings, miscellaneous</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">52</container>
+                  <unittitle>Scrapbook and photographs, miscellaneous</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">53</container>
+                  <unittitle>Clippings, <unitdate type="inclusive">1937-1947</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">54</container>
+                  <unittitle>Clippings, ca. <unitdate>1938</unitdate> and miscellaneous
+                     printed</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">55</container>
+                  <unittitle>Miscellaneous printed material</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">56</container>
+                  <unittitle>Photographs, tapes, awards, movie film and related items</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">57</container>
+                  <unittitle>Pamphlets: Peronist, ultraconservative, others, tapes and movie film
+                     continued</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">58</container>
+                  <unittitle>Clippings and Periodicals</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">59</container>
+                  <unittitle>Printed miscellany</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">59</container>
+                  <unittitle>Catalogued photographs</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="">Map Cases 14-P-2 and 14-P-3</container>
+                  <unittitle>OVERSIZE; Photographs and Documents</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="">Flat Box 30</container>
+                  <unittitle>OVERSIZE: Phonograph records of speeches and miscellaneous events - 1
+                     Folder</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="">CMI Box 71</container>
+                  <unittitle>OVERSIZE: Report: Argentinian and German Activities</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="">CMI Box 72</container>
+                  <unittitle>Scrapbook - 1 volume</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">60-66</container>
+                  <unittitle>Inscribed books</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">67-70</container>
+                  <unittitle>Annotated books</unittitle>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

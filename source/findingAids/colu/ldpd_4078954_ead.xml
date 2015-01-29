@@ -1,0 +1,3670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="schema/ead_cul.nvdl" type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078954_ead//EN" mainagencycode="nnc-rb">
+            ldpd_4078954_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Arthur Jeffery Papers</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+                    Manuscript Library; machine readable finding aid created by Columbia University
+                    Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+                    University Libraries</publisher>
+                <date encodinganalog="Date" normal="2008-12-02">December 2, 2008 </date>
+                <address><addressline>6th Fl. East</addressline>
+                    <addressline>535 West 114th St.</addressline>
+                    <addressline>New York, NY 10027</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT
+                conversion <date normal="2008-12-02">December 2, 2008 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2008-12-02">2008-12-02</date>
+                <item>File created.</item>
+            </change>
+            <change><date normal="2009-01-15">2009/01/15</date>
+                <item>xml document instance created by Patrick Lawlor</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Jeffery, Arthur.</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="Arthur Jeffery Papers">Arthur Jeffery
+                Papers</unittitle>
+            <unitdate encodinganalog="245$f" normal="1920/1959" type="inclusive">[ca. 1920]-1959.</unitdate>
+            <physdesc><extent encodinganalog="300">32 linear ft. (62 document boxes and 2 flat
+                boxes).</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+                </corpname>
+                <address><addressline>New York, NY.</addressline>
+                </address>
+            </repository>
+            <unitid countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0674</unitid>
+            <unitid countrycode="US" repositorycode="nnc-rb" type="clio">4078954</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng">In English</language>
+            </langmaterial>
+            <abstract>Arthur Jeffery (1892-1959) was Professor of Semitic languages at Columbia
+                University from 1938 until his death. This collection of manuscripts, typescripts,
+                manuscript notes and typescript notes with some related correspondence reflects
+                Jeffery's research and writing on the vocabulary and history of the text of the
+                Koran.</abstract>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>History</head>
+            <p><!-- BIOGHIST REQUIRED -->Arthur Jeffery (1892-1959) was Professor of Semitic
+                languages at Columbia University from 1938 until his death. His professional life
+                was spent conducting historical studies of Middle Eastern manuscripts. Jeffrey is
+                perhaps best know for his books <title render="italic">Materials for the history of the text of the
+                    Qur'an: the old codices</title> and <title render="italic">The Foreign Vocabulary of the Qur'an,</title> which traces
+                the origins of 318 foreign (non-Arabic) words found in the Qur'an. Some of Jeffery's
+                studies are included in <title render="italic">The Origins of The Koran: Classic Essays on Islam's Holy
+                Book,</title> edited by Ibn Warraq.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>Manuscripts, typescripts, manuscript notes, and typescript notes with some related
+                correspondence reflecting Jeffery's research and writing on the vocabulary and
+                history of the text of the Qu'ran. There are also materials on Islam, pre-Islamic
+                Arabia, Semitic religions and languages, Christianity, the Eastern Churches, the
+                Bible, the Dead Sea Scrolls, Gnosticism, general religion, and theology.</p>
+            <p/>
+        </scopecontent>
+        <controlaccess><head>Subjects</head>
+            <persname encodinganalog="600">Jeffery, Arthur.</persname>
+            <subject encodinganalog="650">Arabic language--Foreign words and phrases.</subject>
+            <subject encodinganalog="650">Arabic literature--Translations into English.</subject>
+            <subject encodinganalog="650">Semites--Religion.</subject>
+            <subject encodinganalog="650">Islam.</subject>
+            <subject encodinganalog="650">Islamic literature.</subject>
+            <subject encodinganalog="650">Semitic languages--Research.</subject>
+            <subject encodinganalog="650">Christianity.</subject>
+            <subject encodinganalog="650">Eastern churches.</subject>
+            <subject encodinganalog="650">Gnosticism.</subject>
+            <subject encodinganalog="650">Middle Eastern philology.</subject>
+            <subject encodinganalog="650">Religion.</subject>
+            <subject encodinganalog="650">Theology.</subject>
+            <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+            <title encodinganalog="630">Koran.</title>
+            <title encodinganalog="630">Bible.</title>
+            <title encodinganalog="630">Dead Sea scrolls.</title>
+            <title encodinganalog="630">Koran--Criticism, Textual.</title>
+            <title encodinganalog="630">Koran--Language, style.</title>
+            <title encodinganalog="630">Koran--Readings.</title>
+        </controlaccess>
+        <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>This collection has no restrictions. </p>
+            <p>The following boxes are located off-site: 1-52. You will need to request this
+                material from the Rare Book and Manuscript Library at least twenty-four (24) hours
+                in advance to use the collection in the Rare Book and Manuscript Library reading
+                room.</p>
+        </accessrestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>1959 M-59 Jeffery, Mrs. Arthur Gift</p>
+        </acqinfo>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known); Arthur Jefrey Papers, Box and
+                Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Cataloged 07/--/89 Christina Hilton Fenn</p>
+        </processinfo>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Single photocopies may be made for research purposes. Permission to publish material
+                from the collection must be requested from the Curator of Manuscripts. The RBML
+                approves permission to publish that which it physically owns; the responsibility to
+                secure copyright permission rests with the patron.</p>
+        </userestrict>
+        <otherfindaid encodinganalog="555">
+            <p>Finding aid in repository</p>
+
+        </otherfindaid>
+        <dsc><c level="series">
+                <did><unittitle>Contents List</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Photostats of Manuscript--Mingana Islamic Arabic,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Bibliographies of Quran Translations,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Criticism and Translating the Quran,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Text and Versions of the Quran,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>A-D</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>E-F</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>G-M</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>N-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>"Had Muhammad a Scripture Teacher?,"
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Imala Concluding Essay, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Lecture Notes on Selected Quranic Passages,
+                            <unitdate>1925</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Notes on Quranic Interpretation; Nöldeke-Schwally's Introduction
+                            of the Quran; Collation of Quran Texts of Hinckelmann, Marracio and
+                            Flügel Notebooks, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>On The Translation of the Quran,
+                        <unitdate>1936</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Pause, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Quranic Tractates; Jesus References; Rudolph, "Die Abhängigkeit
+                            des Qoran von Judenlhum und Christentum"; Quranisches Notebooks,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Variant WAQFs According to Al-Marandi (1337),
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Quran Subject Index Files,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>A</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>B-C</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>C-D</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>D-F</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>F-G</unittitle>
+                        </did>
+                    </c>
+               
+              
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Miscellaneous</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>A-S</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Manichaean Doctrine, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">2-3</container>
+                        <unittitle>Manichaica, <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Notes on Manichaeism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Pre-Islamic Arabia, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Prolegomena to the Study of Islam,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Writings of Mani and his Disciples,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">1-3</container>
+                        <unittitle><title render="italic">A Reader on Islam, </title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Foreign Vocabulary of the Quran,
+                            The</title> Typescript, pgs. 1-150,
+                        <unitdate>1929</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>"Translation of Ibn Hisham" Manuscript, circa
+                            <unitdate>1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Transliterations Lecture and Article Notes,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">5-7</container>
+                        <unittitle>Untitled Manuscript, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Armenian Language, Old Testament and Mesopotamia Typescripts,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Baldawi; Ikhtilas; Kalila wa Dimna; Mutawakhili and Ath-Tha?labi
+                            Notebooks, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Bergsträsser's "History of the Quran " and " Quran Readings Hasan
+                            of Basra" Notebooks, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Cheiko's "Christianity in Arabia" and Weil's "Einleitung in Den
+                            Koran" Notebooks, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Critical Text of Quran Notes,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>"Dervish Prayer-Meeting: Glass Chewing and Sword Swallowing as a
+                            Spiritual Exercise" Typescript, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>"Early Discussions About the Quran,"<title render="italic">Muslim
+                                World, </title>unknown author,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>"Meccan Festival, The," Dr. T. Zaayer Thesis,
+                            <unitdate>1880</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Near East Photostatic Map; Der Mastaba-Friedhof bei Gise Print;
+                            and Newsclippings, undated, <unitdate type="inclusive">1951-1952,
+                                </unitdate>
+                            <unitdate>1955,
+                        </unitdate>
+                            <unitdate>1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>"Oriental Christianity and the Origin of Islam" Typescript,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Quranic Monography and Quranic Studies Notebooks,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Semitic Epigraphy Charts,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Semitic Material in the Egyptian Excretion Texts Summaries,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Shanqiti on the Mu?allaquat Notebooks I-III,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>Siyuti Itqan Notebooks I-II,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>Tablet Fragment Photographs and Translation,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>Taha Hussein on pre-Islamic Poetry Notebook,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">18</container>
+                        <unittitle>Untitled Notebooks, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Analecta Qoranica, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Bashshar B. Burd, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Christology or Quran [Documents in I. Schlatter in EMM, 1918]
+                            Notebook, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Commentary to Variants in Fatihah,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Correspondence, undated, <unitdate>1925,
+                                </unitdate>
+                            <unitdate>1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Eastern Churches, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Gods of the Pagan Arabs, The, Notebook,
+                            <unitdate>Undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Imala; Al-Jaza?iri on the Seven Ahruf; Lines of Tradition from
+                            the Seven According to Al-Mu?addil's Rand?atal-H?uhaz?; and Introduction
+                            to Quran Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Religion in Pre-Islamic Arabia,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Quran and Arabic Notes, Misc.,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Quran Translations and Correspondence, undated, <unitdate type="inclusive">1934-1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Quranic References in Cosmology,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Salman Al-Farisi Background Information and Correspondence,
+                            undated, <unitdate type="inclusive">1939-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Sigla for Quran Readers Notebook,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>Untitled Notebook and Clippings in Arabic,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Bartholomew of Edessa Notes,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Comparative Semitic Grammar Notes,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Canon and Text of the Old Testament Notebook,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Interpretation of the Quran in Present Day Islam,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Logos Typescript, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>"Muhammad's Doctrine of Revelation" Typescript,
+                            <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Muqni? of ad-Dani Notebook,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Muslim Eschatology "Grand Assizes: A Description of the Last
+                            Trump," Typescript, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Muslim Eschatology Notes and Correspondence, undated,
+                                <unitdate>1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Muslim Eschatology Notes and Correspondence, undated,
+                                <unitdate>1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Notes on the Kabbalah, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Notes and Pamphlets, undated, <unitdate>1928,
+                                </unitdate>
+                            <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Quranic Material, Misc., <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Quranic Orthography, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>Syriac Grammar Exercises to Robinson's Grammar,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>WAQF Positions According to Ushmuni's Manar Al-Huda (1286),
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Arabic / English Vocabulary Notecards,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Bibliographic Notecards, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Conspectus of Editions of Arabic Text of the Quran, Notebooks
+                            1-3, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Notes on Quranic Interpretation,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Quranic Readings Notecards (in Arabic),
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Quranic Readings of Zaid b. Ali,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Alphabetical List of the Qurra (Readers of the Quran),
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>A</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>B-H</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>I-J</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>K-R</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>S-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Ambrosiana F289 Manuscript Photographs,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Literal Versions of the Themes in the Beirut Marad al-Klutut,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Untitled Notebooks, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Controversy, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">1-2</container>
+                            <unittitle>General</unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>A-H</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>J-K</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>L-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><unittitle>Sufism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>A-P</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Q-Z</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">8-9</container>
+                            <unittitle>Printed Material</unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Aboth de Rabbi Nathan, <unitdate>1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Alexander, Dhu 'L-Qarnain,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Alphabet, <unitdate type="inclusive">1948-1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>American Research Center (Egypt),
+                        <unitdate>1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>'AMR-MEMRA, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Arabic Script, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Aramaic Scripts, <unitdate>1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Dead Sea Scrolls, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Introduction</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Research</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><unittitle>Essay</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>"Corruption of the Tetragrammaton,"
+                            <unitdate>1940</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>"Dominant Ideas in Islamic Culture Today,"
+                                <unitdate>1942</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Essay and Notes on the Kur'an,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Greek Religions, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Kufic Codices, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>Berlin</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">15</container>
+                            <unittitle>British Museum</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">16</container>
+                            <unittitle>Gotha, Pertsch Katalog</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">17</container>
+                            <unittitle>Paris</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">18</container>
+                            <unittitle>Vienna, Copenhagen, Escorial</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">19</container>
+                        <unittitle>Maimonides, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">20</container>
+                        <unittitle>Mystery Religions, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">F21</container>
+                        <unittitle>Subject Notes, A-Z, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">22</container>
+                        <unittitle>Zoroastrianism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Subject Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>A</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>B</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>C</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>D-F</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>G-J</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>K-M</unittitle>
+                        </did>
+                    </c>
+               
+                    <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>N-Q</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>R-S</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>T-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Subject Notes, A-Z, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Subject Notes, Numerical,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Bibliography for Semitic Philology,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Early Syrian Arab and South Arabian Christianity and the
+                            Christology of the Quran, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Essay on the Cufic Quran in the Khedive Library in Cairo,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Essay on the Samarkand Kufic Quran,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Notebook on Nabataeans, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">6-7</container>
+                        <unittitle>Notebook on Semitic Languages, <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Notes on Folios with Original Writing,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Notes on Semitic Philology,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Notes Pertaining to Christianity,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Notes Pertaining to the Quran,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Churches, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Abyssinian</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Armenian</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Egyptian</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Nestorian</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Orthodoxy</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Correspondence, <unitdate type="inclusive">1935-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Katan and the Mu'tazila Groups,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Microfilm--E.Littmann, Thamud und Safa,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Modern Egyptian Arabic, <unitdate>1922</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Postcards and Maps, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Subject Notecards, I-M, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Author and Subject Notecards,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>First Sura of the Quran in Different Languages,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Subject Notecards, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>A-D</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>E-I</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>J-O</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>P-S</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>T-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Vocabulary in Arabic, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Vocabulary Notecards, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>A-K</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>M-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Dead Sea Scrolls, <unitdate>1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>History of Religion, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Islamic History Lecture Notes,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">4-5</container>
+                        <unittitle>Manuscript on Muhammad and the Quran,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Natural Philosophy, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>South Arabian Inscriptions,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Umar II and Leo III Correspondence,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">1-4</container>
+                        <unittitle>Photostats of Arabic Manuscripts, <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(4 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Photostats of Arabic Manuscripts--Meknes,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Armenian Foundation, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Australian Aborigines, <unitdate type="inclusive">1952-1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Ayyub, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Babylonian Religion, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Beha'ism, <unitdate>1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Byzantine Arabia, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Camel, <unitdate type="inclusive">1944-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Canaanite Religion, <unitdate>1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Coptic Gnostic Papyri, <unitdate type="inclusive">1952-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Crete (Minoan), <unitdate type="inclusive">1954-1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Crusades, <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Dervish Orders, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Dhu'n-nun al-Misri, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Druses of Lebanon, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>Egyptian Religion, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>False Messiahs, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>Feasts and Festivals, <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">18</container>
+                        <unittitle>Ghassanids, <unitdate type="inclusive">1955-1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">19</container>
+                        <unittitle>Gilgamesh, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">20</container>
+                        <unittitle>Gnosticism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">21</container>
+                        <unittitle>Harris Foundation, <unitdate>1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">22</container>
+                        <unittitle>Hinduism, <unitdate>1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">23</container>
+                        <unittitle>Hittites, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">24</container>
+                        <unittitle>Houtsma Steenwerper, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">25</container>
+                        <unittitle>Hyksos, <unitdate>1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">26</container>
+                        <unittitle>Islamic History, <unitdate type="inclusive">1940-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">27</container>
+                        <unittitle>Jannes and Jambres, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">28</container>
+                        <unittitle>Jesus in Islam, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">29</container>
+                        <unittitle>Karaites, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">30</container>
+                        <unittitle>Lakhmids of Al-Hira, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">31</container>
+                        <unittitle>Lamaism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">32</container>
+                        <unittitle>Letter of Abgar, <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">33</container>
+                        <unittitle>Lihyanites, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Mandaeans, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Mecca, <unitdate>1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Mi'Raj, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Mithraism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Modern Movements in Islam, <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Muhammadan Jurisprudence,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Nabataeans, <unitdate type="inclusive">1956-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>North Arabian Languages, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Philosophy in Islam, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Quranic Exegesis, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Quranic Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Roman Arabia, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Saint Thomas and India, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Samaritans, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>Saracenic Civilization, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>Serpent Worship, <unitdate>1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>Sects of Islam, <unitdate>1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">18</container>
+                        <unittitle>Seth, Shatil, Sethians, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">19</container>
+                        <unittitle>Seven Sleepers, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">20</container>
+                        <unittitle>Shadhiliyya, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">21</container>
+                        <unittitle>Shamanism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">22</container>
+                        <unittitle>Shathiyyat, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">23</container>
+                        <unittitle>Sinai, <unitdate type="inclusive">1952-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">24</container>
+                        <unittitle>Slavery, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">25</container>
+                        <unittitle>South Arabian Culture, <unitdate type="inclusive">1950-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">26</container>
+                        <unittitle>Torah in Islam, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">27</container>
+                        <unittitle>Vanished Tribes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">28</container>
+                        <unittitle>Wahhabism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">29</container>
+                        <unittitle>Water of Life, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">30</container>
+                        <unittitle>Writing, <unitdate>1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">31</container>
+                        <unittitle>Yezidi, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Loose Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Printed Materials</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+                            <container type="Folder" label="Folder">2-3</container>
+                            <unittitle>General, <unitdate type="inclusive">1906-1952</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+                            <container type="Folder" label="Folder">4-5</container>
+                            <unittitle>Journals, <unitdate type="inclusive">1916-1953</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+                            <container type="Folder" label="Folder">6-7</container>
+                            <unittitle>Reprints, <unitdate type="inclusive">1915-1956</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">1-2</container>
+                        <unittitle>Indo-Iranian Philology, <unitdate type="inclusive">1937-1950</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Journals, <unitdate type="inclusive">1939-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">4-5</container>
+                        <unittitle>Journals (Non-English languages), <unitdate type="inclusive">1928-1938</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Loose Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Printed Materials</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>General, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Film Literature, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Journals and Reprints, <unitdate type="inclusive">1926-1937</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Journals and Reprints, <unitdate>1939</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Journals and Reprints, <unitdate type="inclusive">1931-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Newspaper Clippings, <unitdate type="inclusive">1890-1899</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Pre-Muslim Arabia, <unitdate type="inclusive">1940-1946</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                
+                    <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <container type="Folder" label="Folder">1-2</container>
+                            <unittitle>Languages of Abyssinia, <unitdate type="inclusive">1938-1958</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Muslim Eschatology, <unitdate type="inclusive">1948-1958</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <container type="Folder" label="Folder">4-5</container>
+                            <unittitle>Quranic Studies, <unitdate type="inclusive">1928-1954</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Semitic Antiquities, <unitdate>1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Semitic Epigraphy, <unitdate type="inclusive">1938-1954</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+              
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Buddhism and Christianity Compared, <unitdate type="inclusive">1923-1924</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Muslim Hadith, <unitdate type="inclusive">1938-1939</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Quranic Studies, <unitdate type="inclusive">1934-1941</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <container type="Folder" label="Folder">4-5</container>
+                            <unittitle>Semitic Epigraphy, <unitdate type="inclusive">1903-1950</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <container type="Folder" label="Folder">6-7</container>
+                            <unittitle>Septuagint Studies, Books of the Bible, <unitdate type="inclusive">1927-1957</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><unittitle>Subject Files, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Aa-An</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>An-Az</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>B</unittitle>
+                        </did>
+                    </c>
+              
+                    <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>C</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Da-De</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>De-Du</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>E</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>F</unittitle>
+                        </did>
+                    </c>
+              
+                    <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>G</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Ha-He</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>He-Hy</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>I</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>J</unittitle>
+                        </did>
+                    </c>
+              
+                    <c level="file">
+                        <did><container type="Box" label="Box">34</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>K-Ma</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">34</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Ma-Mi</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">34</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Mi-My</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">34</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>N-O</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">34</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Pac-Par</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">34</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Par-Ps</unittitle>
+                        </did>
+                    </c>
+              
+                    <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Ps-Q</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>R</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Sa-Se</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Sh-Sz</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Ta-Tr</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><unittitle>Subject Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>T-U</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>V</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>W</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>X-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><unittitle>Quranic References Notecards,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>A</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>B-H</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>I-M</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>N-S</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>T-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><unittitle>Subject Notes, <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>A-I</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>J-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Arab Influences on Culture and Words Notes,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Correspondence, <unitdate type="inclusive">1935-1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>"Eschatological Midrashim in Jellinek's Beth Ha-Midrash,"
+                            Dissertation by Herman J. Fine, <unitdate>1949
+                        June</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Geology School Notebook, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>"Jewish Community in Egypt During the Twelfth Century,"
+                            Dissertation by Abraham N. Zuroff, <unitdate>1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle><title render="italic">Life of Mohammad from Original Sources,
+                                The, </title>by A. Sprenger, MD,
+                        <unitdate>1851</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Lord's Prayer, The, Various Languages,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>"Muhammed ?Abdu's Critique of Christianity and Defense of Islam
+                            with His Suggestions for the Renaissance of Islam," Dissertation by John
+                            G. Lorimer, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>"Manuscrits Orientaux" List,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>"Pseudo-Philo's Saul and The Rabbis' Messiah Ben Ephraim," by
+                            Abram Spiro, <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>"Study of Foreign Words Occurring in the Hebrew and Aramaic of
+                            the Old Testament, A," by Maximillian Ellenbogen,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>"Summer Journey to Al-Maghrib Al-Aqsa, A," Typescript with
+                            Photographs, [Travel Magazine], circa
+                        <unitdate>1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Arabic Grammar, <unitdate>1922</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Faculty, <unitdate type="inclusive">1938-1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Notes on Christianity, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Notes on Chronology, Geography, and Language,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Pater Noster, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Photostat of Zahiriya Manuscript,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Printed Material</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Non-Published, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Published, <unitdate type="inclusive">1936-1939</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">38</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Speeches and Writing, <unitdate type="inclusive">1956-1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Farquhar, J.N., Dr., Lectures on the Religions of India, Lecture
+                            I-VIII Outlines, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Introduction to Quran, Parts I-IV,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>"K??ur?an" Typescript, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Nubian Christianity and Modern Theories of Religion Manuscripts,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>"Qira?at, The," Manuscript
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <container type="Folder" label="Folder">6-7</container>
+                        <unittitle>Quran Editions, Translations, Articles,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Quran Notebook #2, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">39</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Rowe, Alan, "Excavations in Palestine" and "Discoveries at
+                            Beth-Shan During the <unitdate>1926</unitdate> Season" Typescripts,
+                                <unitdate>1920s</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Arabic, Ethiopic and Germanic Vocabularies Notebooks,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Dvorák, Rudolf, "Fremdwörter (Foreign Words)" Notebook,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Hebrew Commentaries on the Story of Joseph Typescript,
+                                <unitdate>1928</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Goldziher, "The Most Primitive Stage of Quran Interpretation,"
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <container type="Folder" label="Folder">5-6</container>
+                        <unittitle>Pre-Islamic Arabia Notes, Notebooks and Journal Articles,
+                            undated, <unitdate>1921</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Psalms Translations Notebook,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Quran Commentaries, Known Authors, undated, <unitdate>1921,
+                                </unitdate>
+                            <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Quran Commentaries, Unknown Authors,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">40</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Quranic Introduction and Islam Bibliographies,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Biblical Armaic Grammar, Elementary Exercise Course,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Early Palestinian Religion,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Foreign Words in the Quran,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Glossary of Quranic Names,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Notes on Greek Language Study,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Notes on Hamitic Philology,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Semitic Epigraphy I, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Semitic Religions--Hymns and Psalms,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Story of the Building of the Ka'bal,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Tha'labi's Account of Creation,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Clippings and Notes on Archaeological Findings, <unitdate type="inclusive">1943-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Early Phoenician Inscriptions,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>History of Semitic Religion,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Inscriptions, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Lectures on Islam, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Notes on Talmud and Midrash,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Reading Lists, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Semitic Religions, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Adi B. Zaid, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Fundamentalism in Islam, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Hanif, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Islam, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Lecture Notes on Islamic Civilization,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Lecture Notes on the Religion of Islam,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Muhammad, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Notes on AD Dani Al Quatudi,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Notes on Islam and the Quran,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Prophets in Islam, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Summary of Quranic Theology,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Writings on Islam, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <container type="Folder" label="Folder">2-3</container>
+                        <unittitle>Lecture Notes on Islamic Theology</unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Lecture Notes on Dervishism,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Greek Textbook Notes, <unitdate type="inclusive">1915-1916</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Notes on the Kamil of Mubarrad,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Notes on the Mufaddaliyat,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Tradition, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Umar II and Leo III, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Arabian Culture, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Arabian History, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Arabic Literature--Notes on Arabian Nights,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Bibliography of Gnosticism,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <container type="Folder" label="Folder">5-6</container>
+                        <unittitle>Complete Reader on Islam, <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Gnosticism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Materials on the ????? Questions,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">45</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Notes on Gnosticism, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Ancient History, <unitdate>1914</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Bible--Canon and Text, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Archaeology of the Old Testament,
+                        <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <container type="Folder" label="Folder">2-3</container>
+                        <unittitle>Bible--Book of Daniel, <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Exercise Book--Canon and Text,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Greek Versions of the Old Testament,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Interpreter's Dictionary of the Bible,
+                        <unitdate>1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Old Testament Lecture Notes,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>African Language Families,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>American Indian Languages,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Austronesian Languages, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Language Families of the World as Illustrated from the Lord's
+                            Prayer, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">48</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Semito-Hamitic Family, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Divinity Notes--Theoretical Mechanics,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Notes on the History of Religion,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Philosophy Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Psychology--Method of Teaching--College Lectures,
+                            <unitdate>1914</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Religion, Divinity, Theology,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Seminary Lectures on Comparative Religion,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Chaucer--The Nun's Priests' Tale, <unitdate type="inclusive">1918-1919</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Notebook</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Greek Philosophy, <unitdate>1916</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Greek Philosophy, Semitic Studies,
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>History of Philosophy III,
+                            <unitdate>1916</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Logic, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Seminar Courses on Higher Criticism of Quran,
+                                <unitdate>1923</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Published Material--<title render="italic">Les Origines des
+                                Legendes Musulmanes, </title>
+                            <unitdate>1933</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Development of the Alphabet,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Germanic Philology Notebooks I and II,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Language and Philology Notes,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Lecture Notes on Science of Language,
+                        <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">51</container>
+                        <container type="Folder" label="Folder">5-11</container>
+                        <unittitle>School Notebooks with Language Lessons (seven volumes), undated,
+                                <unitdate>1916</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Photostats of Manuscript--Azhar,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Photostats of Manuscript--Berlin,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Photostats of Manuscript--Berlin No. 578,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Greek Language Exercises,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Languages--Greek, Albanian, Armenian,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Language Specimens, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Notebook on Language, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Notebook on Language and Prayer,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+                        <unittitle>Tables of Alphabets, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Quran Subject Index Files, T-Z,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Vocabulary Notecards, A-Z,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Notes on Books, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Book Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">55</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Chapters 1-2</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">55</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Chapters 3-4</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">55</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Chapters 5-7</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">55</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Chapters 8-10</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">55</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Chapters 11-14</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><unittitle>Subject Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">55</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>A-H</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">55</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>I-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Notes on the Book of the Himyarites,
+                        <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>A-G</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>H-Q</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>R-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Works Containing Information on Christian Arabs,
+                                <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Microfilm from Cairo, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Subject Notecards, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">57</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>A-C</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">57</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>D</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">57</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>E-F</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">57</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>G</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">57</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>H</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">57</container>
+                            <container type="Folder" label="Folder">6-9</container>
+                            <unittitle>A</unittitle>
+                            <physdesc><extent>(4 Folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">57</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>B</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Subject Notecards, N-Z, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <container type="Folder" label="Folder">1-3</container>
+                        <unittitle>Canon of the Old Testament, <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Photostats</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Notebook</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">60</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Advanced Ethics, <unitdate>1917</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">60</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Advanced Logic, <unitdate>1916</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">60</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Classical History, <unitdate>1913</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">60</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Geology, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">60</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Metaphysics Lectures, <unitdate>1917</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><unittitle>Published Material</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Abrik der Kirchengelchichte,
+                            <unitdate>1906</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Agyptische Grammatik, <unitdate>1894</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Christian Essentials: A Re-statement for the People,
+                                    <unitdate>1907</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>The Rise of Christianity,
+                            <unitdate>1907</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><unittitle>Semitic Religions, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">62</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>A-L</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">62</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>M-Z</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Subject Notes, A-Z, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">62</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Subject Notes II, A-Z, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Subject Index Files, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="Box" label="Box">62</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>H-I</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="Box" label="Box">62</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>I-L</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 661</container>
+                        <unittitle>Photocopies of Arabic mss. (2 v.); Corpus Lectionum Variorum in
+                            Qoranum by A. Jerrery (3 volumes).</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 661</container>
+                        <unittitle>Al-Muhtasas, L'ibn Jinni, Egy. Lib. Qira'at. 78</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">Flat Box 662</container>
+                        <unittitle>Fragments of the Sahîh of Al-Bukhârî</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle/>
+                    </did>
+                </c>
+            </c>
+
+        </dsc>
+    </archdesc>
+</ead>

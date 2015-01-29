@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078392_ead//EN" mainagencycode="nnc-rb">ldpd_4078392_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Erik Bert Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-02-14">2012-02-14</date>
+            <item>xml document instance created by Alison Rhonemus</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Bert, Erik.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Erik Bert Papers">Erik Bert Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1924/1980" type="inclusive">1924-1980.</unitdate>
+         <physdesc><extent encodinganalog="300">7 linear ft (ca.1000 items in l6 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078392</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains the personal and professional papers of Marxist scholar
+            and editor Herbert Joseph Putz written under the pseudonym Erik Bert.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Erik Bert was the pseudonym of Herbert Joseph Putz, -1981,
+            (Columbia B.A., 1926, M.A., 1927), Marxist scholar and editor of "The Producers News"
+            and the "Farmers National Weekly" for 40 years. He served on the editorial board of "The
+            Daily Worker" and "The Daily World." He contributed many articles to "Political
+            Affairs," the theoretical journal of the U.S. Communist Party, on agrarian reform,
+            communism and Communist Party conferences, Czechoslovakia in 1968, civil rights,
+            capitalism, and on other economic subjects.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts of book reviews and essays, conference notes and reports,
+            book manuscripts, copy editing for other authors, notebooks, press releases,
+            photographs, clippings and other printed materials.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged in two series: <list type="simple">
+               <item>Series I: Subject File </item>
+               <item>Series II: Notebooks</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Communist Party of America.</corpname>
+         <subject encodinganalog="650">Agriculture and politics.</subject>
+         <subject encodinganalog="650">Communism.</subject>
+         <genreform encodinganalog="655" source="ftamc">Photoprints</genreform>
+         <occupation encodinganalog="656" source="lcsh">Journalists</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least
+            twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+            Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1983 Papers Putz, Ruth Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Mrs. Ruth Putz, 1983.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Erik Bert Papers; Box and Folder; Rare
+            Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers Processed 10/--/83 HR</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+
+
+      </userestrict>
+      <relatedmaterial encodinganalog="544">
+         <head>Related Material</head>
+         <p>Bert's agricultural manuscripts were given to the University of Iowa Libraries, Iowa
+            City, Iowa.</p>
+      </relatedmaterial>
+
+      <dsc><c level="series">
+            <did><unittitle>Series I: Subject File</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Agricultural Census of <unitdate>1969</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Agricultural Production in Postwar America</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Anthology (notes)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>The Automobile Business (master's thesis)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Baron, Paul A. 5 The Political Economy of Growth (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Benson, Ezra Taft; Freedom to Farm (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Bert, Erik (misc.)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Bert, Erik; "Veblin and Marx" (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Bert, Erik; "Vulgar Economy"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Berthold, Lothar; (misc.)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Brecht, Bertolt; Berlin (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Browder, Earl; Marx and America (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Burns, Arthur F.; The Business Cycle in a Changing World (bk
+                  rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Carrillo, Santiago; "Eurocommunism" and the State (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Civil Rights Commission, U.S.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Clark, B.H.5 The Tennessee Yeomen (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Clawson, Marion; Policy Directions for U.S., Agriculture (bk
+                  rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Columbia Papers by Bert</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>Commons, John R. 5 Monopoly Capitalism II (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>Communist International (Pragues January, 1978)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>Communist Party Draft Number Two</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>Communist Party Draft Program</unittitle>
+                  <physdesc><extent>(4 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>Communist Party Draft Resolution (1975)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>Communist Party Farm Program</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>Communist Party Poverty Program</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>Communist Party, USA</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>Corruption in Government</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Czechoslovakia</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>General Material</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Articles by Bert</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Black Books</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Central Control and Auditing Commission</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Communist Party</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Communist Party's Fourteenth Congress</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Communist Party:"Lessons"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Communist Party:Party Lecture</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Communist Party:Resolutions and Statements</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Correspondence</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Huzak</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>L' Humanite</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Manuscripts and Notes</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Manuscripts by Others</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Neues Deutschland</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle><unitdate>1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Press Clippings</unittitle>
+                     <physdesc><extent>(2 Folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Press Releases (Czech Embassy)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Press Releases (Miscellaneous)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Press Releases (Novosti)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Press Releases (Pragopress)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Press Releases (Rude Pravo)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Press Releases (Tass)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Press Releases (UPI)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Since the Prague Spring</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">7</container>
+                     <unittitle>Strougal and Lubomir</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Dialogue as Quid Pro Quo</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Diskin, Louis (letter)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Dowd, Douglas; Thorstein Veblin (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Draft Main Political Solution</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Dyson, Lowell K.; (letter)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Eurocommunism and Detente</unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">7</container>
+                  <unittitle>Eurocommunism (manuscripts I - III)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Eurocommunism (manuscripts IV and V)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Fabricant</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Falling Rate of Profit</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Foster; History of the CPUSA (notes)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Galbraith, John K.; Economics and the Public Purpose (bk
+                  rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Galbraith; The New Industrial State (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>GDR Speech (June, 1980)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Global Reach</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Gollwitzer, Helmut-(notes)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">8</container>
+                  <unittitle>Gronlunds, Laurence; The Cooperative Commonwealth (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>Hall, Gus (Political Reports and Correspondences)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>Harrington, Michael; Socialism (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>Harris, Lement (letter)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>Ihde, Horst (letter)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>"Herman Kriege, the California Democrats, and Marx and Engels"
+                  (report)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>Kuznets, Simon; Economic Growth of Nations (bk rev)</unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>Labor and Agriculture (clippings from The Congressional
+                  Record)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>"Lenin on the United States"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>"Lessons"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>Lochman, Jan M.; Church in a Marxist Society (bk rev)</unittitle>
+                  <physdesc><extent>(3 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">9</container>
+                  <unittitle>Loebl, Eugen; Humanomics (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>Marek, Franz; Philosophy of World Revolution (bk rev)
+                  (letter)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>Marx, Karl</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>Marx, Karl; Contribution to the Critique of Political Economy
+                     (centennial report)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>Marx- Engels; Collected Works, vol, <title render="italic">Z</title>
+                     and 7 (2 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>Mergers (notes by Bert)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>Miscellaneous</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>Myerson comment by Bert</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>Neo-Colonialism</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>"Nixon, Revisionism, and the Communist Manifesto"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10</container>
+                  <unittitle>Noyes, C.R.; A New Theory of Profits (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>"The Panic of 1857" (academic thesis?)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Plantation (report)</unittitle>
+                  <physdesc><extent>(2 Folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Ponomarev Pamphlet (review and correspondences)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>"The Political Bankruptcy of Maoism"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Prague Seminar (CPUSA contribution by Bert)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Putz, Nancy (playbills)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Putz, Ruth (letters)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Revisionism</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>"The Road to Transcendental Marxism"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Rochester, Anna; Lenin on the Agrarian Question (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Sakharov-Salisbury (bk revs)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Schultz, T.W.; Transforming Traditional Agriculture (bk
+                  rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Segre, Sergio (interview notes)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Shover, Lement (letter)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>"60th Anniversary of the October Revolution"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">11</container>
+                  <unittitle>Soth, Lauren; Farm Troubles (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>"State Monopoly, Capitalism, .and Agriculture"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>Transportation (2 Folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>"Trotsky"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>Veblin, T.; The Place of Science in Modern Civilization (bk</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>"The Web of Financial Capital"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>Wechsberg, Joseph; The Voices (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>Wheeler, G.S.; The Human Face of Socialism (bk rev)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>World Marxist Review Conference (1978 address)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>Yugoslavia (report of visit to)</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Notebooks</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <unittitle>Notebooks 1 - 13</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14</container>
+                  <unittitle>Notebooks 14 - 23</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">15</container>
+                  <unittitle>Notebooks (un-numbered)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">16</container>
+                  <unittitle>Stenography-type notebooks</unittitle>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

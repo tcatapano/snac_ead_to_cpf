@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078419_ead//EN" mainagencycode="nnc-rb">ldpd_4078419_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Pierre Bédard Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-02-14">2012-02-14</date>
+            <item>xml document instance created by Alison Rhonemus</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Bédard, Pierre, 1895-1970.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Pierre Bédard Papers">Pierre Bédard
+            Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1919/1970" type="inclusive">1919-1970.</unitdate>
+         <physdesc><extent encodinganalog="300">2.5 linear ft (2400 items in 6 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0095</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078419</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> In English</language>
+            <language langcode="fre">and French. </language>
+         </langmaterial>
+         <abstract>This collection contains the papers of Pierre Bédard including correspondence,
+            photographs, and printed matter.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Pierre Bédard received his B.A. from Harvard College in 1917;
+            became assistant secretary to the American Delegation at the Versailles Peace Conference
+            in 1919; was analyst to France for Columbia Broadcasting System, 1937-1940; counselor to
+            the French Military Mission to the U.S., 1943-44; Director of the French Institute,
+            1929-1952; and President of Parsons School of Design, 1952-1958.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, notes, photographs, memorabilia, clippings and printed
+            matter. The correspondence series includes letters from Charles Boyer, William J.
+            Donovan, Dwight D. Eisenhower, Paul Hazard, Cordell Hull, André Maurois, Edward R.
+            Murrow and Thornton Wilder, mostly relating to Bédard's interest in Franco-American
+            relations, as well as three letters from Calvin Coolidge to Bédard's father, J. Armand
+            Bédard. In addition to transcripts of Bédard's broadcasts to France made over Columbia
+            Broadcasting System between 1937 and 1940, the collection contains files from the French
+            Military Mission to the United States during the second World War, the French Institute
+            in the Unites States, and Parsons School of Design in New York City. The photographs
+            series contains Bédard's photographs album from the first World War and photographs from
+            the Versailles Peace Conference in 1919.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected items cataloged; remainder arranged. This collection is arranged in one series:
+               <list type="simple">
+                    <item>Series I: Pierre Bédard Papers, 1919-1970</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia Broadcasting System, inc.</corpname>
+         <corpname encodinganalog="610">French Institute in the United States.</corpname>
+         <corpname encodinganalog="610">Parsons School of Design.</corpname>
+         <persname encodinganalog="600">Hazard, Paul, 1878-1944.</persname>
+         <subject encodinganalog="650">World War, 1914-1918--Treaties.</subject>
+         <genreform encodinganalog="655" source="ftamc">Photoprints</genreform>
+         <occupation encodinganalog="656" source="lcsh">Diplomats</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>06/12/86 M-86-06-12 Papers Bédard, Mrs. Pierre Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Mrs. Pierre Bédard, 1986.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Pierre Bédard Papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers Processed 10/--/86 TC</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 2-6. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Pierre Bédard Papers, <unitdate type="inclusive">1919-1970</unitdate>
+                    </unittitle>
+            </did>
+            <c level="file">
+               <did><unittitle>Cataloged Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Barzun, Jacques</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Boyer, Charles</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Coolidge, Calvin</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Coty, Rene</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Cousins, Norman</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Donovan, William J.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Dulles, John Foster</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Eisenhower, Dwight D.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Eisenhower, Milton S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Flanner, Janet</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Hazard, Paul</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Kent, Rockwell</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Juin, Alphonse-Pierre</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Hull, Cordell</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Lodge, Henry Cabot</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>MeCloy, John</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Maurois, Andre</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Moe, Henry Allen</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Murrow, Edward R.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Paley, William S.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Parsons, Geoffrey</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Wilder, Thornton</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Cataloged Photographs</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Juin, Alphonse-Pierre</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Swanson, Gloria</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Arranged Correspondence</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>A - W</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Adam, George</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Alphand, Hervé</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Arnauld de la Pierre, Lothar von</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Bédard, Pierre (carbons)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Bethouart, M.E.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Bonnet, Henri</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Bosworth, Welles</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Dillon, Douglas</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Focillon, Henri</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Forbes, Malcolm</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Heckscher, August</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Leahy, William</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Lucet, Charles</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Morize, Andre</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Napoleon [Prince]</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Pell, Claiborne</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Weygand, [General]</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Manuscripts</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>"Art and Industry" (1931)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">1</container>
+                     <unittitle>[Bartholdi Exhibition]: (1936)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Columbia Broadcasting, Broadcasts to France,</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <unittitle>1937-1940, Introduction</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate> 1937</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1938</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <unittitle><unitdate>1939</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <unittitle><unitdate>1940</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <unittitle>Miscellaneous Items</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <unittitle>Translations, <unitdate type="inclusive">1937-1940</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">2</container>
+                        <unittitle>Jacques Kayser Interview</unittitle>
+                     </did>
+                     <c level="file">
+                        <did><unittitle>Translations</unittitle>
+                        </did>
+                        <c level="file">
+                           <did><container type="Box" label="Box">2</container>
+                              <unittitle>Chamberlain, Neville</unittitle>
+                           </did>
+                        </c>
+                        <c level="file">
+                           <did><container type="Box" label="Box">2</container>
+                              <unittitle>Hitler, Adolf</unittitle>
+                           </did>
+                        </c>
+                        <c level="file">
+                           <did><container type="Box" label="Box">2</container>
+                              <unittitle>Hull, Cordell</unittitle>
+                           </did>
+                        </c>
+                        <c level="file">
+                           <did><container type="Box" label="Box">2</container>
+                              <unittitle>Roosevelt, Franklin D.</unittitle>
+                           </did>
+                        </c>
+                     </c>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>"Design and Mass Culture" (1950)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>"Discussion of Rousseau's Project for a League to Enforce
+                        Peace"</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>"Does an Industrial Society Need the Arts" (1965)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>"Education of a Designer" (1958)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>"Fireplug No. 1" (1949)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>"France and the French Today" (1942)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Middlebury College Commencement Address (1954)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">2</container>
+                     <unittitle>Ripon College Commencement Address (1949)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Subject Files</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>American Friends of Versailles</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Bédard, Gertrude. Biographical Information</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Bédard, Pierre. Biographical Information</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Documents</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Documents, Military (WWI)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>World War I</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Bédard, Pierre and Gertrude</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Luncheons and Dinners</unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                           <unittitle>Guest Lists</unittitle>
+                        </did>
+                     </c>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>The Century Association</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>American Garlic Society</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Coffee House Club</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Columbia Broadcasting</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Press Releases</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>DeGaulle, Charles</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Federation de l'Alliance Francaise</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Federation of French Alliances</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>France-America Society</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>France-America Society, Bethouart Luncheon (1969)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>The French Institute</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>The French Institute, Museum of French Art. Project Notes,
+                        Reports</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>French Military Mission (WWII)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Correspondence</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Bédard, Pierre. Notebook &amp; identification</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Bethouart, M.E. Biographical information</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Speeches</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Giraud, Henri</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Membership Lists</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>Press Releases</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Harvard Round Table, <unitdate>1942</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Institute of International Education</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Instituto de Puerto Rico</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>International Institute of American Civilization </unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle> Correspondence</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">3</container>
+                        <unittitle>By-laws, etc</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>Lafayette Bicentennial</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">3</container>
+                     <unittitle>National Student Federation of the U.S.A.</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>The Parsons School</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>Correspondence</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>Audits &amp; Budgets</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><unittitle>Bédard, Pierre</unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                           <unittitle>Speeches</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                           <unittitle>Travel</unittitle>
+                        </did>
+                     </c>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>Finances</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>Heckscher, August. Speech</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>Reports to Trustees</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Science for Humanity Congress</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>University Club of Paris</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Photographs</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Alphand, Hervé</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Benda, Julien</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Bédard, Pierre (WWl)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Bédard, Pierre and Gertrude Bédard</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Bethouart, M.E. (in Box 6)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>The Century Association, American Garlic Society</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Century Club Centennial (Coffee House Club)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>City Investing</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Columbia Broadcasting</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Federation of French Alliances</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>The French Institute</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Giraud, Henri</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Howard, Cecil - sculpture</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Lafayette Bicentennial</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Middlebury College Commencement</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>The Parsons School</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Pompidou, George</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">4</container>
+                     <unittitle>Ripon College Commencement</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>World War I. Bédard Photograph Album (l) - (2)</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>Paris</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>Versailles</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>Versailles Peace Conference</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">4</container>
+                        <unittitle>Versailles Peace Conference, Military Staffs</unittitle>
+                     </did>
+                  </c>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Memorabilia</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Invitations</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>Presidential</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>New York Society of Military and Naval Officers</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>The Parsons School</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Programs and Menus</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle> Les amis déscoffier</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>France-America Society</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>Miscellaneous</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>World War I</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Clippings</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Columbia Broadcasting</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Federation of French Alliances</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>The French Institute</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>Museum of French Art</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>French Military Mission (WWII)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>The Parsons School</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Miscellaneous (l) - (2)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Printed Matter</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>American Society for International Law</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>The Century Association</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>France-America Society</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>The French Institute</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>General</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">6</container>
+                        <unittitle>Bulletins (in Box 6)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>Museum of French Art</unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                           <unittitle>Catalogues (l) - (2)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                           <unittitle>Programmes (in Box 6)</unittitle>
+                        </did>
+                     </c>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>International Institute of American Civilization</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Lafayette Bicentennial</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>The Parsons School</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Professional Children's School</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Books</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Marie [Queen of Roumania]. <title render="italic">Ode to
+                           Roumania</title>. (Paris, 1923)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Price, G. Ward. <title render="italic">Giraud and the African
+                           Scene</title>. (New York, 1944)</unittitle>
+                  </did>
+               </c>
+            </c>
+                  <c level="file">
+               <did><unittitle>Oversize Materials</unittitle>
+               </did>
+                 <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Cataloged Photograph: Juin, Alphonse-Pierre</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>Photograph: Bethouart, M.E.</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><unittitle>Printed Matter </unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                           <unittitle>The French Institute, Bulletins</unittitle>
+                        </did>
+                        <c level="file">
+                           <did><container type="Box" label="Box">6</container>
+                              <unittitle>Museum of French Art, Programmes</unittitle>
+                           </did>
+                        </c>
+                     </c>
+                  </c>
+               </c>
+            </c> 
+         </c>
+         
+      </dsc>
+   </archdesc>
+</ead>

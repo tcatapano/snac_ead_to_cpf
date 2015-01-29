@@ -1,0 +1,2345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078869_ead//EN" mainagencycode="nnc-rb">ldpd_4078869_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Harris-Oliphant papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-11">2010-02-11</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Harris, Thomas Lake, 1823-1906.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Harris-Oliphant papers,">Harris-Oliphant Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1867/1940" type="inclusive">[ca. 1867]-1940</unitdate>
+         <physdesc><extent encodinganalog="300">ca. 10,000 items (19 boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078869</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->American Christian mystic. </p>
+         <p><!-- BIOGHIST REQUIRED -->Laurence Oliphant (1829-1888) was a British writer and traveller.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Letters written by and to Harris and his associate, Laurence Oliphant. In addition to the correspondence, these papers include manuscripts of books, miscellaneous biographical materials, and photographs.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 6 series:</p>
+         <p><list type="marked">
+               <item>Series I: Correspondence</item>
+               <item>Series II: Diaries and Transcriptions</item>
+               <item>Series III:  Writings</item>
+               <item>Series IV: Lawton &amp; Schneider's Notes and Research Files</item>
+               <item>Series V: Miscellaneous</item>
+               <item>Series VI: Photographs</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Oliphant, Laurence, 1829-1888.</persname>
+         <persname encodinganalog="700">Markham, Edwin, 1852-1940.</persname>
+         <persname encodinganalog="700">Schneider, Herbert Wallace, 1892-1984.</persname>
+         <persname encodinganalog="700">Lawton, George, 1900-1957.</persname>
+         <subject encodinganalog="650">Authors, English.</subject>
+         <subject encodinganalog="650">Christianity.ican.</subject>
+         <subject encodinganalog="650">Mysticism and literature.</subject>
+         <subject encodinganalog="650">Religion and literature.</subject>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Mystics.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located on-site.</p>
+        </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1943 M-43 Schneider, Herbert O. Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>The collection was formed in part by the poet Edwin Markham, after whose death it passed to Prof. Herbert Schneider and George Lawton and was used in writing their biography of Harris and Oliphant, A PROPHET AND A PILGRIM.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Harris-Oliphant Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 06/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <relatedmaterial encodinganalog="544">
+         <head>Related Material</head>
+         <p>Collections related by provenance: Harris-Oliphant Papers at English Dept. of Wagner College, Staten Island. This collection duplicates Columbia holdings in part.</p>
+      </relatedmaterial>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries I.1: Cataloged Correspondence</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Laurence Oliphant To [?], London, <unitdate>10 Feb. [n.y.]</unitdate>
+                            </unittitle>
+                            <physdesc>(3p. a.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Laurence Oliphant To [?], London, <unitdate>1 May [n.y.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2p. (with three related items) a.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Laurence Oliphant To Charles [?], London, <unitdate>4 April [1865]</unitdate>
+                            </unittitle>
+                            <physdesc>(2p.  a.l.s.)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>M[aria Campbell] (Mrs. Anthony) Oliphant To Mrs. Liddell, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2p.  a.l.s.)</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.2: Arranged Correspondence</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>T.L. Harris, Mrs. Emily Harris, and Mrs. Jane Harris To [?], [n.p.], <unitdate>1867-1892</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 20 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>T.L. Harris, Mrs. Emily Harris, and Mrs. Jane Harris To [?], [n.p.], <unitdate>1893-1914</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 25 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>T.L. Harris and Mrs. Jane Harris To [?], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 10 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Misc. Harris Material To [?], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 75 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Arthur A. Cuthbert To T.L. Harris and [?], [n.p.], <unitdate>1879-1906</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 15 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <container type="Folder" label="Folder">6-8</container>
+                            <unittitle>Various writers (C-W) To Mr. and Mrs. T.L. Harris and [?], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 75 items, In 3 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <container type="Folder" label="Folder">9-11</container>
+                            <unittitle>[?] To Mr. and Mrs. T.L. Harris and [?], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 75 items, In 3 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Edwin Markham To [?], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 15 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>James Freeman To Edwin Markham, [n.p.], <unitdate>1922-1931</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 15 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Robert M. Hart To Edwin Markham, [n.p.], <unitdate>1914-1932</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 50 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Kanaye Nagasawa To Edwin Markham, [n.p.], <unitdate>1920-1926</unitdate>
+                            </unittitle>
+                            <physdesc>(ca.10 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Various writers (C-S) To Edwin Markham and [?], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 100 items, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">6, 7</container>
+                            <unittitle>Misc. Markham Material To [?], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 5 items, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Laurence and Alice Oliphant To Mr. and Mrs. William F. Cowper, [n.p.], <unitdate>1867-17 Feb.1868</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 75 items, In 1 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Laurence and Alice Oliphant To Mr. and Mrs. William F. Cowper, [n.p.], <unitdate>5 March 1868-30 June 1877</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 100 items, In 1 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Laurence and Alice Oliphant and [?] To [?], [n.p.], <unitdate>1860-1880</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 5 items, In 1 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Laurence Oliphant To [?], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 30 items, In 1 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Misc. Oliphant Material To [?], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 50 items, In 1 folders)</physdesc>
+                        </did>
+                    </c>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: Diaries and Transcriptions</unittitle>
+                </did>
+                <scopecontent><p>This series comprises transcriptions of letters by various writers, diary entries by Thomas Lake Harris, dictations/sermons of Thomas Lake Harris, an epigram from Thomas Lake Harris, and a partial bibliography of Thomas Lake Harris works with table of contents.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Harris, Thomas Lake Transcriptions of Letters, [n.p.], <unitdate>1878-1880</unitdate>
+                        </unittitle>
+                        <physdesc>(1 bound volume)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Harris, Thomas Lake Transcriptions of Letters, [n.p.], <unitdate>1880-1881</unitdate>
+                        </unittitle>
+                        <physdesc>(1 bound volume)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Harris, Thomas Lake Transcriptions of Letters, [n.p.], <unitdate>1881-1882</unitdate>
+                        </unittitle>
+                        <physdesc>(1 bound volume)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Harris, Thomas Lake Transcriptions of Letters, [n.p.], <unitdate>1882-1885</unitdate>
+                        </unittitle>
+                        <physdesc>(1 bound volume)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Harris, Thomas Lake Transcriptions of Letters, [n.p.], <unitdate>1885-1903</unitdate>
+                        </unittitle>
+                        <physdesc>(1 bound volume)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Harris, Thomas Lake Letters and Diary, [n.p.], <unitdate>1899-1906</unitdate>
+                        </unittitle>
+                        <physdesc>(1 bound volume)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Harris, Thomas Lake Diary, [n.p.], <unitdate>1896-1898</unitdate>
+                        </unittitle>
+                        <physdesc>(1 bound volume)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Harris, Thomas Lake Diary, [n.p.], <unitdate>1898-1901</unitdate>
+                        </unittitle>
+                        <physdesc>(1 bound volume)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Harris, Thomas Lake Diary, [n.p.], <unitdate>9 Sept [n.y.]</unitdate>
+                        </unittitle>
+                        <physdesc>(1  item, in 1 Folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Harris, Thomas Lake Sermon, [n.p.], <unitdate>11 June 1887</unitdate>
+                        </unittitle>
+                        <physdesc>(3 items, in 1 Folder)</physdesc>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series III:  Writings</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries III.1: Articles, A-Z</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Harris, Thomas Lake Unidentified Mss., [v.p.], <unitdate>[v.d.] one dated 23 Sept 1878</unitdate>
+                            </unittitle>
+                            <physdesc>(5 a.ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Harris, Thomas Lake "The Advance of the Thinker:  Divine Rest" - tms., ms.
+; "Approaching Judgement of the Colored Race" - ms. ; The Artist Supreme" - ms.; An Autobiographic Sketch" - tms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(4 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Harris, Thomas Lake "Beginnings of the New Order" - ms.; The Bible:  Its Weaknesses and its Power" - ms.; Bridal Love, the Keystone of the Arch" - tms.; "The Bridal Word" (in part) - ms.; "Building Order in the New Life" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(5 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Harris, Thomas Lake "Chastity, Poverty and Obedience---The Three Vital Principles of the Spiritual Evolution" - tms., ms.; "Christ is the Word of the Universe" - tms., ms.; "The Church Does not Build on the Divine Ground" - tms., ms.; "The Church Fights All New Revelations" - tms.; "The Church the Bride of the State" - tms., ms.; "The Concept of Christ Rejected by Christendom" - tms.; "Concept of the Word" (?) - ms.; "The Conflict Between the Upper and the Under Powers" - tms., ms.; "The Conflict of the Two Authorities" - tms., ms.; "Creeds Suppress God's Evolution" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(10 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Harris, Thomas Lake "Diary in Wales" - tms.
+; "The Divine Bible is in Man" - tms., ms.
+; "The Doctrine of Liberty" - ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(3 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Harris, Thomas Lake "Easter Lilies" - ms.
+; "Esoteric Buddhism:  A Critique" - ms, [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Harris, Thomas Lake "The Face---Not the Spirit---of History Changes" - tms., ms.
+; "The Fate of the False Religionists" - tms., ms.
+; "A Few Fragments" - tms., ms.
+; "Forces that Obstruct the Descent of the Luminous People" - tms., ms.
+; "Freedom from the Slavery of Labor" - tms.
+; "Freedom, Humility, and the Unborn Church" - tms., ms.
+; "The Functions of the True King" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(7 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Harris, Thomas Lake "A Glimpse of the Kingdom Descended to Earth's Frontier" - tms., ms
+; "A Glimpse of the New Time" - tms., ms.
+; "A Glimpse of Woman's Difficult Problem" - tms. ms.
+; "Glimpses of Life in the New Time" - tms., ms.
+; "The Golden Mean" - ms.
+; "The [Greensim] Day" - ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(6 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Harris, Thomas Lake "The Hell-Swamp Redeemed into a Paradise" - tms., ms.
+; "Hell the Parasite of Earth:  Savior-Work Therein" - tms., ms.
+; "Hell the Parasite of Earth:  The Angels" - tms., ms.
+; "Hints for the Order of the New Time" - tms., ms.
+; "Homes:  New Forces:  The Tree of Life" - tms.
+; "How Lost Souls are Saved" - ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(6 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Harris, Thomas Lake "The Immense Problem of Society" - tms., ms.
+; "Is the Divine Word, a Book or a Man?" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Harris, Thomas Lake "Ladys Day Feb 8" - ms.
+; "Law as the Form of God" - ms.
+; "The Law of Isolation" - ms.
+; "The Law of the Lord's Descent into Earth" - tms., ms.
+; "The Law of the Separation of the Sexes" - tms. 
+; "A Leaf from Eternity" - tms., ms.
+; "Lily's Song" - tms., ms.
+; "The Little Builders of the Body" - tms.
+; "Localities:  March of Events" - ms.
+; "The Lord as the Warrior" - tms., ms.
+; "The Lord Dwells in all Pleases of Life" - tms., ms.
+; "The Lord Manifested as the Solar Man" - tms., ms.
+; "Lost Eden and the Law of Forgiveness" -tms., ms.
+; "The Lost Ideal of the People" - tms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(14 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Harris, Thomas Lake "Mankind Immersed in Stenches" - tms., ms.
+; "Marriage Mysteries" "It is now in order to make..." - tms., ms.
+; "Marriage Mysteries" "Woman in divine order..." - tms., ms.
+; "A Memorandum of Principles" - tms., ms.
+; "The Miracle of Love" - ms.
+; "More Words to Correspondents" - tms., ms.
+; "A Morning Talk" - ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(7 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">13</container>
+                            <unittitle>Harris, Thomas Lake "The [Olean] Ideal" - ms.
+; "The Occult Events on the Brink of the New Time" - tms., ms.
+; "Occult San Francisco:  Other Occult Tidings" - tms., ms.
+; "The Oneness of the Two Great Religions" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(4 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>Harris, Thomas Lake "Preparation for the New Earth" - tms., ms.
+; "Provisional Organization in the New Time" - tms., ms.
+; "Private Property and Social Life in the Light of the Christ" - tms.
+; "Principles of Social Fraternity" - tms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(4 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">15</container>
+                            <unittitle>Harris, Thomas Lake "The Reserve of Royalty" - tms., ms.
+; "The Revival of the Memories" - tms., ms.
+; "The Rise of Arch-Natural Religion" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(3 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">16</container>
+                            <unittitle>Harris, Thomas Lake "The Sexes Need for a Season a Monastic Separation" - tms., ms.
+; "Shakerism as Seen from the Viewpoint of the New Life" - ms.
+; "Shakerism in the Unseen:  Ann Lee in her Paradise" - tms., ms.
+; "A Sketch of Social Beginnings" - tms.
+; "The Social Sense the Soul of Solidarity" - tms., ms.
+; "Some Principles of the Divine Order" - tms., ms.
+; "Some Principles of the New Life" - tms., ms.
+; "Sources of Man's Life" - tms., ms.
+; "Spiritual Scientifics" - tms., ms.
+; "Steps to Physical Immortality" - tms., ms.
+; "Steps toward the New Life" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(11 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">17</container>
+                            <unittitle>Harris, Thomas Lake "Theo-Socialism" - ms. 
+; "Tidings from the Unseen" Chapter 1 - ms.
+; "The Tribunal of the Greater Crimes" - tms., ms.
+; "Trinities in God and Man" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(4 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">18</container>
+                            <unittitle>Harris, Thomas Lake "Unconverting 'the Converted':  Lifting Spirits out of the Fantasies of Churchianity" - tms., ms.
+; "Voices that Die into Echoes" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <container type="Folder" label="Folder">19</container>
+                            <unittitle>Harris, Thomas Lake "Wages and Other Problems in New Society" tms., ms.
+; "The Wisdom of the Adepts" - ms.
+; "A Word on Esoteric Buddhism" - tms.
+; "A Word on the Religions" - tms., ms.
+; "Words of Yessa" - tms., ms.
+; "Wrongs to Labor, with Hints for a New Order" - tms., ms., [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(6 ms., in 1 Folder)</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries III.2: Titled Prose A-Z</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Harris, Thomas Lake "The Angels Striving Toward the Luminous", [n.p.], <unitdate>[n.d]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 6 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Harris, Thomas Lake ["Ann Lee"], [n.p.], <unitdate>[n.d]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 6 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                            <container type="Folder" label="Folder">3-5</container>
+                            <unittitle>Harris, Thomas Lake "The Annunciation of the Son of Man", [n.p.], <unitdate>[n.d]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 3 copies, ca. 462 pages, In 3 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Harris, Thomas Lake Possible Titles for "The Bridal Word", [n.p.], <unitdate>[n.d]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 1 page, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">2-5</container>
+                            <unittitle>Harris, Thomas Lake "The Bridal Word", [n.p.], <unitdate>[n.d]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 3 versions, in 4 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Harris, Thomas Lake "A Chapter from the Far Future", [n.p.], <unitdate>2 May 1876</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 11 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">7, 8</container>
+                            <unittitle>Harris, Thomas Lake "The Conflict in Christendom", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 2 versions, 8 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">9, 10</container>
+                            <unittitle>Harris, Thomas Lake "A Critique of Swedenborg", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 ms., 2 versions, ca. 57 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Harris, Thomas Lake "Declarations of the Divine One-Twain", [n.p.], <unitdate>1882</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 92 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Harris, Thomas Lake "A Diary of Occult Events: 1879", [n.p.], <unitdate>1879</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 244 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">13</container>
+                            <unittitle>Harris, Thomas Lake "A Discourse of Religion"
+; "The Avatar", [n.p.], <unitdate>11 July 1902</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 64 pages, in 1 bound volume, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>Harris, Thomas Lake "Dives and Lazarus:  A Sermon", [n.p.], <unitdate>19 Aug 1888</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 8 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">15, 16</container>
+                            <unittitle>Harris, Thomas Lake "Divine Renewel Must Reach into the Human Body and the Social Body", [n.p.], <unitdate>8 March [n.y.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 ms., ca. 20 pages, in 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">17-19</container>
+                            <unittitle>Harris, Thomas Lake "The Doctrine of Liberty", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(3 t.ms., 3 versions, ca. 33 pages, In 3 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">20, 21</container>
+                            <unittitle>Harris, Thomas Lake "The Doctrine of Property", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms. &amp; carbons, 8 pages, in 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">22</container>
+                            <unittitle>Harris, Thomas Lake "The Door of Escape", [n.p.], <unitdate>21 Apr 1877</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 20 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">23</container>
+                            <unittitle>Harris, Thomas Lake "Earth Depends on Divine Victory in Hell", Linn Lilla, <unitdate>21 May 1891</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 2 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">6</container>
+                            <container type="Folder" label="Folder">24</container>
+                            <unittitle>Harris, Thomas Lake "Elementaries", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 16 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">2-5</container>
+                            <unittitle>Harris, Thomas Lake "Arcana of Christianity:  Genesis - Vol II", Vinecliff, <unitdate>1858</unitdate>
+                            </unittitle>
+                            <physdesc>(3 copies &amp; various sheets, 1 t.ms. &amp; carbons, ca. 600 pages, In 4 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">6, 7</container>
+                            <unittitle>Harris, Thomas Lake "Arcana of Christianity:  Matthew", Fountain Grove, <unitdate>1858</unitdate>
+                            </unittitle>
+                            <physdesc>(2 copies, 1 t.ms. &amp; carbons, ca. 250 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Harris, Thomas Lake "Arcana of Christianity:  Matthew" - Various Sheets, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 50 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">9, 10</container>
+                            <unittitle>Harris, Thomas Lake "The Artist is Supreme", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(3 copies, 1 t.ms., 3 pages, In 2 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 3 located in Box 21, Folder 1]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Harris, Thomas Lake "The Attempt to Blend the Races", [n.p.], <unitdate>15 Sept [n.y.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Harris, Thomas Lake "A [sic] Author's Note of Introduction", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 1 page, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">13</container>
+                            <unittitle>Harris, Thomas Lake "B.G.", [n.p.], <unitdate>24 Jan [n.y.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 9 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>Harris, Thomas Lake "The Bible:  Its Weakness and its Power", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 37 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">15</container>
+                            <unittitle>Harris, Thomas Lake "Book of O.I.", [n.p.], <unitdate>1870</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms. &amp; carbons, ca. 100 pages, in 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Harris, Thomas Lake "The Doctrine of Property", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Harris, Thomas Lake "Earth's Sub-Human Parasites", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 9 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Harris, Thomas Lake "Esoteric Science", [n.p.], <unitdate>4 Oct 1883</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms, ca. 84 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Harris, Thomas Lake "Esoteric Science", [n.p.], <unitdate>4 Apr 1885 - 29 July 1885</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms, ca. 200 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Harris, Thomas Lake "Esoteric Science", [n.p.], <unitdate>31 July 1885 - 6 Dec 1885</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms, ca. 150 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <container type="Folder" label="Folder">4-8</container>
+                            <unittitle>Harris, Thomas Lake "Esoteric Science - Vol II", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 versions, 1 t.ms., ca. 750 pages, In 5 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Harris, Thomas Lake "Esoteric Science in Human History", Fountaingrove, <unitdate>1884</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Harris, Thomas Lake "Esoteric Wisdom [Science?]", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 200 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">1, 2</container>
+                            <unittitle>Harris, Thomas Lake "The Fantasmal in Man", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.mss., &amp; 1  set of carbons, ca. 70 pages, In 3 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 3 located in Box 21, Folder 4.]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Harris, Thomas Lake "First Book of the Christian Religion", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 56 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Harris, Thomas Lake ["First Esoteric"], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 17 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Harris, Thomas Lake "First Discourse", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 23 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Harris, Thomas Lake ["Foretells the Destruction"], [n.p.], <unitdate>31 Oct 1878</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">6, 7</container>
+                            <unittitle>Harris, Thomas Lake "A Glance at Swedenborg", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms., 5 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">8, 9</container>
+                            <unittitle>Harris, Thomas Lake "A Glimpse of Hell", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms &amp; carbons, 8 pages, in 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Harris, Thomas Lake "Glimpses of Scoial and Sexual Order", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 7 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Harris, Thomas Lake ["Glories of the Future"], [n.p.], <unitdate>13 Sept [n.y.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 316 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Harris, Thomas Lake "God as the Absolute", [n.p.], <unitdate>14 June 1888</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 2 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>Harris, Thomas Lake "God in Myriads of Manifestation", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Harris, Thomas Lake "The God-Quickened Universe", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 2 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">15</container>
+                            <unittitle>Harris, Thomas Lake "The Golden Child" - Part IV, [n.p.], <unitdate>1878</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 14 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">16, 17</container>
+                            <unittitle>Harris, Thomas Lake "A Golden Mean", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.mss. &amp; carbons, &amp; 1 set of carbons, 51 pages, In 3 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 3 is located in Box 21, Folder 7]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">18-21</container>
+                            <unittitle>Harris, Thomas Lake "A Group of Principles", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 versions &amp; carbons, 1 t.ms., ca. 70 pages, In 4 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">22</container>
+                            <unittitle>Harris, Thomas Lake "Heart Wants of London"
+; "Christ Incarnate"
+; "Liberty and Progress"
+; "Probably Grounds of Christian Union"
+; "The New church:  Its Spirit, Scope and Mission"
+; "More Warnings Against Spiritism", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(6 t.mss., 55 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Harris, Thomas Lake "The Herald of Light" - Salutatory, [n.p.], <unitdate>[1857-1861]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 13 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Harris, Thomas Lake "How Souls are Saved", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms, 2 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">23</container>
+                            <unittitle>Harris, Thomas Lake ["How the Lord is Found"], [n.p.], <unitdate>29 July 1877</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms, 12 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">24, 25</container>
+                            <unittitle>Harris, Thomas Lake "In a Garden of Eros", [n.p.], <unitdate>[26 Nov 1878]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms, &amp; 1 t.ms., ca. 300 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <container type="Folder" label="Folder">26</container>
+                            <unittitle>Harris, Thomas Lake "Invasion of Heaven", [n.p.], <unitdate>1884-5</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms, ca. 30 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">10-12</container>
+                            <unittitle>Harris, Thomas Lake "The Judgement of the Heavens", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms, 325 pages, in 3 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">1, 2</container>
+                            <unittitle>Harris, Thomas Lake "The Kingdom in Organization", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms, &amp; 1 t.ms., ca. 74 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">13, 14</container>
+                            <unittitle>Harris, Thomas Lake "Last Pages from the Diary", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.mss., ca. 30 pages, in 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Harris, Thomas Lake "Law as the Form of God", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.mss., 3 pages, in 2 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 2 is located in Box 21, Folder 15]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">4, 5</container>
+                            <unittitle>Harris, Thomas Lake "The Law of Prayer", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.mss., &amp; 1 set of carbons, ca. 15 pages, In 3 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 3 is located in Box 21, Folder 16]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">6-8</container>
+                            <unittitle>Harris, Thomas Lake "A Letter to a Seeker in Retreat", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 3 t.mss., ca. 7 pages, In 3 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 4 is located in Box 21, Folder 17.]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Harris, Thomas Lake "Life Origins", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 20 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">18</container>
+                            <unittitle>Harris, Thomas Lake "Light on Divine Brotherhood", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 28 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">1-10</container>
+                            <unittitle>Harris, Thomas Lake "The Luminious Life" - Various Drafts, [n.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 1200 pages a.ms &amp; t.ms., in 10 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Harris, Thomas Lake "Lunarians", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 74 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Harris, Thomas Lake "Man and the Immorality of his Dreams", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 3 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">12, 13</container>
+                            <unittitle>Harris, Thomas Lake "Man Sunken in the Dream Sphere of the Animal", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.mss., &amp; 1 set of carbons, ca. 154 pages, In 3 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 3 is located in Box 21, Folder 19.]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>Harris, Thomas Lake "Memorabilia of the Heavenly Life", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 85 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">15</container>
+                            <unittitle>Harris, Thomas Lake "The Millenial Age", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 75 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">16</container>
+                            <unittitle>Harris, Thomas Lake "The Miracle of Love", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.mss. &amp; carbon, &amp; 1 set of carbons, 3 pages, In 2 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 3 is located in Box 21, Folder 20]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">17, 18</container>
+                            <unittitle>Harris, Thomas Lake "A Morning Talk", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.mss., &amp; 1 set of carbons, 21 pages, In 3 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 3 is located in Box 21, Folder 21.]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">19, 20</container>
+                            <unittitle>Harris, Thomas Lake "Movements in the Occult", [n.p.], <unitdate>17 May 1878</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms., ca. 70 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">21</container>
+                            <unittitle>Harris, Thomas Lake "Nature", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 20 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">22</container>
+                            <unittitle>Harris, Thomas Lake "The New Kingdom of Labor", [n.p.], <unitdate>22 Nov 1877</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 33 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">23</container>
+                            <unittitle>Harris, Thomas Lake ["The New Life in Doctrine"] - Epitome, [n.p.], <unitdate>7 July 1896</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 5 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">24</container>
+                            <unittitle>Harris, Thomas Lake ["The New Man Androgynous"], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 3 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">25</container>
+                            <unittitle>Harris, Thomas Lake "The New Order Just Tho Some May Suffer. . ."
+; "The Sweep-Out of Human Rubbish. . .", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 14 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">26</container>
+                            <unittitle>Harris, Thomas Lake "Occultisms", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 35 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">27</container>
+                            <unittitle>Harris, Thomas Lake "Our Lord Suffering in His Present Passion for Humanity", [n.p.], <unitdate>12 Mar [n.y.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">28-30</container>
+                            <unittitle>Harris, Thomas Lake "The Parish of the Priest", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 2 t.mss., &amp; 1 set of carbons, ca. 50 pages, in 4 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 4 is located in Box 21, Folder 22.]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">31</container>
+                            <unittitle>Harris, Thomas Lake "The Path into the New Life", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 40 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">32</container>
+                            <unittitle>Harris, Thomas Lake "The Path of Ascent, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 1 page, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">33</container>
+                            <unittitle>Harris, Thomas Lake "Politics?  Old and New", [n.p.], <unitdate>1877</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 18 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">34</container>
+                            <unittitle>Harris, Thomas Lake "Preaching the Gospel:  Sowing the God-Seed", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">35</container>
+                            <unittitle>Harris, Thomas Lake "Private Property and Social Life in the Light of Jesus", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 50 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">23</container>
+                            <unittitle>Harris, Thomas Lake "A Prophecy of Japan", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 3 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">36</container>
+                            <unittitle>Harris, Thomas Lake "The Republic is Old Empire in New Mask", [n.p.], <unitdate>14 Sept [n.y.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 10 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">37</container>
+                            <unittitle>Harris, Thomas Lake "A Resurrection", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 8 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Harris, Thomas Lake "Savior Work in Hell", [n.p.], <unitdate>1879</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 60 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Harris, Thomas Lake ["Some Ways of the Evil Woman"], [n.p.], <unitdate>15 July 1879</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 15 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Harris, Thomas Lake ["Spirit World"], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 110 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Harris, Thomas Lake "A Study of Occultism", [n.p.], <unitdate>May and June 1888</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 59 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">5, 6</container>
+                            <unittitle>Harris, Thomas Lake "A Survey of Swedenborg", [n.p.], <unitdate>6 Mar 1877</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms., 64 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Harris, Thomas Lake "Teachings from the Occult Ground", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 121 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Harris, Thomas Lake "The Three Belief Sciences", Park Avenue, <unitdate>17 Sept 1892</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Harris, Thomas Lake "The Three Chief Sciences", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Harris, Thomas Lake "To the Beloved:  Faithful in Affection", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 2 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">11, 12</container>
+                            <unittitle>Harris, Thomas Lake "The Touch of Arch-Nature", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(2 t.mss., &amp; 1 set of carbons, 21 pages, In 3 folders)</physdesc>
+                        </did>
+                        <scopecontent><p>[Version 3 is located in Box 21, Folder 24.]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">13</container>
+                            <unittitle>Harris, Thomas Lake "Truth and Life in Jesus", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 60 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>Harris, Thomas Lake "The Visitation" - Series 1  Nos. 1-23, Linn Lilla, <unitdate>9 Nov 1890 - 1 Dec 1890</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 60 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">26</container>
+                            <unittitle>Harris, Thomas Lake "Ways of the Evil Woman", [n.p.], <unitdate>15 July 1877</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 11 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">16-18</container>
+                            <unittitle>Harris, Thomas Lake ["The Wisdom of the Adepts"], [n.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 270 pages a.ms., in 3 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">19-21</container>
+                            <unittitle>Harris, Thomas Lake "The Wisdom of the Adepts" Vol II - "A Study of Elementaries", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms. &amp; carbons, ca. 175 pages, In 3 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">22</container>
+                            <unittitle>Harris, Thomas Lake "W.A." - ["The Wisdom of the Adepts"] 15th - 37th form, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 150 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">1-5</container>
+                            <unittitle>Harris, Thomas Lake ["The Wisdom of the Adepts"], [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms. &amp; carbons, ca. 1000 pages, in 5 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Harris, Thomas Lake "The Wisdom of Angels", New York, <unitdate>1857</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 9 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Harris, Thomas Lake "The Wisdom of Angels", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 101 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Harris, Thomas Lake "The Wisdom of Angels" - Appendix, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., ca. 15 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">10, 11</container>
+                            <unittitle>Harris, Thomas Lake "Words of Chrysanthea", Fountaingrove, <unitdate>Aug and Sept 1877</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms., ca. 56 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Harris, Thomas Lake "Words of Chrysanthea to her Sisters", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 3 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">13</container>
+                            <unittitle>Harris, Thomas Lake "A Word from the Unseen", [n.p.], <unitdate>1888</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 4 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries IIII.3: Unidentified Prose</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">1-19</container>
+                            <unittitle>Harris, Thomas Lake Unidentified Manuscripts, [v.p], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 500 pages ms., in 19 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">20</container>
+                            <unittitle>Harris, Thomas Lake Unidentified Manuscript, [Old Colwyn], <unitdate>13 Apr 1892 - 25 June 1892</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 61 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">21</container>
+                            <unittitle>Harris, Thomas Lake Unidentified Manuscript - "The Key to the Gospel. . .", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 102 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">22, 23</container>
+                            <unittitle>Harris, Thomas Lake Unidentified Manuscript, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 150 pages ms., in 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">24</container>
+                            <unittitle>Harris, Thomas Lake Unidentified Manuscript, [n.p.], <unitdate>7 Nov 1879 - 28 Dec 1879</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 242 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">25</container>
+                            <unittitle>Harris, Thomas Lake Unidentified Manuscript, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(66 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <container type="Folder" label="Folder">26</container>
+                            <unittitle>Harris, Thomas Lake Unidentified Manuscript ConcerningNatural Associations and Procreations, [n.p.], <unitdate>23 July 1877</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 2 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">27</container>
+                            <unittitle>Harris, Thomas Lake Unidentified Manuscript, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 98 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">28</container>
+                            <unittitle>Harris, Thomas Lake Misc. Sheet, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 1 page, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries IIII.4: Poetry</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Harris, Thomas Lake Misc. Poetry "A-D", [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 30 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Harris, Thomas Lake "Advent Song", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., 32 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Harris, Thomas Lake Misc. Poetry "E-G", [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 30 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Harris, Thomas Lake "Easter Lillies", [n.p.], <unitdate>1892</unitdate>
+                            </unittitle>
+                            <physdesc>(1 ms., 30 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Harris, Thomas Lake Misc. Poetry "H-J", [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 30 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Harris, Thomas Lake "Hours with Destiny", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 52 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">7, 8</container>
+                            <unittitle>Harris, Thomas Lake "Echo of the Hills", [n.p.], <unitdate>1889</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms., 11 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">9, 10</container>
+                            <unittitle>Harris, Thomas Lake "Hours with Destiny", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms., ca. 100 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Harris, Thomas Lake "Hymns of Fraternity", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms., ca. 100 pages, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">13</container>
+                            <unittitle>Harris, Thomas Lake Misc. Poetry "L-N", [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 25 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>Harris, Thomas Lake "Living Poesies", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 15 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">15</container>
+                            <unittitle>Harris, Thomas Lake "The Meditations of a Queen", [n.p.], <unitdate>Sept 1874</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms., ca. 300 pages, In 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">16-18</container>
+                            <unittitle>Harris, Thomas Lake "New Year Song", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 2 t.mss, ca. 350 pages, In 3 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+                            <container type="Folder" label="Folder">1-9</container>
+                            <unittitle>Harris, Thomas Lake "Star-Flowers" - Cantos 8-10, plus Misc. Pages, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 1500 pages t.ms., in 9 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Harris, Thomas Lake Misc. Poetry "O-R", [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 30 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Harris, Thomas Lake Misc. Poetry "S-U, [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 5 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">3, 4</container>
+                            <unittitle>Harris, Thomas Lake "The Street - San Francisco", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 1 t.ms., 8 pages, In 2 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Harris, Thomas Lake Misc. Poetry "V-W", [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 75 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">6-8</container>
+                            <unittitle>Harris, Thomas Lake "Visitations", Linn Lilla, <unitdate>15-23 June 1890</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., &amp; 2 t.mss., ca. 250 pages, In 3 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Harris, Thomas Lake "What Roses for the Pall", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 t.ms., 68 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Harris, Thomas Lake "Winter Song", [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 a.ms., ca. 75 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Harris, Thomas Lake Quotations and Excerpts, [v.p.], <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 15 pages ms., in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Harris, Thomas Lake Various Poems, [n.p.], <unitdate>[n.d.]</unitdate>
+                            </unittitle>
+                            <physdesc>(1 bound volume, ca. 200 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries IIII.5: Hymns</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">13</container>
+                            <unittitle>Harris, Thomas Lake "Hymns given from the beginning", [Vinecliff], <unitdate>1872</unitdate>
+                            </unittitle>
+                            <physdesc>(1 bound volume, ca. 100 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries IIII.6: Printed Material</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">7</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Harris, Thomas Lake "Arcana of Christianity:  Genesis - Vol 1", New York, <unitdate>1858</unitdate>
+                            </unittitle>
+                            <physdesc>(45 pages photostat, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Harris, Thomas Lake "The Joy Bringer", [n.p.], <unitdate>17-23 Feb 1886</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 10 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <container type="Folder" label="Folder">14-18</container>
+                            <unittitle>Harris, Thomas Lake "Star-Flowers" Cantos 1-4, 6, Fountaingrove, <unitdate>1886</unitdate>
+                            </unittitle>
+                            <physdesc>(5 bound volumes, ca. 350 pages, in 5 folders)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <container type="Folder" label="Folder">25</container>
+                            <unittitle>Harris, Thomas Lake "A Voice from Heaven", [n.p.], <unitdate>1879</unitdate>
+                            </unittitle>
+                            <physdesc>(66 pages photostat, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <container type="Folder" label="Folder">15</container>
+                            <unittitle>Harris, Thomas Lake "The Wedding Guest", Fountain Grove, <unitdate>May 1877</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 22 pages photostat, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Harris, Thomas Lake "The Wisdom of Angels", [n.p.], <unitdate>[1857]</unitdate>
+                            </unittitle>
+                            <physdesc>(ca. 40 pages, in 1 folder)</physdesc>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series IV: Lawton &amp; Schneider's Notes and Research Files</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Lawton, George Interviews on Harris, [n.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 40 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Lawton, George Letters to Lawton regarding Harris/Oliphant, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 150 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Lawton, George Notes by Lawton, [n.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 50 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Misc. Material - No direct Harris connection, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 50 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Lawton, George &amp; H.L. Schneider Lawton &amp; Schneider Notes - Harris and Related, [n.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 200 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Lawton, George &amp; H.L. Schneider Schneider and Lawton's Correspondence on their Book about Harris, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 20 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>[Lawton, George] On the Chevaillier Case - Notes, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 20 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Articles and Pamphlets on T.L. Harris, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 50 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Material Used for Chapter XX of "The Gateway of the Comfortings", [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 50 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">10, 11</container>
+                        <unittitle>[Lawton, George] Copied Source Material, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 500 pages, in 2 folders)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>[Lawton, George] Notes for Harris book, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 30 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>[Lawton, George] Notes and Copies of Extracts from Harris Books made in Santa Rosa, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 75 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Schneider, H.L. Notes for Chapter 1, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 40 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Lawton, George Notes about Harris from papers, etc., [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 50 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Templeton, James Murray Address Book (1891) and Diary (1881;1884), [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 30 pages, &amp; 2 bound volumes, in 1 folder)</physdesc>
+                    </did>
+                    <scopecontent><p>[This folder is on Microfilm.  MN#2001-3110-1]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Templeton, Rosamond Misc. Material, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 50 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Folder for Oliphant Material, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 folder, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Letters, articles, and photostats on Lawrence Oliphant and his writings, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 15 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Schneider, H.L. Misc. Schneider Notes - Chapter 2, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 25 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series V: Miscellaneous</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>[Markham, E.] [Dictation by E.M.], [n.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 a.ms., ca 25 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Papers on Japan (Vol. 3) from Seminars at Harvard University, Cambridge, MA, <unitdate>Nov 1965</unitdate>
+                        </unittitle>
+                        <physdesc>(1 bound volume, 229 pages, in 1 folder)</physdesc>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series VI: Photographs</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Negatives of Photos &amp; List of Photos, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 20 negatives, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Photographs of:  Jane L.W. Harris
+;  The Hermitage, Linn Lilla
+;  Unidentified horses and landscapes, [v.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(25 photographs, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Photographs of T.L. Harris (same print), [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(18 photographs, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Photographs and Negatives of T.L. Harris
+; L. Oliphant
+; Alice Oliphant
+; Residence at Brocton, NY
+; Fountaingrove, [v.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(15 photographs &amp; negatives, in 1 folder)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Various Photographs, [v.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(14 photographs, in 1 folder)</physdesc>
+                    </did>
+                </c>
+            </c>
+      </dsc>
+   </archdesc>
+</ead>

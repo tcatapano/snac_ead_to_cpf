@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079902_ead//EN" mainagencycode="nnc-rb">ldpd_4079902_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Rochelle Owens Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-03-24">2010-03-24</date>
+            <item>xml file created.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Owens, Rochelle.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Rochelle Owens Papers">Rochelle Owens Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1980/1995" type="inclusive">1900-1997</unitdate>
+         <physdesc><extent encodinganalog="300">6.5. linear ft. (ca. 2,500 items in 14 boxes &amp; 1 folder).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline/>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079902</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Playwright, poet and translator. She was born in Brooklyn, NY, in 1936 and is married to the poet, George Economou.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, notes, documents, photographs, audio tapes, and printed materials of Rochelle Owens. Included are: correspondence with other writers, publishers, and friends; scripts and production files of her plays; and, manuscripts and drafts of her books and other poems, along with other related materials.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 5 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged correspondence</item>
+               <item>Series II: Arranged correspondence</item>
+               <item>Series III: Writings by Rochelle Owens</item>
+               <item>Series IV: General File</item>
+               <item>Series V: Oversize materials</item>
+     
+            </list>
+         </p>
+      </arrangement>
+      
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Alexander, Jane.</persname>
+         <persname encodinganalog="600">Antin, David.</persname>
+         <persname encodinganalog="600">Ashbery, John, 1927-</persname>
+         <persname encodinganalog="600">Bentley, Eric, 1916-</persname>
+         <persname encodinganalog="600">Brustein, Robert Sanford, 1927-</persname>
+         <persname encodinganalog="600">Bukowski, Charles.</persname>
+         <persname encodinganalog="600">Codrescu, Andrei, 1946-</persname>
+         <persname encodinganalog="600">Congdon, Kirby.</persname>
+         <persname encodinganalog="600">Cummings, E. E. (Edward Estlin), 1894-1962.</persname>
+         <persname encodinganalog="600">Dorn, Edward.</persname>
+         <persname encodinganalog="600">Economou, George.</persname>
+         <persname encodinganalog="600">Elmslie, Kenward.</persname>
+         <persname encodinganalog="600">Eshleman, Clayton.</persname>
+         <persname encodinganalog="600">Fitzgerald, Geraldine, 1913-2005.</persname>
+         <persname encodinganalog="600">Ford, Charles Henri.</persname>
+         <persname encodinganalog="600">Giorno, John.</persname>
+         <persname encodinganalog="600">Hornick, Lita R., 1927-</persname>
+         <persname encodinganalog="600">Kostelanetz, Richard.</persname>
+         <persname encodinganalog="600">Levin, Harry, 1912-1994.</persname>
+         <persname encodinganalog="600">Meltzer, David.</persname>
+         <persname encodinganalog="600">Randall, Margaret, 1936-</persname>
+         <persname encodinganalog="600">Rexroth, Kenneth, 1905-1982.</persname>
+         <persname encodinganalog="600">Sanders, Ed.</persname>
+         <subject encodinganalog="650">Bohemianism--United States.</subject>
+         <subject encodinganalog="650">Poets, American--20th century.</subject>
+         <subject encodinganalog="650">American literature--20th century.</subject>
+         <genreform encodinganalog="655" source="aat">Advertisements.</genreform>
+         <genreform encodinganalog="655" source="aat">Announcements.</genreform>
+         <genreform encodinganalog="655" source="aat">Audio cassettes.</genreform>
+         <genreform encodinganalog="655" source="aat">Book jackets.</genreform>
+         <genreform encodinganalog="655" source="aat">Certificates.</genreform>
+         <genreform encodinganalog="655" source="aat">Contracts.</genreform>
+         <genreform encodinganalog="655" source="aat">Copyright certificates.</genreform>
+         <genreform encodinganalog="655" source="aat">Drafts.</genreform>
+         <genreform encodinganalog="655" source="aat">Drawings.</genreform>
+         <genreform encodinganalog="655" source="aat">Essays.</genreform>
+         <genreform encodinganalog="655" source="aat">Financial records.</genreform>
+         <genreform encodinganalog="655" source="aat">First drafts.</genreform>
+         <genreform encodinganalog="655" source="aat">Floppy disks.</genreform>
+         <genreform encodinganalog="655" source="aat">Illustrations.</genreform>
+         <genreform encodinganalog="655" source="aat">Interviews.</genreform>
+         <genreform encodinganalog="655" source="aat">Lists.</genreform>
+         <genreform encodinganalog="655" source="aat">Manuscripts for publication.</genreform>
+         <genreform encodinganalog="655" source="aat">Notebooks.</genreform>
+         <genreform encodinganalog="655" source="aat">Notes.</genreform>
+         <genreform encodinganalog="655" source="aat">Novels.</genreform>
+         <genreform encodinganalog="655" source="aat">Outlines.</genreform>
+         <genreform encodinganalog="655" source="aat">Phonograph records.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="aat">Plays.</genreform>
+         <genreform encodinganalog="655" source="aat">Poems.</genreform>
+         <genreform encodinganalog="655" source="aat">Posters.</genreform>
+         <genreform encodinganalog="655" source="aat">Prefaces.</genreform>
+         <genreform encodinganalog="655" source="aat">Printouts.</genreform>
+         <genreform encodinganalog="655" source="aat">Programs.</genreform>
+         <genreform encodinganalog="655" source="aat">Proofs.</genreform>
+         <genreform encodinganalog="655" source="aat">Radio scripts.</genreform>
+         <genreform encodinganalog="655" source="aat">Reviews.</genreform>
+         <genreform encodinganalog="655" source="aat">Screenplays.</genreform>
+         <genreform encodinganalog="655" source="aat">Scripts.</genreform>
+         <genreform encodinganalog="655" source="aat">Songs.</genreform>
+         <genreform encodinganalog="655" source="aat">Storyboards.</genreform>
+         <genreform encodinganalog="655" source="aat">Syllabi.</genreform>
+         <genreform encodinganalog="655" source="aat">Translations.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors, American.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Dramatists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Poets.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Translators.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Women authors, American.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Women college teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Women dramatists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Women poets, American.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Women translators.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located on-site.</p>
+      </accessrestrict>
+      
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>04/23/1997 M-97-04-23 Papers 6192B Purchase</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Rochelle Owens Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers Processed 08/05/1997 HR</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      
+      <dsc><c level="series">
+                <did><unittitle>	Series I: Cataloged correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Jane Alexander</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	David Antin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	John Ashbery</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Eric Bentley</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Robert Brustein</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Charles Bukowski</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Andrei Codrescu</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Kirby Congdon</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	E. E. Cummings</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Edward Dorn</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Kenward Elmslie</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Clayton Eshleman</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Geraldine Fitzgerald</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Charles Henri Ford </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	John Giorno</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Lita Hornick</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Richard Kostelanetz</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Harry Levin</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	David Meltzer </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Margaret Randall</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Kenneth Rexroth</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	Ed Sanders</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>	Series II: Arranged correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	A  -  D</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>	</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>	E – N</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>	O - Z and unidentified</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>	Series III: Writings by Rochelle Owens</unittitle>
+                </did>
+                <scopecontent><p>(Manuscripts, documents, photographs, &amp; printed materials)</p>
+                </scopecontent>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	A</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	Atelier.  See: Discourse on Life &amp; Death.  [poems]; &amp; See: Mesh Recto.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	B</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	Beclch.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	Black Chalk</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	_____.  See also: Audio tape cassettes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	C</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	Chucky's Hunch.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	_____.   See also: The Graphic-Porno Man; a Novel.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	The Cocoanut Folk-Singer.  [radio play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	Constructs.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	D</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	Dear Anyone.  [musical play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	Discourse on Life &amp; Death.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>	Diverse Poems.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>	E</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>	Earplay.  (radio script)[Sweet Potatoes]  See: Who Do You Want, Peire Vidal?</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>	Elga's Incantation and Early Works 1955-1965.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>	Emma Instigated Me.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>	Francesca.  [musical play]  See: O. K. Certaldo</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>	French Light.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>	Futz.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>	_____.  See also: Oversize. Photographs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>	G</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>	Giggling Sushi.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>	The Girl on the Garage Wall.  [story]  See: Elga's Incantation</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>	The Graphic-Porno Man; a Novel.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>	Guerre ˆ Trois.  [play]  See: Three Front.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>	He Wants Shih.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>	Homo; a play in Two Acts</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>	How Much Paint Does the Painting Need.  [video]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>	_____.  See also: Audio tape cassettes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	I</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	I Am Deebler Woman.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	_____.   See also: I Am the Babe</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	I Am the Babe of Joseph Stalin's Daughter.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	Innovators in the American Theatre.  [essay]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	Istanboul.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	_____.  See also: Audio tape cassettes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	J</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	The Japanese Tourist.  [play]  See: Who Do You Want, Peire Vidal?  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	The Joe Cronicles: Part 2.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	The Joe Chronicles: Part 4: Sacre Coeur.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>	The Joe 82 Creation Poems.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>	K</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>	The Karl Marx Play.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>	_____.  See also: Oversize. Record album</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>	Keep the Wigwam Small.  [novel]  See:  The Graphic-Porno Man; a Novel</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>	Kontraption.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>	Lost tending to Icchen Yicchen.  {poem]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>	Luca.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>	_____.   See also: Discourse on Life &amp; Death.  [poems] &amp; Mesh Recto</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	Melted Bridges.  [novel]  See: The Graphic-Porno Man; a Novel.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	Mesh Recto.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	_____.  See also: Luca.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	Mountain Rites.  (A Radio drama).</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	Not Be Essence That Cannot Be.  [poem]  See: Elga's Incantations</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	N</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	O</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	The Obscenities of Reva Cigarnik.  [story]   See: Elga's Incantations</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	O. K. Certaldo  [musical play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	Oklahoma Too; Rabbits and Nuggets.  [video]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	P</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	The Passersby.  [novel] by Liliane Atlan, trans. from the French by R. Owens</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	Paysanne.  See: Discourse on Life &amp; Death.  [poems]; &amp; See: Mesh Recto.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	The Pink as a Melon Poet (a Radio Play).  See: The Cocoanut Folk-Singer.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	Playwrighting ...  [Workshops for writing a one-act play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>	Poems Diverse.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	The Queen of Greece.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	_____.  See also: I Am the Babe</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	R</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	[Reviews of other authors by Rochelle Owens]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	S</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	Sacre Coeur Invention Poems.  See: The Joe Chronicles: Part 4</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	____.  See: Audio tape cassettes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	Selected Poems.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	Sex-y Money.  [novel]  See:  The Graphic-Porno Man; a Novel.</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	Shemuel.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	The String Game.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	Sweet Potatoes. A Comedy.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>	_____.   See also: Who Do You Want, Peire Vidal?  [play]</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	T</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	The Tale of the Cocoanut Girl.  See: The Cocoanut Folk Singer.  [radio play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	Three Front.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	_____.  See also: Audio tape cassettes</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	W</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	W.C. Fields in French Light.  [poems]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	Who Do You Want, Peire Vidal?  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	_____.  See also: Futz.  [play]</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	The Widow and the Colonel.  (A Radio Play)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>	Miscellaneous manuscripts</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>	Series IV: General File</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	Audio Tape Cassettes:</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	Black Chalk  -  ca. <unitdate>1992</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	How Much Paint Does the Painting Need   <unitdate>8/86</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	Istanboul [play]  -   <unitdate>9/87</unitdate>  Omaha Magic Theatre</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	O.K. Certaldo [musical play]  -  ca. <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	14e Festival Franco-Anglais de PoŽsie</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	Poetry reading</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	Poetry reading  -   <unitdate>2/86</unitdate>  Oklahoma State University</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	Sacre CÏur Poems  -  ca. <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	Three Front [play]  -   <unitdate>11/88</unitdate>  Omaha Magic Theatre (4 cassettes)</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	_____. Nouveau Repertoire Dramatique Guerre ˆ Trois  -   <unitdate>7/91</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	The Writers Mind [radio program]  -   <unitdate>9/84</unitdate>  John Brandenburg/George Economou</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	_____  -   <unitdate>2/85</unitdate>  John Brandenburg</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>	_____  -   <unitdate>9/85</unitdate>  Poems only</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>	Biographical materials</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>	Drawings by Rochelle Owens</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>	Miscellany</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>	Photographs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>	_____.  See also: Oversize. Photographs</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>	Printed miscellany</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>	</unittitle>
+                    </did>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>	Series V: Oversize materials</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">273</container>
+                        <unittitle>	Futz. [play]  Photograph</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">273</container>
+                        <unittitle>	The Karl Marx Play.  Record album</unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">273</container>
+                        <unittitle>	Rochelle Owens  Photographs</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+      </dsc>
+   </archdesc>
+</ead>

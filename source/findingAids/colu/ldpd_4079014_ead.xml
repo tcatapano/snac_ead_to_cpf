@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079014_ead//EN" mainagencycode="nnc-rb">ldpd_4079014_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Robert Lax Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-16">2010-02-16</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Lax, Robert.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Robert Lax Papers">Robert Lax Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1938/1990" type="inclusive">[ca. 1938]-1990</unitdate>
+         <physdesc><extent encodinganalog="300">17 linear ft. ( ca. 5,300 items in 31 boxes &amp; 1 package).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079014</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Poet &amp; editor (Columbia University B.A., 1938) who was born in 1915.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, drawings, photographs, and printed material of Lax. Included are letters of Mark and Dorothy Van Doren and Thomas Merton. The bulk of the collection is comprised of Lax's poetry and journal manuscripts, many written in Patmos and Kalymnos, Greece, and originally sent to Emil Antonucci of the Journeyman Press in New York for publication. Also, printed photographs and unprinted negatives of pictures taken by Lax, primarily in Greece.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 17 series:</p>
+         <p><list type="marked">
+               <item>Series I:  Correspondence and Manuscripts</item>
+               <item>Series II: Uncataloged correspondence and manuscripts by others</item>
+               <item>Series III:  Manuscripts, alphabetical</item>
+               <item>Series IV:  Manuscripts, chronological</item>
+               <item>Series V:  Manuscripts</item>
+               <item>Series VI:  Artwork</item>
+               <item>Series VII:  Photographs</item>
+               <item>Series VIII:  Printed materials</item>
+               <item>Series IX: Oversize, Art</item>
+               <item>Series X: Oversize, Manuscripts</item>
+               <item>Series XI: Uncataloged correspondence and manuscripts by others</item>
+               <item>Series XII: Manuscripts</item>
+               <item>Series XIII: Manuscripts, untitled</item>
+               <item>Series XIV: Manuscripts</item>
+               <item>Series XV: Photographs</item>
+               <item>Series XVI: Printed materials</item>
+               <item>Series XVII: Addition to Lax Papers</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Journeyman Press (New York, N.Y.)</corpname>
+         <persname encodinganalog="600">Van Doren, Mark, 1894-1972.</persname>
+         <persname encodinganalog="600">Van Doren, Dorothy.</persname>
+         <persname encodinganalog="600">Merton, Thomas, 1915-1968.</persname>
+         <persname encodinganalog="600">Antonucci, Emil.</persname>
+         <geogname encodinganalog="651">Greece--Pictorial works.</geogname>
+         <geogname encodinganalog="651">Patmos Island (Greece)--Description and travel.</geogname>
+         <geogname encodinganalog="651">Kalymnos (Greece)--Description and travel.</geogname>
+         <subject encodinganalog="650">Literature publishing--New York (State)--New York.</subject>
+         <subject encodinganalog="650">American literature--20th century.</subject>
+         <subject encodinganalog="650">American poetry--20th century.</subject>
+         <subject encodinganalog="650">Publishers and publishing--New York (State)--New York.</subject>
+         <genreform encodinganalog="655" source="ftamc">Drawings.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Journals.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Manuscripts (literary).</genreform>
+         <genreform encodinganalog="655" source="ftamc">Notebooks.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Notes.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photonegatives.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Poems.</genreform>
+         <genreform encodinganalog="655" source="aat">Sketches.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors, American.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Poets, American.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Editors.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located on-site.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1971 M-71 Lax, Robert Gift </p>
+         <p>10/26/90 M-90-10-26 Letters &amp; clippings Lax, Robert Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Robert Lax, 1971-1975 &amp; 1990.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Robert Lax Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 07/--/89 </p>
+         <p>Letters &amp; clippings Cataloged 05/05/92 HR</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I:  Correspondence and Manuscripts</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Cataloged correspondence and manuscripts</unittitle>
+                    </did>
+                </c>
+            </c>
+   
+         <c level="series">
+                <did><unittitle>Series II: Uncataloged correspondence and manuscripts by others</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Photocopies of Thomas Merton correspondence &amp; manuscripts</unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series III:  Manuscripts</unittitle>
+                </did>
+                <scopecontent><p>Titled typescripts, in alphabetical order</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Another play for Nancy Flagg, <unitdate>Sept. 2 1939</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Arranged alphabetically]</p>
+                    </scopecontent>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series IV:  Manuscripts, untitled</unittitle>
+                </did>
+                <scopecontent><p>Arranged chronologically</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">10 </container>
+                        <unittitle>Poetry volumes,   <unitdate>1941-1959 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Poetry volumes</unittitle>
+                    </did>
+                    <scopecontent><p>[Untitled and undated]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Poetry volumes and scroll poems</unittitle>
+                    </did>
+                    <scopecontent><p>[Untitled and undated]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">16 - 20</container>
+                        <unittitle>Loose poetry [No order apparent]</unittitle>
+                    </did>
+                    <scopecontent><p>[Untitled and undated]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle>Journal and prose notes [Arranged chronologically],   <unitdate>[n.d.]; 1938-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series V:  Manuscripts</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle>Journals, notebooks, loose writings,   <unitdate>[n.d.]; 1965-1968; 1973, 1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series VI:  Artwork</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle>Drawings and sketches</unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series VII:  Photographs</unittitle>
+                </did>
+                <scopecontent><p>Arranged by subject</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Reinhardt</unittitle>
+                    </did>
+                    <scopecontent><p>[ Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">26 - 28</container>
+                        <unittitle>Negatives, completely unlabeled and unorganized</unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series VIII:  Printed materials</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>Original and photocopied items written by Lax, including whole journals and other publications, <unitdate>1968-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series IX: Oversize, Art</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Flatbox">316</container>
+                        <unittitle>Lax, Robert [Figure in landscape], [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(8 x 11 [on mat] watercolor)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flatbox">316</container>
+                        <unittitle>Lax, Robert [Woman], [n.p.], <unitdate>8 July 1939</unitdate>
+                        </unittitle>
+                        <physdesc>(8 x 11 [on mat] watercolor)</physdesc>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series X: Oversize, Manuscripts</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Flatbox">316</container>
+                        <unittitle>Lax, Robert "The Sea Poem", [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(2 manuscripts)</physdesc>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series XI: Uncataloged correspondence and manuscripts by others</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Miscellaneous correspondence, <unitdate>1944-1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Uncataloged correspondence</unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Uncataloged correspondence &amp; mss. re: "The Circus of the Stars"</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Mss. by Gerhard van den Bergh</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Merton-Lax mss., Book of Merton letters</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Uncataloged mss. by others</unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series XII: Manuscripts</unittitle>
+                </did>
+                <scopecontent><p>Titled typescripts, in alphabetical order</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Arise &amp; be happy &amp; glad...</unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Acey-Ducey, <unitdate>Summer 1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Acey-Ducey</unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Able Charlie Baker Dance</unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>A Bower of Weeds</unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Fire Water Earth &amp; Air</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>The Gentle Legend</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>The Book of Revango</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>The Circus of the Sun</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Black Yogurt</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">8, 9</container>
+                        <unittitle>Fritz</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Gooper's Landing</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Assumption Day</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Miscellaneous writings</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Mark the Teacher</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>The Long Horrible Night at Riker's, a play, <unitdate>Jan. 11, 1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Jack the Cat</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Notebook Blue</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Libretto for a Technicolor Ballet</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>The Morning Stars</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Is-sus Miggs</unittitle>
+                    </did>
+                </c>
+            
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Invocation &amp; Canticle</unittitle>
+                    </did>
+                </c>
+               
+               <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>The Island Kingdom</unittitle>
+                    </did>
+                </c>
+               
+               <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>The Island Kingdom</unittitle>
+                    </did>
+                </c>
+               
+               <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>New poems</unittitle>
+                    </did>
+                </c>
+               
+               <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Histories</unittitle>
+                    </did>
+                </c>
+               
+               <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Omnibus</unittitle>
+                    </did>
+                </c>
+               
+               <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Recent works, includes photographs and drawings </unittitle>
+                    </did>
+                </c>
+               
+               <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Poems</unittitle>
+                    </did>
+                </c>
+               
+               <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Old notebooks</unittitle>
+                    </did>
+                </c>
+               
+               <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Once &amp; For All</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>One About the Future</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>One Two Three (1,2,3)</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Miscellaneous poems</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Tractatus</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Recollections of a Temple Dancer</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Songs</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Scraps</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Tosca</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Solomon's High Dive</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Miscellaneous poems</unittitle>
+                    </did>
+                </c>
+                  
+                  <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Three Days Patmos, many drafts &amp; copies</unittitle>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Winter</unittitle>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>The Voyage to Pescara</unittitle>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Winter Lightning</unittitle>
+                    </did>
+                </c>
+                     
+                     <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>You Gotta Understand the Language</unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series XIII: Manuscripts, untitled</unittitle>
+                </did>
+                <scopecontent><p>Arranged chronologically</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Poetry volumes, <unitdate>1959-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Poetry volumes, <unitdate>1961-1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Poetry volumes, <unitdate>1972-1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series XIV: Manuscripts</unittitle>
+                </did>
+                <scopecontent><p>Arranged chronologically</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle>Journal and prose notes, <unitdate>1941-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series XV: Photographs</unittitle>
+                </did>
+                <scopecontent><p>Arranged by subject</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Rice</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Jubilee</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Ringling</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Alzana</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Bermuda</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Lowe</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Van Doren</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>France; Corps, Eau Vive</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Cristianis</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Brittanic</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Book of taped in photographs</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Various envelopes of seaside portraits</unittitle>
+                    </did>
+                    <scopecontent><p>[Black and white, contact sheets, prints of various sizes]</p>
+                    </scopecontent>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series XVI: Printed materials</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>Original and photocopied items written by Lax, including whole journals and other publications.  Also includes music scores and writings by others, mainly poetry journals.   <unitdate>1961-1991</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Original and photocopied items written by Lax, including whole journals and other publications.  Also includes music scores and writings by others, mainly poetry journals.   <unitdate>1966-1995</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series XVII: Addition to Lax Papers</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">32</container>
+                        <unittitle>Printed materials written by Lax; correspondence with several notable figures, including Richard Avedon and Jack Kerouac; bibliography of his writing and other miscellaneous items.</unittitle>
+                    </did>
+                </c>
+            </c>
+      </dsc>
+   </archdesc>
+</ead>

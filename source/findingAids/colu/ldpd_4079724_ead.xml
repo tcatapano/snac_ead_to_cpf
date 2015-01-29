@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079724_ead//EN" mainagencycode="nnc-rb">ldpd_4079724_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Seymour Melman Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-16">2010-02-16</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change> 
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Melman, Seymour.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Seymour Melman Papers,">Seymour Melman Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1958/1997" type="inclusive">1958-1997</unitdate>
+         <physdesc><extent encodinganalog="300">46 linear ft. (ca. 16,400 items in 146 boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline/>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079724</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Author and professor of industrial engineering at Columbia University. Prof. Melman was born in 1917.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Manuscripts, notes, conference papers, and printed materials. Included are research files, notes, and other materials used for manuscripts of THE IMPACT OF THE PATENT SYSTEM ON RESEARCH (1958), Study of the Subcommittee on Patents, Trademarks, and Copyrights of the Committee of the Judiciary United States Senate, 85th Congress, 2nd Session Persuant to S. Res. 236, Study No. 11; OUR DEPLETED SOCIETY (1965); PENTAGON CAPITALISM (1970); THE PERMANENT WAR ECONOMY (1974); PROFITS WITHOUT PRODUCTION (1983). The development of a military industry and federal policy in the U.S. is recorded in THE MILITARY ECONOMY (1981), a 2 volume, unpublished collection of New York Times articles that traces war economy from 1865 to 1981. THE PEACE RACE (1962) research papers record the national debate on military policy under President Kennedy. The research papers for IN THE NAME OF AMERICA (1968) report violations of the laws of war by the U.S. in Vietnam. There are also conference papers and related materials documenting efforts to implement demilitarization and economic conversion.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 2 series:</p>
+         <p><list type="marked">
+               <item>Series I: Book Titles</item>
+               <item>Series II: "Research Conference on Disarmament"</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <geogname encodinganalog="651">United States--Armed Forces--Procurement.</geogname>
+         <geogname encodinganalog="651">United States--Economic conditions--1947-</geogname>
+         <subject encodinganalog="650">Defense contracts--United States.</subject>
+         <subject encodinganalog="650">Disarmament--Economic aspects--United States.</subject>
+         <subject encodinganalog="650">Industrial engineering.</subject>
+         <subject encodinganalog="650">Industrial management--United States.</subject>
+         <subject encodinganalog="650">Industrial policy--United States.</subject>
+         <subject encodinganalog="650">Industrial productivity--United States.</subject>
+         <subject encodinganalog="650">Industries--United States.</subject>
+         <subject encodinganalog="650">Vietnam War, 1961-1975--Atrocities.</subject>
+         <subject encodinganalog="650">War--Economic aspects--United States.</subject>
+         <subject encodinganalog="650">War crimes.</subject>
+         <genreform encodinganalog="655" source="aat">Articles.</genreform>
+         <genreform encodinganalog="655" source="aat">Brochures.</genreform>
+         <genreform encodinganalog="655" source="aat">First drafts.</genreform>
+         <genreform encodinganalog="655" source="aat">Manuscripts for publication.</genreform>
+         <genreform encodinganalog="655" source="aat">Notes.</genreform>
+         <genreform encodinganalog="655" source="aat">Papers.</genreform>
+         <genreform encodinganalog="655" source="aat">Prefaces.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors, American.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Engineers--United States.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Industrial engineers--United States.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located off-site. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Papers Melman, Seymour Gifts, 1962, 1970, 1974, 1983, 1997 </p>
+         <p>10/01/1997 97/98-4 Research materials Prof. Melman Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Prof. Melman, 1962, 1970, 1974, 1983, &amp; 1997.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Seymour Melman Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers Entered in AMC 10/26/1990 </p>
+         <p>Research materials Processed 11/09/1997</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Book Titles</unittitle>
+                </did>
+                <scopecontent><p>Includes manuscripts and research files.</p>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries I.1: <title render="italic">Civil Defense Against Nuclear Attack</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+                            <unittitle>Pamphlets, reprints, clippings, etc.</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.2: <title render="italic">Disarmament</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">2, 3, 4</container>
+                            <unittitle> Clippings, reprints, notes, from First Intercollegiate Conference on Disarmament and Arms Control, Swarthmore College, <unitdate>1962</unitdate>
+                            </unittitle>
+                            <physdesc>(Pamphlets and notes)</physdesc>
+                        </did>
+                        <scopecontent><p>[from first congressional hearings, conference papers on disarmament and inspection; papers from the Mershon National Security Program, Ohio State University, 1959]</p>
+                        </scopecontent>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.3: <title render="italic">In the Name of America</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">5, 6, 7, 8</container>
+                            <unittitle>Research papers</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                            <unittitle>Research papers; paperback copy of book</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.4: <title render="italic">Pentagon Capitalism</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <unittitle>Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10, 11</container>
+                            <unittitle>Chapter 2:  Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">12, 13</container>
+                            <unittitle>Chapter 3:  Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">13, 14, 15</container>
+                            <unittitle>Chapter 4:  Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">15, 16, 17</container>
+                            <unittitle>Chapter 5:  Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <unittitle>Chapters 6:  Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">17</container>
+                            <unittitle>Chapter 7:  Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">18</container>
+                            <unittitle>Chapter 8:  Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">19</container>
+                            <unittitle>Chapter 9:  Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">20</container>
+                            <unittitle>Manuscript--first draft; printed copy</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.5: <title render="italic">Our Depleted Society</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+                            <unittitle>Chapter 2:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <unittitle>Chapter 3:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">23, 24</container>
+                            <unittitle>Chapter 4:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">24, 25, 26</container>
+                            <unittitle>Chapter 5:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+                            <unittitle>Chapters 6-8:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">26, 27</container>
+                            <unittitle>Chapter 9:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">27</container>
+                            <unittitle>Chapter 10:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                            <unittitle>Chapters 11-12:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">28, 29</container>
+                            <unittitle>Chapter 13:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle>Chapters 14-15:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+                            <unittitle>Manuscript final draft; printed copy of book</unittitle>
+                        </did>
+                    </c>
+                </c>
+   
+            <c level="subseries">
+                    <did><unittitle>Subseries I.6: <title render="italic">The Peace Race</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <unittitle>Chapters 1-8:  Research material</unittitle>
+                        </did>
+                        <scopecontent><p>[Marked by Melman as unused material]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <unittitle>Chapters 9-13:  Research material</unittitle>
+                        </did>
+                        <scopecontent><p>[Marked by Melman as unused material]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <unittitle>Chapters 1-7:  Research material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">34</container>
+                            <unittitle>Chapters 8-13:  Research material; printed copy of book</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.7: <title render="italic">The Military Economy</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">34</container>
+                            <unittitle>Part 1 A collection of articles in the New York Times from the Civil War to 1981, with an introduction, "The Transformation of War Economy", by Melman</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">35</container>
+                            <unittitle>Parts 2-5</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.8: <title render="italic">Permanent War Economy</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">36</container>
+                            <unittitle>Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">37, 38</container>
+                            <unittitle>Chapter 2:  Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Chapter 3:  Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">39, 40, 42, 43</container>
+                            <unittitle>Chapter 4:  Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">40, 41</container>
+                            <unittitle>Chapter 4:  Research notes and material</unittitle>
+                        </did>
+                        <scopecontent><p>[Marked by Melman as unused material]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">43, 44, 46, 47</container>
+                            <unittitle>Chapter 5:  Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">44, 45</container>
+                            <unittitle>Chapter 5:  Research notes and material</unittitle>
+                        </did>
+                        <scopecontent><p>[Marked by Melman as unused material]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">47, 48</container>
+                            <unittitle>Chapter 6:  Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">49, 50</container>
+                            <unittitle>Chapter 7:  Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">50, 51</container>
+                            <unittitle>Chapter 7:  Research notes and material</unittitle>
+                        </did>
+                        <scopecontent><p>[Marked by Melman as unused material]</p>
+                        </scopecontent>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">51-53</container>
+                            <unittitle>Chapter 8:  Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">53, 54</container>
+                            <unittitle>Chapter 9:  Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">56</container>
+                            <unittitle>Chapter 10 :  Research notes and material</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">55, 56</container>
+                            <unittitle>Chapter 10:  Research notes and material</unittitle>
+                        </did>
+                        <scopecontent><p>[Marked by Melman as unused material]</p>
+                        </scopecontent>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.9: <title render="italic">Inspection for Disarmament</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">57, 58</container>
+                            <unittitle>Misc. data, correspondence, papers, drafts 1 &amp; 2</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.10: <title render="italic">Profits Without Production</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">59, 60, 77</container>
+                            <unittitle>Prologue:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">61, 62, 77</container>
+                            <unittitle>Chapter 1:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">63, 77</container>
+                            <unittitle>Chapter 2Research material </unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">63, 78</container>
+                            <unittitle>Chapter 3-4:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">63, 79</container>
+                            <unittitle>Chapter 5:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">64, 65, 80</container>
+                            <unittitle>Chapter 6:  Research material</unittitle>
+                        </did>
+                        <scopecontent><p>[Some material marked by Melman as unused]</p>
+                        </scopecontent>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">81</container>
+                            <unittitle>Chapter 7:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">81, 82</container>
+                            <unittitle>Chapter 8:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">66, 67, 83</container>
+                            <unittitle>Chapter 9:  Research material</unittitle>
+                        </did>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">68, 69, 84, 85, 86, 87</container>
+                            <unittitle>Chapter 10:  Research material</unittitle>
+                        </did>
+                        <scopecontent><p>[Some material in Box 68 marked by Melman as unused]</p>
+                        </scopecontent>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">70, 71, 88</container>
+                            <unittitle>Chapter 11:  Research material</unittitle>
+                        </did>
+                        <scopecontent><p>[Some material in Box 71 marked by Melman as unused]</p>
+                        </scopecontent>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">72, 90, 91, 92, 93, 94</container>
+                            <unittitle>Chapter 12:  Research material</unittitle>
+                        </did>
+                        <scopecontent><p>[Some material in Box 72 marked by melman as unused]</p>
+                        </scopecontent>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">73</container>
+                            <unittitle>Chapter 13:  Research material</unittitle>
+                        </did>
+                        <scopecontent><p>[Some material marked by Melman as unused]</p>
+                        </scopecontent>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">74, 75, 95, 96, 97</container>
+                            <unittitle>Chapter 14:  Research material</unittitle>
+                        </did>
+                        <scopecontent><p>[Some material in Box 74 marked by Melman as unused]</p>
+                        </scopecontent>
+                    </c>
+   
+               <c level="file">
+                        <did><container type="Box" label="Box">76</container>
+                            <unittitle>Chapter 15:  Research material</unittitle>
+                        </did>
+                        <scopecontent><p>[Marked by Melmas as unused]</p>
+                        </scopecontent>
+                    </c>
+                </c>
+   
+            <c level="subseries">
+                    <did><unittitle>Subseries I.11: <title render="italic">The Impact of the Patent System on Research</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">98</container>
+                            <unittitle>Manuscript</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.12: <title render="italic">The Production of Technical Knowledge in Relation to the Patent System</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">98</container>
+                            <unittitle>Research notes, <unitdate>1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.13: <title render="italic">Conversion and Reindustrialization: Alternatives to Pentagon Indsutrial Policy</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">98</container>
+                            <unittitle>Conference paper, <unitdate>13 June 1987</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.14: <title render="italic">Managerial vs. Cooperative Decision Making in Israel</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">99</container>
+                            <unittitle>Manuscript, <unitdate>1970</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.15: <title render="italic">The National Priorities Problem: Choices and Consequences</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">99</container>
+                            <unittitle>Conference papers, <unitdate>September 30-October 1, 1966</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+   
+            <c level="subseries">
+                    <did><unittitle>Subseries I.16: <title render="italic">After Capitalism: From Managerialism to Workplace Democracy</title>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">100</container>
+                            <unittitle>Introduction:  Managerialism and "The Market" are not Forever</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">100</container>
+                            <unittitle>Part I:  From Feudalism to Capitalism, and After Chapter I: The Shape of Production Under State Capitalism</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">101</container>
+                            <unittitle>Chapter 2:  The Founding Alienation of Capitalism</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">101-108</container>
+                            <unittitle>Part II:  State &amp; Corporate Managers Impose Alienation on a Whole Society by Destroying Production Capacity Chapter 3:  Alienation from Accumulation Makes the U.S. a Third Rare Economy</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">108 &amp; 109</container>
+                            <unittitle>Chapter 4:  State Managers Accumulate Military Power Without Limit</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">109 - 115</container>
+                            <unittitle>Chapter 5:  Hidden Costs of Campaigning for World Hegemony</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">116 - 118</container>
+                            <unittitle>Chapter 6:  The Lesson of Soviet Russia:  From Alienation to Production Collapse</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">119 - 122</container>
+                            <unittitle>Part III:  Managing as Deindustrialization Proceeds Chapter 7:  Managers Use Hi-Tech in an Attempt to Make Workers and Unions Obsolete</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">120 - 125</container>
+                            <unittitle>Chapter 8:  Management Promotes Ownership Without Control</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">125 - 128</container>
+                            <unittitle>Part IV:  Workers Create a Process of Disalienated Decision-Making for an Economy and Society After Capitalism Chapter 9:  Creating Workplace Democracy</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">128 - 140</container>
+                            <unittitle>Chapter 10:  Disalienation by Design:  Installing Workplace Democracy</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">140 - 143</container>
+                            <unittitle>Chapter 11:  White Collar Joins The Blue</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">144</container>
+                            <unittitle>Part V:  Advancing Workplace Democracy Chapter 12:  The Advancing Process of Capitalism and Workplace Democracy</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">145</container>
+                            <unittitle>Conclusion:  An Exit Path from Capitalism to Workplace Democracy</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">145</container>
+                            <unittitle>Appendices: I:  Selected Bibliography on Workplace Democracy</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+         <c level="series">
+                <did><unittitle>Series II: "Research Conference on Disarmament"</unittitle>
+                </did>
+                <scopecontent><p>A large bound volume containing the original papers delivered at the Conference.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">146</container>
+                        <unittitle>Includes papers by: David F. Cavers -- Samuel Lubell -- Herbert Ritvo -- Charles O. Porter -- Robert W. Kastenmeier -- Christopher Hohenemser -- Arthur I. Waskow -- Robert Engler -- Alberta B. Szalita -- Lewis C. Bohn -- Leonard S. Rodberg -- John Martinson &amp; C. W. Churchman -- Amitai Etzioni -- J. David Singer -- Roger Fisher -- Emile Benoit -- John P. Hardt -- Richard C. Raymond -- John E. Ullmann -- Richard L. Meier , Columbia University, <unitdate>1 &amp; 2 December 1961</unitdate>
+                        </unittitle>
+                        <physdesc>(1 volume)</physdesc>
+                    </did>
+                    <scopecontent><p>[Gift of Professor Melman, 8 August 2002]</p>
+                    </scopecontent>
+                </c>
+            </c>
+
+
+
+   
+      </dsc>
+   </archdesc>
+</ead>

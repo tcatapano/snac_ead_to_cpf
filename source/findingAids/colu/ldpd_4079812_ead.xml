@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079812_ead//EN" mainagencycode="nnc-rb">ldpd_4079812_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Sigmund Diamond Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-01-27">2010-01-27</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Diamond, Sigmund.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Papers,">Sigmund Diamond Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1950/1990" type="inclusive">[ca. 1950]-1990</unitdate>
+         <physdesc><extent encodinganalog="300">52 linear ft. (ca. 62,300 items in 125 boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline/>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079812</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Sigmund Diamond, (1920-1999),Giddings Professor of Sociology and Emeritus Professor of History, Columbia University, 1955-1986.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, subject files and research notes of Sigmund Diamond. Included among the correspondence are Diamond's letters to and from various distinguished members of Columbia University and other academic insitutions, as well as correspondence with many noted sociologists and historians. Included in the manuscripts is Diamond's "In Quest." The subject files comprise material from Diamond's tenure at Columbia and include some material pertaining to his forced departure from Harvard in the 1950's due to his previous communist affiliation, and his active role in maintaining the efficacy of the Freedom of Information Act. The research files include microfilms and notes.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 7 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged Correspondence</item>
+               <item>Series II: Arranged Correspondence</item>
+               <item>Series III: Arranged Manuscripts</item>
+               <item>Series IV: Subject Files</item>
+               <item>Series V: Miscellaneous Subject Files</item>
+               <item>Series VI: Research Files</item>
+               <item>Series VII: Printed Materials</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">United States.--Federal Bureau of Investigation.</corpname>
+         <corpname encodinganalog="610">Columbia University.</corpname>
+         <corpname encodinganalog="610">Columbia University.--Bureau of Applied Social Research.</corpname>
+         <corpname encodinganalog="610">Harvard University.</corpname>
+         <corpname encodinganalog="610">Columbia University--Faculty.</corpname>
+         <corpname encodinganalog="610">Students for a Democratic Society (U.S.)</corpname>
+         <persname encodinganalog="600">Bundy, McGeorge.</persname>
+         <persname encodinganalog="600">Kissinger, Henry, 1923-</persname>
+         <persname encodinganalog="600">Stern, Isaac, 1920-2001.</persname>
+         <geogname encodinganalog="651">United States--Social conditions.</geogname>
+         <geogname encodinganalog="651">United States--Politics and government--1945-1953.</geogname>
+         <subject encodinganalog="650">Sociology--Study and teaching.</subject>
+         <subject encodinganalog="650">History--Study and teaching.</subject>
+         <subject encodinganalog="650">Social problems.</subject>
+         <subject encodinganalog="650">Communism--United States.</subject>
+         <genreform encodinganalog="655" source="ftamc">Addresses.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Articles.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Bibliographies.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Budgets.</genreform>
+         <genreform encodinganalog="655" source="aat">Financial papers.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Lectures.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Lists.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Memoranda.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Notebooks.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Notes.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Photoprints.</genreform>
+         <genreform encodinganalog="655" source="aat">Oral histories.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Questionnaires.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Reports.</genreform>
+         <genreform encodinganalog="655" source="aat">Reviews.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Speeches.</genreform>
+         <genreform encodinganalog="655" source="aat">Surveys.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Tables.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Testimony.</genreform>
+         <genreform encodinganalog="655" source="aat">Theses.</genreform>
+         <genreform encodinganalog="655" source="aat">Transcripts.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Sociologists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Authors, American.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Historians.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: 2-125. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+         <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>11/05/1990 M-90-11-05 Diamond Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Sigmund Diamond, 1990.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Sigmund Diamond Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Processed 09/02/1992 JSM</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Catalogued Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">I</container>
+                        <unittitle>Isaac Stern </unittitle>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series II: Arranged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Abramovitz - Blackington </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Blau - Cowan </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Calligan - Fishmay </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <unittitle>Fraenkel - Halberstam </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Hammock - Hurvitz </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Hurvitz - Lerner </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Levy - Litwack </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">8</container>
+                        <unittitle>Lorusso - Miller </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">9</container>
+                        <unittitle>Mintz - Osherov </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">10</container>
+                        <unittitle>Oved - Rysman </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">11</container>
+                        <unittitle>Sacks - Schapiro </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <unittitle>Shenker - Ward </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <unittitle>Warshawski - Zuckerman </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle><unitdate>1950-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle><unitdate>1962-1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle><unitdate>1966-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle><unitdate>1968-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle><unitdate>1971-1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <unittitle><unitdate>1974-1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <unittitle><unitdate>1977-1979</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <unittitle><unitdate>1980</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <unittitle><unitdate>1980-1981</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <unittitle><unitdate>1982-1984</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <unittitle><unitdate>1985</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <unittitle>Sociology Department Miscellaneous</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series III: Arranged Manuscripts</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">27-28</container>
+                        <unittitle>"In Quest"</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">29</container>
+                        <unittitle>"In Quest"</unittitle>
+                        <physdesc>(Photocopies)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">30</container>
+                        <unittitle>"In Quest"</unittitle>
+                        <physdesc>(Financial reports, photocopies, miscellaneous)</physdesc>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Transcript of oral history</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>Early version of paper delivered at American sociological association</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">31</container>
+                        <unittitle>"A casual view of America"</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series IV: Subject Files</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries IV.1: Columbia University</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">31a-34</container>
+                            <unittitle>GSAS committee Executive committee on curriculum</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">35-37</container>
+                            <unittitle>Executive committee Reports &amp; printed material</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">38-41</container>
+                            <unittitle>Committees, commissions, senate &amp; misc.</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Faculty housing</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Institute of early American history and culture</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+                            <unittitle>Fulbright</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Committees &amp;amp; conferences</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Sabbaticals</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">43</container>
+                            <unittitle>Archival correspondence</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">44</container>
+                            <unittitle>Sub-committee on Ph.D. program in Architecture and urban planning</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+                            <unittitle>University Senate </unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">46</container>
+                            <unittitle>University housing &amp; rent protests</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>Bicentennial celebration</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>--Hudson institute project</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">47</container>
+                            <unittitle>--Evaluation--Rutgers</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>School of Public Health </unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">49</container>
+                            <unittitle>Commission on academic priorities in arts &amp;amp; sciences </unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">49</container>
+                            <unittitle>--Disciplinary committee</unittitle>
+                        </did>
+                    </c>
+       
+               <c level="file">
+                        <did><container type="Box" label="Box">49</container>
+                            <unittitle>--Student disorders</unittitle>
+                        </did>
+                    </c>
+                </c>
+       
+            <c level="subseries">
+                    <did><unittitle>Series IV.2: Sociology Department</unittitle>
+                    </did>
+                    <scopecontent><p/>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">50</container>
+                            <unittitle>Chairperson of sociology dept.</unittitle>
+                        </did>
+                    </c>
+          
+               <c level="file">
+                        <did><container type="Box" label="Box">51-53</container>
+                            <unittitle>Director of graduate studies</unittitle>
+                        </did>
+                    </c>
+          
+               <c level="file">
+                        <did><container type="Box" label="Box">54 &amp;amp; 55</container>
+                            <unittitle>Oral exams</unittitle>
+                        </did>
+                    </c>
+          
+               <c level="file">
+                        <did><container type="Box" label="Box">56-61</container>
+                            <unittitle>Student papers</unittitle>
+                        </did>
+                    </c>
+          
+               <c level="file">
+                        <did><container type="Box" label="Box">62-69</container>
+                            <unittitle>Ph.D dissertations</unittitle>
+                        </did>
+                    </c>
+          
+               <c level="file">
+                        <did><container type="Box" label="Box">70</container>
+                            <unittitle>Sociology department<lb/>--Legitimation<lb/>--Historical sociology for graduates</unittitle>
+                        </did>
+                    </c>
+          
+               <c level="file">
+                        <did><container type="Box" label="Box">71</container>
+                            <unittitle>Miscellaneous</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series V: Miscellaneous Subject Files</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">72</container>
+                        <unittitle>American Academy of Arts and Sciences </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">73</container>
+                        <unittitle>ACLS </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">74</container>
+                        <unittitle>Behavioral &amp; Social Sciences Survey Committee </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">75</container>
+                        <unittitle>Book reviews</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">76</container>
+                        <unittitle>Conferences &amp; trips</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">77-79</container>
+                        <unittitle>Etzioni, Amitai </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">80</container>
+                        <unittitle>Grants</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">81</container>
+                        <unittitle>National Endowment for the Humanities </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">82</container>
+                        <unittitle>National Research Council Behavior modification therapy</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>Political Science Quarterly </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">83</container>
+                        <unittitle>--Jewish Social Studies</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">84</container>
+                        <unittitle>Publishers - contracts, correspondence</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">85-86</container>
+                        <unittitle>Serge Lang </unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">87</container>
+                        <unittitle>Miscellaneous academic:  National science fund; Short term lectureships; Dirctor of scholars, 1979-80; Miscellaneous, 1980</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">88</container>
+                        <unittitle>Institute for Advanced Studies NYU appointment &amp; lectures, Vassar</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series VI: Research Files</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">89-90</container>
+                        <unittitle>Anti-semitism</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">91-92</container>
+                        <unittitle>Bilingualism project</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">93-94</container>
+                        <unittitle>Freedom of information</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">95-97</container>
+                        <unittitle>Jewish materials - organizations &amp; projects</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">98-99</container>
+                        <unittitle>Miscellaneous files</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">100</container>
+                        <unittitle>Notes for bibliography on background of civilization &amp; notes on colonization</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">100-104</container>
+                        <unittitle>Miscellaneous notes on notecards</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">105-108</container>
+                        <unittitle>Photocopies from archives nationales &amp; bibliotheque nationale</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">109-112</container>
+                        <unittitle>Microfilm from archives de ministere</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+         <c level="series">
+                <did><unittitle>Series VII: Printed Materials</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">113-123</container>
+                        <unittitle>Articles, speeches &amp; reprints</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">124</container>
+                        <unittitle>Offprints inscribed</unittitle>
+                    </did>
+                </c>
+       
+            <c level="file">
+                    <did><container type="Box" label="Box">125</container>
+                        <unittitle>Miscellaneous printed material</unittitle>
+                    </did>
+                </c>
+            </c>
+    
+      </dsc>
+   </archdesc>
+</ead>

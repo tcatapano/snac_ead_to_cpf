@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079677_ead//EN" mainagencycode="nnc-rb">ldpd_4079677_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the John Jacob Coss Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-05-01">2012-05-01</date>
+            <item>XML document instance created by Alison Rhonemus.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Coss, John J. (John Jacob), 1884-1940.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="John Jacob Coss Papers">John Jacob Coss Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1908/1952" type="inclusive">1908-1952.</unitdate>
+         <physdesc><extent encodinganalog="300">6 linear ft (ca.5,600 items in 14 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0286</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079677</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+         <abstract>This collection contains correspondence, manuscripts, documents, notebooks, and
+            photographs of John Jacob Coss, professor of Philosophy.</abstract>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Moore Collegiate Professor of Philosophy at Columbia
+            University.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, manuscripts, documents, notebooks, and photographs including:
+            Correspondence with Columbia faculty, such as John Dewey and Robert Lynd; Columbia
+            University matters, especially his participation in the introduction of the Contemporary
+            Civilization courses; Correspondence sent to him as Director of the Summer Session,
+            1919-1939; Personal correspondence; Much correspondence relating to the Ropsenwald Fund
+            for Negro Education; Manuscripts and typescripts of addresses, articles, and other
+            writings; Notes and other materials arranged by subject; and 17 of his notebooks kept
+            while a student at Columbia, Union Theological Seminary, and the University of
+            Heidelberg. </p>
+         <p>1984 addition: Travel journals in the form of typescript copies of letters, photographs,
+            postcards, and memorabilia; typescript copies of Coss' personal correspoondence from
+            1909 to 1920; and Columbia related material, chiefly Camp Columbia, 1919-1920, including
+            photographs. These items are mounted on sheets of paper.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected materials cataloged; remainder arranged.</p>
+         <p>This collection is arranged in three series: <list type="marked">
+               <item>Series I: Correspondence</item>
+               <item>Series II: Papers</item>
+               <item>Series III: 1984 Addition</item>
+            </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University.</corpname>
+         <persname encodinganalog="600">Dewey, John, 1859-1952.</persname>
+         <persname encodinganalog="600">Lynd, Robert Staughton, 1892-1970.</persname>
+         <subject encodinganalog="650">African Americans--History.</subject>
+         <subject encodinganalog="650">Civilization.</subject>
+         <subject encodinganalog="650">Culture.</subject>
+         <subject encodinganalog="650">Philosophers.</subject>
+         <genreform encodinganalog="655" source="ftamc">Addresses.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Articles.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Bibliographies.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Journals.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Notebooks.</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Surveys.</genreform>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>M-1984 Dilks, Mrs John H. Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Transferred from Columbia; Gift of Mrs John Hyland Dilks, 1984.</p>
+      </custodhist>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 4-14. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); John Jacob Coss Papers; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Processed 06/--/85 BC/SP</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p> Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+
+      <dsc><c level="series">
+            <did><unittitle>Series I: Correspondence</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>A-G</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2</container>
+                  <unittitle>H-R</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">3</container>
+                  <unittitle>S-end</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II: Papers</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">4</container>
+                  <unittitle>Addresses and articles</unittitle>
+               </did>
+               </c>
+            <c level="file">
+               <did><unittitle>Subject Folders</unittitle>
+               </did>
+               <c level="file">
+                  <did><unittitle>Columbia College</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>General</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>Religious Work</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle><title render="italic">Columbia Spectator</title>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Columbia University - Upper College</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Commonwealth Fund</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Contemporary Civilization Course</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>budget</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>Coast Guard Academy</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>field trips budget</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>general</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>modern marriage</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>syllabus illustrations</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><unittitle>Coss, John Jacob</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>bibliography of his writings</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>Military service (1918-1919)</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>obituaries &amp; memorials</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>photographs</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>school records </unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                           <unittitle>(Wabash College)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+                           <unittitle>(Union Theological Seminary)</unittitle>
+                        </did>
+                     </c>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Employee management (bibliography)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Flint Goodridge Hospital, New Orleans</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Henderson, Donald</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Orientation course (University of Minnesota)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Personnel survey - <unitdate type="inclusive">1927-1928</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>Rosenwald Fund for Negro Education</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>General</unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="Box" label="Box">5</container>
+                        <unittitle>miscellaneous correspondence</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">5</container>
+                     <unittitle>Seth Low Junior College</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">6</container>
+                     <unittitle>17 notebooks - <unitdate type="inclusive">1907-1911</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            </c>
+               <c level="series">
+                  <did><unittitle>Series III: <unitdate>1984</unitdate> Addition</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="Box" label="Box">7</container>
+                        <unittitle>Personal Correspondence, <unitdate type="inclusive">1909-1920</unitdate>
+                        </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><unittitle>Travel Journals</unittitle>
+                     </did>
+                     <c level="file">
+                        <did><container type="Box" label="Box">8</container>
+                           <unittitle>Parts I- IV (1924-1927)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">9</container>
+                           <unittitle>Parts V-VII (1927-1931)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                           <unittitle>Parts VIII-XI (1931)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                           <unittitle>Parts XII-XV (1931-1936)</unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                           <unittitle>Parts XI-XIX (1930s) </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                           <unittitle>Parts XX-XXIII (1930s) </unittitle>
+                        </did>
+                     </c>
+                     <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                           <unittitle>Parts XXIV-XXVI (1938) and Columbia-Related
+                           Materials</unittitle>
+                        </did>
+                     </c>
+                  </c>
+               </c>
+       
+      </dsc>
+   </archdesc>
+</ead>

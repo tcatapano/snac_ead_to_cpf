@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079049_ead//EN" mainagencycode="nnc-rb">ldpd_4079049_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Samuel Loveman Correspondence</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-09-03">September 3, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-09-03">September 3, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-09-03">2009-09-03</date>
+            <item>File created.</item>
+            </change>
+         <change><date normal="2009-09-04">2009-09-04</date>
+            <item>xml document instance created by Lea Osborne</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Loveman, Samuel, 1887-1976.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Samuel Loveman Correspondence">Samuel Loveman Correspondence</unittitle>
+         <unitdate encodinganalog="245$f" normal="1911/1976" type="inclusive">1911-1976.</unitdate>
+         <physdesc><extent encodinganalog="300">0.42 linear ft. ( 1 document box)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#0806</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079049</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English.</language>
+         </langmaterial>
+         <abstract label="abstract">This collection contains correspondence sent to the New York bookseller, poet, and collector, Samuel Loveman.</abstract>
+      </did>
+     
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Samuel Loveman was born in 1887 in Cleveland, Ohio. An aspiring poet, Loveman left the Midwest in order to pursuer his career as a writer and to live an openly gay lifestyle. He moved to New York City in the early 1920s where he made the acquaintance of several prominent authors including Ambrose Bierce, Hart Crane, and H.P. Lovecraft. Loveman owned a bookstore named the Bodley Bookshop in Manhattan with his partner David Mann. He wrote two books, <title render="italic">The Hermaphrodite</title> was a poem published in July 1926 and subsequently republished with additional poems in 1936 and <title render="italic">Twenty-One Letters, </title> a collection of letters sent to him by Ambrose Bierce. He also published <title render="italic">The Sphinx</title> in 1944. Loveman died in relative obscurity at the Jewish Home and Hospital in 1976.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>The Samuel Loveman Correspondence collection contains letters primarily sent to Loveman by friends, colleagues, and admirers. Subjects written about include the legacy and growing interest in author Hart Crane and Loveman's connection to him, antiquarianism, and books. There is a small amount of letters complimenting Loveman on his poetry. Sculptor Ahron Ben-Shmuel is well represented in the collection with letters spanning several decades.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged alphabetically.</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Ben-Shmuel, Aron, 1903-</persname>
+         <persname encodinganalog="600">Loveman, Samuel, 1887-1976</persname>
+         <subject encodinganalog="650">Literature.</subject>
+         <subject encodinganalog="650">Booksellers and bookselling.</subject>
+         <subject encodinganalog="650">Authors.</subject>
+         <subject encodinganalog="650">Scholars.</subject>
+         <subject encodinganalog="650">Antiquarian booksellers.</subject>
+         <subject encodinganalog="650">Poetry</subject>
+         <subject encodinganalog="650">Gay authors--New York (City)</subject>
+         <occupation encodinganalog="656" source="lcsh">Poets.</occupation>
+      </controlaccess>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Samuel Loveman Correspondence. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Correspondence</unittitle>
+                </did>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>A, 
+            <unitdate>1911</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>B, 
+            undated, <unitdate type="inclusive">1948-1958, </unitdate>
+                            <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Ben-Shmuel, Ahron, undated, <unitdate type="inclusive">1940-1950, </unitdate>
+                            <unitdate type="inclusive">1964-1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>C, 
+            <unitdate type="inclusive">1931-1937, </unitdate>
+                            <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>D, 
+            <unitdate>1929, </unitdate>
+                            <unitdate type="inclusive">1951-1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>E 
+            through F, <unitdate type="inclusive">1950-1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>G, 
+            <unitdate>1943, </unitdate>
+                            <unitdate>1952, </unitdate>
+                            <unitdate type="inclusive">1965-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Gautier-Roman, Rizal, <unitdate>undated, </unitdate>
+                            <unitdate type="inclusive">1929-1932, 
+            </unitdate>
+                            <unitdate>1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>H, 
+            <unitdate> undated, </unitdate>
+                            <unitdate>1931, </unitdate>
+                            <unitdate type="inclusive">1945-1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>J 
+            through K, <unitdate>1933, </unitdate>
+                            <unitdate type="inclusive">1950-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>L, <unitdate>undated, </unitdate>
+                            <unitdate>1940, </unitdate>
+                            <unitdate>1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>M, <unitdate type="inclusive">1927-1939, </unitdate>
+                            <unitdate type="inclusive">1951-
+               1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>O, <unitdate type="inclusive">1934-1935, 
+            </unitdate>
+                            <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>P 
+            through R, <unitdate>undated, </unitdate>
+                            <unitdate>1952, </unitdate>
+                            <unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>S, <unitdate>undated, </unitdate>
+                            <unitdate type="inclusive">1926-1934, </unitdate>
+                            <unitdate>1963, 
+            </unitdate>
+                            <unitdate>1976</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>T, <unitdate>1912, </unitdate>
+                            <unitdate type="inclusive">1932-
+               1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>U 
+            through W, <unitdate>undated, </unitdate>
+                            <unitdate type="inclusive">1927-1935, </unitdate>
+                            <unitdate type="inclusive">1948-
+               1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <container type="Folder" label="Folder">18</container>
+                        <unittitle>Unidentified Individuals, <unitdate>undated, </unitdate>
+                            <unitdate>1928, </unitdate>
+                            <unitdate type="inclusive">1938
+               -1959, </unitdate>
+                            <unitdate>1975</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+   </archdesc>
+</ead>

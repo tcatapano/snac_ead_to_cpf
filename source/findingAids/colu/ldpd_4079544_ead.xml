@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079544_ead//EN" mainagencycode="nnc-rb">ldpd_4079544_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the INDUSCO Inc. Records</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+                    Manuscript Library; machine readable finding aid created by Columbia University
+                    Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+                    University Libraries</publisher>
+                <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+                <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT
+                conversion <date normal="2009-06-26">June 26, 2009 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+                <item>xml document instance created by Carrie Hintz</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><corpname encodinganalog="110">Indusco, Inc.</corpname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="INDUSCO Inc. Files">INDUSCO Inc.
+                Records</unittitle>
+            <unitdate encodinganalog="245$f" normal="1938/1985" type="inclusive">1938-1985.</unitdate>
+            <physdesc><extent encodinganalog="300">93 linear ft (180 boxes, 30 oversize folders, 2 card
+                    file boxes, &amp; 1 glass slide box).</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+                </corpname>
+                <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+            </repository>
+            <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+            <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079544</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng"> English and Chinese. </language>
+            </langmaterial>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p><!-- BIOGHIST REQUIRED -->Industrial cooperatives were established in China in order
+                to aid in industrial production during the Sino-Japanese War. The CIC (Chinese
+                Industrial Cooperatives) had three main headquarters (in northwest, southwest, and
+                southeast China) to form the basis for small cooperative industries throughout the
+                country, which in 1946 numbered 1,700 but which in 1948 had decreased to fewer than
+                500.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>These files contain typewritten reports of sub-units to the partent organization;
+                periodicals and other publications issued in Chinese by the three regional
+                headquarters (the early ones are probably quite rare); publications in English by
+                these headquarters and by American committees formed to aid in the movement; mounted
+                photographs showing the work of the cooperatives and their leaders; albums of
+                newspaper clippings on the movement, emanating from the U.S. and abroad; maps
+                showing locations of cooperatives; pencil sketches and watercolors of cooperatives
+                at work; and other material concerning this important organization which was largly
+                responsible for China's ability to feed and clothe, and otherwise care for her
+                people as well as to carry on a major war. </p>
+            <p>1985 ADDITION: Correspondence, memos, and printed materials of Hugh Deane, including
+                files on the revival of the CIC in the 1980s.</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>Selected materials cataloged; remainder arranged.</p>
+        </arrangement>
+        <controlaccess><head>Subjects</head>
+            <corpname encodinganalog="610">China Aid Council.</corpname>
+            <corpname encodinganalog="610">Chinese Industrial Cooperatives.</corpname>
+            <corpname encodinganalog="610">United China Relief (U.S.)</corpname>
+            <corpname encodinganalog="610">United Service to China.</corpname>
+            <persname encodinganalog="600">Alley, Rewi, 1897-1987.</persname>
+            <persname encodinganalog="600">Zhou, Enlai, 1898-1976.</persname>
+            <persname encodinganalog="600">Zhu, De, 1886-1976.</persname>
+            <persname encodinganalog="600">Deane, Hugh.</persname>
+            <persname encodinganalog="600">Mao, Zedong, 1893-1976.</persname>
+            <persname encodinganalog="600">Song, Qingling, 1893-1981.</persname>
+            <persname encodinganalog="600">Dong, Biwu, 1886-1975.</persname>
+            <geogname encodinganalog="651">China--Commerce--20th century.</geogname>
+            <geogname encodinganalog="651">China--Development--20th century.</geogname>
+            <geogname encodinganalog="651">China--Economic conditions.</geogname>
+            <geogname encodinganalog="651">China--Economic conditions--20th century.</geogname>
+            <geogname encodinganalog="651">China--Economic policy.</geogname>
+            <geogname encodinganalog="651">China--History--20th century.</geogname>
+            <geogname encodinganalog="651">China--Photographs--20th century.</geogname>
+            <geogname encodinganalog="651">Chongqing (China)--Economic conditions.</geogname>
+            <subject encodinganalog="650">Cooperative societies--China--20th century.</subject>
+            <subject encodinganalog="650">Corporations, Nonprofit--United States--20th
+                century.</subject>
+            <subject encodinganalog="650">Industrial mobilization--China.</subject>
+            <subject encodinganalog="650">Industrialization.</subject>
+            <subject encodinganalog="650">Reconstruction (1939-1951)--China.</subject>
+            <subject encodinganalog="650">Sino-Japanese War, 1937-1945--Economic aspects.</subject>
+            <subject encodinganalog="650">World War, 1939-1945--China.</subject>
+            <subject encodinganalog="650">World War, 1939-1945--Civilian relief--China.</subject>
+            <subject encodinganalog="650">World War, 1939-1945--Economic aspects--China.</subject>
+            <subject encodinganalog="650">World War, 1939-1945--War work--China.</subject>
+            <subject encodinganalog="650">Industries--China.</subject>
+            <subject encodinganalog="650">Rural industries--China.</subject>
+            <genreform encodinganalog="655" source="ftamc">Albums.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Articles.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Bibliographies.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Contracts.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Drawings.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Financial records.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Indexes.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Maps.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Minutes.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Newsletters.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Notebooks.</genreform>
+            <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+            <genreform encodinganalog="655" source="lctgm">Photonegatives.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Poems.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Posters.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Press releases.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Reports.</genreform>
+            <genreform encodinganalog="655" source="ftamc">Scrapbooks.</genreform>
+            <genreform encodinganalog="655" source="lctgm">Slides.</genreform>
+            <genreform encodinganalog="655" source="aatc">Sketches.</genreform>
+            <genreform encodinganalog="655" source="aat">Watercolor drawings.</genreform>
+        </controlaccess>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>1952 M-1952 Pruitt, Ida Gift</p>
+        </acqinfo>
+        <custodhist encodinganalog="561">
+            <p>Gift of Miss Ida Pruitt, 1952-1956 &amp; 1974. </p>
+            <p>Transferred from the East Asian Library, 1966, 1981 (negative files), &amp; 1983
+                (slides). </p>
+            <p>Gift of Hugh Deane, 1985.</p>
+            <p>Elizabeth Schiffman Files: gift of Dr. Jessica Schiffman</p>
+        </custodhist>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known); INDUSCO, Inc., Records; Box and
+                Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Processed 02/--/1985 BRC</p>
+        </processinfo>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+                the physical material only. Copyright remains with the creator and his/her heirs.
+                The responsibility to secure copyright permission rests with the patron.</p>
+        </userestrict>
+        <dsc><c level="series">
+                <did><unittitle>Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p>These files are arranged alphabetically by correspondent. To request cataloged correspondence, request the files by name of the correspondent.</p>
+                </scopecontent>
+                <c level="file">
+                    <did><unittitle>Chou En-lai</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Chu Teh</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Li, Fu-chfin (see Mao Tse-tung)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Mao Tse-tung</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Sun Soon Ching Ling (Mine. Sun Yat-sen)</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><unittitle>Tung Pi-wu</unittitle>
+                    </did>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series I: Chinese Industrial Cooperatives (CIC), <unitdate type="inclusive">1938-1947</unitdate>
+                    </unittitle>
+                </did>
+
+
+                <c level="subseries">
+                    <did><unittitle>Subseries I.A: CIC Correspondence, Manuscripts, and
+                            Photographs</unittitle>
+                    </did>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries I.A.1: CIC Correspondence</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">1</container>
+                                <unittitle>Lists of letters from China, by date of receipt at
+                                    Indusco, N.Y., <unitdate type="inclusive">November 1946-December
+                                        1948</unitdate>
+                                </unittitle>
+                                <physdesc><extent>(8 folders)</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">2</container>
+                                <unittitle>Lists of letters from China, by date of receipt at
+                                    Indusco, N.Y., <unitdate type="inclusive">January 1949-April
+                                        1950</unitdate>
+                                </unittitle>
+                                <physdesc><extent>(2 folders)</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">2</container>
+                                <unittitle>Extracts of mail from China, mostly taken from
+                                    correspondence of Rewi Alley (some indexes), <unitdate type="inclusive">1938-1944</unitdate>
+                                </unittitle>
+                                <physdesc><extent>(6 folders)</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">3</container>
+                                <unittitle>Alexander, John, <unitdate type="inclusive">1941-1943</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><unittitle>Alley, Rewi </unittitle>
+                            </did>
+                            <scopecontent><p>(See also I.A.3, I.A.4, I.B.I Bailie Schools--Shantan)</p>
+                            </scopecontent>
+                            <c level="file">
+                                <did><container type="box" label="Box">3</container>
+                                    <unittitle><unitdate type="inclusive">1938-June 1942</unitdate>
+                                    </unittitle>
+                                    <physdesc><extent>(21 folders)</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">4</container>
+                                    <unittitle><unitdate type="inclusive">1942</unitdate> July -1943 </unittitle>
+                                    <physdesc><extent>(20 folders)</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">5</container>
+                                    <unittitle><unitdate type="inclusive">1944</unitdate>
+                                    </unittitle>
+                                    <physdesc><extent>(12 folders)</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">6</container>
+                                    <unittitle><unitdate type="inclusive">1945</unitdate>
+                                    </unittitle>
+                                    <physdesc><extent>(13 folders)</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">7</container>
+                                    <unittitle><unitdate type="inclusive">1946</unitdate>
+                                    </unittitle>
+                                    <physdesc><extent>(12 folders)</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">8</container>
+                                    <unittitle><unitdate type="inclusive">1947</unitdate>
+                                    </unittitle>
+                                    <physdesc><extent>(12 folders)</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">9</container>
+                                    <unittitle><unitdate type="inclusive">1948</unitdate>
+                                    </unittitle>
+                                    <physdesc><extent>(12 folders)</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">10</container>
+                                    <unittitle>1949-19454 </unittitle>
+                                    <physdesc><extent>(13 folders)</extent>
+                                    </physdesc>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">11</container>
+                                <unittitle>An Fan-chih 1949-Birdsley, Joan <unitdate type="inclusive">1946-1947</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">12</container>
+                                <unittitle>Braid, Andrew 1943-1947-Carlson, Evans F. <unitdate type="inclusive">1939-1947</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">13</container>
+                                <unittitle>Carpenter, J. Henry 1942-1943-Chao Shu-I <unitdate type="inclusive">1940-1947</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">14</container>
+                                <unittitle>Chen, Byron 1939-1946-Curwen, Anthony <unitdate type="inclusive">1948-1949</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">15</container>
+                                <unittitle>Dean, Sam 1945-Fisher, Weithy Honsinger <unitdate type="inclusive">1947</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">16</container>
+                                <unittitle>Fitch, George 1941-1946-Goullart, Peter <unitdate type="inclusive">1941-1951</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">17</container>
+                                <unittitle>Haas, Lily 1942-Herman, Theodore <unitdate type="inclusive">1938-1941</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">18</container>
+                                <unittitle>Herman 1942-1951-Hicks, Victor <unitdate type="inclusive">1944-1946</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">19</container>
+                                <unittitle>Higgins, Judson 1946-Huang, W. W. (Wen-wei)</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">20</container>
+                                <unittitle>Illsley, Walter 1946-1952-Liang Yu-chao <unitdate type="inclusive">1948</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">21</container>
+                                <unittitle>Lin, Dr. Robert 1939-1940-Meng Yiing-chfien <unitdate type="inclusive">1940-1949</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">22</container>
+                                <unittitle>Ming, Mavis 1942-1947-Pruitt, Ida, <unitdate type="inclusive">1938</unitdate>
+                                </unittitle>
+                            </did>
+                            <scopecontent><p>(See also: I.A.3, I.A.3, II.A.1)</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">23</container>
+                                <unittitle>Pruitt, Ida</unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">23</container>
+                                    <unittitle><unitdate type="inclusive">1939</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">24</container>
+                                    <unittitle><unitdate type="inclusive">1940-1942</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">25</container>
+                                    <unittitle><unitdate type="inclusive">1942-1944</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">26</container>
+                                    <unittitle><unitdate type="inclusive">1945-1947</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">27</container>
+                                    <unittitle>1947-1955-Smith, Walter, <unitdate type="inclusive">1946-1950</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">28</container>
+                                <unittitle>Smythe, Lewis S. C. </unittitle>
+                            </did>
+                            <scopecontent><p>(See also I.A.3)</p>
+                            </scopecontent>
+                            <c level="file">
+                                <did><container type="box" label="Box">28</container>
+                                    <unittitle><unitdate type="inclusive">1939-1943</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">29</container>
+                                    <unittitle><unitdate type="inclusive">1944-1945</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">30</container>
+                                    <unittitle>1946-1952-Snow, Edgar, <unitdate type="inclusive">1938-1945</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">31</container>
+                                <unittitle>Snow, Helen Foster (Nym Wales) 1938-1947-Sweet, Lenning,
+                                        <unitdate type="inclusive">1944-1945</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">32</container>
+                                <unittitle>Tan, J. M. 1942-1950-Townsend, Peter, <unitdate type="inclusive">1942-1945</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">33</container>
+                                <unittitle>Townsend 1946-1949-Turner, Margaret, <unitdate type="inclusive">1948</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">34</container>
+                                <unittitle>Wang, Anna 1938-Yip, Kenneth <unitdate type="inclusive">1939</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries I.A.2: Cablegrams and Telegrams, <unitdate type="inclusive">1941-1948</unitdate>
+                            </unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">35</container>
+                                <unittitle>Cablegrams and Telegrams, <unitdate type="inclusive">1941-1948</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries I.A.3: CIC Manuscripts, Printed Articles, and
+                                Pamphlets </unittitle>
+                        </did>
+                        <scopecontent><p>(pamphlets arranges alphabetically by author. See also V no 1)</p>
+                        </scopecontent>
+                        <c level="file">
+                            <did><container type="box" label="Box">36</container>
+                                <unittitle>Alley, Rewi</unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">36</container>
+                                    <unittitle>Articles and notes on CIC and cooperation, <unitdate type="inclusive">1939-1950</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">37</container>
+                                    <unittitle>Articles, notes, and reports on CIC and Shantan
+                                        Bailie School; poems by rewi Alley, typescript, <unitdate type="inclusive">1938-1953</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">38</container>
+                                    <unittitle>Published Reports and Books</unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">39</container>
+                                <unittitle>Armstrong, John Paul, 1948-Hogg, George </unittitle>
+                            </did>
+                            <scopecontent><p>(for George Hogg, see also I.A.1)</p>
+                            </scopecontent>
+                            <c level="file">
+                                <did><container type="box" label="Box">39</container>
+                                    <unittitle>George Hogg--Articles on CIC and Cooperation,
+                                            <unitdate type="inclusive">1940-1944</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">40</container>
+                                    <unittitle>George Hogg--Articles and notes on Bailie Schools;
+                                        printed articles; resume of work, <unitdate type="inclusive">1940-1945</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">40</container>
+                                <unittitle>Lyman John R., <unitdate type="inclusive">1943</unitdate>
+                                </unittitle>
+                            </did>
+                            <scopecontent><p>(see alsoI.A.1)</p>
+                            </scopecontent>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">41</container>
+                                <unittitle>Mei, Y.P., 1941-Pruitt, Ida, <unitdate type="inclusive">1939-1948</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">42</container>
+                                <unittitle>Reisner, John H. 1939-Snow, Helen Foster <unitdate type="inclusive">1939-1943</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">43</container>
+                                <unittitle>Stevens, W. Mackenzie 1936-1943-Wells, Henry. W.
+                                        <unitdate type="inclusive">1950</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries I.A.4: CIC Biographical Materials, with
+                                Photographs</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">44</container>
+                                <unittitle>Alley, Michael (Rewi’s adopted son)-Alley,
+                                    Rewi</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">45</container>
+                                <unittitle>An Fan-chih-Lyman, John R.</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">46</container>
+                                <unittitle>Mao Tse-tung 1948-Yung, K. S.</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+
+
+                <c level="subseries">
+                    <did><unittitle>Subseries I.B: Subject Files, Printed Matters, and Photographs of
+                            Activities</unittitle>
+                    </did>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries I.B.1: Subject and Organization
+                                Files</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">47</container>
+                                <unittitle>Indexes to materials <unitdate type="inclusive">ca.
+                                        1942</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">47</container>
+                                <unittitle>AACIC (Association for the Advancement of CIC)
+                                    1943-1945-Army Goods, <unitdate type="inclusive">1940-1944</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><unittitle>Bailie Schools</unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">48</container>
+                                    <unittitle>Appeals, 1944-Lanchow (Kansu) Bailie School,
+                                            <unitdate type="inclusive">1942-1947</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">49</container>
+                                    <unittitle>Shantan ([Sandan], Kansu) Bailie School</unittitle>
+                                </did>
+                                <c level="file">
+                                    <did><container type="box" label="Box">49</container>
+                                        <unittitle><unitdate type="inclusive">1949</unitdate> study
+                                            by Yang Hsin-pao for FAO-Geological Drawings, <unitdate type="inclusive">1945-1949</unitdate>
+                                        </unittitle>
+                                    </did>
+                                </c>
+                                <c level="file">
+                                    <did><container type="box" label="Box">50</container>
+                                        <unittitle>Indusco mimeographed materials on Shantan and
+                                            Lanchow Bailie Schools, <unitdate type="inclusive">1944-1949</unitdate>
+                                        </unittitle>
+                                    </did>
+                                </c>
+                                <c level="file">
+                                    <did><container type="box" label="Box">50</container>
+                                        <unittitle>Serials, <unitdate type="inclusive">1946-1950</unitdate>
+                                        </unittitle>
+                                        <physdesc><extent>(2 folders)</extent>
+                                        </physdesc>
+                                    </did>
+                                </c>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">51</container>
+                                    <unittitle>Yunnan: Kunming Proposal, <unitdate type="inclusive">1945</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">52</container>
+                                <unittitle>Bibliographies of materials on CIC and on cooperation in
+                                    China, <unitdate type="inclusive">1940-1947</unitdate> --
+                                    Exchange rate, <unitdate type="inclusive">1944-1948</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">53</container>
+                                <unittitle>Farmers Bank of China <unitdate type="inclusive">1941</unitdate> Human interest stories, <unitdate type="inclusive">1939-1945</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">54</container>
+                                <unittitle>Indusco Office for Supplies of Allied Military Services,
+                                    1943-1944-International Committee (IC)</unittitle>
+                            </did>
+                            <c level="file">
+                                <did><unittitle>International Committee</unittitle>
+                                </did>
+                                <c level="file">
+                                    <did><container type="box" label="Box">54</container>
+                                        <unittitle>"Announcement" 1939-Finances <unitdate type="inclusive">1942-1949</unitdate>
+                                        </unittitle>
+                                    </did>
+                                </c>
+                                <c level="file">
+                                    <did><container type="box" label="Box">55</container>
+                                        <unittitle>Financial Statements, <unitdate type="inclusive">1938-1947</unitdate>
+                                        </unittitle>
+                                    </did>
+                                </c>
+                                <c level="file">
+                                    <did><container type="box" label="Box">56</container>
+                                        <unittitle>Financial Statements, <unitdate type="inclusive">1948-1949</unitdate>
+                                        </unittitle>
+                                    </did>
+                                </c>
+                                <c level="file">
+                                    <did><unittitle>Meeting Minutes</unittitle>
+                                    </did>
+                                    <c level="file">
+                                        <did><container type="box" label="Box">56</container>
+                                            <unittitle>General Meetings, <unitdate type="inclusive">1939-1951</unitdate>
+                                            </unittitle>
+                                        </did>
+                                    </c>
+                                    <c level="file">
+                                        <did><container type="box" label="Box">57</container>
+                                            <unittitle>Annual Meeting 1945-1948-Executive Committee
+                                                Meetings, <unitdate type="inclusive">1943-1949</unitdate>
+                                            </unittitle>
+                                        </did>
+                                    </c>
+                                    <c level="file">
+                                        <did><container type="box" label="Box">58</container>
+                                            <unittitle>Minutes of Joint Executive Committee Meetings
+                                                1946-1948-Minutes of JEC Projects Sub-committee,
+                                                  <unitdate type="inclusive">1947</unitdate>
+                                            </unittitle>
+                                        </did>
+                                    </c>
+                                </c>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">58</container>
+                                    <unittitle>Needs and Requests from China, <unitdate type="inclusive">1941-1942</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">59</container>
+                                    <unittitle>Overseas promotion (notably Britain, Canada, postwar
+                                        Japan, New Zealand, the Philippines), <unitdate type="inclusive">1939-1951</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">60</container>
+                                    <unittitle>Peking Peace Conference, with photographs and news
+                                        clippings, 1952-Refugees, <unitdate type="inclusive">1943-1943</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">61</container>
+                                    <unittitle>Regions of GIG work</unittitle>
+                                </did>
+                                <c level="file">
+                                    <did><container type="box" label="Box">61</container>
+                                        <unittitle>Regional analyses, <unitdate type="inclusive">1941-1944</unitdate>
+                                        </unittitle>
+                                    </did>
+                                </c>
+                                <c level="file">
+                                    <did><container type="box" label="Box">61</container>
+                                        <unittitle>General Data, <unitdate type="inclusive">1941-1948</unitdate>
+                                        </unittitle>
+                                    </did>
+                                </c>
+                                <c level="file">
+                                    <did><unittitle>Regional Areas of Work</unittitle>
+                                    </did>
+                                    <c level="file">
+                                        <did><container type="box" label="Box">61</container>
+                                            <unittitle>Border Regions, <unitdate type="inclusive">1939-1949</unitdate>
+                                            </unittitle>
+                                        </did>
+                                    </c>
+                                    <c level="file">
+                                        <did><container type="box" label="Box">62</container>
+                                            <unittitle>Northwest Headquarters area
+                                                (NWHQ)</unittitle>
+                                        </did>
+                                        <c level="file">
+                                            <did><container type="box" label="Box">62</container>
+                                                <unittitle>Geographical file--sites of work activity
+                                                  <unitdate type="inclusive">1939-1952</unitdate>
+                                                </unittitle>
+                                            </did>
+                                        </c>
+                                        <c level="file">
+                                            <did><container type="box" label="Box">63</container>
+                                                <unittitle>Subject File</unittitle>
+                                            </did>
+                                            <c level="file">
+                                                <did><container type="box" label="Box">63</container>
+                                                  <unittitle>Conferences and Discussions, <unitdate type="inclusive">1945-1946</unitdate>
+                                                    </unittitle>
+                                                </did>
+                                            </c>
+                                            <c level="file">
+                                                <did><container type="box" label="Box">63</container>
+                                                  <unittitle>Reports, <unitdate type="inclusive">1939-1946</unitdate>
+                                                    </unittitle>
+                                                </did>
+                                            </c>
+                                            <c level="file">
+                                                <did><container type="box" label="Box">64</container>
+                                                  <unittitle>Serials, <unitdate type="inclusive">1939-1945</unitdate>
+                                                    </unittitle>
+                                                </did>
+                                            </c>
+                                            <c level="file">
+                                                <did><container type="box" label="Box">64</container>
+                                                  <unittitle>Women’s Work, <unitdate type="inclusive">1939-1945</unitdate>
+                                                    </unittitle>
+                                                </did>
+                                            </c>
+                                        </c>
+                                    </c>
+                                    <c level="file">
+                                        <did><container type="box" label="Box">65</container>
+                                            <unittitle>Southeast Headquarters area
+                                                (SEHQ)</unittitle>
+                                        </did>
+                                        <c level="file">
+                                            <did><container type="box" label="Box">65</container>
+                                                <unittitle>Geographical File, <unitdate type="inclusive">1939-1949</unitdate>
+                                                </unittitle>
+                                            </did>
+                                        </c>
+                                        <c level="file">
+                                            <did><unittitle>Subject File</unittitle>
+                                            </did>
+                                            <c level="file">
+                                                <did><container type="box" label="Box">65</container>
+                                                  <unittitle>Articles on SEHQ, <unitdate type="inclusive">1939-1949</unitdate>
+                                                    </unittitle>
+                                                </did>
+                                            </c>
+                                            <c level="file">
+                                                <did><container type="box" label="Box">65</container>
+                                                  <unittitle>Reports--General, <unitdate type="inclusive">1938-1939</unitdate>
+                                                    </unittitle>
+                                                </did>
+                                            </c>
+                                            <c level="file">
+                                                <did><container type="box" label="Box">66</container>
+                                                  <unittitle>Reports--General, <unitdate type="inclusive">1940-1947</unitdate>
+                                                    </unittitle>
+                                                </did>
+                                            </c>
+                                            <c level="file">
+                                                <did><container type="box" label="Box">66</container>
+                                                  <unittitle>Technical Data, <unitdate type="inclusive">1939-1947</unitdate>
+                                                    </unittitle>
+                                                </did>
+                                            </c>
+                                        </c>
+                                    </c>
+                                    <c level="file">
+                                        <did><container type="box" label="Box">67</container>
+                                            <unittitle>Southwest Headquarters area (SWHQ) <unitdate type="inclusive">1939-1949</unitdate>
+                                            </unittitle>
+                                        </did>
+                                    </c>
+                                    <c level="file">
+                                        <did><container type="box" label="Box">67</container>
+                                            <unittitle>Others (Hopei), <unitdate type="inclusive">1947-1948</unitdate>
+                                            </unittitle>
+                                        </did>
+                                    </c>
+                                </c>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">68</container>
+                                    <unittitle>Relief, Politics and problems of, <unitdate type="inclusive">1938-1939</unitdate> -- Rural Industry
+                                        in China, <unitdate type="inclusive">1942-1945</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">69</container>
+                                    <unittitle>Serials, National (CIC): Published in Chungking,
+                                        Hongkong, and Shanghai, <unitdate type="inclusive">1939-1950</unitdate>
+                                    </unittitle>
+                                </did>
+                                <scopecontent><p>(for non-CIC serials see I.B.3 Serials)</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">70</container>
+                                <unittitle>Shanghai Promotion Committee, 1939-YMCA, <unitdate type="inclusive">1942</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+
+                    <c level="otherlevel" otherlevel="sub-sub-series">
+                        <did><unittitle>Sub-subseries I.B.2: CIC Newspaper Clippings</unittitle>
+                        </did>
+                        <scopecontent><p>(See also V, no. 2)</p>
+                        </scopecontent>
+                        <c level="file">
+                            <did><container type="box" label="Box">71</container>
+                                <unittitle>Folders of clippings from Hongkong, Shanghai, the
+                                    Philippines, and the United States, <unitdate type="inclusive">1939-1941</unitdate>
+                                    <unitdate type="inclusive">1945-1948</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">72</container>
+                                <unittitle>Binder of clippings from Hongkong, Shanghai, the
+                                    Philippines and Hawaii, <unitdate type="inclusive">1939-1941</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries I.B.3: CIC Printed Material and
+                                Serials</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">74</container>
+                                <unittitle>China Defense League, <unitdate type="inclusive">1941-1943</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><unittitle>Hongkong Promotion Committee</unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">74</container>
+                                    <unittitle>Announcements, leaflets, pamphlets (many loose
+                                        items)</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">75</container>
+                                    <unittitle>Serials, duplicate copies of Indusco News and "News
+                                        Release." </unittitle>
+                                </did>
+                                <scopecontent><p>(for publication details see I.B.1 Serials--Hongkong
+                                        Promotion Committee)</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">76</container>
+                                <unittitle>Indusco, Inc. announcements, leaflets,
+                                    pamphlets-Pamphlets, miscellaneous</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">77</container>
+                                <unittitle>Serials (Non-CIC) -- Unclassified Material</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries I.B.4: CIC Photographs of Activities
+                            </unittitle>
+                        </did>
+                        <scopecontent><p>(see also V nos 4.b and 4.c)</p>
+                        </scopecontent>
+                        <c level="file">
+                            <did><container type="box" label="Box">78</container>
+                                <unittitle>Index of photographs-Bailie Schools:</unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">78</container>
+                                    <unittitle>Chengtu Bailie School-Shantan Bailie
+                                        School</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><unittitle>Shantan Bailie School</unittitle>
+                                </did>
+                                <c level="file">
+                                    <did><container type="box" label="Box">78</container>
+                                        <unittitle>Arts and Drama-Electrical Division</unittitle>
+                                    </did>
+                                </c>
+                                <c level="file">
+                                    <did><container type="box" label="Box">79</container>
+                                        <unittitle>Farm Division-Recreation and Hiking</unittitle>
+                                    </did>
+                                </c>
+                                <c level="file">
+                                    <did><container type="box" label="Box">80</container>
+                                        <unittitle>Staff (Foreign and Chinese) -- Transport
+                                            Division</unittitle>
+                                    </did>
+                                </c>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">81</container>
+                                    <unittitle>Shuangshihpu (Shensi) Bailie School-Southeast
+                                        Headquarters Bailie School</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">82</container>
+                                    <unittitle>Unclassified Photographs and Negatives </unittitle>
+                                </did>
+                                <scopecontent><p>(largely of Shantan Bailie School)</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">83</container>
+                                <unittitle>Blanket-making-Exhibits (Chungking and U.S.)</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">84</container>
+                                <unittitle>Food-making-Machinery and machine shops</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">85</container>
+                                <unittitle>Matches-Regions of CIC</unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">85</container>
+                                    <unittitle>Border Regions</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">86</container>
+                                    <unittitle>Northwest Headquarters area-Southeast Headquarters
+                                        area</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">87</container>
+                                    <unittitle>Southwest Headquarters area --</unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><unittitle>Textiles</unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">87</container>
+                                    <unittitle>Ancient methods -- Reeling</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">88</container>
+                                    <unittitle>Silk-Yarn preparation --</unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">88</container>
+                                <unittitle>Women</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+            </c>
+
+
+            <c level="series">
+                <did><unittitle>Series II: INDUSCO, Inc.: U.S. Materials, <unitdate type="inclusive">1939-1952</unitdate>
+                    </unittitle>
+                </did>
+
+
+                <c level="subseries">
+                    <did><unittitle>Series II.A: Correspondence and Photographs of
+                            Persons</unittitle>
+                    </did>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Series II.A.1 Important Correspondence</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">89</container>
+                                <unittitle>Addis, Dr. Thomas (Stanford Univ. School of Medicine),
+                                        <unitdate type="inclusive">1946-1947</unitdate> -- Crow,
+                                    Carl (New York author and businessman), <unitdate type="inclusive">1942</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">90</container>
+                                <unittitle>Currie, Lauchlin (Wash., D.C., White House Adviser,
+                                    Foreign economic Administration), <unitdate type="inclusive">1942-1945</unitdate> -- Freyn, Hubert (New York, China News
+                                    Service), <unitdate type="inclusive">1942</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">91</container>
+                                <unittitle>Gamble, Sidney B. (N.Y., China Famine Relief, U.S.A.),
+                                    1940-1941-Hooker, Mrs. Edward (L.A., LOS Angeles-Hollywood
+                                    Indusco Committee), <unitdate type="inclusive">1941</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">92</container>
+                                <unittitle>Hsia, C.L. (N.Y., Chinese News Service),
+                                    1940-1945-Kohlberg, Alfred (N.Y., Textile importer, later
+                                    initiator of charges of communist leanings against I.P.R. and
+                                    Owen Lattimore), <unitdate type="inclusive">1943</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">93</container>
+                                <unittitle>Lang, Olga (Boston and N.Y.), 1939-1942-Liu Liang-mo
+                                    (N.Y., Chinese People's Chorus, speaker) <unitdate type="inclusive">1942</unitdate>
+                                    <unitdate type="inclusive">1945</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">94</container>
+                                <unittitle>Lobenstein, Edwin C. (N.Y., China Medical Board)
+                                    1940-1941-Orcahrd, John, <unitdate type="inclusive">1939</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">95</container>
+                                <unittitle>Peffer, Nathaniel (N.Y., Columbia University)
+                                    1940-1942-Pruitt, Ida (N.Y., Indusco, Inc.) <unitdate type="inclusive">1941-1942</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">96</container>
+                                <unittitle>Rauschenbush, Carl (N.Y., NYU, Indusco Executive Board),
+                                    1941-1943-Swisher, Earl (Boulder, Univ, of Colorado) <unitdate type="inclusive">1940-1942</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">97</container>
+                                <unittitle>Taylor, Mr. and Mrs. George (Seattle, Univ. of Wash.),
+                                    1940-1942-Warbasse, James P. (N.Y., President, The Cooperative
+                                    League of the United States of America), <unitdate type="inclusive">1940</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">98</container>
+                                <unittitle>Welles, Sunner (Wash., D.C., Acting Secretary of State),
+                                    1942-Yu Tsime-chi (N.Y., Chinese Consul-General) <unitdate type="inclusive">1940-1941</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries II.A.2: INDUSCO Routine and Fund-Raising
+                                Correspondence</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><unittitle><unitdate type="inclusive">1940-1942</unitdate>
+                                    <unitdate type="inclusive">September 1942</unitdate>
+                                </unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">99</container>
+                                    <unittitle>A-E </unittitle>
+                                </did>
+                                <scopecontent><p>(missing, withdrawn by Indusco Office to make room for later
+                                        materials)</p>
+                                </scopecontent>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">99</container>
+                                    <unittitle>F-G</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">100</container>
+                                    <unittitle>H-J</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">101</container>
+                                    <unittitle>K-L</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">102</container>
+                                    <unittitle>M</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">103</container>
+                                    <unittitle>N-P</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">104</container>
+                                    <unittitle>Q-Se</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">105</container>
+                                    <unittitle>Sh-T</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">106</container>
+                                    <unittitle>U-Y</unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><unittitle><unitdate type="inclusive">1942</unitdate> October -- <unitdate type="inclusive">1944</unitdate>
+                                </unittitle>
+                            </did>
+                            <scopecontent><p>(section b. is less extensive than section a. due to a reduction
+                                    in the number of private appeals for contributions made by
+                                    Indusco following its 1942 contract with United China
+                                    Relief.)</p>
+                            </scopecontent>
+                            <c level="file">
+                                <did><container type="box" label="Box">107</container>
+                                    <unittitle>A-Ch</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">108</container>
+                                    <unittitle>Ci-G</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">109</container>
+                                    <unittitle>H-Z</unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><unittitle><unitdate type="inclusive">1945</unitdate>
+                                </unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">110</container>
+                                    <unittitle>A-C</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">111</container>
+                                    <unittitle>D-J</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">112</container>
+                                    <unittitle>K-Q</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">113</container>
+                                    <unittitle>R-Z</unittitle>
+                                </did>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">114</container>
+                                <unittitle><unitdate type="inclusive">1946</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">114</container>
+                                <unittitle><unitdate type="inclusive">1947-1949</unitdate> (missing
+                                    from files, discarded by Indusco)</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><unittitle><unitdate type="inclusive">1950</unitdate> -- <unitdate type="inclusive">1952</unitdate>
+                                </unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">114</container>
+                                    <unittitle>A-L </unittitle>
+                                </did>
+                                <scopecontent><p>(missing except for miscellaneous files)</p>
+                                </scopecontent>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">114</container>
+                                    <unittitle>N-Z</unittitle>
+                                </did>
+                            </c>
+                        </c>
+                    </c>
+                    <c level="otherlevel" otherlevel="sub-sub-series">
+                        <did><unittitle>Sub-subseries II.A.3: Photographs of Persons</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">114</container>
+                                <unittitle>Fenn, Charles -- Yarnell, Admiral Harry E.</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">114</container>
+                                <unittitle>Others</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+
+
+                <c level="subseries">
+                    <did><unittitle>Subseries II.B: Indusco Subject and Organizations
+                            File</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="box" label="Box">115</container>
+                            <unittitle>Americans, former residents of China, including missionaries,
+                                    <unitdate type="inclusive">1939-1949</unitdate> -- Boards of
+                                Indusco</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><unittitle>Boards of Indusco</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">115</container>
+                                <unittitle>Advisory Board, <unitdate type="inclusive">1940-1951</unitdate> -- Executive Board (later Board of
+                                    Directors): lists of members, resolutions, and correspondence,
+                                        <unitdate type="inclusive">1940-1941</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">116</container>
+                                <unittitle>Advisory Board, <unitdate type="inclusive">1941-1950</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">117</container>
+                            <unittitle>Branch Committees of Indusco, Inc.</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">117</container>
+                                <unittitle>Baltimore, MD -- Washington D.C.</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">118</container>
+                            <unittitle>China Aid Convention (November 1940), program and "Who's Who"
+                                of Participants -- Chinese Student Contracts, <unitdate type="inclusive">1939-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">119</container>
+                            <unittitle>Church-related Groups</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">119</container>
+                                <unittitle>American Friends Service Committee <unitdate type="inclusive">1939-1945</unitdate>
+                                    <unitdate type="inclusive">1950-1952</unitdate> -- World Council
+                                    of Churches, <unitdate type="inclusive">1945</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">120</container>
+                            <unittitle>Committees of Indusco, Inc.-Cooperatives, U.S. <unitdate type="inclusive">1940-1945</unitdate>
+                                <unitdate type="inclusive">1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">121</container>
+                            <unittitle>Equipment sent to China (See II.C.2.b) --
+                                Finances</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><unittitle>Finances </unittitle>
+                        </did>
+                        <scopecontent><p>(See also the President’s War relief Control Board, IV.B
+                                Finances--Indusco and V. no. 7)</p>
+                        </scopecontent>
+                        <c level="file">
+                            <did><container type="box" label="Box">121</container>
+                                <unittitle><unitdate type="inclusive">1939-1940</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">121</container>
+                                <unittitle>122</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">121</container>
+                                <unittitle><unitdate type="inclusive">1941-1944</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">121</container>
+                                <unittitle>123</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">121</container>
+                                <unittitle><unitdate type="inclusive">1945-1947</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">121</container>
+                                <unittitle>124</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">121</container>
+                                <unittitle><unitdate type="inclusive">1948-1952</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">121</container>
+                                <unittitle>125</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">121</container>
+                            <unittitle>Gripsholm (ship), repatriation of Americans <unitdate type="inclusive">1943</unitdate> -- Indusco -- IC-UCR
+                                relationship, <unitdate type="inclusive">1942</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">126</container>
+                            <unittitle>Indusco-UCR/USC relationship, including contracts, <unitdate type="inclusive">1940-1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">127</container>
+                            <unittitle>Laborr U.S. 1940-1948-Library of Congress <unitdate type="inclusive">1941</unitdate>
+                                <unitdate type="inclusive">1946</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">128</container>
+                            <unittitle>Mailings: letters sent out, mailing statistics, name lists,
+                                    <unitdate type="inclusive">1940-1943</unitdate>
+                                <unitdate type="inclusive">1947-1950</unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent><p>(see also Publicity--form letters)</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">129</container>
+                            <unittitle>Maps of U.S. and Canada-Mimeographed materials:
+                                correspondence, reports, projects, articles, <unitdate type="inclusive">1944-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">130</container>
+                            <unittitle>Mimeographed Materials, <unitdate type="inclusive">1946-1948</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">131</container>
+                            <unittitle>Mimeographed Materials, <unitdate type="inclusive">1949-1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><unittitle>Minutes of Meetings</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">131</container>
+                                <unittitle>Corporation of Indusco, Inc. <unitdate type="inclusive">1942-1947</unitdate>
+                                    <unitdate type="inclusive">1951-1952</unitdate> -- Executive
+                                    Board, <unitdate type="inclusive">1940-1941</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">132</container>
+                                <unittitle>Executive Board, <unitdate type="inclusive">1942-1942</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">133</container>
+                                <unittitle>Executive Board, <unitdate type="inclusive">1946-1947</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">134</container>
+                                <unittitle>Executive Board, <unitdate type="inclusive">1947-1952</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">135</container>
+                                <unittitle>Field Work Committee Minutes, <unitdate type="inclusive">1942</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">135</container>
+                                <unittitle>Policy, <unitdate type="inclusive">1941</unitdate>
+                                    <unitdate type="inclusive">1947</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">136</container>
+                            <unittitle>The President's War Relief Control Board (formerly the
+                                President’s Committee on War relief Agencies)%ne: correspondence
+                                with Indusco, Indusco Monthly and Quarterly Reports, Monthly Press
+                                Releases, <unitdate type="inclusive">1942-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">137</container>
+                            <unittitle>Printing and stationery rates and samples-Publicity and
+                                Promotion Materials</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><unittitle>Publicity and Promotion Materials</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">137</container>
+                                <unittitle>Anniversary of CIC congratulatory messages -- Films,
+                                    including "A Nation Rebuilds," <unitdate type="inclusive">1940-1946</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">138</container>
+                                <unittitle>Form letters 1940-1952-News/press releases <unitdate type="inclusive">1940-1946</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">139</container>
+                                <unittitle>News/press releases (cont.)-Radio broadcasts <unitdate type="inclusive">1940-1946</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">140</container>
+                                <unittitle>Reports on publicity work 1941-1949-</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">140</container>
+                            <unittitle>Reports on U.S. promotion work <unitdate type="inclusive">1940-1952</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">141</container>
+                            <unittitle>Serials (Indusco, Inc.)</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">141</container>
+                                <unittitle>"Aims in Industries" 1942-Indusco Bulletin <unitdate type="inclusive">1940-1952</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">142</container>
+                                <unittitle>"Northwest Indusco News" <unitdate type="inclusive">1942-1955</unitdate> --</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">142</container>
+                            <unittitle>Staff, Indusco Office: duties, resumes, salaries, insurance,
+                                union memberships, <unitdate type="inclusive">1940-1944</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">143</container>
+                            <unittitle>Staff, <unitdate type="inclusive">1945-1950</unitdate>
+                                --</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">143</container>
+                            <unittitle>U.S. Government agencies</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">144</container>
+                            <unittitle>U.S. Government loans, Indusco proposals for 1940-1941-U.S.
+                                organizations concerned with China</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">144</container>
+                                <unittitle>China aid and study groups (local and special; national),
+                                        <unitdate type="inclusive">1939-1950</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">145</container>
+                                <unittitle>Organizations to affect U.S. Government policies toward
+                                    China -- Research and Discussion Groups --</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><unittitle>U.S. organizations for relief and reconstruction (not
+                                concerned primarily with China)</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">145</container>
+                                <unittitle>American Council of Voluntary Agencies for Foreign
+                                    Service, Inc. New York, <unitdate type="inclusive">1944-1946</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">146</container>
+                                <unittitle>American Red Cross, Washington, D.C,-</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><unittitle>YWCA</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries">
+                    <did><unittitle>Subseries II.C: Techical Materials</unittitle>
+                    </did>
+
+
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries II.C.1: Technical
+                                Materials-Correspondence</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">147</container>
+                                <unittitle>Correspondence of David J. Leacock (Chairman, Technical
+                                    Department, 1941-1944), 1941-Correspondence, Equipment Services
+                                    Division (David King Rothstein, Director)A-F, <unitdate type="inclusive">1946</unitdate> August -1947 January
+                                </unittitle>
+                            </did>
+                        </c>
+
+                        <c level="file">
+                            <did><container type="box" label="Box">148</container>
+                                <unittitle>Equipment Services Division, G-Z</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Sub-subseries II.C.2: Indusco Technical Materials--Subject
+                                Files</unittitle>
+                        </did>
+                       
+                        <c level="file">
+                            <did><container type="box" label="Box">149</container>
+                                <unittitle>General</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">149</container>
+                                <unittitle>Equipment Corporation/Trust, 1944-1945-Mimeographed
+                                    materials: correspondence, reports, China requests, minutes of
+                                    meetings, <unitdate type="inclusive">1943-1945</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">150</container>
+                                <unittitle>Mimeographed Material, <unitdate type="inclusive">1945-1946</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">150</container>
+                                <unittitle>Technical data from China</unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">151</container>
+                                <unittitle>Equipment and supplies for China <unitdate type="inclusive">1940-1952</unitdate>
+                                </unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">151</container>
+                                    <unittitle>Bills of lading 1946-1948-Esser project <unitdate type="inclusive">1946</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">152</container>
+                                    <unittitle>Export license applications 1943-1945-Okinawa
+                                        purchases (U.S. surplus property), <unitdate type="inclusive">1946</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">153</container>
+                                    <unittitle>Purchases for China 1944-1948-Reports on materials
+                                        sent to China: books, equipment, microfilm, <unitdate type="inclusive">1940-1945</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">154</container>
+                                    <unittitle>Reports on Materials sent to China, <unitdate type="inclusive">1946-1948</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">154</container>
+                                    <unittitle>Shipments to China, 195-1949 </unittitle>
+                                </did>
+                                <scopecontent><p>(Premier Shipping Co.)</p>
+                                </scopecontent>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">155</container>
+                                    <unittitle>Shipments to China, <unitdate type="inclusive">1946-1947</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">155</container>
+                                    <unittitle>Suppliers, including invoices <unitdate type="inclusive">1945-1949</unitdate>
+                                    </unittitle>
+                                </did>
+                                <scopecontent><p>(A-P)</p>
+                                </scopecontent>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">156</container>
+                                    <unittitle>Suppliers, including invoices <unitdate type="inclusive">1945-1949</unitdate>
+                                    </unittitle>
+                                </did>
+                                <scopecontent><p>(S-W)</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+                        <c level="file">
+                            <did><unittitle>Technical Data, <unitdate type="inclusive">1941-1944</unitdate>
+                                </unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">156</container>
+                                    <unittitle>Agriculture-Food products and processing</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">157</container>
+                                    <unittitle>Fuels-Industrial equipment and processes</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">158</container>
+                                    <unittitle>Industrial equipment and processes-Medical
+                                        supplies</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">159</container>
+                                    <unittitle>Metal -- Printing</unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">160</container>
+                                    <unittitle>Textiles</unittitle>
+                                </did>
+                            </c>
+                        </c>
+                    </c>
+                </c>
+
+                <c level="subseries">
+                    <did><unittitle>Subseries II.D: Miscellaneous</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="box" label="Box">160</container>
+                            <unittitle>Description and critique of filing system at Indusco, by
+                                Gunther Stein, <unitdate type="inclusive">1946</unitdate> June
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">160</container>
+                            <unittitle>File cards to Indusco collection, loose, prepared by Howard
+                                Linton, East Asian Library, Columbia University; unfinished,
+                                    <unitdate type="inclusive">1966</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">160</container>
+                            <unittitle>Filing Instructions, <unitdate type="inclusive">1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+
+            <c level="series">
+                <did><unittitle>Series III: China Aid Council (CAC): China Materials, <unitdate type="inclusive">1938-1947</unitdate>
+                    </unittitle>
+                </did>
+
+
+                <c level="subseries">
+                    <did><unittitle>Series III.A: Correspondence and Reports of
+                            Individuals</unittitle>
+                    </did>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>&gt;Sub-subseries III.A.1: Correspondence</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">161</container>
+                                <unittitle>Bertram, James 1940-1941-Bethune, Norman <unitdate type="inclusive">1938-1939</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">161</container>
+                                <unittitle>Chen Han-seng 1941-Ma Hai-teh <unitdate type="inclusive">1941-1945</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">161</container>
+                                <unittitle>Mme Sun Yat-sen 1938-1944-Tung Pi-wu <unitdate type="inclusive">1944</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="otherlevel" otherlevel="sub-subseries">
+                        <did><unittitle>Subseries III.A.2: CAC Mimeographed Letters and Reports from
+                                China</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">162</container>
+                                <unittitle>Nora Hsiung Chu, National Association for Refugee
+                                    Children <unitdate type="inclusive">1943-1945</unitdate> T’ao
+                                    Hsing-chih's Yu Ts'ai School,Chungking, <unitdate type="inclusive">1943-1945</unitdate> À Dr. and Mrs.
+                                    Ernest Osbome <unitdate type="inclusive">1946-1947</unitdate>
+                                    Mildred Price <unitdate type="inclusive">1946</unitdate> and Dr.
+                                    W. Carson Ryan 1945-1946.</unittitle>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+
+
+                <c level="subseries">
+                    <did><unittitle>Subseries III.B: CAC Subject File</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="box" label="Box">163</container>
+                            <unittitle>China Aid Council 1938-1949-International Peace Hospitals,
+                                Reports and data <unitdate type="inclusive">1941-1944</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+
+                    <c level="subseries">
+                        <did><container type="box" label="Box">163</container>
+                            <unittitle>Subseries III.C : CAC Photographs of Persons and
+                                Activities</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><unittitle>Canton Children's Center, one album</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">163</container>
+                            <unittitle>Yu Ts'ai School for Gifted Children of Tsao
+                                Hsing-chih</unittitle>
+                        </did>
+                    </c>
+
+                </c>
+            </c>
+
+            <c level="series">
+                <did><unittitle>Series IV: United China Relief (UCR)/ United Service to China (USC):
+                        U.S. Materials, <unitdate type="inclusive">1940-1950</unitdate>
+                    </unittitle>
+                </did>
+
+
+                <c level="subseries">
+                    <did><unittitle>Subseries IV.A: Correspondence</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="box" label="Box">164</container>
+                            <unittitle>Earnett, Eugene E. Chairman, Committee on Nominations
+                                1942-1944-Garside, B.A. UCR/USC Vice Pres. and Secretary, <unitdate type="inclusive">1940-1944</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">165</container>
+                            <unittitle><unitdate type="inclusive">1945-1946</unitdate> 1950-Rhodes,
+                                Peter Publicity <unitdate type="inclusive">1941</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">166</container>
+                            <unittitle>Sweet, Lenning Director, Program Committee 1942-1946-Mrs.
+                                Lennig Sweet, <unitdate type="inclusive">1941</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+
+                <c level="subseries">
+                    <did><unittitle>Subseries IV.A: Subject Files</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="box" label="Box">167</container>
+                            <unittitle> Appeals, 1942-Program Committee, <unitdate type="inclusive">1942-1946</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">168</container>
+                            <unittitle>Finances</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">168</container>
+                                <unittitle>Allocations, <unitdate type="inclusive">1941</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">168</container>
+                                <unittitle>Indusco Budget, <unitdate type="inclusive">1941-1948</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><container type="box" label="Box">169</container>
+                                <unittitle>Indusco contributors list, monthly <unitdate type="inclusive">1941-1942</unitdate>
+                                    <unitdate type="inclusive">1945</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">169</container>
+                            <unittitle>Medicine and Public Health in China, conference</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">170</container>
+                            <unittitle>Minutes of Meetings</unittitle>
+                        </did>
+                        <c level="file">
+                            <did><container type="box" label="Box">170</container>
+                                <unittitle>Agency Representatives meetings, <unitdate type="inclusive">1945</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                        <c level="file">
+                            <did><unittitle>Committees</unittitle>
+                            </did>
+                            <c level="file">
+                                <did><container type="box" label="Box">170</container>
+                                    <unittitle>American Activities Committee, <unitdate type="inclusive">1945</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">170</container>
+                                    <unittitle>Joint Committee of the Coordinating Committee,
+                                            <unitdate type="inclusive">1941</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">171</container>
+                                    <unittitle>Executive Staff Meeting, <unitdate type="inclusive">1941</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">171</container>
+                                    <unittitle>Program Committee, <unitdate type="inclusive">1942-1944</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">172</container>
+                                    <unittitle>Program Committee, <unitdate type="inclusive">1945-1946</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">173</container>
+                                    <unittitle>Program Committee, <unitdate type="inclusive">1947-1949</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">173</container>
+                                    <unittitle>Executive Committee (Executive Board), <unitdate type="inclusive">1942-1945</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                            <c level="file">
+                                <did><container type="box" label="Box">174</container>
+                                    <unittitle>Executive Committee, <unitdate type="inclusive">1946-1949</unitdate>
+                                    </unittitle>
+                                </did>
+                            </c>
+                        </c>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">174</container>
+                            <unittitle>Publicity, <unitdate type="inclusive">1940-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">175</container>
+                            <unittitle>Reorganisation plan 1945-""Why every American should help
+                                China--Generously and Now", <unitdate type="inclusive">1941</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series V: Oversized Items</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="box"> Flat Box </container>
+                        <unittitle>Reprints, magazine articles, unpublished articles, <unitdate type="inclusive">1939-1949</unitdate> arranged and listed
+                            alphabetically by author. One loose-leaf scrapbook. </unittitle>
+                    </did>
+                    <scopecontent><p>(See I.A,3, I.B.3)</p>
+                    </scopecontent>
+                </c>
+                <c level="file">
+                    <did><container type="box"> Flat Box </container>
+                        <unittitle>Newspaper and magazine clippings on CIC, <unitdate type="inclusive">1939-1948</unitdate> chiefly from the Unites
+                            States, also from China, Hongkong, the Philippines, Canada, and Mexico.
+                            Two scrapbook volumes.</unittitle>
+                    </did>
+                    <scopecontent><p>(See I.B.2, 1.3.3)</p>
+                    </scopecontent>
+                </c>
+                <c level="file">
+                    <did><container type="box"> Flat Box </container>
+                        <unittitle>CIC product labels, announcements, insignia, sample invoices,
+                            display and promotional materials, in Chinese and English, 1939-1950.
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>(See I.B.3)</p>
+                    </scopecontent>
+                </c>
+                <c level="file">
+                    <did><container type="box"> Flat Box </container>
+                        <unittitle>Photographs </unittitle>
+                    </did>
+                    <scopecontent><p>(See I.B.4.. Includes: One scrapbook on Bailie Schools. General
+                            photographs arranged by subject, Mounted photographs by Ayscough,
+                            Florence--40 enlarged photographs with captions not related to CIC, and
+                            several hundred mounted photographs of CIC activities, with captions,
+                            for exhibit purposes. Most are enlargements of photographs in I.B.4)</p>
+                    </scopecontent>
+                </c>
+                <c level="file">
+                    <did><container type="box"> Flat Box </container>
+                        <unittitle>Posters</unittitle>
+                    </did>
+                    <scopecontent><p>Set of thirteen original display posters, each bearing a textile sample,
+                            photographs, and captions, representing the different stages of blanket
+                            production from wool selection and processing through the collection of
+                            the finished product by the army, (See I.B.4) b. Two oversized design
+                            books for textiles, produced and published by the CIG Institute,
+                            Ghengtu, 1944. See I.B.I Institute for GIG, Textiles)</p>
+                    </scopecontent>
+                </c>
+                <c level="file">
+                    <did><container type="box"> Flat Box </container>
+                        <unittitle>Art work </unittitle>
+                    </did>
+                    <scopecontent><p>( includes 19 original brush-and-ink drawings by Jack Chan produced to
+                            resist Japanese aggression, support CIC. These drawings were first
+                            reproduced in The China Weekly Review and later appeared in two booklet
+                            editions published in Hongkong and New York. Also includes Shantan
+                            Bailie School student art work)</p>
+                    </scopecontent>
+                </c>
+                <c level="file">
+                    <did><container type="box"> Flat Box </container>
+                        <unittitle>Daily Record of Cash Received, <unitdate type="inclusive">November 28, 1940</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>(See II.B Finances.)</p>
+                    </scopecontent>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series VI: Miscellaneous Correspondence and Other Files</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="box" label="Box">176</container>
+                        <unittitle>Rewi Alley</unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="box" label="Box">177</container>
+                        <unittitle>Hugh Deane: Correspondence, memos, minutes, printed materials,
+                                <unitdate type="inclusive">1939-1943</unitdate>
+                            <unitdate type="inclusive">1980-1985</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>(includes files on revival of CIC in 1980s)</p>
+                    </scopecontent>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series VII: Photographs and Slides</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="box" label="Box">178-179</container>
+                        <unittitle>Negative Files, 2 card file boxes and Slide Show with commentary
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>(commentary for the slide show available in the repository)</p>
+                    </scopecontent>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series VIII: Elizabeth Schiffman Files</unittitle>
+                </did>
+                <c level="file">
+                    <did><unittitle>Publications</unittitle>
+                    </did>
+                    <c level="file">
+                        <did><container type="box" label="Box">180</container>
+                            <unittitle>General Publications</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">180</container>
+                            <unittitle>Indusco Publications</unittitle>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">180</container>
+                            <unittitle>Indusco Bulletin, <unitdate type="inclusive">1942-1950</unitdate>
+                            </unittitle>
+                            <physdesc><extent>(2 folders)</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">181</container>
+                            <unittitle>Publications and Articles </unittitle>
+                            <physdesc><extent>(3 folders)</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent><p>(Articles written by or about Indusco in magazines and journals)</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">181</container>
+                            <unittitle>Newsletters</unittitle>
+                        </did>
+                    </c>
+                </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">181</container>
+                            <unittitle>Elizabeth Schiffman Files, <unitdate type="inclusive">1942-1946</unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent><p>(Primarily material related to the Publicity Committee, including
+                                reports, memos, and correspondence)</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file">
+                        <did><container type="box" label="Box">181</container>
+                            <unittitle>Photographs</unittitle>
+                        </did>
+                    </c>
+                </c>
+           
+
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079084_ead//EN" mainagencycode="nnc-rb">ldpd_4079084_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the William Mason Autographs of Musicians</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-16">2010-02-16</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Mason, William, 1829-1908, collector.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="William Mason - Autographs of Musicians">William Mason Autographs of Musicians,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1830/1906" type="inclusive">1830-1906</unitdate>
+         <physdesc><extent encodinganalog="300">103 items (1 v.)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079084</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Pianist, teacher, and musical theoretician.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This collection of autographed inscriptions and letters from noted 19th century musicians was assembled by Mason. The material includes the signatures of 85 composer, performers, and other musical people, most of whom were Dr. Mason's contemporaries and personal friends. There are 103 items the majority of which are bits of music in script with signatures, and a few autograph letters to Mason. Among those represented are Berlioz, Jenny Lind, Franz Liszt, MacDowell, Paderewski, Rubinstein, Saint-Saens, Samaroff, and the Schumanns.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 1 series:</p>
+         <p><list type="marked">
+               <item>X780. M38. Folio</item>
+              </list>
+         </p>
+      </arrangement>
+            <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Berlioz, Hector, 1803-1869.</persname>
+         <persname encodinganalog="600">Lind, Jenny, 1820-1887.</persname>
+         <persname encodinganalog="600">Liszt, Franz, 1811-1886.</persname>
+         <persname encodinganalog="600">MacDowell, Edward, 1860-1908.</persname>
+         <persname encodinganalog="600">Paderewski, Ignace Jan, 1860-1941.</persname>
+         <persname encodinganalog="600">Rubinstein, Anton, 1829-1894.</persname>
+         <persname encodinganalog="600">Saint-Saëns, Camille, 1835-1921.</persname>
+         <persname encodinganalog="600">Samaroff Stokowski, Olga, 1882-1948.</persname>
+         <persname encodinganalog="600">Schumann, Robert, 1810-1856.</persname>
+         <persname encodinganalog="600">Schumann, Clara, 1819-1896.</persname>
+         <subject encodinganalog="650">Musicians.</subject>
+         <subject encodinganalog="650">Composers.</subject>
+         <subject encodinganalog="650">Music theory.</subject>
+         <genreform encodinganalog="655" source="ftamc">Autographs.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Pianists.</occupation>
+            </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+         <p>This collection is located on-site.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>Van Sindern, Mina Mason Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); William Mason Autographs of Musicians; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Van Sindern, Mina Mason Cataloged 08/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>X780. M38. Folio</unittitle>
+                </did>
+                <scopecontent><p>Available on microfilm.  
+      Signed "William Mason, Orange, N.J., Nov. 15, 1883" on page 1.  
+      Book is paginated 1-101</p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Folder" label="Page">2</container>
+                        <unittitle>Ander, Alios Heidenroslein,   <unitdate>3 May 1851</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page score)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">3</container>
+                        <unittitle>Aus der Ohe, Adele Score, New York, <unitdate>May 1897</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">4</container>
+                        <unittitle>Bachmann, Caroline Listesfotempo</unittitle>
+                        <physdesc>(1 page score)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">5</container>
+                        <unittitle>Benedict, Julius Score, London, <unitdate>30 May 1853</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">6</container>
+                        <unittitle>Berlioz, Hector Score,   <unitdate>[April or May 1854]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">7</container>
+                        <unittitle>Brandeis, Johann Note, Prague, <unitdate>20 May 1851</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                    <scopecontent><p>[Includes portrait]</p>
+                    </scopecontent>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">8</container>
+                        <unittitle>Brockway, Howard Score, New York, <unitdate>20 October 1899</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">9</container>
+                        <unittitle>Brodsky, Adolf Score, New York, <unitdate>22 February 1892</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">10</container>
+                        <unittitle>Buck, Dudley Signarure, [n.p.], <unitdate>13 February 1894</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">11</container>
+                        <unittitle>Bull, Ole Bornemann  Signature, Astor House New York, <unitdate>19 November 1845</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page (fragment))</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">12</container>
+                        <unittitle>Bulow, Hans von To William Mason, Boston, <unitdate>21 October 1875</unitdate>
+                        </unittitle>
+                        <physdesc>(2 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">13</container>
+                        <unittitle>Cossmann, Bernhard The Spleen, New York, <unitdate>26 May 1876</unitdate>
+                        </unittitle>
+                        <physdesc>(2 page score)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">14</container>
+                        <unittitle>Carreno, Teresa, 1853-1917 Score and note, New York, <unitdate>1897</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">15</container>
+                        <unittitle>Drevschock, Alexander and Raimund Score and note, Prague and Leipzig, <unitdate>1851 and 1856</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">16</container>
+                        <unittitle>Essipoff, Annette Score and note, New York, <unitdate>18 May 1877</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">17</container>
+                        <unittitle>Friedheim, Arthur Maestoso Trionfante, New York, <unitdate>20 December 1894</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page score, with note)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">18</container>
+                        <unittitle>Gabrilowitsch, Ossip Minuet, New York, <unitdate>11 November 1900</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page score, with note)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">19</container>
+                        <unittitle>Godowsky, Leopold Moto Perpetuo, [n.p.], <unitdate>7 March 1899</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page score, with note)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">20</container>
+                        <unittitle>Goldbeck, Robert Fragment of letter, St. Louis, <unitdate>11 June 1883</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">21</container>
+                        <unittitle>Gottschalk, Louis Moreau To William Mason, [New York], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">22</container>
+                        <unittitle>Gridley, C. E. To William Mason, Hamburg, <unitdate>5 August 1849</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">23</container>
+                        <unittitle>Grieg, Edvard Score, [Bergen Norway], <unitdate>[1 July 1890]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">24</container>
+                        <unittitle>Haberbier, Ernst Score, London, <unitdate>30 May 1853</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page )</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">25</container>
+                        <unittitle>Hauptmann, Moritz Score, with note, Leipzig, <unitdate>1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page )</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">26</container>
+                        <unittitle>Huss, Henry Holden Score, with letter, [n.p.], <unitdate>27 March 1875</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">27</container>
+                        <unittitle>Joachim, Joseph Score, Leipzig, <unitdate>29 June 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">28</container>
+                        <unittitle>Joseffy, Rafael Score, with note, New York, <unitdate>August 1889</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">29</container>
+                        <unittitle>Klindworth, Carl Score, with note, Germany, <unitdate>9 February 1854</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">30</container>
+                        <unittitle>Kneisel Quartet Note with drawing, New York, <unitdate>4 April 1899</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">31</container>
+                        <unittitle>Kubelik, Jan Mendelssohn,   <unitdate>1901</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page score, with note)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">32</container>
+                        <unittitle>Laub, Ferdinand To Mr. Ella[?], [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(2 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">33</container>
+                        <unittitle>Laub, Ferdinand Etude, Austria, <unitdate>15 June 1853</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page score)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Folder">Pages 34 &amp; 35</container>
+                        <unittitle>Leschetizky, Theodor To William Mason, Austria, <unitdate>9 May 1897</unitdate>
+                        </unittitle>
+                        <physdesc>(4 page a.l.s.)</physdesc>
+                    </did>
+                    <scopecontent><p>[Page 35 contains a typed (carbon) transcription of the a.l.s.]</p>
+                    </scopecontent>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">36</container>
+                        <unittitle>Lind, Jenny [To George Webb], New York, <unitdate>17 September 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(2 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Folder">Pages 37 - 45</container>
+                        <unittitle>Liszt, Franz To William Mason, [v.p.], <unitdate>19 August 1849 - 23 March 1880</unitdate>
+                        </unittitle>
+                        <physdesc>(7 a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">46</container>
+                        <unittitle>Liszt, Franz Score, [n.p.], <unitdate>28 August 1849</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">47</container>
+                        <unittitle>Handel E minor Fugue, Austria, <unitdate>[ca. 1850]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page printed score)</physdesc>
+                    </did>
+                    <scopecontent><p>[Pencil marks by Listz]</p>
+                    </scopecontent>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">48</container>
+                        <unittitle>MacDowell, Edward Score, with note, [n.p.], <unitdate>13 December 1894</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">49</container>
+                        <unittitle>Rosenberg, C. Portrait of Mary Webb Mason [wife of William Mason], [n.p.], <unitdate>1 March 1860</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">50</container>
+                        <unittitle>Mayer, Carl Score, Hamburg, <unitdate>25 January 1849</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">51</container>
+                        <unittitle>Mills, Sebastian Bach Score, [n.p.], <unitdate>20 May 1873</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">52</container>
+                        <unittitle>Moor, Emanuel Score, New York, <unitdate>14 September </unitdate>
+                        </unittitle>
+                        <physdesc>()</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">52r</container>
+                        <unittitle>Szumowska, Antoinette  Chopin Nocturne, New York, <unitdate>19 May 1895</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">53</container>
+                        <unittitle>Fontaine, Mortier de Fugue, Hambourg, <unitdate>28 July 1859</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">54</container>
+                        <unittitle>Moscheles, Ignaz [To William Mason], Leipzig, <unitdate>22 May 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(2 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">55</container>
+                        <unittitle>Moscheles, Ignaz Exercise, Leipzig, <unitdate>8 February 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page score)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">56</container>
+                        <unittitle>Moscheles, Ignaz [To William Mason], [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page a.n.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">57</container>
+                        <unittitle>Paderewski, Ignaz Score, New York, <unitdate>21 December 1891</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page )</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">57r</container>
+                        <unittitle>Dohnanyi, Ernst von Score, New York, <unitdate>12 April 1900</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page )</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">58</container>
+                        <unittitle>Paine, John Knowles Score, with note, Appledore NH, <unitdate>August 1855</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page )</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">59</container>
+                        <unittitle>Paur, Emil Score, with note, New York, <unitdate>[1897?]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page )</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">60</container>
+                        <unittitle>Pruckner, Dionys Score, Weimar, <unitdate>26 June [n.y.]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page )</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">61</container>
+                        <unittitle>Raff, Joachim Transcription for piano, Weimar, <unitdate>25 June 1854</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page )</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">62</container>
+                        <unittitle>Raff, Joachim [To William Mason], Frankfurt, <unitdate>16 January 1880</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">63</container>
+                        <unittitle>Rea, William Score, Leipzig, <unitdate>11 January 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">63r</container>
+                        <unittitle>Hauptmanns, Moritz Engraved portrait, Leipzig, <unitdate>31 December 1868</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">64</container>
+                        <unittitle>Reissiger, Karl Gottlieb Score, Dresden, <unitdate>4 May 1850</unitdate>
+                        </unittitle>
+                        <physdesc>()</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">65</container>
+                        <unittitle>Remenyi, Eduard Score, with note, New York, <unitdate>3 January 1895</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">66</container>
+                        <unittitle>Richter, Ernst Friedrich Score, Leipzig, <unitdate>14 May 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">67</container>
+                        <unittitle>Rubinstein, Anton Score, Weimar, <unitdate>5 June 1854</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">68</container>
+                        <unittitle>Safonoff, Vassily Quote, with note, [n.p.], <unitdate>31 January 1906</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">69</container>
+                        <unittitle>Samaroff, Olga Note, [n.p.], <unitdate>9 March 1906</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">70</container>
+                        <unittitle>Saint-Saens, Camille To Randolph Brodsky, Paris, <unitdate>27 February 1889</unitdate>
+                        </unittitle>
+                        <physdesc>(2 page a.l.s., 1 visiting card)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">71</container>
+                        <unittitle>Schindler, Anton Score, Frankfurt, <unitdate>30 September 1852</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">72</container>
+                        <unittitle>Schneider, Johann Score, Dresden, <unitdate>3 May 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Folder">Pages 73 &amp; 73r</container>
+                        <unittitle>Schnyder von Wartensee, Xaver Score, with note, [n.p.], <unitdate>1853</unitdate>
+                        </unittitle>
+                        <physdesc>(2 pages)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">74</container>
+                        <unittitle>Schulhoff, Jules Scherzo, Prague, <unitdate>26 Septmeber 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page score)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">75</container>
+                        <unittitle>Schumann, Clara Score, Dresden, <unitdate>30 April 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">76</container>
+                        <unittitle>Schumann, Robert Score, Dresden, <unitdate>29 April 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">77</container>
+                        <unittitle>Sembrich, Marcella Marriage of Figgaro, [n.p.], <unitdate>7 October 1915</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page score fragment)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">78</container>
+                        <unittitle>Siloti, Alexander Score fragment, with note, New York, <unitdate>22 March 1898</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">78r</container>
+                        <unittitle>Hambourg, Mark Note with score fragment, [n.p.], <unitdate>23 November 1899</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">79</container>
+                        <unittitle>Sivori, Camillo Score, Boston, <unitdate>13 November 1846</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">80</container>
+                        <unittitle>Slivinski, Joseph Score, New York, <unitdate>20 April 1899</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">81</container>
+                        <unittitle>Sontag, Henriette Score, Munchen, <unitdate>22 May 1852</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">82</container>
+                        <unittitle>Stavenhagen, Bernhard Score, with note, New York, <unitdate>1 May 1895</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">83</container>
+                        <unittitle>Sternberg, Constantin I.E. von Score, with note, New York , <unitdate>15 June 1897</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">84</container>
+                        <unittitle>Sudlatzek, Mary Score, with note,   <unitdate>29 July 1851</unitdate>
+                        </unittitle>
+                        <physdesc>( 1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Folder">Pages 85 &amp; 85r</container>
+                        <unittitle>Sudlatzek, Theresa To William Mason,   <unitdate>29 July 1851</unitdate>
+                        </unittitle>
+                        <physdesc>(2 page  a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">86</container>
+                        <unittitle>Tchaikovsky, Piotr Ilyich  To Brodsky, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">87</container>
+                        <unittitle>Berlioz, Hector Photograph and etching of, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">87r</container>
+                        <unittitle>Vieuxtemps, Henri Score, Weimar, <unitdate>19 April 1854</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">88</container>
+                        <unittitle>Thomas, Christian Friedrich Theodore (1835-1905) To Willaim Mason, New York, <unitdate>12 March 1881</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page a.l.s.)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">89</container>
+                        <unittitle>Fiske, John and Celia Thaxter Drawing and Greek quote, Isle of Sholas, <unitdate>4 September 1887 &amp; 28 July 1888</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">90</container>
+                        <unittitle>Thalberg, Sigismond Score, with note, [n.p.], <unitdate>21 October 1856</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">91</container>
+                        <unittitle>Wagner, Richard Score, with note, Zurich, <unitdate>5 June 1852</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">92</container>
+                        <unittitle>Whiting, Arthur Score, with note, New York, <unitdate>5 March 1895</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">93</container>
+                        <unittitle>Wilhelmj, August Score, with note, New York, <unitdate>26 November 1878</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">94</container>
+                        <unittitle>Willmers, Rudolph La Pompa di Festa, Vienna, <unitdate>14 August 1850</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">95</container>
+                        <unittitle>Wolf, Carl Maria Score, Berlin, <unitdate>6 April 1852</unitdate>
+                        </unittitle>
+                        <physdesc>(1 page)</physdesc>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Folder" label="Page">101</container>
+                        <unittitle>Mason, William Autographs from Album which are especially interesting to me in the "Book of 'Memories' etc.", New York, <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(3 page a.ms. list)</physdesc>
+                    </did>
+                </c>
+            </c>
+      
+      
+   
+      </dsc>
+   </archdesc>
+</ead>

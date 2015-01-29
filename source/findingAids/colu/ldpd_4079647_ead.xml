@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://soren.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079647_ead//EN" mainagencycode="nnc-rb">ldpd_4079647_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Erik Barnouw Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-07-07">July 7, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2009-07-07">July 7, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-07-07">2009-07-07</date>
+            <item>File created.</item>
+         </change>
+         <change><date normal="2012-03-28">2012-03-28</date>
+            <item>XML document instance created by Catherine C. Ricciardi</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Barnouw, Erik, 1908-2001.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Erik Barnouw Papers">Erik Barnouw Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1920/1990" type="inclusive">1920-1990.</unitdate>
+         <physdesc><extent encodinganalog="300">21 linear ft. (ca.2,200 items in 46 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079647</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Professor of Dramatic Arts at Columbia University, author, and
+            editor.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Correspondence, scripts, manuscripts, and reports regarding his activities in the
+            American radio and film industries. Included are papers regarding projects for the
+            United State Government, the Indian film industry, various television and radio
+            networks, and private ventures. Also included is material regarding the Center for Mass
+            Communications of Columbia University, in which Barnouw figured prominently and files
+            for the books he has written.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Selected materials cataloged; remainder arranged. Box 1-1A: Cataloged correspondence;
+            Boxes 1B-29: 1974 gift; Box 30: 1979 gift; Box 31-37: 1984 gift; Box 38: 1985 &amp;
+            1992 gifts; Boxes 39-40: 1993 gift; Boxes 41-46 Addition (Unprocessed).</p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University.--Press.--Center for Mass Communication.</corpname>
+         <persname encodinganalog="600">Albert, Eddie.</persname>
+         <persname encodinganalog="600">Alperovitz, Gar.</persname>
+         <persname encodinganalog="600">Auden, W. H. (Wystan Hugh), 1907-1973.</persname>
+         <persname encodinganalog="600">Baldwin, Roger N. (Roger Nash), 1884-1981.</persname>
+         <persname encodinganalog="600">Bergman, Ingrid, 1915-1982.</persname>
+         <persname encodinganalog="600">Bernays, Edward L., 1891-1995.</persname>
+         <persname encodinganalog="600">Bertelli, Gian Carlo.</persname>
+         <persname encodinganalog="600">Braudy, Leo.</persname>
+         <persname encodinganalog="600">Buck, Pearl S. (Pearl Sydenstricker), 1892-1973.</persname>
+         <persname encodinganalog="600">Chayefsky, Paddy, 1923-1981.</persname>
+         <persname encodinganalog="600">Cooney, Joan Ganz.</persname>
+         <persname encodinganalog="600">Corwin, Norman, 1910-</persname>
+         <persname encodinganalog="600">Denison, Merrill, 1893-1975.</persname>
+         <persname encodinganalog="600">Douglas, William O. (William Orville), 1898-1980.</persname>
+         <persname encodinganalog="600">Flaherty, Frances Hubbard.</persname>
+         <persname encodinganalog="600">Flaherty, Robert Joseph, 1884-1951.</persname>
+         <persname encodinganalog="600">Fontanne, Lynn.</persname>
+         <persname encodinganalog="600">Friendley, Fred W.</persname>
+         <persname encodinganalog="600">Graff, Henry F. (Henry Franklin), 1921-</persname>
+         <persname encodinganalog="600">Horgan, Paul, 1903-1995.</persname>
+         <persname encodinganalog="600">Iwasaki, Akira, 1903-</persname>
+         <persname encodinganalog="600">Jessup, Philip C. (Philip Caryl), 1897-1986.</persname>
+         <persname encodinganalog="600">Kagan, Norman.</persname>
+         <persname encodinganalog="600">Krishnaswamy, Subranmanyam.</persname>
+         <persname encodinganalog="600">Laflin, Louis Ellsworth, 1898-</persname>
+         <persname encodinganalog="600">Lasker, Mary.</persname>
+         <persname encodinganalog="600">Leyda, Jay, 1910-1988.</persname>
+         <persname encodinganalog="600">Lorenz, Pare.</persname>
+         <persname encodinganalog="600">Lurtsema, Robert J.</persname>
+         <persname encodinganalog="600">MacLeish, Archibald, 1892-1982.</persname>
+         <persname encodinganalog="600">Malamud, Bernard.</persname>
+         <persname encodinganalog="600">Manvell, Roger, 1909-1987.</persname>
+         <persname encodinganalog="600">Mareth, Paul D.</persname>
+         <persname encodinganalog="600">Medina, Harold R. (Harold Raymond), 1888-1990.</persname>
+         <persname encodinganalog="600">Mekas, Jonas, 1922-</persname>
+         <persname encodinganalog="600">Merriam, Eve, 1916-1992.</persname>
+         <persname encodinganalog="600">Merton, Robert King, 1910-2003.</persname>
+         <persname encodinganalog="600">Nash, Ogden, 1902-1971.</persname>
+         <persname encodinganalog="600">Olivier, Laurence, 1907-1989.</persname>
+         <persname encodinganalog="600">Postman, Neil.</persname>
+         <persname encodinganalog="600">Ray, Satyajit, 1921-1992.</persname>
+         <persname encodinganalog="600">Riefenstahl, Leni.</persname>
+         <persname encodinganalog="600">Robeson, Eslanda Goode, 1896-1965.</persname>
+         <persname encodinganalog="600">Roud, Richard.</persname>
+         <persname encodinganalog="600">Rubbo, Michael.</persname>
+         <persname encodinganalog="600">Solomon, Rosalind.</persname>
+         <persname encodinganalog="600">Stirling, Nora B., 1900-</persname>
+         <persname encodinganalog="600">Stone, Idella Purnell, 1901-</persname>
+         <persname encodinganalog="600">Suid, Lawrence H.</persname>
+         <persname encodinganalog="600">Swing, Raymond, 1887-1968.</persname>
+         <persname encodinganalog="600">Thant, U, 1909-1974.</persname>
+         <persname encodinganalog="600">Thapar, Raj.</persname>
+         <persname encodinganalog="600">Thapar, Romesh.</persname>
+         <persname encodinganalog="600">Thomson, Virgil, 1896-1989.</persname>
+         <persname encodinganalog="600">Van Dyke, Willard.</persname>
+         <persname encodinganalog="600">Wilkins, Roy, 1901-1981.</persname>
+         <persname encodinganalog="600">Wright, Basil.</persname>
+         <subject encodinganalog="650">Motion picture industry--India.</subject>
+         <subject encodinganalog="650">Motion picture industry--United States.</subject>
+         <subject encodinganalog="650">Documentary films.</subject>
+         <subject encodinganalog="650">Radio.</subject>
+         <subject encodinganalog="650">Television.</subject>
+         <genreform encodinganalog="655" source="ftamc">Articles.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Interviews.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Lectures.</genreform>
+         <genreform encodinganalog="655" source="aat">Proofs.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Scripts.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Editors.</occupation>
+         <occupation encodinganalog="656" source="dot">Professors.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>04/08/74 M-74-04-08 Barnouw, Erik Gift </p>
+         <p>11/04/92 M-92-11-04 Papers Barnouw, Erik Gift </p>
+         <p>M-93-01-28 Papers Barnouw, Erik Gift</p>
+      </acqinfo>
+      <altformavail encodinganalog="530">
+         <head>Alternate Formats</head>
+         <p>Peal S. Buck's letter is also available on microfilm. </p>
+         <p>W.H. Auden letters are also available on microfilm.</p>
+      </altformavail>
+      <custodhist encodinganalog="561">
+         <p>Gift of Erik Barnouw, 1974, 1979, 1984, 1985, 1992, &amp; 1993.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Erik Barnouw papers; Box and Folder;
+            Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: Boxes 1B, 2-46. You will need to request this
+            material from the Rare Book and Manuscript Library at least twenty-four (24) hours in
+            advance to use the collection in the Rare Book and Manuscript Library reading room.</p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Processed 04/--/85 HR </p>
+         <p>Papers Processed 01/28/93 HR </p>
+         <p>Papers Processed 01/29/93 HR</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <otherfindaid encodinganalog="555">
+         <p>Finding aid in repository. </p>
+      </otherfindaid>
+      <dsc><c level="series">
+            <did><unittitle>Series I. Cataloged Correspondence</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Albert, Eddie</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Alperovitz, Gar</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Auden, W. H.</unittitle>
+               </did>
+               <altformavail><p> (Correspondence is also available on microfilm# 91-2095) </p>
+                    </altformavail>
+               
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Baldwin, Roger N.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Bergman, Ingrid</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Bernays, Edward L.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Bertelli, Gian Carlo</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Braudy, Leo</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Buck, Pearl S.</unittitle>
+               </did>
+               <altformavail><p> (Correspondence is also available on microfilm# 91-2094-2) </p>
+                    </altformavail>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Chayefsky, Paddy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Cooney, Joan Ganz</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Corwin, Norman</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Denison, Merrill</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Douglas, William 0.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Flaherty, Frances H</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Fontanne, Lynne</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Friendley, Fred W.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Graff, Henry F.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Horgan, Paul</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1</container>
+                  <unittitle>Hughes, Harcher</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Iwasaki, Akira</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Jessup, Philip C.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Kagan, Norman</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Kirkus, Virginia</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Krishnaswamy, S.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Laflin, Louis E.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Lasker, Mary</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Leyda, Jay</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Lorentz, Pare</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Lurtsema, Robert J.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>MacLeish, Archibald</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Malamud, Bernard</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Manvell, Roger</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Mareth, Paul D.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Medina, Harold R.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Mekas, Jonas</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Merriam, Eve</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Merton, Robert</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Nash, Ogden</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Olivier, Laurence</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Postman, Neil</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Ray, Satyajit</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Riefenstahl, Leni</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Robeson, Eslands G.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Roud, Rlchard</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Rubbo, Michael</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Shaw, Sir Run Run</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Solomon, Rosalind</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Stirling, Nora B.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Stone, Idella P.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Suid, Lawrence H.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Swing, Raymond</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Thant, U</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Thapar, Romesh &amp; Raj</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Thomson, Virgil</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Turteltaub, Saul</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Van Dyke, Willard</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Wilkins, Roy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1A</container>
+                  <unittitle>Wright, Basil</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series II. <unitdate>1974</unitdate> Gift</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">1B</container>
+                  <unittitle>U.S. War Department Materials</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">1B</container>
+                  <unittitle>Indian Film Industry</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">2-5</container>
+                  <unittitle>Constitutional Law Series (NET)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">6-9</container>
+                  <unittitle>Theatre Guild Scripts (radio and television)</unittitle>
+               </did>
+               <scopecontent><p> (Theatre Guild on the Air, radio, sponsored by U.S. Steel U.S. Steel Hour,
+                     television, produced by Theatre Guild) </p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">10-11</container>
+                  <unittitle>Public Health and Welfare Projects</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">12</container>
+                  <unittitle>Radio scripts, <unitdate type="inclusive">1920-1950</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <unittitle>Radio Commentaries</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <unittitle>Miscellaneous Scripts</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">13</container>
+                  <unittitle>"American Radio: <unitdate>1927</unitdate> A Research Study of One Year
+                     of Radio"</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">14-16</container>
+                  <unittitle>Representative television scripts by various writers,
+                  1940-present</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">17-18</container>
+                  <unittitle>Documentary film scripts and related material from various
+                  countries</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">19-21</container>
+                  <unittitle>Manuscripts and related correspondence regarding Barnouw's three volume
+                     work, History of Broadcasting in the United States</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22-25</container>
+                  <unittitle>Scripts (radio, television, and film) by Barnouw, <unitdate type="inclusive">1930-1960s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">22-25</container>
+                  <unittitle>Center for Mass Communication, Columbia University--Related
+                  Materials</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">26</container>
+                  <unittitle>Books Inscribed to Barnouw</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">27</container>
+                  <unittitle>Documentary: A History of the Non-Fiction Film--Typescript</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">28-29</container>
+                  <unittitle>Tube of Plenty--Typescript and Proofs</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III. <unitdate>1979</unitdate> Gift</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">30</container>
+                  <unittitle>Hiroshima-Nagasaki 1945--Correspondence and material related to the
+                     film</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series III. <unitdate>1984</unitdate> Gift</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">31</container>
+                  <unittitle>Documentary: A History of the Non-Fiction Film (Oxford University
+                     Press, 1984)--Correspondence and other related materials, <unitdate type="inclusive">1970-1983</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">32</container>
+                  <unittitle>Handbook of radio production (Little, Brown &amp; Co.,
+                  1949).</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">32</container>
+                  <unittitle>Handbook of radio writing (Little, Brown &amp; Co.,
+                     1939)--Correspondence &amp; other related materials, <unitdate type="inclusive">1939-1959</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">32</container>
+                  <unittitle>A History of Broadcasting in the United States (Oxford University
+                     Press): A tower in Babel (1966); The golden web (1968); and The image empire
+                     (1970)-- Correspondence &amp; other related materials, <unitdate type="inclusive">1939-1983</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">33</container>
+                  <unittitle>Indian Film, Revised edition by E. Barnouw &amp; S. Krishnaswamy
+                     (Columbia University Press, 1980)--Correspondence, Manuscripts, proofs,
+                     &amp; other related materials, 1977-1982.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Lectures, articles, &amp; interviews, <unitdate type="inclusive">1976-1980</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">34</container>
+                  <unittitle>Library of Congress: Chief of Motion Picture, Broadcasting and Recorded
+                     Sound Division &amp; Various Consultancies--Correspondence &amp; other
+                     related materials, <unitdate type="inclusive">1975-1983</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">35</container>
+                  <unittitle>The Magician and the Cinema (Oxford University Press,
+                     198l)--Correspondence, manuscript, proofs, &amp; other related materials,
+                        <unitdate type="inclusive">1977-1983</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">35</container>
+                  <unittitle>National Educational Television. "Mr. Secretary" &amp; other
+                     proposals. Correspondence, scripts, &amp; other related materials,
+                     1958-1963.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>"Problems of Democracy" (.Center for Mass Communications).
+                     Correspondence, scripts, &amp; other related materials, <unitdate type="inclusive">1960-1961</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Radio Scripts--Correspondence &amp; scripts, <unitdate type="inclusive">1935-1951</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">36</container>
+                  <unittitle>Robert Flaherty Film Seminar (1982)--Correspondence &amp; other
+                     related materials, <unitdate type="inclusive">1981-1982</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>The Sponsor (Oxford University Press, 1978)</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="Box" label="Box">36</container>
+                     <unittitle>Correspondence &amp; Other related materials, <unitdate type="inclusive">1974-1977</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">37</container>
+                     <unittitle>Correspondence, manuscripts, proofs, &amp; other related
+                        materials, <unitdate type="inclusive">1977-1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series V. 1985 and 1992 Gifts</unittitle>
+            </did>
+            <c level="subseries">
+               <did><unittitle>Subseries V.1. 1985 Gift</unittitle>
+               </did>
+               <c level="file">
+                                   <did><container type="Box" label="Box">38</container>
+                     <unittitle>Radio drama in action. (Farrar &amp; Rinehart, 1945)</unittitle>
+                                   </did>                  
+                  <scopecontent><p> ("Includes revealing autobiographical notes by a number of different
+                        writers, most of whom were little known at the time, Manv later became
+                        celebrated in other media, but were, in the early 1940s mainly concerned
+                        with radio...Other contributors to the anthology were writers prominent in
+                        other media but occasionally drawn to radio, especially during World War
+                        II...The anthology was reprinted several times, remaining in print until the
+                        late 1950s and widely used in College and university courses."- Erik
+                        Barnouw) </p>
+                     <p>These are photocopies of original manuscripts held by the State Historical Society
+                     of Wisconsin.</p>
+                  </scopecontent>                  
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>General correspondence, <unitdate>1942,
+                     </unitdate>
+                            <unitdate>1944</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Farrar &amp; Rinehart, publishers, <unitdate type="inclusive">1945-1947</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Foreign editions, royalties, <unitdate>1947</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Benet, Stephen Vincent</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Buck, Pearl S.</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Chevigny, Hector</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Corwin, Norman</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Dryer, Bernard</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Gottlieb, Joseph</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Hughes, Langston</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Kleiner, Harry</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Lampell, Mi Hard</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Laurents, Arthur</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Lawrence, Jimmy</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Lomax, Alan</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Lyon, Peter</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>MacDougall, Ranald</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Marquis, Arnold</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Michael, Sandra</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Miller, Arthur</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Mulvey, Timothy (Father)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Oboler, Arch</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Ottley, Roi</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Robson, William</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Rosten, Norman</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Welles, Orson</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Wishengrad, Morton</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Miscellaneous: Playwrights whose works were omitted. Also, one copy of
+                     the printed book.</unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="subseries">
+            <did><unittitle>Subseries V.2. <unitdate>1992</unitdate> Gift</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="Box" label="Box">38</container>
+                  <unittitle>Miscellaneous correspondence and documents, <unitdate type="inclusive">1927-1989</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+         <c level="series">
+            <did><unittitle>Series VI. <unitdate>1993</unitdate> Gift</unittitle>
+            </did>
+            <c level="file">
+               <did><unittitle>International Encyclopedia of Communications</unittitle>
+               </did>
+               <scopecontent><p> (Per E. Barnouw, these files "are from my personal files as editor-in-chief of
+                     the encyclopedia. The official files are at the Annenberg School of
+                     Communications, University of Pennsylvania. The 4-vol encyclopedia was
+                     published by Oxford University Press in 1989.") </p>
+               </scopecontent>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>Genesis and funding of the project, 1982-83</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>Organization, contracts, progress report, 1983-84</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="Box" label="Box">39</container>
+                     <unittitle>Editorial correspondence, 1985-88</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">39</container>
+                  <unittitle>Hiroshima-Nagasaki <unitdate>1945</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p> (Per E. Barnouw, "Supplementing the original Hiroshima-Nagasaki file, this
+                     file records continuing reactions to the film, 1973-88; the evolution of
+                     various articles about the film in journals; and of the video The Case of the
+                     A-Bomb Footage.") </p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">40</container>
+                  <unittitle>Fable Safe--File on the evolution and history of this controversial
+                     film on the arms race, <unitdate type="inclusive">1972-1989</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">40</container>
+                  <unittitle>US-USSR Projects</unittitle>
+               </did>
+               <scopecontent><p> (Organization and history of (a) the 1989 Glasnost Film Festival tour of USA;
+                     (b) the 1990 Flaherty Film Seminar in Riga, Latvia, and follow-up visits to
+                     USSR documentary studios; and (c) the 1990 USSR tour of the American Showcase
+                     (d) Documents supplementing these, including the final Showcase report) </p>
+               </scopecontent>
+            </c>
+            <c level="file">
+               <did><container type="Box" label="Box">40</container>
+                  <unittitle>Tube of Plenty, <unitdate type="inclusive">1971-1986</unitdate>
+                        </unittitle>
+               </did>
+               <scopecontent><p> (Evolution of the one-volume condensation and updating of the 3-volume History
+                     of Broadcasting in the United States (A Tower in Babel, The Golden Web, and The
+                     Image Empire).) </p>
+               </scopecontent>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079109_ead//EN" mainagencycode="nnc-rb">ldpd_4079109_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Alan Alexander Milne [Letters]</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-06-26">2009-06-26</date>
+            <item>File created.</item>
+            </change>
+         <change><date normal="2012-04-18">2012-04-18</date>
+                <item>EAD created by PTL</item>
+            </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Milne, A. A. (Alan Alexander), 1882-1956.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Alan Alexander Milne [Letters]">Alan Alexander Milne Letters,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1918/1919" type="inclusive">1918-1919.</unitdate>
+         <physdesc><extent encodinganalog="300">17 items (1 box)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079109</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->English novelist and playwright.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Letters of Milne to his agent Curtis Brown, relating largely to Milne's plays, particularly MR. PIM PASSES BY and BROXOPP.</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Brown, Curtis.</persname>
+         <subject encodinganalog="650">English drama.</subject>
+         <subject encodinganalog="650">Literary agents--England.</subject>
+         <occupation encodinganalog="656" source="lcsh">Dramatists, English.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Authors, English.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1973 M-73 Friends of the Library Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>A. A. Milne Letters. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 08/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <dsc><c level="series">
+                <did><unittitle>A. A. Milne Letters</unittitle>
+                </did>
+            <c level="file">
+                    <did><unittitle>Milne, Alan Alexander To Curtis Brown, 1918-1919</unittitle>
+                        <physdesc><extent>(17 autograph letters)</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent><p>"Miss McCarthy wants 'Pim' . . .I want her to do it--she has a nice small theatre which suites me, and particularly Pim . . . I think we should take the opportunity.  As you know, she starts with 'Judith' which I don't give long . . ." ". . . I have been going at this lately.  Du Maurier's one objection to it (as a play) was the character of the Colonel, whom he considered too much of a stage-type.  I have now given Iris a different father, and I think you will find this does away with your own objections to the play . . ." (This reference is to the play 'Broxopp".)  There are a few pencilled notes by Curtis Brown.</p>
+                    </scopecontent>
+                </c>
+            </c>
+   
+   
+      </dsc>
+   </archdesc>
+</ead>

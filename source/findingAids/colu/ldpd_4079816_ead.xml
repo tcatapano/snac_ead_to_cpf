@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079816_ead//EN" mainagencycode="nnc-rb">ldpd_4079816_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Papers of Jan Schilt</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-03-05">2010-03-05</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Schilt, Jan, b. 1894.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Papers of Jan Schilt">Papers of Jan Schilt,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1930/1963" type="inclusive">1931-1963</unitdate>
+         <physdesc><extent encodinganalog="300">23.5 linear ft (ca.13,500 items in 27 boxes).</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079816</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Astronomer and administrator. Schilt was Rutherford Professor Emeritus at Columbia, invented the Schilt photometer, and helped clarify the motions of stars in the Milky Way. He was director of the Yale-Columbia Southern Station in Johannesburg and Canberra, Australia. He served as chairperson of Columbia's department of astronomy from 1936 until 1962.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Collection consists of Schilt's correspondence as chairperson of Columbia's department of astronomy and director of the Yale-Columbia Southern Station as well as the Rutherford Observatory at Columbia. The majority of arranged office files are comprised of memoranda, documents, some departmental correspondence, committee reports, course material including material for student laboratory exercises. Thers is also a small sampling of Schilt's early notes as a student and reports of oo-site testing done under the auspices of the National Science Foundation.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 5 series:</p>
+         <p><list type="marked">
+               <item>Series I: Arranged Correspondence</item>
+               <item>Series II: Committees and Course Materials</item>
+               <item>Series III: Lab Materials</item>
+               <item>Series IV: Early Notes of Schilt</item>
+               <item>Series V: Testing Materials</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">Columbia University.--Observatory.</corpname>
+         <corpname encodinganalog="610">Columbia University.--Dept. of Astronomy.</corpname>
+         <subject encodinganalog="650">Astrometry.</subject>
+         <subject encodinganalog="650">Astronomical observatories.</subject>
+         <subject encodinganalog="650">Astronomical observatories--Administration.</subject>
+         <subject encodinganalog="650">Astronomy.</subject>
+         <subject encodinganalog="650">Astrophysics.</subject>
+         <subject encodinganalog="650">Photometry.</subject>
+         <genreform encodinganalog="655">Documents.</genreform>
+         <genreform encodinganalog="655">Exercises.</genreform>
+         <genreform encodinganalog="655">Memorandums.</genreform>
+         <genreform encodinganalog="655">Notes.</genreform>
+         <genreform encodinganalog="655">Office files.</genreform>
+         <genreform encodinganalog="655">Reports.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Astronomers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College administrators.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection has no restrictions.</p>
+          <p>This collection is located off-site. You will need to request this material at least
+              twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript
+              Library reading room.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>02/23/89 M-89-2-23 astronomy department gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Transfer from department of Physics, 1989</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Jan Schilt Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>processed 10/23/92 JSM</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Arranged Correspondence</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="subseries">
+                    <did><unittitle>Subseries I.1: Chronological</unittitle>
+                    </did>
+                    <scopecontent><p> </p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">01</container>
+                            <container type="Folder" label="Folder">1-4</container>
+                            <unittitle>, <unitdate>1930s</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Secretarial Miscellaneous , <unitdate>before 1963</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">02</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>1930s</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+            <c level="subseries">
+                    <did><unittitle>Subseries I.2: Subject</unittitle>
+                    </did>
+                    <scopecontent><p> </p>
+                    </scopecontent>
+                    <c level="file">
+                        <did><container type="Box" label="Box">03</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>University Executive Council, <unitdate>1942-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">03</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>University Office of Admissions, <unitdate>1941-1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">03</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>University-Public Ceremonies, <unitdate>1943-1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">03</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Watson Laboratory, IBM Machine, <unitdate>1940-1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">03</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Yale-Columbia Southern Station, <unitdate>1951-1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>George Pegram, <unitdate>1940-1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">03</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Yale University Observatory, <unitdate>1953-1962</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">03</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Yale-Columbia Southern Station, <unitdate>1945-1951</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Stromgren, <unitdate>1957-1958</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>N.Y. Academy of Science, <unitdate>1940-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Office of Naval Research (ONR)</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Oort, J.H., <unitdate>1941-1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Neighbor's Society, <unitdate>1937-1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Netherlands Book Committee, <unitdate>1946</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Netherlands Information Bureau, <unitdate>1941-1947</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Netherlands Study Group, <unitdate>1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Netherlands University League, <unitdate>1942-1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>National Science Foundation (N.S.F.), <unitdate>1953-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>A Punched Card Catalogue of Data for the Stars in the Boss General Catalogue</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Mailing list, <unitdate>1961-1962</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">04</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Netherlands Information Bureau, <unitdate>1941-1947</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Struve, Werkes Observatory, <unitdate>1934-1958</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Observatory Uccle, <unitdate>1931-1946</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Schlesinger, <unitdate>1940-1941</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Sydeny Observatory, <unitdate>1953</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>U.S. Naval Observatory, <unitdate>1933-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>University of Brussels, <unitdate>1946</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Osterhoff, P. - Holland, <unitdate>1934-1951</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Polowe, David, <unitdate>1942-1946</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Radcliffe Observatory, <unitdate>1958</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Reuyl, D., <unitdate>1942-1943</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Rosseland, <unitdate>1945-1947</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Royal Observatory, <unitdate>1946-1953</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">13</container>
+                            <unittitle>Royal Observatory, South Africa, <unitdate>1939-1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>D.H. Sadler - Royal Greenwich Observatory, <unitdate>1957-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">15</container>
+                            <unittitle>Schauer, Charles - Research Corporation, <unitdate>1946-1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">16</container>
+                            <unittitle>Prendergast, Kevin, <unitdate>1953-1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">17</container>
+                            <unittitle>Schwarzschild, M., <unitdate>1941-1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">18</container>
+                            <unittitle>Science Journal, <unitdate>1940</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">19</container>
+                            <unittitle>Shapley, Harlow, <unitdate>1940-1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">20</container>
+                            <unittitle>Sky and Telescope (Federer), <unitdate>1942-1947</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">05</container>
+                            <container type="Folder" label="Folder">21</container>
+                            <unittitle>Sproul Observatory - Swarthmore College, <unitdate>1944-1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Dearborn Observatory - Northwestern University, <unitdate>1940-1954</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>de Vaucouleurs, G., <unitdate>1953-1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Dunham, Theo, <unitdate>1953-1954</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Eastman Kodak Co., <unitdate>1941-1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Eckert, W., <unitdate>1940-1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Eichner, L.C., <unitdate>1946-1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Fulbright, J. - Australia, <unitdate>1950-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Geology Dept. - Columbia College, <unitdate>1950-1953</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Guggenheim Foundation, <unitdate>1959-1962</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Harvard College Observatory, <unitdate>1939-1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Higgins Fund, <unitdate>1954-1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Hill, Sarah J., <unitdate>1947-1958</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">13</container>
+                            <unittitle>Hill, Sarah - Makemson, Maud, <unitdate>1934-1952</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">06</container>
+                            <container type="Folder" label="Folder">14</container>
+                            <unittitle>International Astronomical Union (I.A.U.), <unitdate>1950-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Bok, Bart J., <unitdate>1940-1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Brouwer, Dicr, <unitdate>1955-1962</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Brouwer, Dirk, <unitdate>1948-1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Astrophysical Journal, <unitdate>1932-1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Barnard, <unitdate>1942-1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Blaauw, Adrian, <unitdate>1940-1958</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Bosscha Observatory, Hins, C.H., <unitdate>1934-1946</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Bullen, K.E., <unitdate>1953-1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Carnegie Institution of Washington, D.C., <unitdate>1934-1960</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Cincinnati Observatory (Herget, P.), <unitdate>1935-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">07</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Curtiss-Wright Corporation, <unitdate>1942-1943</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Miscellaneous, <unitdate>1950-1958</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Miscellaneous, <unitdate>1950-1951</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Menzel, Harvard Observatory, <unitdate>1946-1954</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Johannesburg, South Africa, <unitdate>1947-1957</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Johannesburg, South Africa - Photographic plates, <unitdate>1947-1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Johannesburg, South African Embassy, <unitdate>1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Mt. Stromlo, Canberra, Australia, <unitdate>1949-1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Mt. Wilson and Palomar Observatories, <unitdate>1931-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Miscellaneous, <unitdate>1934-1947</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Princeton, <unitdate>1940-1951</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">08</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Miscellaneous, <unitdate>various dates</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Star Tables, <unitdate>1942-1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>University Notices, <unitdate>before 1963</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Teaching Assistant Records, <unitdate>1963-1965</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Van de Kamp, <unitdate>1940-1943</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Wachmann, A. - Visiting professor, <unitdate>1959-1961</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Warner and Swasey Observatory, <unitdate>1940-1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Washburn Observatory, <unitdate>1947-1948</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Wood, Ben, <unitdate>1933-1946</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Yale-Columbia Southern Observatory - Jackson, Cyril, <unitdate>1959-1962</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Yale University Observatory, <unitdate>1932-1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">10</container>
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Yerkes Observatory, <unitdate>1939-1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Miscellaneous (173)</unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Yowell, E.C., <unitdate>1942-1955</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Science Committee, <unitdate>1937-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Secretarial Miscellaneous, Replies to Lay Inquiries, <unitdate>1942-1956</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Argentina, <unitdate>Oct. 15, 1961</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Brouwer, Dirk, <unitdate>1935-1945</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Brouwer, Dirk, <unitdate>1945-1947</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">09</container>
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Miscellaneous, <unitdate>1950-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+               <c level="file">
+                        <did><container type="Box" label="Box">09</container>
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Miscellaneous, <unitdate>[v.d.]</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series II: Committees and Course Materials</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Budget, <unitdate>1950-1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Personnel (Inactive), <unitdate>1953-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series">
+                <did><unittitle>Series III: Lab Materials</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Research calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+
+
+         <c level="series">
+                <did><unittitle>Series IV: Early Notes of Schilt</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">25</container>
+                        <unittitle>Early School Notes of Schilt</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Chilean Report #2, <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Budget, <unitdate>1942-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Columbia College, <unitdate>1949-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Columbia College, <unitdate>1940-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">12</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Faculty of Pure Science, <unitdate>1940-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>E.K.A. Fund, <unitdate>1950-1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Committee on Instruction Minutes, <unitdate>1947-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Committee on Instruction - Faculty of Pure Science, <unitdate>1940-1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Fellowships - Committee on Instruction - Faculty of Pure Science, <unitdate>1954-1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>General Studies (G.S.), <unitdate>1941-1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Graduate Students (Applicants), <unitdate>1960-1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Graduate Students, <unitdate>1947-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Graduate Students, <unitdate>1939-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Graduate Students Records, <unitdate>1943-1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Graduate Faculties, <unitdate>1952-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Hett, John, <unitdate>1942</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Jacoby, Harold, <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Library, <unitdate>1940-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">13</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Motz, L., <unitdate>1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Phi Beta Kappa, <unitdate>1933-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Photometry - (Glass Filter), <unitdate>1946-1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Rejected Manuscripts, <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Salary statements, <unitdate>1947-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Old Clark Telescopes, <unitdate>1950-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>69 - Writings by Schilt, <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>69-Writings by Schilt, <unitdate>1939-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>56-Writings by Schilt, <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">14</container>
+                        <unittitle>Notes; Research Materials, <unitdate>1950s &amp; 1960s</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Photometer Paper, <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Distribution of Stars According to Apparent Magnitudes &amp; Galatic Latitude and the Scale of the Polar Sequence by Jan Schilt, <unitdate>circa 1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Sodium Line Intensities as Criterion for Stellar Distances by Jan Schilt, <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Virginia Conference Remarks - Ms. &amp; Correspondence, <unitdate>1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>The Astronomical Journal, <unitdate>1940-1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Sub-Committee for Inter-American Astronomy, <unitdate>1959-1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>American Astronomical Society (AAS), <unitdate>1941-1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>American Association for the Advancement of Science (AAAS), <unitdate>1928-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>The American Association of Variable Star Observers (AAVSO), <unitdate>1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Allegheny Observatory, <unitdate>1941-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>American Astronomical Society, <unitdate>1950-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Askania-Werks, <unitdate>1950-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Kapetyn Astronomical Lab, <unitdate>1947-1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Leander McCormick Observatory - University of Virginia, <unitdate>1940-1958</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Schilt's correspondence]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Lick Observatory, <unitdate>1940-1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Linblad, Bertil, <unitdate>1934-1951</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Correspondence]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Luyten, W.J., <unitdate>1931-1948</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Correspondence]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>69 - Writings by Schilt, <unitdate>1940s - 1950s</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Note on the Colors of the AoP Stars - Writing by Schilt, <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Photoelectric Color 2036 Stars - Writing by Schilt &amp; others, <unitdate>1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>69-Writings by Schilt and others, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>69-Research Materials and Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Minor Cloud "B". Plate 59312 (Blue), <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Research Calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Plate 61626 (Center-Red), <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Center Plate 61834 (Red), <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Minor Cloud "B". Summary, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Research Calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Research Calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Research Calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Experiment 2, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Experiment 0-4, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>GS Astronomy 1, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Stennbs Experiments I, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Experiments O, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Experiment 0-5, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Stencils; Assignments, Observing Lists, Stars &amp; Constellations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Experiment I-10, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Experiment I-1, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Experiment I-8, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Experiment O-2, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Experiment O-3, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Experiment I-8, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>Experiment I-7, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">16</container>
+                        <unittitle>Experiment O-10, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <container type="Folder" label="Folder">17</container>
+                        <unittitle>Research Calculations, <unitdate>1949-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Miscellaneous Research Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Table 1 - The Equation of Time, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Reading List of G.S. Ast. I, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Problem Lists, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Mechanics Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>E.C.X. - Research Calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Astronomy 1 - Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Astronomy 115 &amp; R55, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Bibliography - Astronomy 116, <unitdate>undated+</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>89-Research Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">19</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>School of Mines - Spherical Astronomy Notes, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Experiment I-13, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Experiment O-9, <unitdate>1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Experiment O-8, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Experiment O-7, <unitdate>1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Experiment I-11, <unitdate>1949-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Laboratory Assignments - Astronomy 1, <unitdate>1949-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Observing List - Astronomy 1, <unitdate>1949-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>G.S. Astronomy 2, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">20</container>
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Astronomy Class Lab Experiments, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Blue Center, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Minor Cloud "B" - PL 59 v 91 - Center Blue, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research Calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Field Corrections, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research Calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Calculations and an article from "Astronomical Journal", <unitdate>1947                       </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>C61505 (2 hr. exposure), 1st Measure, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research Calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">7-18</container>
+                        <unittitle>Research calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">19</container>
+                        <unittitle>Comparison with Other Catalogues, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">20</container>
+                        <unittitle>Zone +20 to +25, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research Calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">21</container>
+                        <container type="Folder" label="Folder">21</container>
+                        <unittitle>Zone +25 to +30, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Zone +50 - +55, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Zone +55 - +60, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Miscellaneous - All Zones, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Notes and memos, <unitdate>1950s</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Stencil-blank forms for research, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">22</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Atomic Bomb Committee, <unitdate>November 1945</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Memos and drafts of letters]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Budget, <unitdate>1961-1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Minor Cloud B - Offsets-New Lists &amp; Measurements, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Comparison of Readings with Different Backgrounds &amp; Different D-2 Openings, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Comparison, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Comparison of Iris Readings Made By Turning Wheel Clockwise &amp; Counterclockwise, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Measurments of..., <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Minor Cloud B - Offset Plates - Work Done with Preliminary Lists, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>Title of Chart Sent to Zurich, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Research calculations]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">23</container>
+                        <container type="Folder" label="Folder">9-18</container>
+                        <unittitle>Research Calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">1-3</container>
+                        <unittitle>Research Calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Budget Correspondence, <unitdate>1940s</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Appointments (Forms, etc. Prior to 1962)</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Accounts - Old Correspondence, <unitdate>1941-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">24</container>
+                        <container type="Folder" label="Folder">7-8</container>
+                        <unittitle>Research Calculations, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series V: Testing Materials</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Various Locations</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Site Report, Australia, <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Chilean Site Testing, <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>National Science Foundation (NSF) Balance Sheets, <unitdate>1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Observation, El Leoncito, <unitdate>1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Argentina: Finance Administration, <unitdate>1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">26</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>El Leoncito Final Copy &amp; Correspondence, <unitdate>1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Leoncito - Data, <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Chilean Correspondence, <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Astrograph Construction, <unitdate>1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Sites-Chile, <unitdate>1958-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle>Site Photographs</unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Tucson Report - Chile Report, <unitdate>1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>NSF G-8165 - Financial, <unitdate>1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">8</container>
+                        <unittitle>NSF - G-8165, <unitdate>1957-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Trip to Australia, <unitdate>1958-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>NSF - G-8165 on Budget, Grants, <unitdate>1959-1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">11</container>
+                        <unittitle>Site Reports, to J. Oort, <unitdate>1962-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Site-testing, Australia, South Africa, <unitdate>1956-1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">13</container>
+                        <unittitle>Trips to South America, <unitdate>1959-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">14</container>
+                        <unittitle>Ford Foundation, <unitdate>1959-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">27</container>
+                        <container type="Folder" label="Folder">15</container>
+                        <unittitle>Astro - Plans and Correspondence - New Telescope, <unitdate>1960</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Photographs included]</p>
+                    </scopecontent>
+                </c>
+            </c>
+
+
+
+      </dsc>
+   </archdesc>
+</ead>

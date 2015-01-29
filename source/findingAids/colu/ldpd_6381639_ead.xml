@@ -1,0 +1,2491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://appdev.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_6381639_ead//EN" mainagencycode="nnc-rb">ldpd_6381639_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the H. Lawrence Freeman Papers</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+                    Manuscript Library; machine readable finding aid created by Columbia University
+                    Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+                    University Libraries</publisher>
+                <date encodinganalog="Date" normal="2009-02-27">February 27, 2009 </date>
+                <address><addressline>6th Fl. East</addressline>
+                    <addressline>535 West 114th St.</addressline>
+                    <addressline>New York, NY 10027</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT
+                conversion <date normal="2009-02-27">February 27, 2009 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2009-02-27">2009-02-27</date>
+                <item>File created.</item>
+            </change>
+            <change><date normal="2009-04-16">2009-04-16</date>
+                <item>xml document instance created by Carrie Hintz</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Freeman, H. Lawrence (Harry Lawrence),
+                1869-1954</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="H. Lawrence Freeman Papers">H. Lawrence
+                Freeman Papers, </unittitle>
+            <unitdate encodinganalog="245$f" normal="1870/1982" type="inclusive">1870-1982</unitdate>
+
+            <unitdate encodinganalog="245$f" type="bulk">[Bulk Dates: 1890-1954].</unitdate>
+            <physdesc><extent encodinganalog="300">35 linear ft. (14 document boxes, 20 flat boxes, 12
+                    oversize boxes)</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+                </corpname>
+                <address><addressline>New York, NY. 10027</addressline>
+                </address>
+            </repository>
+            <unitid countrycode="US" repositorycode="nnc-rb" type="clio">6381639</unitid>
+            <unitid countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1456</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng"> Material is in English </language>
+            </langmaterial>
+            <abstract>The original scores, clippings, correspondence and ephemera in this collection
+                document the lives and careers of Harry Lawrence, Carlotta, and Valdo Freeman, a
+                family of African-American performing artists involved in opera, theatre, and music
+                in early-twentieth-century New York.</abstract>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p><!-- BIOGHIST REQUIRED -->The African-American opera composer Harry Lawrence Freeman,
+                son of Lemuel Freeman and Agnes Sims-Freeman, was born in 1869 in Cleveland, Ohio.
+                The Freeman family had been free landholders in Cleveland for several decades before
+                the Civil War. Agnes is said to have had a beautiful singing voice, and young Harry
+                showed exceptional musical abilities at an early age. By age 12, he organized a
+                boy's vocal quartet, in which he sang first treble, and worked as a church organist.
+                Self-taught, he began composing at the age of 18, after being inspired by a
+                performance of Wagner's <title render="italic">Tannhause</title>r. By 1891, Freeman
+                had organized the Freeman Grand Opera Company in Denver, Colorado. His first operas,
+                    <title render="italic">Epthalia</title> and <title render="italic">The
+                Martyr</title>, were performed by the Freeman Grand Opera Company in Denver's
+                Deutsches Theater in 1891 and 1893 respectively. Freeman wrote the libretti as well
+                as composing the music for these two pieces, as he did for all of his operas except
+                for <title render="italic">Uzziah</title>. </p>
+            <p><!-- BIOGHIST REQUIRED -->In 1893 Freeman returned to Cleveland, where <title render="italic">The Martyr</title> had its second production at the German
+                Theatre in 1894. Around 1893 Freeman began studying theory and composition formally
+                with Johann Beck, then the conductor of the Cleveland Symphony Orchestra. Beck
+                identified Freeman's promise as a composer immediately, saying, "Freeman has some of
+                the important qualities of character that made Wagner great. His compositions are
+                wonderfully big in conception, the music faithfully portraying the sentiment of the
+                words." Perhaps because of this comment, Freeman was dubbed "the colored Wagner" in
+                the press, a sobriquet that stayed with him all his life. Freeman's music shows
+                Wagner's influence in his use of leitmotifs and orchestration; also, Freeman planned
+                to write a cycle of four music-dramas based on African myths, probably inspired by
+                Richard Wagner's 'Ring Cycle' of four operas based on Norse mythology. </p>
+            <p><!-- BIOGHIST REQUIRED -->From about 1894-1904, H. Lawrence Freeman wrote and
+                published a number of popular songs as "Harry Freeman," earning him a reputation as
+                a 'hit' composer in certain circles (in his later works the composer was identified
+                exclusively as "H. Lawrence Freeman"). From 1895-1899, Freeman toured with Ernest
+                Hogan's Rufus Rastus company, writing some of the music for Hogan's blackface
+                musical comedies. In 1899, Freeman married actress and singer Charlotte ("Carlotta")
+                Louise Thomas, the daughter of a prominent black family from Charleston, South
+                Carolina. In January of 1900, their son Valdo Lawrence Freeman was born. Also in
+                1900, Johann Beck conducted the Cleveland Symphony Orchestra in excerpts from three
+                operas by Freeman, a prestigious symphonic debut for a young American composer,
+                which generated much attention in the press. H. Lawrence Freeman then became the
+                director of the music program at Wilberforce University in Xenia, Ohio, from
+                1902-1904, where he directed a student production of his opera <title render="italic">African Kraal</title> in 1903. From 1906-1907, both H. Lawrence
+                and Carlotta Freeman worked at the newly-formed Pekin Theatre in Chicago, the first
+                theatre of its kind to be entirely run by and performed in by African-Americans. </p>
+            <p><!-- BIOGHIST REQUIRED -->Around 1908, the Freeman family moved to New York City.
+                They founded the Friends' Amusement Guild in their Harlem brownstone, which grew
+                from a gathering of a few neighbors every Sunday afternoon for music or readings to
+                an organization of several hundred members that produced theatre, opera, charity
+                concerts, and a host of other activities. Carlotta continued working as an actress
+                and later as a stage director, with the Anita Bush Stock Company, the Lafayette
+                Players, and other groups. According to interviews with Valdo Freeman, she also
+                performed occasionally with 'legitimate' (i.e. Caucasian) theatre companies by
+                passing as Latin American or of Mediterranean descent-as such, she was one of the
+                first black actresses to work in white theatres. H. Lawrence Freeman continued to
+                work in musical comedy in New York, while also pursuing his operatic composing,
+                becoming interested in a fusion of the two which he called "Jazz Opera." He served
+                as musical director for the Cole-Johnson Brothers Company from 1909-1910, which
+                produced popular "Tin Pan Alley" musicals, and afterwards was musical director of
+                the John Larkins Musical Comedy Company for a few years. He also founded and
+                conducted the Negro Choral Society, a chorus of about 75 voices, starting in 1912.
+                In 1920 the Freemans founded the Negro Grand Opera Company, a group designed to
+                mount H. Lawrence's operas and provide performance opportunities for
+                African-American singers. The same year, H. Lawrence Freeman founded his own music
+                school in Harlem, the Salem School of Music, which was renamed a few years later the
+                Freeman School of Music. From about 1920 onwards, Valdo Freeman acted as his
+                father's business manager, seeking out opportunities for production and publication
+                of the operas--he was the manager of the Negro Grand Opera Company and also became
+                executive director of the Friends Amusement Guild. All three Freemans became thickly
+                embedded in the cultural life of the Harlem Renaissance, with their brownstone
+                serving as an impromptu salon for figures such as Eubie Blake, Noble Sissle, Marion
+                Anderson, Muriel Rahn, and Lena Horne in later years. </p>
+            <p><!-- BIOGHIST REQUIRED -->By the late 1920s, H. Lawrence's work was becoming
+                well-known in New York, through his performances, teaching, and his work as a
+                musical critic and essayist for the <title render="italic">New Amsterdam
+                News</title> and the <title render="italic">Afro-American</title> newspapers. In
+                1928 his opera <title render="italic">Voodoo</title> was produced at the 52nd Street
+                Theater, and a concert performance of the same opera was broadcast live over the
+                radio station WGBS. Freeman received the Harmon Award for significant achievement by
+                an African-American in the field of arts and letters in 1930; the other 11
+                recipients included Adam Clayton Powell. Later the same year he played excerpts from
+                several of his operas at Carnegie Hall. In 1934 he was the composer and musical
+                director of the pageant "O Sing a New Song," a high-profile event at the Chicago
+                World's Fair which celebrated the African-American experience. </p>
+            <p><!-- BIOGHIST REQUIRED -->The late-1930s saw a few productions and many failed
+                attempts at production of Freeman's operas, most significantly a production of
+                    <title render="italic">Vendetta</title> at the Park Palace in 1937. Valdo was
+                especially interested in seeing his father's work produced at 'mainstream' rather
+                than historically black venues, and during this period he contacted the Metropolitan
+                opera, a few of the Broadway theatres, and several major concert halls. The
+                Freemans' work was largely suspended during World War II, but Valdo's efforts were
+                rewarded in 1947 by a production of <title render="italic">The Martyr</title> at
+                Carnegie Hall. H. Lawrence conducted an interracial cast that included Muriel Rahn
+                and Louis Rocca. The production received reviews from both mainstream and
+                African-American newspapers; while most critics agreed that it was a historic
+                moment, many noted that the work was unfinished (not completely orchestrated) and
+                needed polishing. Some objected to Freeman's mixture of jazz and African song forms
+                with more traditional elements of Western classical music such as the dacapo aria.
+                This and many other performances of Freeman's operas were criticized for having
+                inadequate orchestras; Valdo Freeman later said that hiring and rehearsing the
+                instrumentalists was one of the most difficult parts of his father's productions,
+                given the need for the musicians to be comfortable with both Western classical and
+                jazz styles. </p>
+            <p><!-- BIOGHIST REQUIRED -->In the late 1940s, H. Lawrence Freeman began developing the
+                Aframerican Opera Foundation, a group that would promote black composers and
+                singers, and also offer opera in a smaller, more accessible format to a wider
+                audience. Among other luminaries, he asked Eleanor Roosevelt to sit on the board of
+                directors. He also sought publication of his monograph, <title render="italic">The
+                    Negro in Classical Music and Opera</title>, in the early 1950s, but the
+                manuscript was criticized for lack of scholarly methods and significant revisions
+                were recommended. Both projects were cut short by H. Lawrence Freeman's death on
+                March 24, 1954; Carlotta died only three months later, on June 11, 1954. </p>
+            <p><!-- BIOGHIST REQUIRED -->Valdo married Anita Grannum (1908-1999) in 1954, after the
+                death of his parents. The Grannums were long-time friends of the Freeman famil--
+                Hugh P. Grannum, Anita's father, was a publisher who knew H. Lawrence and Valdo
+                professionally, and Anita's sisters Alberta and Kathlyn Grannum had sung in the 1947
+                production of <title render="italic">The Martyr</title>. After their marriage, Valdo
+                and Anita became involved with the Negro Actors' Guild; Valdo served as
+                administrative secretary from 1965 until his death in 1972, and Anita continued to
+                work there as chairwoman of the board until about 1980. Anita was a graduate of the
+                law school at St. John's University, and it was with her legal expertise that Valdo
+                began the process of conserving his father's estate. After Anita's death in 1999, H.
+                Lawrence Freeman's scores and other papers were passed to her sister Kathlyn, and
+                then to her niece Holly Zuber-Banks.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>The Harry Lawrence Freeman Collection provides an assortment of material related to
+                American opera and to the artistic performance and social history of
+                African-Americans from about 1890-1950. They include the original manuscript scores
+                to 21 of his operas. These present the fullest picture available of the composer's
+                intentions and artistic process. Freeman's non-musical work is also represented,
+                including drafts of his unpublished book, <title render="italic">The Negro in
+                    Classical Music and Opera</title>, plays, libretti, and journal articles. The
+                musical scores are accompanied by documentation of the production of his operas,
+                including programs, advertising, correspondence, clippings, schedules and budgets,
+                and production designs. Production documentation also exists for the work of
+                Carlotta Freeman as an actress and stage director with many historic black theatre
+                companies, including the Lafayette Players, the Anita Bush Stock Company, and the
+                Pekin Theatre. Images, from daguerreotypes and paintings to casual snapshots, are
+                included in the Collection. Many prominent African-American performers inscribed
+                headshots or publicity photos to one or more of the Freemans, which are present.
+                There are several large-format paintings and framed photos by the artist Edward
+                Elcha depicting the Freemans, sometimes in costume. The Freemans founded three arts
+                organizations-- the Friends' Amusement Guild, the Negro Grand Opera Company, and the
+                Aframerican Opera Foundation-- and records of each, comprising stock,
+                correspondence, ephemera, and receipts are included in the collection. Valdo and
+                Anita Freeman were also involved with the Negro Actors' Guild, and some documents
+                relating to this organization are also present. Several scrapbooks are included,
+                most from the early twentieth century, with clippings, programs, and other ephemera
+                related to H. Lawrence Freeman's career. Recordings of two interviews with Valdo
+                Freeman talking about his father and playing excerpts from his father's work, are
+                also present in the collection. Lastly, there is a small amount of personal
+                documents and ephemera, including a violin that belonged either to H. Lawrence or
+                Valdo Freeman.</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in 9 series:</p>
+            <p><list type="marked">
+                    <item>Series I: Musical Scores, 1893-1950, undated <list type="marked">
+                            <item>Subseries I.1: Manuscript Scores by H. Lawrence Freeman,
+                                1893-1950, undated</item>
+                            <item>Subseries I.2: Other Scores, 1894-1943, undated</item>
+                        </list>
+                    </item>
+                    <item>Series II. Performance Documentation, 1905-1964</item>
+                    <item>Series III. Images, circa 1870-1969</item>
+                    <item>Series IV. Correspondence, 1910-1980 Series V. Writings by H. Lawrence
+                        Freeman, 1921-1940s, undated</item>
+                    <item>Series VI. Arts Organizations Associated with the Freemans, 1920-1982,
+                        undated</item>
+                    <item>Series VII. Audio, 1971-1972, undated Series VIII. Scrapbooks and
+                        Clippings, 1898-1954, undated</item>
+                    <item>Series IX. Personal, circa 1898-1972</item>
+                </list>
+            </p>
+        </arrangement>
+        <controlaccess><head>Subjects</head>
+            <corpname encodinganalog="610">Anita Bush Stock Company.</corpname>
+            <corpname encodinganalog="610">Aframerican Opera Foundation.</corpname>
+            <corpname encodinganalog="610">Friends' Amusement Guild.</corpname>
+            <corpname encodinganalog="610">Negro Actors Guild of America.</corpname>
+            <corpname encodinganalog="610">New Lafayette Theatre.</corpname>
+            <corpname encodinganalog="610">Grand theatre national de Pekin.</corpname>
+            <persname encodinganalog="600">Anderson, Marion.</persname>
+            <persname encodinganalog="600">Bush, Anita, 1883?-1974.</persname>
+            <persname encodinganalog="600">Elcha, Edward.</persname>
+            <persname encodinganalog="600">Freeman, Carlotta Thomas, 1877-1954.</persname>
+            <persname encodinganalog="600">Freeman, H. Lawrence (Harry Lawrence), 1869-1954.</persname>
+            <persname encodinganalog="600">Freeman, Valdo Lawrence, 1900-1972.</persname>
+            <persname encodinganalog="600">Hipsher, Edward Ellsworth, 1871-1948.</persname>
+            <persname encodinganalog="600">Jones, Robert Edmond, 1887-1954.</persname>
+            <persname encodinganalog="600">Black Patti, 1869-1933.</persname>
+            <persname encodinganalog="600">Rahn, Muriel.</persname>
+            <persname encodinganalog="700">Freeman, Carlotta Louise Thomas, 1877-1954.</persname>
+            <persname encodinganalog="700">Freeman, Valdo Lawrence, 1900-1972.</persname>
+            <persname encodinganalog="700">Freeman, Anita Grannum, 1908-1999.</persname>
+            <subject encodinganalog="650">African Americans in the performing arts.</subject>
+            <subject encodinganalog="650">African Americans--Music--20th century.</subject>
+            <subject encodinganalog="650">Harlem Renaissance.</subject>
+            <subject encodinganalog="650">Opera--United States--20th century.</subject>
+            <genreform encodinganalog="655" source="aat">Daguerreotypes</genreform>
+            <genreform encodinganalog="655" source="aat">Posters</genreform>
+            <genreform encodinganalog="655" source="aat">Programs</genreform>
+            <genreform encodinganalog="655" source="aat">Scores</genreform>
+        </controlaccess>
+        <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>This collection has no restrictions. The scrapbooks, however, are extremely fragile
+                and therefore access to the scrapbooks will be determined on a case-by-case basis. </p>
+            <p> An advance appointment must be made to view the framed paintings in Box 48 because
+                they are oversized and require special handling.</p>
+            <p>This collection is located on-site.</p>
+        </accessrestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>Freeman Family Purchase December, 2008</p>
+        </acqinfo>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>Identification of specific item; Date (if known);H. Lawrence Freeman Papers,
+                1870-1982; Box and Folder; Rare Book and Manuscript Library, Columbia University
+                Library.</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>Papers processed 7/2008 Annie Holt, GSAS 2013</p>
+        </processinfo>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Single photocopies may be made for research purposes. Permission to publish material
+                from the collection must be requested from the Curator of Manuscripts/University
+                Archivist, Rare Book and Manuscript Library (RBML). The RBML approves permission to
+                publish that which it physically owns; the responsibility to secure copyright
+                permission rests with the patron.</p>
+        </userestrict>
+        <relatedmaterial encodinganalog="544">
+            <head>Related Material</head>
+            <p>Valdo Freeman interview on Harry Lawrence Freeman Oral History, American Music
+                Collection, Yale University 310 Prospect Street New Haven, CT 06511</p>
+
+        </relatedmaterial>
+        <otherfindaid encodinganalog="555">
+            <p>Finding aid in repository; folder level control.</p>
+
+        </otherfindaid>
+        <dsc><c level="series">
+                <did><unittitle>Series I: Musical Scores, <unitdate type="inclusive">1894-1950, </unitdate>
+                        <unitdate>undated</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent><p> The bulk of the H. Lawrence Freeman Papers consists of his musical scores,
+                        including many manuscripts in his own handwriting. </p>
+                </scopecontent>
+
+
+
+                <c level="subseries">
+                    <did><unittitle>Subseries I.1: Manuscript Scores by H. Lawrence Freeman,
+                                <unitdate type="inclusive">1893-1950</unitdate>
+                        </unittitle>
+                    </did>
+
+                    <scopecontent><p> The heart of the collection, this series, contains Freeman’s original
+                            manuscript scores, including full scores, piano-vocal reductions, and
+                            orchestral parts in Freeman’s hand. Twenty-one operas are represented,
+                            along with songs, cantatas, a "symphonic poem," and a short ballet. For
+                            some operas, many drafts are present, from initial pencil piano-vocal
+                            sketches to beautifully bound ink copies of the full score. Freeman
+                            seems to have done almost all of his copying himself, leaving a wealth
+                            of autograph scores. Operas are organized alphabetically by title, with
+                            all drafts and parts of one work together in roughly chronological
+                            sequence. </p>
+                    </scopecontent>
+
+                    <c level="file">
+                        <did><unittitle><title render="italic">African Kraal</title>
+                            </unittitle>
+                        </did>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">1</container>
+
+
+                                <container type="Folder" label="Folder">1</container>
+                                <unittitle>Piano-vocal score, <unitdate>1937</unitdate>
+                                </unittitle>
+
+
+
+                            </did>
+
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">1</container>
+
+
+                                <container type="Folder" label="Folder">2</container>
+                                <unittitle>Piano-vocal score, <unitdate>undated</unitdate>
+                                </unittitle>
+                                <physdesc> (ink)</physdesc>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">1</container>
+
+
+                                <container type="Folder" label="Folder">3</container>
+                                <unittitle>Role of Cuella, <unitdate>undated</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">1</container>
+
+
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle><title render="italic">American Romance</title>--piano-vocal score,
+                                    <unitdate type="inclusive">1924-1929</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">2</container>
+                            <unittitle><title render="italic">American Romance</title>--full score,
+                            date</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle> </unittitle>
+                    </did>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">3</container>
+                            <unittitle><title render="italic">Athalia</title>--piano-vocal score,
+                                    <unitdate>1916</unitdate>
+                            </unittitle>
+                            <physdesc>(ink)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">4</container>
+                            <unittitle><title render="italic">Athalia</title>--full score,
+                                <unitdate>1917</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle><title render="italic">Athalia</title>--Acts II and III--piano-vocal
+                                score, <unitdate>1916</unitdate>
+                            </unittitle>
+                            <physdesc>(pencil)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle><title render="italic">Battle of the Gods</title>--piano-vocal
+                                score, <unitdate>1938</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><unittitle>Cycle of Zululand (4 Operas)</unittitle>
+                        </did>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">6</container>
+                                <unittitle><title render="italic">Chaka</title>--piano-vocal score,
+                                        <unitdate type="inclusive">1917-1941</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">7</container>
+                                <unittitle><title render="italic">Chaka</title>--full score,
+                                    <unitdate>1949</unitdate> (incomplete)</unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">8</container>
+                                <unittitle><title altrender="italic">Ghost-Wolves</title>--piano-vocal
+                                    score, <unitdate>1941</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">9</container>
+                                <unittitle><title render="italic">The Stone Witch</title>--piano-vocal
+                                    score, <unitdate type="inclusive">1941-1942</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">10</container>
+                                <unittitle><title render="italic">Umslopogaas and Nada</title>--piano-vocal
+                                    score, <unitdate type="inclusive">1942-1943</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle><title render="italic">Dark Canyon</title>--piano-vocal score,
+                                    <unitdate type="inclusive">1948-1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+
+
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle> “Deep River”--piano-vocal score,
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+
+
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle> “Faith”--piano-vocal score, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+
+
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle> “Go Down, Moses”--piano-vocal score,
+                                <unitdate>undated</unitdate> (incomplete)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+
+
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle> “If You But Loved Me”--parts for Bass and Cornet,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">5</container>
+
+
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle> “Jesus, Lover of My Soul”--piano-vocal score,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle><title render="italic">Jezebel</title>--piano-vocal score,
+                                    <unitdate>1944</unitdate> (incomplete)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle> “Jungle Birds”--orchestral parts,
+                                <unitdate>undated</unitdate> (from “O Sing a New Song)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle> “Kentucky Home”--piano-vocal score,
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+
+
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle> “Kiss Me”--piano-vocal score, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+
+
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle><title render="italic">Leah Kleschna</title>--piano-vocal score,
+                                    <unitdate>1930</unitdate> (unbound)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">12</container>
+                            <unittitle><title render="italic">Leah Kleschna</title>--Act I--piano-vocal
+                                score, <unitdate>1930</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">13</container>
+                            <unittitle><title render="italic">Leah Kleschna</title>--Act II--piano-vocal
+                                score, <unitdate>1930</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">14</container>
+                            <unittitle><title render="italic">Leah Kleschna</title>--Act III--piano-vocal
+                                score, <unitdate>1930</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">11</container>
+
+
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle> “Like a Rose”--piano-vocal score,
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle> “Lion Hunt”--full score, <unitdate>undated</unitdate>
+                            </unittitle>
+                            <physdesc>(unbound)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle> “Lion Hunt”--orchestral parts, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle> “The Loves of Pompeii”--piano-vocal score,
+                                <unitdate>undated</unitdate> (song cycle)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle> “Minstrels of the Past”--piano-vocal score,
+                                    <unitdate>undated</unitdate> (scene 1)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle> “Negro Lullaby”--piano-vocal score,
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><unittitle><title render="italic">The Martyr</title>
+                            </unittitle>
+                        </did>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">17</container>
+                                <unittitle>Piano-vocal score, <unitdate>undated</unitdate>
+                                </unittitle>
+                                <physdesc>(pencil)</physdesc>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">18</container>
+                                <unittitle>Piano-vocal score, <unitdate>1893</unitdate>
+                                </unittitle>
+                                <physdesc> (ink)</physdesc>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">19</container>
+                                <unittitle>Full score, <unitdate>undated</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">20</container>
+
+
+                                <container type="Folder" label="Folder">1 to 3</container>
+                                <unittitle>Orchestral parts, <unitdate>undated</unitdate>
+                                </unittitle>
+                                <physdesc><extent>(three Folders)</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">20</container>
+
+
+                                <container type="Folder" label="Folder">4</container>
+                                <unittitle>Role of “Pharoh,” <unitdate>undated</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">20</container>
+
+
+                                <container type="Folder" label="Folder">5</container>
+                                <unittitle>Role of “Rei,” <unitdate>undated</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle> “My Son”--piano-vocal score, <unitdate>undated</unitdate>
+                                (cantata)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">22</container>
+                            <unittitle><title render="italic">The Octoroon</title>--piano-vocal score,
+                                    <unitdate>1902</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">23</container>
+                            <unittitle><title render="italic">The Octoroon</title>--piano-vocal score,
+                                    <unitdate>1904</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">24</container>
+                            <unittitle><title render="italic">The Octoroon</title>--full score,
+                                    <unitdate>1908</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">33</container>
+                            <unittitle><title render="italic">The Octoroon</title>--Orchestral Prelude,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle> “The Octoroon’s Farewell,” <unitdate>undated</unitdate>
+                                (song)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle> “O Sing a New Song”--piano-vocal score,
+                                <unitdate>1934</unitdate> (fragments)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle> “Parted”--piano-vocal score, <unitdate>undated</unitdate>
+                                (on back “My African Maid”)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle><title render="italic">Plantation</title>--piano-vocal score,
+                                    <unitdate>undated</unitdate> (incomplete)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle><title render="italic">The Prophecy</title>--piano-vocal score,
+                                    <unitdate>undated</unitdate> (incomplete)</unittitle>
+                            <physdesc>(pencil)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle><title render="italic">The Prophecy</title>--piano-vocal score,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                            <physdesc> (ink)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">16</container>
+
+
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle> “Salome”--ballet with chorus--piano-vocal score,
+                                    <unitdate>1934</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle> “The Slave”--piano reduction, <unitdate>1919</unitdate>
+                                (symphonic poem)</unittitle>
+                            <physdesc>pencil</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle> “The Slave”--piano reduction, <unitdate>1919</unitdate>
+                            </unittitle>
+                            <physdesc> (ink)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle> “The Slave”--orchestral parts, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+
+
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle> “Sometime”--Violin I part, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+
+
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle> “Steal Away”--piano-vocal score,
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+
+
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle> “Swing Low”--piano-vocal score, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+
+
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle> “Tribulation”--piano-vocal score,
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+
+
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle><title render="italic">The Tryst</title>--piano-vocal score,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">26</container>
+
+
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle><title render="italic">The Tryst</title>--orchestral parts,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">27</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Unidentified Score Fragments, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">27</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle><title render="italic">Uzziah</title>--piano-vocal score, <unitdate type="inclusive">1931-1933</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">25</container>
+                            <unittitle><title render="italic">Uzziah</title>--piano-vocal score, <unitdate type="inclusive">1931-1933</unitdate>
+                            </unittitle>
+                            <physdesc>(bound)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">63</container>
+                            <unittitle><title render="italic">Valdo</title>--full score,
+                                <unitdate>1895</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">64</container>
+                            <unittitle><title render="italic">Valdo</title>--full score,
+                                <unitdate>1936</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle><title render="italic">Vendetta</title>--piano-vocal score,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">28</container>
+                            <unittitle><title render="italic">Vendetta</title>--piano-vocal score,
+                                    <unitdate>1928</unitdate>
+                            </unittitle>
+                            <physdesc>(bound by Acts)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">29</container>
+                            <unittitle><title render="italic">Vendetta</title>--full score,
+                                <unitdate>1923</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle><title render="italic">Vendetta</title>--orchestral parts,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle><title render="italic">Voodoo</title>--piano-vocal score,
+                                    <unitdate>1912</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <unittitle><title render="italic">Voodoo</title>--piano-vocal score,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                            <physdesc>(bound by Acts)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">31</container>
+                            <unittitle> </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">32</container>
+                            <unittitle><title render="italic">Voodoo</title>--full score, circa
+                                    <unitdate>1930</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">30</container>
+
+
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle><title render="italic">The Wolf</title>--piano-vocal score,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                            <physdesc>(pencil)</physdesc>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">21</container>
+
+
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle><title render="italic">The Wolf</title>--piano-vocal score,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle> “Zulu King: Witch Hunt”--full score,
+                                <unitdate>1939</unitdate>
+                            </unittitle>
+                            <physdesc>(unbound)</physdesc>
+                        </did>
+                    </c>
+                </c>
+
+
+
+                <c level="subseries">
+                    <did><unittitle>Subseries I.2: Other Scores, <unitdate type="inclusive">1894-1942, </unitdate>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+
+                    <scopecontent><p> This subseries includes photocopies of three of Freeman’s manuscript
+                            scores: "The Slaying of the Lion," <title render="italic">Voodoo</title>
+                            (Act III only), and "Zulu King (Witch Hunt)." It also houses all
+                            published scores by Freeman present in the collection. Most of the
+                            published scores are originals, but some are in photocopy form. All
+                            scores in this subseries are songs, not operas or symphonic works, and
+                            many are arrangements of well-known spirituals. Two of the earliest
+                            published songs (1896-1897, with only photocopies extant) were also
+                            published by a "Harry Freeman" in Chicago – they may have been
+                            self-published, or the name may be a coincidence. Two songs from 1925
+                            were published by Valdo Freeman. The songs are arranged chronologically
+                            by publication date. Also included are printed scores by other
+                            composers. Selections range from Brahms to arrangements of spirituals;
+                            the bulk are early-twentieth-century songs by African-American composers
+                            such as T.H. Burleigh, W.C. Handy and Noble Sissle. They are arranged
+                            alphabetically by the composer’s last name. </p>
+                    </scopecontent>
+
+                    <c level="file">
+                        <did><unittitle>Copies of Manuscript Scores by H. Lawrence
+                            Freeman</unittitle>
+                        </did>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">34</container>
+
+
+                                <container type="Folder" label="Folder">1</container>
+                                <unittitle> “The Slaying of the Lion,” <unitdate>undated</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">35</container>
+
+
+                                <container type="Folder" label="Folder">1</container>
+                                <unittitle>Unidentified score copy, <unitdate>undated</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">34</container>
+
+
+                                <container type="Folder" label="Folder">2</container>
+                                <unittitle> “Voodoo, Act III,” <unitdate>undated</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">35</container>
+
+
+                                <container type="Folder" label="Folder">2</container>
+                                <unittitle> “Yazoo River,” <unitdate>undated</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">34</container>
+
+
+                                <container type="Folder" label="Folder">3</container>
+                                <unittitle> “Zulu King,” <unitdate>undated</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><unittitle>Printed Scores, <unitdate type="inclusive">1894-1943</unitdate>
+                            </unittitle>
+                        </did>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">35</container>
+
+
+                                <container type="Folder" label="Folder">3</container>
+                                <unittitle>By H. Lawrence Freeman, <unitdate type="inclusive">1894-1935</unitdate>
+                                </unittitle>
+                            </did>
+                        </c>
+
+
+
+                        <c level="file">
+                            <did><container type="Box" label="Box">35</container>
+
+
+                                <container type="Folder" label="Folder">4 to 5</container>
+                                <unittitle>By Other Composers,1905-1943</unittitle>
+                                <physdesc><extent>(2 Folders)</extent>
+                                </physdesc>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series II: Performance Documentation, <unitdate type="inclusive">1905-1964, </unitdate>
+                        <unitdate>undated</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent><p> Programs, fliers, posters, scripts, receipts and other documents chronicling
+                        the performance activities of the Freemans make up the bulk of this series.
+                        Highlights include 12 exquisite watercolor costume designs by Amos Dickenson
+                        for <title render="italic">The Martyr</title>, circa 1920, and rare programs
+                        from such historic African-American theatres as the Pekin, the New Lincoln,
+                        the Anita Bush Stock Company, and others. The folder of receipts from
+                        1920-1924 was removed from an accordion file found in the collection. The
+                        original order of the receipts has been preserved, although it is not always
+                        chronological. Many expenses relate to the formation of the Negro Grand
+                        Opera Company, which occurred during this period. Programs kept by the
+                        Freemans for events in which they did not perform, but probably attended,
+                        are also included. </p>
+                </scopecontent>
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+
+
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">The Martyr</title>--Costume Designs, circa
+                                <unitdate>1920</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+
+
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle><title render="italic">Meek Mose</title>--Scripts,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">37</container>
+
+
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Posters, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+
+
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Performance Documentation--Freemans, <unitdate type="inclusive">1909-1951, </unitdate>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+
+
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Programs--Others, <unitdate type="inclusive">1910-1964, </unitdate>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+
+
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Receipts, <unitdate type="inclusive">1920-1924</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+
+
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">Voodoo</title>--Budgets and schedules,
+                                <unitdate>1928</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series III: Images, circa <unitdate type="inclusive">1870-1969</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent><p> This series is an exceptionally rich gathering of early visual material of
+                        African-Americans, including paintings, daguerreotypes, and publicity
+                        photographs, and snapshots. Many images portray the Freemans or their
+                        colleagues in costume or during performance. There is a large group of
+                        ‘headshot’ photos of performers, many of which are inscribed to various
+                        members of the Freeman family: highlights include photographs of Anita Bush,
+                        Charles Gilpin, Dorothy Mayner, and the Cole-Johnson brothers. Because of
+                        the lack of dates on many images, they are primarily organized by size and
+                        medium, with categorization by date or subject where possible. For a list of
+                        all identified sitters, please see Appendix B. </p>
+                </scopecontent>
+
+
+                <c level="file">
+                    <did><unittitle>Photographs--Cardstock photos</unittitle>
+                    </did>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">38</container>
+                            <unittitle>Freeman family, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">39</container>
+                            <unittitle>Others--Identified, <unitdate>undated</unitdate> (Brawley,
+                                Brown, Chislom, Gilpin, Griend, Hayford, Kirkpatrick, Lee, Martin,
+                                Singer, Thomas, Wills)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">40</container>
+                            <unittitle>Unidentified, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+
+
+                <c level="file">
+                    <did><unittitle>Photographs-- Headshot and Publicity</unittitle>
+                    </did>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Freemans</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>A-K (Bonn, Brice, Brown, Burrell, Bush, Chenault, Cole,
+                                Criner, Decauldwell, DeSilva, Dixon, Gardner, Gilpin, Gordon, Hall,
+                                Heyliger, Hines, Horne, Hubbard, Jarbora, Johnson, Jones,
+                            Knight)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">41</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>M-Z (Mason, Mayner, McClain, Montgomery, Mores, Olden,
+                                Patterson, Preer, Price, Rocca, Sissile, Smith, Stewart, Swarz,
+                                “Uncle Rube,” Verwayan, Walker, Whipper, Woodby)</unittitle>
+                        </did>
+                    </c>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+
+
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Unidentified, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+
+
+                        <container type="Folder" label="Folder">5</container>
+                        <unittitle><title render="italic">The Martyr</title> Cast,
+                            <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">41</container>
+
+
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>General, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">42</container>
+
+
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Oversize group photos, <unitdate>undated</unitdate> (Anita Bush
+                            Stock Company, Negro Choral Society, unidentified)</unittitle>
+                    </did>
+                </c>
+
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">44</container>
+                        <unittitle>Photographs--Negatives, circa <unitdate type="inclusive">1920s-1940s</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">43</container>
+
+
+                        <container type="Folder" label="Folder">1 to 2</container>
+                        <unittitle>Photographs--Postcard, circa <unitdate type="inclusive">1898-1915</unitdate> (identified sitters: Foster, Moss, Thomas)</unittitle>
+                        <physdesc><extent>(2 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><unittitle>Photographs--Snapshots</unittitle>
+                    </did>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">1</container>
+                            <unittitle>Small format, circa <unitdate type="inclusive">1910-1919</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Small format, circa <unitdate type="inclusive">1920-1929</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Small format, circa <unitdate type="inclusive">1930-1939</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Small format--general, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Medium format, circa <unitdate type="inclusive">1920-1929</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">6</container>
+                            <unittitle>Medium format, circa <unitdate type="inclusive">1930-1939</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">7</container>
+                            <unittitle>Medium format, circa <unitdate type="inclusive">1940-1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Large format, circa <unitdate type="inclusive">1920-1929</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">9</container>
+                            <unittitle>Large format, circa <unitdate type="inclusive">1930-1939</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">10</container>
+                            <unittitle>Large format, circa <unitdate type="inclusive">1940-1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Large format, circa <unitdate type="inclusive">1950-1959</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">45</container>
+
+
+                            <container type="Folder" label="Folder">12</container>
+                            <unittitle>Large format--general, <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">46</container>
+                        <unittitle>Framed photographs, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">47</container>
+                        <unittitle>Photographs--Daguerreotypes, <unitdate>undated</unitdate>
+                        (11)</unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><unittitle>Paintings and sketches</unittitle>
+                    </did>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">48</container>
+                            <unittitle>Freeman, Family--Framed paintings--by Elcha,
+                                    <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                        <accessrestrict><p>[Restricted: An advance appointment must be made to view this
+                                material because it is oversized and requires special handling.]
+                            </p>
+                        </accessrestrict>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+
+
+                            <container type="Folder" label="Folder">2</container>
+                            <unittitle>Freeman, H. Lawrence--painting by Elcha,
+                                <unitdate>undated</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Freeman, H. Lawrence--sketch, <unitdate>undated</unitdate>
+                                (signature illegible)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">42</container>
+
+
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Still life--painting by Alan Price, <unitdate>1949</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series IV: Correspondence, <unitdate type="inclusive">1900-1980, </unitdate>
+                        <unitdate>undated</unitdate>
+                    </unittitle>
+                </did>
+
+                <scopecontent><p> Contained in this series are letters to and from the Freemans over their
+                        entire adult lives. Much material survives from the 1920s and 1930s relating
+                        to production of H. Lawrence’s operas. Other highlights include several
+                        letters from Carlotta to Valdo, 1915-1918, when she was touring with a
+                        theatrical company, and a letter from H. Lawrence to Edward Hipsher with a
+                        wealth of biographical detail to assist Hipsher with his entry on Freeman in
+                        his book, <title render="italic">American Opera and its Composers</title>,
+                        1933. Please see Appendix A for identified correspondents. </p>
+                </scopecontent>
+
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+
+
+                        <container type="Folder" label="Folder">1 to 7</container>
+                        <unittitle><unitdate type="inclusive">1900-1980, </unitdate>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(7 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series V: Writings of H. Lawrence Freeman, <unitdate type="inclusive">1921-1940s, </unitdate>
+                        <unitdate>undated</unitdate>
+                    </unittitle>
+                </did>
+
+                <scopecontent><p> Freeman’s non-musical work, including drafts of his unpublished monograph,
+                            <title render="italic">The Negro in Classical Music and Opera,</title> a
+                        newspaper article on "The Musical Outlook," libretti, several plays, and
+                        scenarios for his operas make up this series. </p>
+                </scopecontent>
+
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+
+
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Aframerican Opera Foundation--Letter Draft, circa
+                            <unitdate>1940s</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+
+
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Article Draft--“The Musical Outlook,”
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+
+
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Book Draft, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+
+
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Libretti, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+
+
+                        <container type="Folder" label="Folder">5 to 6</container>
+                        <unittitle>Plays, <unitdate>1921, </unitdate>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">50</container>
+
+
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>Scenarios, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+
+
+                        <container type="Folder" label="Folder">12</container>
+                        <unittitle>Scenarios--Fragment, <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series VI: Arts Organizations associated with the Freemans, <unitdate type="inclusive">1920-1982, </unitdate>
+                        <unitdate>undated</unitdate>
+                    </unittitle>
+                </did>
+
+                <scopecontent><p> Material relating to several different arts organizations in which the
+                        Freeman family participated is gathered in this series. The material is
+                        organized in alphabetical order by group name. Materials from the
+                        Aframerican Opera Foundation include cards, letterhead, and contracts for
+                        this organization, and a roll book of members for an earlier version of this
+                        group, the Aframerican Opera Guild, from the early 1940s. The Friends
+                        Amusement Guild folder includes tickets, fliers, a membership card, a
+                        newsletter from 1933, a list of members, and a poem by Leo Evans about the
+                        group. Valdo Freeman served as Administrative Secretary for the Negro
+                        Actors’ Guild from the mid-1960s until his death in 1972; during the late
+                        1970s Anita continued her husband’s work as chairwoman of various
+                        committees. Most of the material related to the Negro Actors’ Guild is from
+                        Anita’s work with the group’s assistance program for members who fell on
+                        hard times. It also includes a few newsletters from the period of Valdo’s
+                        work with the organization, including one memorializing him shortly after
+                        his death, and a certificate of memorial for H. Lawrence Freeman. One
+                        clipping from the organization’s newspaper in 1939 is present, but partially
+                        deteriorated. Documents from the Negro Grand Opera Company include contracts
+                        between the three Freemans and the company, books of stock certificates and
+                        records of stock sold, and ephemera including promotional materials about
+                        the group, an embossing press, letterhead, and a copperplate block for
+                        printing the company’s logo. (For more financial records of this
+                        organization, please see Series III: Performance Documentation, Box 12,
+                        Folder 6, "Financial Documents," many of which relate to the Negro Grand
+                        Opera Company.) </p>
+                </scopecontent>
+
+                <c level="file">
+                    <did><unittitle>Aframerican Opera Foundation</unittitle>
+                    </did>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">49</container>
+
+
+                            <container type="Folder" label="Folder">8</container>
+                            <unittitle>Documents and contracts, <unitdate type="inclusive">1920-1924</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">15</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Program Draft, <unitdate>1950</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+
+
+                        <container type="Folder" label="Folder">9</container>
+                        <unittitle>Friends Amusement Guild--Documents and Ephemera, <unitdate type="inclusive">1931-1935, </unitdate>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">49</container>
+
+
+                        <container type="Folder" label="Folder">10</container>
+                        <unittitle>Negro Actors’ Guild--Documents and Clipping,
+                            <unitdate>1939</unitdate> circa <unitdate type="inclusive">1954-1982</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><unittitle>Negro Grand Opera Company</unittitle>
+                    </did>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">49</container>
+
+
+                            <container type="Folder" label="Folder">11</container>
+                            <unittitle>Documents and contracts, <unitdate type="inclusive">1920-1923</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">51</container>
+
+
+                            <container type="Folder" label="Folder">1 to 2</container>
+                            <unittitle>Stock certificate books, <unitdate>1920</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">51</container>
+
+
+                            <container type="Folder" label="Folder">3</container>
+                            <unittitle>Company records book, <unitdate>1920</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">51</container>
+
+
+                            <container type="Folder" label="Folder">4</container>
+                            <unittitle>Copperplate logo stamp, circa <unitdate>1920</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">51</container>
+
+
+                            <container type="Folder" label="Folder">5</container>
+                            <unittitle>Company embossing stamp, circa <unitdate>1920</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series VII: Audio, <unitdate type="inclusive">1971-1972, </unitdate>
+                        <unitdate>undated</unitdate>
+                    </unittitle>
+                </did>
+
+                <scopecontent><p> A copy of an interview Valdo Freeman gave to Yale’s Oral History of American
+                        Music project in 1971, along with a recording of him playing excerpts of his
+                        father’s music, make up this series. </p>
+                </scopecontent>
+
+                <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+
+
+                        <container type="Folder" label="Folder">1</container>
+                        <unittitle>Valdo Freeman--Interview--American Music Series,
+                            <unitdate>1971</unitdate>
+                        </unittitle>
+                        <physdesc>(reel to reel)</physdesc>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+
+
+                        <container type="Folder" label="Folder">2</container>
+                        <unittitle>Valdo Freeman--Interview--American Music Series,
+                            <unitdate>1972</unitdate>
+                        </unittitle>
+                        <physdesc>(reel to reel)</physdesc>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">52</container>
+
+
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle><title render="italic">Vendetta</title>--“Clarissa Aria” and “Amita
+                            Aria,” <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(2 LPs)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series VIII: Scrapbooks and Clippings, <unitdate type="inclusive">1898-1954, </unitdate>
+                        <unitdate>undated</unitdate>
+                    </unittitle>
+                </did>
+
+                <scopecontent><p> H. Lawrence Freeman or other family members compiled many scrapbooks during
+                        his lifetime— six are extant in this series, several of which overlap in
+                        dates. The scrapbooks contain clippings, correspondence, programs, and other
+                        ephemera related to the Freeman’s careers; some are annotated by H. Lawrence
+                        Freeman. This series also includes a file of loose clippings. In addition to
+                        articles written by H. Lawrence Freeman or related to his career, he had a
+                        collection of clippings—articles and pictures—about African-American
+                        performing artists. A few complete issues of periodicals are also included
+                        here. </p>
+                </scopecontent>
+
+                <c level="file">
+                    <did><container type="Box" label="Box">53</container>
+
+
+                        <container type="Folder" label="Folder">1 to 5</container>
+                        <unittitle>Loose scrapbook pages, <unitdate type="inclusive">1930-1935</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(5 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+
+
+                        <container type="Folder" label="Folder">3</container>
+                        <unittitle>Loose scrapbook pages--oversize, <unitdate>1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+
+
+                        <container type="Folder" label="Folder">1 to 3</container>
+                        <unittitle>Loose clippings and printed materials--general,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc><extent>(3 Folders)</extent>
+                        </physdesc>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">54</container>
+
+
+                        <container type="Folder" label="Folder">4</container>
+                        <unittitle>Loose clippings--African-Americans in the arts,
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">55</container>
+                        <unittitle>Black scrapbook, <unitdate type="inclusive">1908-1940</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">56</container>
+                        <unittitle>Black scrapbook, <unitdate>1937</unitdate> and
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">57</container>
+                        <unittitle>Large scrapbook with missing covers, <unitdate type="inclusive">1920-1930</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">58</container>
+                        <unittitle>Large brown scrapbook--50th anniversary cards,
+                            <unitdate>1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">59</container>
+                        <unittitle>Small marbled scrapbook, <unitdate type="inclusive">1898-1929</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">60</container>
+                        <unittitle>Wallpaper scrapbook, <unitdate type="inclusive">1918-1928</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+
+
+            <c level="series">
+                <did><unittitle>Series IX: Personal, circa <unitdate type="inclusive">1898-1972, </unitdate>
+                        <unitdate>undated</unitdate>
+                    </unittitle>
+                </did>
+
+                <scopecontent><p> This series contains resumes for H. Lawrence Freeman, invitations and
+                        programs for non-professional events he attended and for his funeral,
+                        personal documents related to other members of the family, and personal
+                        ephemera, including a violin that belonged either to H. Lawrence or Valdo
+                        Freeman. There is a folder of documentation about the "Military Boy Scouts,"
+                        a Harlem group to which Valdo Freeman belonged circa 1910-1918, with some
+                        photographs. Also included are the program and menu for a dinner in honor of
+                        W.E.B. DuBois, 1924, and program of the Fourth Pan-African Congress, 1927.
+                    </p>
+                </scopecontent>
+
+                <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+
+
+                        <container type="Folder" label="Folder">6</container>
+                        <unittitle>Documents and photographs, circa <unitdate type="inclusive">1915-1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><container type="Box" label="Box">36</container>
+
+
+                        <container type="Folder" label="Folder">7</container>
+                        <unittitle>General, <unitdate type="inclusive">1933-1938, </unitdate>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+
+
+                <c level="file">
+                    <did><unittitle>Ephemera</unittitle>
+                    </did>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <unittitle>Brass plaque</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <unittitle>Mirror with photo on back hhh</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <unittitle>Scissors</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <unittitle>Straight razor and Box</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <unittitle>Stamp with numerical wheel</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">61</container>
+                            <unittitle>Stamps with faces (2)</unittitle>
+                        </did>
+                    </c>
+
+
+
+                    <c level="file">
+                        <did><container type="Box" label="Box">62</container>
+                            <unittitle>Valdo Freeman’s Violin--German, circa
+                                <unitdate>1898</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+
+
+        </dsc>
+    </archdesc>
+</ead>

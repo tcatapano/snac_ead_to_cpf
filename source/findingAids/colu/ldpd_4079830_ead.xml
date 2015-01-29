@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-ua_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+    <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079830_ead//EN" mainagencycode="nnc-rb">ldpd_4079830_ead.xml</eadid>
+        <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Charles T. Cotton Diaries</titleproper>
+                <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+            </titlestmt>
+            <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+                <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+                <address><addressline>6th Fl. East</addressline>
+                    <addressline>535 West 114th St.</addressline>
+                    <addressline>New York, NY 10027</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+            </creation>
+            <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+            </langusage>
+        </profiledesc>
+        <revisiondesc><change><date normal="2012-05-29">2012-05-29</date>
+                <item>xml document created by Judi Zupnick</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did><origination><persname encodinganalog="100">Cotton, Charles T., ca. 1830-1877?</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" altrender="Charles T. Cotton Diaries">Charles T. Cotton Diaries</unittitle>
+            <unitdate encodinganalog="245$f" normal="1850/1877" type="inclusive">1850-1877.</unitdate>
+            <physdesc><extent encodinganalog="300">0.5 linear ft. (15 items in 1 box).</extent>
+            </physdesc>
+            <repository encodinganalog="852">
+                <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+                </corpname>
+                <address><addressline>Butler Library, New York, NY 10027.</addressline>
+                </address>
+            </repository>
+            <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS# 0288</unitid>
+            <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079830</unitid>
+            <langmaterial encodinganalog="546">
+                <language langcode="eng">In English</language>
+            </langmaterial>
+        </did>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p><!-- BIOGHIST REQUIRED -->Diarist and federal clerk in the U.S. Pension Bureau. Cotton was born in Natchez, Mississippi and taught school in nearby Pine Ridge. In 1851, he left Natchez and traveled via New Orleans and Havana to New York City and on to New Hampshire where he had relatives. By the summer of 1855 he was in St. Paul, Minnesota Territory where he clerked in a law office. At the end of 1859 he visited Natchez and Memphis, Tennessee. He moved to Washington, D.C. and in 1863 he was employed as a federal clerk in the Pension Bureau where he remained for the rest of his life. In later years he was the Recording Secretary of the Southern Republican Association.</p>
+            <p/>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>Cotton's 15 nonconsecutive manuscript pocket diaries for the period from 1850 to 1877. The diaries outline his life and travels. The entries for the Civil War years are especially interesting. He often describes the capital's fear of enemy invasion, recent nearby incursions, troop movements, and the general preoccupation with all aspects of the war. He called on President Lincoln, attended his second inauguration, and notes the passage of the Emancipation Proclamation. He describes the capital's joyous mood at the fall of Richmond and the gloom over the assassination of Lincoln. He attended the military court to see the conspirators. Later volumes talk about Pension Bureau affairs and his health and that of his family.</p>
+            <p/>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in one series<list type="marked"> 
+               <item>Series I: Diaries</item>
+                </list>
+            </p>
+        </arrangement>
+        <controlaccess><head>Subjects</head>
+            <corpname encodinganalog="610">United States.--Pension Bureau.</corpname>
+            <corpname encodinganalog="610">United States.--President (1861-1865 : Lincoln).--Emancipation Proclamation.</corpname>
+            <persname encodinganalog="600">Lincoln, Abraham, 1809-1865.</persname>
+            <geogname encodinganalog="651">Natchez (Miss.)</geogname>
+            <geogname encodinganalog="651">New Hampshire.</geogname>
+            <geogname encodinganalog="651">Saint Paul Metropolitan Area (Minn.)</geogname>
+            <geogname encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+            <geogname encodinganalog="651">Washington (D.C.)--History--Civil War, 1861-1865.</geogname>
+            <geogname encodinganalog="651">Washington (D.C.)--Social life and customs.</geogname>
+            <subject encodinganalog="650">Civil service.</subject>
+            <genreform encodinganalog="655" source="aat">Accounts.</genreform>
+            <genreform encodinganalog="655" source="aat">Appointment books.</genreform>
+            <genreform encodinganalog="655" source="aat">Diaries.</genreform>
+            <genreform encodinganalog="655" source="aat">Financial records.</genreform>
+            <genreform encodinganalog="655" source="aat">Lists.</genreform>
+            <occupation encodinganalog="656" source="lcsh">Law clerks.</occupation>
+            <occupation encodinganalog="656" source="lcsh">Public officers.</occupation>
+            <occupation encodinganalog="656" source="lcsh">Teachers.</occupation>
+        </controlaccess>
+        <acqinfo encodinganalog="541">
+            <head>Acquisition</head>
+            <p>01/11/94 M-94-01-11 15 diaries 5285B (NYState) Purchase</p>
+        </acqinfo>
+        <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>[Collection Name]. Rare Book and Manuscript
+                Library. Columbia University.</p>
+        </prefercite>
+        <processinfo encodinganalog="583">
+            <head>Processing Information</head>
+            <p>15 diaries Cataloged 01/25/94 HR</p>
+        </processinfo>
+        <userestrict encodinganalog="540">
+            <head>Restrictions on Use</head>
+            <p>Permission to publish materials must be obtained in writing from the Librarian for Rare Books and Manuscripts.</p>
+        </userestrict>
+        <dsc><c level="series">
+                <did><unittitle>Series I: Charles T. Cotton Diaries</unittitle>
+                </did>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1850</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1851</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1855</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1856</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1859</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1863</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1864</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1865</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1866</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1871</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1872</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1873</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1874</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1876</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle><unitdate>1877</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

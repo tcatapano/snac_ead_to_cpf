@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_9503889_ead//EN" mainagencycode="nnc-rb">ldpd_9503889_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Margaret B. Young papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2012-07-11">July 11, 2012 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+               <date normal="2012-07-11">July 11, 2012 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2012-07-11">2012-07-11</date>
+            <item>xml document instance created by Carrie Hintz</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Young, Margaret B.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Margaret B. Young papers,">Margaret B. Young
+            Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1921/2010" type="inclusive">1921-2010</unitdate>
+         <unitdate encodinganalog="245$g" type="bulk">[Bulk Dates: 1965-2000].</unitdate>
+         <physdesc><extent encodinganalog="300">12.26 linear ft. (6 record cartons, and 6 flat
+               boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address><addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num">MS#1622</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">9503889</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng"> Material is in English </language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->Margaret Buckner Young was born in Campbellsville, Kentucky on
+            March 29, 1921. After receiving her primary and secondary education in Aurora, Illinois,
+            Young went to Kentucky State Industrial College where she graduated with majors in
+            English and French and met Whitney M. Young, Jr. The couple married in 1944 before
+            Whitney left for Europe to serve with the army in World War II. During Whitney’s
+            absence, Margaret Young continued her education, earning a master’s degree in
+            educational psychology at the University of Minnesota in 1946. Whitney joined her in
+            Minnesota, beginning his work with the National Urban League there. In 1953 the Youngs
+            moved to Atlanta where Whitney served as the Dean of the Atlanta School of Social Work.
+            Margaret was a professor of educational psychology at Spelman College. During the
+            family’s time in Atlanta, Margaret was frustrated by her inability to actively protest
+            the dramatic segregation there without endangering her young children. </p>
+         <p>In 1961, the Youngs moved to New Rochelle, New York, and Whitney took on the role of
+            Executive Director at the National Urban League. As her husband gained prominence,
+            Margaret Young retained a more private role concentrating on raising their two
+            daughters. She began a career as a writer, publishing articles including “A Negro Mother
+            Speaks of her Challenging Role in a Changing World” for <title render="italic">Parents’
+               Magazine</title> (1964) and the Public Affairs Pamphlet “How to Bring Up Your Child
+            Without Prejudice” (1965). She also published several children’s books including <title render="italic">The First Book of American Negroes</title> (1966), and <title render="italic">The Picture Life of Martin Luther King, Jr.</title> (1967). While
+            Margaret Young’s writings echo her husband’s goals of racial equality, Young used her
+            writing and her work with school children to make an independent mark on education
+            practices in the United States regarding race, racism, and African American history.</p>
+         <p>Whitney Young drowned off the coast of Lagos, Nigeria in 1971. His death brought about
+            abrupt changes in Margaret Young’s personal and professional life. As Whitney Young’s
+            widow, Margaret Young dedicated herself to activism for racial equality by taking on
+            numerous professional positions. She continued her husband’s efforts to improve
+            relations between the United States and Africa, traveling to Nigeria alone in 1974 and
+            again with President Jimmy Carter on a state visit in 1978. She served in the United
+            Nations as a member of the United States delegation to the 28th General Assembly in
+            Yugoslavia in 1974. There she presented a paper on “The Promotion and Protection of
+            Human Rights of National, Ethnic and Other Minorities.” Young also was a member of a
+            panel for the United Nations Association of the United States of America considering
+            United States relations with China in 1978 and 1979. In the 1980s she served lengthy
+            terms on the boards of directors at several corporations including Philip Morris and New
+            York Life. Her work in these positions reflected her ongoing dedication to achieving
+            racial equality, but she also gained experience and recognition beyond her input on
+            racial issues. </p>
+         <p>Margaret Young was also deeply involved in the commemoration of her husband as the head
+            of the Whitney M. Young, Jr. Memorial Foundation and through her involvement with the
+            National Urban League. She also worked with many other institutions that sought to
+            preserve the memory of Whitney Young including Columbia University, Kentucky State
+            University, the Clark Atlanta School of Social Work, and the Wharton School of the
+            University of Pennsylvania.</p>
+         <p>In 1990, Margaret Young moved to Denver, Colorado and dissolved the Whitney M. Young,
+            Jr. Memorial Foundation. In her retirement she continued to write stories for children
+            that featured African American characters. She died at age eighty-eight on December 5,
+            2009 of complications from cancer.</p>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>This collection is made up of Margaret Young's professional papers, writings, personal
+            and professional correspondence, biographical material, and photographs. A significant
+            portion of the material, including a number of photographs, documents the career and
+            commemoration of Whitney M. Young, Jr. There are several oversized items including photo
+            albums, awards, and scrapbooks that relate to Margaret Young's professional activities
+            and travels. The files span Margaret Young's lifetime, but most of the material
+            documents her activities after Whitney Young's death in 1971.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>Material is arranged into 7 series<list type="marked">
+                    <item>Series I: Whitney M. Young,
+                  Jr. Files, 1921-2009</item>
+               <item>Series II: Professional Activities, 1964-1996</item>
+                    <item>Series III: Writings
+                  and Publications, 1953-1997</item>
+                    <item>Series IV: Correspondence,
+                  1945-2009</item>
+                    <item>Series V: Personal Papers, 1921-2010</item>
+                    <item>Series VI:
+                  Photographs, 1930s-2003<list type="marked">
+                     <item>
+                        Subseries VI.1: Margaret Young Photographs, 1930s-2003</item>
+                     <item>Subseries VI.2: Whitney M. Young, Jr. Photographs, 1943-1996</item>
+                        </list>
+                    </item>
+                  <item>Series VII: Awards and Recognition, 1971-1993</item>
+                </list>
+            </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">National Urban League.</corpname>
+         <corpname encodinganalog="610">Philip Morris USA.</corpname>
+         <corpname encodinganalog="610">United Nations.</corpname>
+         <corpname encodinganalog="610">Whitney M. Young, Jr. Memorial Library of Social
+            Work.</corpname>
+         <persname encodinganalog="600">Carter, Jimmy, 1924-</persname>
+         <persname encodinganalog="600">Johnson, Lyndon B. (Lyndon Baines), 1908-1973.</persname>
+         <persname encodinganalog="600">Kennedy, Robert F., 1925-1968.</persname>
+         <persname encodinganalog="600">Young, Margaret B.</persname>
+         <persname encodinganalog="600">Young, Whitney M.</persname>
+         <geogname encodinganalog="651">United States--Social conditions.</geogname>
+         <subject encodinganalog="650">African Americans--History.</subject>
+         <subject encodinganalog="650">Charitable uses, trusts, and foundations.</subject>
+         <subject encodinganalog="650">Charities.</subject>
+         <subject encodinganalog="650">Children's literature.</subject>
+         <subject encodinganalog="650">Civil Rights.</subject>
+         <subject encodinganalog="650">Public welfare--Societies, etc.</subject>
+         <subject encodinganalog="650">Social problems.</subject>
+         <subject encodinganalog="650">Social service--Societies, etc.</subject>
+         <subject encodinganalog="650">Sociologists.</subject>
+         <subject encodinganalog="650">Sociology, Urban--Societies, etc.</subject>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>This collection is located off-site. You will need to request this material at least 2
+            business days in advance to use the collection in the Rare Book and Manuscript Library
+            reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>of Marcia Young Cantarella and Lauren Young Casteel Gift 1/6/2011</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Margaret B. Young Papers; Box and
+            Folder (if known); Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Papers processed 06/--/2012 Mary Freeman, Columbia University GSAS </p>
+         <p>Finding aid written 07/10/2012 Mary Freeman, Columbia University GSAS</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. The RBML maintains ownership of
+            the physical material only. Copyright remains with the creator and his/her heirs. The
+            responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+            <did><unittitle>Series I: Whitney M. Young, Jr. Files, 1921-2009</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Personal papers, <unitdate type="inclusive">1921-1971</unitdate>
+                     (Includes birth certificate, military discharge documents, death certificate,
+                     press clippings)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Professional papers</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>White House events, <unitdate type="inclusive">1964-1968</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">1</container>
+                     <unittitle>General, <unitdate type="inclusive">1965-1970</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Writings, speeches, and publications, <unitdate type="inclusive">1963-2003</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Lagos, Nigeria, <unitdate type="inclusive">1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Whitney M. Young, Jr. Memorial Library-Lagos, Nigeria, <unitdate type="inclusive">1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>Whitney M. Young, Jr. Memorial Foundation, Inc.-Dissolution, <unitdate type="inclusive">1991-1992</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>National Urban League, <unitdate type="inclusive">1980-2010</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">1</container>
+                  <unittitle>National Urban League Conference tapes, <unitdate type="inclusive">2004</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(3 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Clark Atlanta Graduate School of Social Work, <unitdate type="inclusive">1971-2000</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Kentucky State University, <unitdate type="inclusive">1977-1998</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Lincoln Foundation, <unitdate type="inclusive">1979-1992</unitdate>
+                     (Includes some correspondence with Margaret Young)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>United States Postal Service, <unitdate type="inclusive">1981-1998</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Columbia University, <unitdate type="inclusive">1982-1998</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>The Wharton School of the University of Pennsylvania</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Whitney M. Young, Jr. Professorship, <unitdate type="inclusive">1996</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Whitney M. Young, Jr. Memorial Conference, <unitdate type="inclusive">1999</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Dennis Dickerson-Whitney M. Young, Jr. Biography</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Correspondence with Margaret Young regarding biography, <unitdate type="inclusive">1992-1999</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Chapters 10 &amp; 11 with Margaret Young annotations, <unitdate type="inclusive">1994</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Whitney M. Young, Jr. commemoration-General, <unitdate type="inclusive">1971-2009</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Pins</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <unittitle>Nixon/Agnew Inaugural <unitdate type="inclusive">ca.
+                        1969</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <unittitle>Kennedy for Equality <unitdate type="inclusive">ca.
+                        1960</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Drawing of Chair</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>United States Postal Service-Whitney M. Young, Jr. Black Heritage stamp
+                     first day of issue covers, <unitdate type="inclusive">1981</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Records</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <unittitle><title render="italic">The Stars Salute Dr. Martin Luther King,</title>
+                        <unitdate type="inclusive">ca. 1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">7</container>
+                     <unittitle><title render="italic">In Memoriam Whitney Moore Young, Jr.
+                           1921-1971</title>
+                        <unitdate type="inclusive">1971</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series II: Professional Activities, 1964-1996</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>White House events, <unitdate type="inclusive">1964-1990</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">2</container>
+                  <unittitle>Visit to Lagos, Nigeria, <unitdate type="inclusive">1974</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>United Nations</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">2</container>
+                     <unittitle>Decade for Action to Combat Racism and Seminar on Human
+                        Rights-Yugoslavia &amp; Eastern Europe, <unitdate type="inclusive">1973-1975</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(4 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">3</container>
+                     <unittitle>National Policy Panel to Study U.S.-China Relations-East Asia
+                        travel, <unitdate type="inclusive">1978-1979</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(2 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Jimmy Carter-State visit to Brazil, Liberia, and Nigeria, <unitdate type="inclusive">1978</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>Philip Morris-Board of directors, <unitdate type="inclusive">1972-1996</unitdate> (Mainly regarding Berlin trip)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3</container>
+                  <unittitle>New York Life Insurance Company-Board of directors, <unitdate type="inclusive">1980-1995</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series III: Writings and Publications, 1953-1997</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="box" label="Box">3 </container>
+                  <unittitle>“A Negro Mother Speaks of her Challenging Role in a Changing
+                        World”-<title render="italic">Parents’ Magazine</title>, <unitdate type="inclusive">1964</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3 </container>
+                  <unittitle>“How to Raise a Child Without Prejudice”-Public Affairs
+                        Pamphlet,<unitdate type="inclusive">1965-1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3 </container>
+                  <unittitle><title render="italic">The First Book of American Negroes</title>
+                     &amp; <title render="italic">The Picture Life of Martin Luther King,
+                        Jr.,</title>
+                     <unitdate type="inclusive">1966-1967</unitdate> (cover only)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3 </container>
+                  <unittitle>Franklin Watts, Inc. Publishers, <unitdate type="inclusive">1966-1984</unitdate> (Includes press clippings, royalties,
+                     contracts)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">3 </container>
+                  <unittitle>Writings-General, <unitdate type="inclusive">ca. 1953-1997</unitdate>
+                     (Includes articles, speeches, poetry, essays, and notes; 2 folders)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Institute of Children’s Literature-Correspondence course, <unitdate type="inclusive">1982-1995</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(4 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">4</container>
+                  <unittitle>Notes for a children’s story, <unitdate type="inclusive">ca.
+                        1990s</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series IV: Correspondence, 1945-2009</unittitle>
+            </did>
+            <c level="file">
+               <did><unittitle>Letters from students</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Books &amp; classroom visits, <unitdate type="inclusive">1967-1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Condolence, <unitdate type="inclusive">1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Professional</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Regarding books &amp; articles, <unitdate type="inclusive">1964-1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>United Nations-Mainly regarding trip to Yugoslavia, <unitdate type="inclusive">1974-1979</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>United States Military Academy Board of Visitors, <unitdate type="inclusive">1978-1981</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>Dissolution of the Whitney M. Young, Jr. Memorial Foundation,
+                           <unitdate type="inclusive">1990-1992</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">4</container>
+                     <unittitle>General, <unitdate type="inclusive">1958-2004</unitdate> (Includes
+                        professional activity at New York Life, Philip Morris, Spelman College; 4
+                        folders)</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><unittitle>Personal</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>White House and big names, <unitdate type="inclusive">1945-2001</unitdate> (Includes a photocopied letter written by Whitney
+                        Young during World War II)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>General, <unitdate type="inclusive">1959-2005</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(6 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Greeting cards, <unitdate type="inclusive">ca.
+                        1970-2009</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Birthday greeting, <unitdate type="inclusive">1972</unitdate>
+                     (oversized; signed by Nelson Rockefeller, Spiro Agnew, James L. Buckley, and
+                     Terence Cardinal Cooke)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Letter from Lyndon B. Johnson, <unitdate type="inclusive">1972</unitdate> (oversized; concerns Civil Rights Symposium)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Letter from Jackie Kennedy Onassis, <unitdate type="inclusive">1968</unitdate> (oversized)</unittitle>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series V: Personal Papers, 1921-2010</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>General, <unitdate type="inclusive">1921-1993</unitdate> (Includes
+                     birth certificates, transcripts, passports)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><unittitle>Biographical information</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle>Columbia University oral history, <unitdate type="inclusive">1975-1984</unitdate> (Three copies including a copy of the original
+                        transcript with annotations; 3 folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">5</container>
+                     <unittitle><title render="italic">Who’s Who</title> biographies and transcript
+                        of an interview with Chris Wilkins, <unitdate type="inclusive">1989-1997</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Address books &amp; planners, <unitdate type="inclusive">1994-2000</unitdate>
+                  </unittitle>
+                  <physdesc><extent>(2 folders)</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Newspaper clippings and articles, <unitdate type="inclusive">1974-2003</unitdate> (Includes writings by and about family
+                     members)</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">5</container>
+                  <unittitle>Obituaries &amp; commemoration, <unitdate type="inclusive">2009-2010</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Scrapbook, <unitdate type="inclusive">1962-1965</unitdate> (Mainly
+                     items related to Lyndon B. Johnson’s inauguration)</unittitle>
+               </did>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series VI: Photographs, 1930s-2003</unittitle>
+            </did>
+
+
+            <c level="subseries">
+               <did><unittitle>Subseries VI.1: Margaret Young Photographs, 1930s-2003</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Family and friends, <unitdate type="inclusive">ca.
+                           1930s-2000</unitdate> (Includes some childhood photos; 3
+                        folders)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Headshots, <unitdate type="inclusive">ca. 1974-1991</unitdate>
+                        (Includes some related correspondence)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Lagos, Nigeria, <unitdate type="inclusive">1974</unitdate> (Includes
+                        newspaper clippings)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><unittitle>United Nations</unittitle>
+                  </did>
+                  <c level="file">
+                     <did><container type="box" label="Box">6</container>
+                        <unittitle>Poland &amp; Yugoslavia, <unitdate type="inclusive">1974</unitdate>
+                                </unittitle>
+                     </did>
+                  </c>
+                  <c level="file">
+                     <did><container type="box" label="Box">6</container>
+                        <unittitle>China album, <unitdate type="inclusive">1979</unitdate> (Includes
+                           newspaper clippings)</unittitle>
+                     </did>
+                  </c>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">10</container>
+                     <unittitle>Professional activities and events, <unitdate type="inclusive">ca.
+                           1963-2003</unitdate>
+                     </unittitle>
+                     <physdesc><extent>(4 folders)</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">10</container>
+                     <unittitle>Souvenir photograph plate-Rio de Janeiro, <unitdate type="inclusive">1978</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">10</container>
+                     <unittitle>Philip Morris Nigeria album, <unitdate type="inclusive">1974</unitdate> (album and folder of loose photos)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">10</container>
+                     <unittitle>Headshots and professional activities, <unitdate type="inclusive">ca. 1970s</unitdate> (oversized)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">10</container>
+                     <unittitle>China trip, <unitdate type="inclusive">ca. 1978-1979</unitdate>
+                        (oversized)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">11</container>
+                     <unittitle>Nigeria, Ghana, and Spain album, <unitdate type="inclusive">1974</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">11</container>
+                     <unittitle>Philip Morris Board of Directors Meeting album-Berlin, <unitdate type="inclusive">1993</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+            </c>
+
+
+            <c level="subseries">
+               <did><unittitle>Subseries VI.2: Whitney M. Young, Jr. Photographs, 1943-1996</unittitle>
+               </did>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Family and friends, <unitdate type="inclusive">ca.
+                           1943-1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Headshots, <unitdate type="inclusive">ca.
+                        1960s</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Professional activities and events, <unitdate type="inclusive">ca.
+                           1962-1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Lagos, Nigeria, <unitdate type="inclusive">1971</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>Commemoration, <unitdate type="inclusive">ca.
+                        1974-1998</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">6</container>
+                     <unittitle>The Wharton School of the University of Pennsylvania album-Whitney
+                        M. Young, Jr. Professorship, <unitdate type="inclusive">1996</unitdate>
+                            </unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <unittitle>Professional activities and events-White House and Lyndon B.
+                        Johnson, <unitdate type="inclusive">1967</unitdate> (oversized, includes
+                        attached correspondence)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <unittitle>Photo with children, <unitdate type="inclusive">ca.
+                           1960-1971</unitdate> (oversized)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <unittitle>Headshots, <unitdate type="inclusive">ca. 1960-1971</unitdate>
+                        (oversized)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <unittitle>Photo with Pope Paul VI, <unitdate type="inclusive">1970</unitdate>
+                        (oversized)</unittitle>
+                  </did>
+               </c>
+               <c level="file">
+                  <did><container type="box" label="Box">8</container>
+                     <unittitle>Photo with Martin Luther King, Jr., <unitdate type="inclusive">ca.
+                           1963</unitdate> (oversized)</unittitle>
+                  </did>
+               </c>
+            </c>
+         </c>
+
+
+
+         <c level="series">
+            <did><unittitle>Series VII: Awards and Recognition, 1971-1993</unittitle>
+            </did>
+            <c level="file">
+               <did><container type="box" label="Box">6</container>
+                  <unittitle>New York Service Award-John V. Lindsay, <unitdate type="inclusive">1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">7</container>
+                  <unittitle>Whitney M. Young, Jr.-Family of Man Award, <unitdate type="inclusive">1971</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Urban League of Metropolitan Denver-McKinley Harris Distinguished
+                     Warrior Award, <unitdate type="inclusive">2000</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Letter of recognition from the YWCA Salute to Women in Business,
+                        <unitdate type="inclusive">1977</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Letter of recognition upon retirement from the Board of Directors of
+                     New York Life, <unitdate type="inclusive">1992</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Letter of recognition from the Board of Directors of Altria Group, Inc,
+                        <unitdate type="inclusive">2010</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">9</container>
+                  <unittitle>Letter of recognition from the Board of Directors of New York Life,
+                        <unitdate type="inclusive">2009</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">10</container>
+                  <unittitle>Los Angeles Urban League medal, <unitdate type="inclusive">1991</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Lady Bird Johnson-Recognition for Lyndon B. Johnson Civil Rights
+                     Symposium, <unitdate type="inclusive">1972</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Philip Morris Minority Advisory Committee Plaque, <unitdate type="inclusive">1993</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>United States Military Academy Board of Visitors Plaque, <unitdate type="inclusive">ca. 1978-1981</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle><title render="italic">Dollars &amp; Sense</title> Top 100 Black
+                     Business and Professional Women Plaque</unittitle>
+               </did>
+            </c>
+            <c level="file">
+               <did><container type="box" label="Box">12</container>
+                  <unittitle>Martin Luther King, Jr. Annual Drum Major Memorial Award-New Rochelle
+                     Community Action Agency, <unitdate type="inclusive">1979</unitdate>
+                        </unittitle>
+               </did>
+            </c>
+         </c>
+
+      </dsc>
+   </archdesc>
+</ead>

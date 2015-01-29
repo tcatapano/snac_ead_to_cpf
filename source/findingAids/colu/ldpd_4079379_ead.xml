@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079379_ead//EN" mainagencycode="nnc-rb">ldpd_4079379_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Guide to the George Templeton Strong Papers">Guide to the George Templeton Strong Papers</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-07-07">July 7, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-07-07">July 7, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2009-07-07">2009-07-07</date>
+            <item>File created.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Strong, George Templeton, 1820-1875.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="George Templeton Strong Papers">George Templeton Strong Papers</unittitle>
+         <unitdate encodinganalog="245$f" normal="1835/1875" type="inclusive">1835-1875.</unitdate>
+         <physdesc><extent encodinganalog="300">ca. 151 items (1 box, 9 bundles)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079379</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>History</head>
+         <p><!-- BIOGHIST REQUIRED -->New York lawyer, Trustee of Columbia University. Strong took an active role in New York City's cultural and scoial life.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>A photostatic copy of the diary of Strong. The diary, running without interruption from Oct. 1835 through June 1875, contains a wealth of information about life in New York City. Its scope broadens to include the national scene with the outbreak of the Civil War. There is also a miscellaneous assortment of approximately 150 photostatic copies of personal correspondence with family and friends, correspondence during his term as treasurer of the U.S. Sanitary Commission, original drawings, caricatures and doodlings, invitations, guest lists, theater and concert programs, newspaper clippings, a family tree, and photographs. Also, a typescript copy of the diary, with an index.</p>
+         <p/>
+      </scopecontent>
+      <controlaccess><head>Subjects</head>
+         <corpname encodinganalog="610">United States Sanitary Commission.</corpname>
+         <geogname encodinganalog="651">New York (N.Y.)--Social life and customs.</geogname>
+         <geogname encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+         <subject encodinganalog="650">Theater--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Families--New York (State)--New York.</subject>
+         <subject encodinganalog="650">Concerts--New York (State)--New York.</subject>
+         <genreform encodinganalog="655" source="fatmc">Photoprints.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Cartoons.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Diaries.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Drawings.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Genealogies.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Lawyers.</occupation>
+      </controlaccess>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1953 M-53 Nevins, Allen Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>&gt;George Templeton Strong Papers. Rare Book and Manuscript
+                                    Library. Columbia University.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 09/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>The New-York Historical Society owns the literary rights to the diary. Permission to publish required.</p>
+      </userestrict>
+      <otherfindaid encodinganalog="555">
+         <p>Contents list.</p>
+         <p><extref xlink:type="simple" xlink:href="http://www.columbia.edu/cu/libraries/inside/projects/findingaids/scans/pdfs/42_STE-SY_17.pdf">PDF available.</extref>
+         </p>
+      </otherfindaid>
+   </archdesc>
+</ead>

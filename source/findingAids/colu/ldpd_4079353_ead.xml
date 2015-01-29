@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4079353_ead//EN" mainagencycode="nnc-rb">ldpd_4079353_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the George Ephraim Sokolsky Manuscripts</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-03-11">2010-03-11</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Sokolsky, George E. (George Ephraim), 1893-1962.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="George Ephraim Sokolsky Manuscripts">George Ephraim Sokolsky Manuscripts,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1919/1962" type="inclusive">1919-1962</unitdate>
+         <physdesc><extent encodinganalog="300">ca. 9,500 items (23 boxes, 10 v., 28 large envelopes, 1,800 phonodiscs)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>New York, NY.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4079353</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Columnist, author, lecturer.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Manuscripts of Sokolsky, including notes and typescripts for his newspaper columns, magazine articles, radio broadcasts, and for several of his books, including <title render="italic">Outlines of Universal History</title>, <title render="italic">Tinder Box of Asia</title>, and <title render="italic">We Jews</title>. Also, scrapbooks and envelopes of clippings of his newspaper columns and articles; and approximately 1,800 transcriptions of Sokolsky's radio broadcasts.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 2 series:</p>
+         <p><list type="marked">
+               <item>Series I: Manuscripts</item>
+               <item>Series II: Clippings</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <subject encodinganalog="650">Radio programs.</subject>
+         <subject encodinganalog="650">Newspapers--Sections, columns, etc.</subject>
+         <subject encodinganalog="650">Journalism.</subject>
+         <genreform encodinganalog="655" source="ftamc">Scrapbooks.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Sound recordings.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Authors.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Journalists.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Lecturers.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: 2-22. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>1962 M-62 Estate of George E. Sokolsky Gift</p>
+      </acqinfo>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); George Ephraim Sokolsky Manuscripts; Box and Folder; Rare Book and Manuscript Library, Columbia University Library..</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Cataloged 09/--/89 Christina Hilton Fenn</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Manuscripts</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Outlines of Universal History</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Tinder Box of Asia</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Handbook for Ambitious Girls</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <unittitle>Liberty Articles</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">6-9</container>
+                        <unittitle>Miscellaneous articles</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">10-14</container>
+                        <unittitle>Broadcasts</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">14A &amp; 14B</container>
+                        <unittitle>Radio Broadcasts, 1948-1961 [mimeographs]</unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">15</container>
+                        <unittitle>Unused and incomplete manuscripts</unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series II: Clippings</unittitle>
+                </did>
+                <scopecontent><p> </p>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">16</container>
+                        <unittitle>Clippings</unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><unittitle>Newspaper clippings,   <unitdate>1919-1923</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #1)</physdesc>
+                    </did>
+                    <scopecontent><p>[Missing August 2004]</p>
+                    </scopecontent>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>Newspaper clippings,   <unitdate>1923-1925</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #2)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">17</container>
+                        <unittitle>Newspaper Clippings,   <unitdate>1925-1927</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #3)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Newspaper Clippings,   <unitdate>1925-1928</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #4)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">18</container>
+                        <unittitle>Newspaper Clippings,   <unitdate>1928/1929</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #5)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">617</container>
+                        <unittitle>New York Times &amp; Other Articles,   <unitdate>1928-1938</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #6)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">617</container>
+                        <unittitle>New York Herald Tribune Articles,   <unitdate>1936-1940</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #7)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">618</container>
+                        <unittitle>Liberty Magazine Articles,   <unitdate>1939-1942</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #8)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">618</container>
+                        <unittitle>New York Sun Articles,   <unitdate>15 July 1940 - 21 Feb. 1942</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #9)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">619</container>
+                        <unittitle>New York Sun Articles,   <unitdate>23 Feb. 1942 - 31 March 1943</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #10)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">619</container>
+                        <unittitle>New York Sun Articles,   <unitdate>1 April 1943 - 3 June 1944</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #11)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">620</container>
+                        <unittitle>New York Sun Articles,   <unitdate>5 June 1944 - 30 June 1945</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #12)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">620</container>
+                        <unittitle>New York Sun Articles,   <unitdate>July 1945 - December 1945</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #13)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">620</container>
+                        <unittitle>New York Sun Articles,   <unitdate>Jan. 1946 - Dec. 1946</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #14)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">621</container>
+                        <unittitle>New York Mirror Editorials,   <unitdate>Jan. 1946 - Dec. 1947</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #15)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">621</container>
+                        <unittitle>New York Sun Articles,   <unitdate>Jan. 1947 - Dec. 1947</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #16)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">621</container>
+                        <unittitle>New York Sun Articles,   <unitdate>Jan. 1948 - Dec. 1948</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #17)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">622</container>
+                        <unittitle>New York Mirror Editorials,   <unitdate>Jan. 1948 - Dec. 1949</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #18)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">622</container>
+                        <unittitle>New York Sun Articles,   <unitdate>Jan. 1949 - Jan. 1950</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #19)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">622</container>
+                        <unittitle>New York Mirror Editorials,   <unitdate>Jan. 1950 - Dec. 1951</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #20)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">623</container>
+                        <unittitle>King Features Articles,   <unitdate>Jan. 1950 - Dec. 1950</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #21)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">623</container>
+                        <unittitle>King Features Articles,   <unitdate>Jan. 1951 - Dec. 1951</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #22)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">623</container>
+                        <unittitle>King Features Articles,   <unitdate>Jan. 1952 - Dec. 1952</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #23)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">624</container>
+                        <unittitle>New York Mirror Editorials,   <unitdate>Jan. 1952 - Dec. 1953</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #24)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">624</container>
+                        <unittitle>King Features Articles,   <unitdate>Jan. 1953 - Dec. 1953S</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #25)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">624</container>
+                        <unittitle>King Features Articles,   <unitdate>Jan. 1954 - Dec. 1954</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #26)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">625</container>
+                        <unittitle>New York Mirror Editorials,   <unitdate>Jan. 1954 - Dec. 1954</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #27)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">625</container>
+                        <unittitle>King Featrures Articles,   <unitdate>Jan. 1955 - Dec. 1955</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #28)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">625</container>
+                        <unittitle>King Featrures Articles,   <unitdate>Jan. 1956 - Dec. 1956</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #29)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">626</container>
+                        <unittitle>New York Mirror Editorials,   <unitdate>Jan. 1956 - Dec. 1957</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #30)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">626</container>
+                        <unittitle>King Features Articles,   <unitdate>Jan. 1857 - Dec. 1957</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #31)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">626</container>
+                        <unittitle>King Features Articles,   <unitdate>Jan. 1958 - Dec. 1958</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #32)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">627</container>
+                        <unittitle>New York Mirror Editorials,   <unitdate>Jan. 1958 - Dec. 1959</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #33)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">627</container>
+                        <unittitle>King Features Articles,   <unitdate>Jan. 1959 - Dec. 1959</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #34)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">627</container>
+                        <unittitle>King Features Articles,   <unitdate>Jan. 1960 - Dec. 1960</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #35)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">628</container>
+                        <unittitle>New York Mirror Editorials,   <unitdate>Jan. 1960 - Dec. 1960</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #36)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">628</container>
+                        <unittitle>King Featrures Articles,   <unitdate>Jan. 1961 - Dec. 1961</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #37)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">628</container>
+                        <unittitle>New York Mirror Editorials,   <unitdate>Jan. 1961 - Dec. 1961</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #38)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Flat Box">628</container>
+                        <unittitle>King Features Articles,   <unitdate>1962</unitdate>
+                        </unittitle>
+                        <physdesc>(1 scrapbook #39)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 19</container>
+                        <unittitle>Miscellaneous Articles and Speeches</unittitle>
+                        <physdesc>(1 scrapbook #40)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 19</container>
+                        <unittitle>Miscellaneous Articles and Speeches</unittitle>
+                        <physdesc>(1 scrapbook #41)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 20</container>
+                        <unittitle>Miscellaneous Articles and Speeches</unittitle>
+                        <physdesc>(1 scrapbook #42)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 20</container>
+                        <unittitle>Miscellaneous Scrapbooks</unittitle>
+                        <physdesc>(1 scrapbook #43)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 21</container>
+                        <unittitle>Atlantic Monthly Scrapbook</unittitle>
+                        <physdesc>(1 scrapbook #44)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 21</container>
+                        <unittitle>Christmas Cards Scrapbook</unittitle>
+                        <physdesc>(1 scrapbook #45)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 21</container>
+                        <unittitle>National Association of Manufactures, Broadcasts 1-50</unittitle>
+                        <physdesc>(1 scrapbook #46)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 22</container>
+                        <unittitle>National Association of Manufactures, Broadcasts 51-100</unittitle>
+                        <physdesc>(1 scrapbook #47)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 22</container>
+                        <unittitle>National Association of Manufactures, Broadcasts 101-150</unittitle>
+                        <physdesc>(1 scrapbook #48)</physdesc>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">Box 22</container>
+                        <unittitle>National Association of Manufactures, Broadcasts 151-172</unittitle>
+                        <physdesc>(1 scrapbook #49)</physdesc>
+                    </did>
+                </c>
+            </c>
+         
+         
+      </dsc>
+   </archdesc>
+</ead>

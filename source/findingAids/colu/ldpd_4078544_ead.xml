@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen NVDLSchema="schema/ead_cul.nvdl"type="xml"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier" publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_4078544_ead//EN" mainagencycode="nnc-rb">ldpd_4078544_ead.xml</eadid>
+      <filedesc><titlestmt><titleproper encodinganalog="Title">Guide to the Coleman O. Parsons Papers,</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and Manuscript Library; machine readable finding aid created by Columbia University Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt><publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia University Libraries</publisher>
+            <date encodinganalog="Date" normal="2009-06-26">June 26, 2009 </date>
+            <address><addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc><creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion <date normal="2009-06-26">June 26, 2009 </date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn" langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc><change><date normal="2010-02-18">2010-02-18</date>
+            <item>Legacy finding aid created from Pro Cite.</item>
+         </change>  
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did><origination><persname encodinganalog="100">Parsons, Coleman O., 1905-</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Coleman O. Parsons Papers,">Coleman O. Parsons Papers,</unittitle>
+         <unitdate encodinganalog="245$f" normal="1716/1981" type="inclusive">1716-1981</unitdate>
+         <physdesc><extent encodinganalog="300">3 linear ft., (ca.1,600 items, 7 boxes)</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University<subarea>Rare Book and Manuscript Library,</subarea>
+            </corpname>
+            <address><addressline>Butler Library, New York, NY 10027.</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"/>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio">4078544</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p><!-- BIOGHIST REQUIRED -->Coleman O. Parsons, 1905- . (Columbia A.B., 1928). Professor of English, City University of New York; book collector.</p>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Letters, manuscripts, notes, memorabilia, photographs, and printed material. Cataloged letters from George Colman the Elder, English dramatist; Lord Jeffrey, Scottish judge and critic; Andrew Lang, Scottish author; Robert Montgomery, English poet; Richard Parsons Rosse,1st Earl of Rosse; George Thomson, friend of Robert Burns and music editor; Bernard De Voto, critic, and S.R. Crockett, Scottish author. Cataloged manuscripts by Thomas Campbell, Scottish poet, James Montgomery, and E.I. Powell. Cataloged diaries of June and Coleman O. Parsons of their trip around the world in 1936-37. There are also ca.700 pages of notes by Coleman O. Parsons on various Scottish authors(including Sir Walter Scott), Scottish folk-lore and history, and Scottish poetry. Most of the notes concern his research on Francis Colman, George Colman the Elder, and George Colman the Younger. In addition there is the mss. for his book "Studies in Eccentricity"; the mss. of an 18th century Scottish ghost story entitled "A Cool Dialogue between the Living and the Dead" and notes and essays on Mark Twain, as well as a poetry album kept by Elizabeth Saynor Marshall and photographs of Parsons in South Africa.</p>
+         <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p>This collection is arranged into 6 series:</p>
+         <p><list type="marked">
+               <item>Series I: Cataloged Correspondence</item>
+               <item>Series II: Cataloged Manuscripts</item>
+               <item>Series III: Cataloged Objects</item>
+               <item>Series IV: Arranged Correspondence</item>
+               <item>Series V: Arranged Manuscripts</item>
+               <item>Series VI: Printed Materials</item>
+            </list>
+         </p>
+      </arrangement>
+      <controlaccess><head>Subjects</head>
+         <persname encodinganalog="600">Crockett, S. R. (Samuel Rutherford), 1860-1914.</persname>
+         <persname encodinganalog="600">Marshall, Elizabeth Saynor.</persname>
+         <persname encodinganalog="600">Scott, Walter, Sir, 1771-1832.</persname>
+         <persname encodinganalog="600">Twain, Mark, 1835-1910.</persname>
+         <geogname encodinganalog="651">Scotland--Description and travel.</geogname>
+         <geogname encodinganalog="651">Lake District (England)--Description and travel.</geogname>
+         <subject encodinganalog="650">Scottish literature.</subject>
+         <subject encodinganalog="650">Eccentrics and eccentricities.</subject>
+         <subject encodinganalog="650">Ghost stories, Scottish--18th century.</subject>
+         <genreform encodinganalog="655" source="aat">Albums.</genreform>
+         <genreform encodinganalog="655" source="ftamc">Diaries.</genreform>
+         <genreform encodinganalog="655" source="ftamc.">Poems.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Book collectors.--United States--20th century.</occupation>
+         <occupation encodinganalog="656" source="lcsh">College teachers.</occupation>
+         <occupation encodinganalog="656" source="lcsh">Poets.</occupation>
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The following boxes are located off-site: 3-7. You will need to request this material from the Rare Book and Manuscript Library at least twenty-four (24) hours in advance to use the collection in the Rare Book and Manuscript Library reading room. </p>
+         <p>This collection has no restrictions.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>12/05/1986 M-86-12-05 Parsons, Coleman O. Gift </p>
+         <p>1984 M-1984 Album of E.S. Marshall Parsons, Colman O. Gift</p>
+      </acqinfo>
+      <custodhist encodinganalog="561">
+         <p>Gift of Coleman O. Parsons, 1986 &amp; 1989. </p>
+         <p>Gift of Goleman O. Parsons, 1979, 1984, 1986, &amp; 1989.</p>
+      </custodhist>
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Colman Parsons Papers; Box and Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Processed 06/20/1988 </p>
+         <p>Album of E.S. Marshall Processed 07/08/1997 HR</p>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Single photocopies may be made for research purposes. Permission to publish material from the collection must be requested from the Curator of Manuscripts/University Archivist, Rare Book and Manuscript Library (RBML).  The RBML approves permission to publish that which it physically owns; the responsibility to secure copyright permission rests with the patron.</p>
+      </userestrict>
+      <dsc><c level="series">
+                <did><unittitle>Series I: Cataloged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Crockett, Samuel Rutherford, 1860-1914 </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Colman, George, 1732-1794 </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>De Voto, Bernard </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Jeffrey, Francis Jeffrey, Lord, 1773-1850 </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Lang, Andrew, 1844-1912 </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Montgomery, Robert, 1807-1855 </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Rosse, Richard Parsons, 1st Earl of,  d.1741 </unittitle>
+                    </did>
+                </c>
+      
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Thomson, George, 1757-1851 </unittitle>
+                    </did>
+                </c>
+            </c>
+      
+         <c level="series">
+                <did><unittitle>Series II: Cataloged Manuscripts</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Bürger, Gottfried August, 1748-1794 </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Campbell, Thomas, 1777-1844 </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Montgomery, James, 1771-1854 </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Parsons, Coleman O. </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">1</container>
+                        <unittitle>Parsons, June Lee. </unittitle>
+                    </did>
+                </c>
+         
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Powell, E        I       </unittitle>
+                    </did>
+                </c>
+            </c>
+         
+         <c level="series">
+                <did><unittitle>Series III: Cataloged Objects</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Scott, Sir Walter. Lock of Sir Walter Scott's hair., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            
+         <c level="series">
+                <did><unittitle>Series IV: Arranged Correspondence</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Correspondence, A-Z, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+               
+         <c level="series">
+                <did><unittitle>Series V: Arranged Manuscripts</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>Plays, [v.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[Many with Coleman Parson's notes.]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder Entertainment of Harlequin Teague, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. The Enraged Musician, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. The Genius of Nonsense, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. The Jealous Wife, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. Preludio, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. Prologues and Epilogues, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. The Separate Maintenance, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. Sheep Shearing, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. The Spanish Barber, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. The Spleen, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. The Suicide, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">2</container>
+                        <unittitle>George Colman the Elder. Tit for Tat , [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Marshall, Elizabeth Saynor Poetry Album, [n.p.], <unitdate>[1849-1946]</unitdate>
+                        </unittitle>
+                        <physdesc>(72 leaves in, 1 volume)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Parsons, Coleman. Bibliography of eighteenth century plays and literature., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(ca. 150  index cards)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>[?] "A Cool Dialogue between the Living and the Dead." , [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent><p>[An unidentified ghost story.]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Essays and Articles., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Lecture on Sir Walter Scott., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Lecture         "           "          by an itinerant boarder speaker., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Notes and essays on Mark Twain., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders)</physdesc>
+                    </did>
+                    <scopecontent><p>[Includes and autobiographical sketch of Coleman Parsons.]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Notes on the Aberdeen Journal., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Notes on the Coleman family., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Notes on Thomas Campbell., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">3</container>
+                        <unittitle>Notes on William Chambers., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">4</container>
+                        <container type="Folder" label="Folder">1-19</container>
+                        <unittitle>Notes on Francis Colman, George Colman the Elder and George Colman the Younger, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(19 folders)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">5</container>
+                        <container type="Folder" label="Folder">20-36</container>
+                        <unittitle>Notes on Francis Colman, George Colman the Elder and George Colman the Younger., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(16 folders)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Notes on Eighteenth century plays, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(14  folders)</physdesc>
+                    </did>
+                    <scopecontent><p>[ Many with texts of the plays]</p>
+                    </scopecontent>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Notes on George (Gordon), Duke of Gordon, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Notes on George Hogarth, 1783-187, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Notes on Baron Lyndhurst, Lord Chancellor., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Notes on James Montgomery, 1771-1854., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Notes on Robert Montgomery, 1807-1855., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Notes on Julia Pardoe, 1806-1862., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Notes on Scottish folklore and poetry., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(6 folders)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">6</container>
+                        <unittitle>Notes on George Thomson, 1757-1851., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Short stories, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(3  folders)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>"Studies in Eccentricity." , [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(11 folders)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Two notebooks detailing trans-Atlantic trips by an unidentified author., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Photocopies of letters and manuscripts. [v.p.], [v.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Photographs of Coleman Parsons, South Africa, <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+         <c level="series">
+                <did><unittitle>Series VI: Printed Materials</unittitle>
+                </did>
+                <scopecontent><p/>
+                </scopecontent>
+                <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Clippings relating to Mark Twain, [n.p.], <unitdate>[v.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Clippings (photographs of Mark Twain), [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>An Excerpt from the General Catalogue of Printed Books in the British Museum re. Daniel Defoe, England, <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>"Notes and Queries.", [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Offprint from "The Review of English Studies.", [n.p.], <unitdate>{n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Photocopies., [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                        <physdesc>(3 folders)</physdesc>
+                    </did>
+                </c>
+
+            <c level="file">
+                    <did><container type="Box" label="Box">7</container>
+                        <unittitle>Two Odes by George Colman the Elder, [n.p.], <unitdate>[n.d.]</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+
+
+   
+      </dsc>
+   </archdesc>
+</ead>
